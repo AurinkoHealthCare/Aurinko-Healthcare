@@ -1,60 +1,20 @@
 import React from "react";
 
 const Block7 = () => {
-    return (
-        <div className="flex items-center justify-center py-8 px-4 md:px-8 lg:px-12">
-            <div>
-                <img
-                    src="/Assets/block 5/Block5 img1.jpg"
-                    alt="animal"
-                    className="w-40 h-40 md:w-56 md:h-56 lg:w-64 lg:h-64 xl:w-64 xl:h-64"
-                />
-                <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-center mt-4 text-green-800">
-                    Cattle
-                </h1>
-            </div>
-            <div>
-                <img
-                    src="/Assets/block 5/Block5 img2.png"
-                    alt="animal"
-                    className="w-40 h-40 md:w-56 md:h-56 lg:w-64 lg:h-64 xl:w-64 xl:h-64"
-                />
-                <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-center mt-4 text-green-800">
-                    Cattle
-                </h1>
-            </div>
-            <div>
-                <img
-                    src="/Assets/block 5/Block5 img3.jpg"
-                    alt="animal"
-                    className="w-40 h-40 md:w-56 md:h-56 lg:w-64 lg:h-64 xl:w-64 xl:h-64"
-                />
-                <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-center mt-4 text-green-800">
-                    Cattle
-                </h1>
-            </div>
-            <div>
-                <img
-                    src="/Assets/block 5/Block5 img4.png"
-                    alt="animal"
-                    className="w-40 h-40 md:w-56 md:h-56 lg:w-64 lg:h-64 xl:w-64 xl:h-64"
-                />
-                <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-center mt-4 text-green-800">
-                    Cattle
-                </h1>
-            </div>
-            <div>
-                <img
-                    src="/Assets/block 5/Block5 img5.jpg"
-                    alt="animal"
-                    className="w-40 h-40 md:w-56 md:h-56 lg:w-64 lg:h-64 xl:w-64 xl:h-64"
-                />
-                <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-bold text-center mt-4 text-green-800">
-                    Cattle
-                </h1>
-            </div>
-        </div>
-    );
+  return (
+    <div className="flex flex-col items-center justify-center py-8 px-4 md:px-8 lg:px-12">
+      <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-center mb-4 text-orange-600">
+      HUMAN HEALTH SUPPLEMENTS{" "}
+        <span className="text-green-800">AND PERSONAL CARE</span>
+      </h1>
+      <div 
+        className="h-1 w-10/12 sm:w-8/12 md:w-7/12 lg:w-6/12 xl:w-5/12 max-w-5xl rounded" 
+        style={{ 
+          background: "linear-gradient(to right, #15803d, #ea580c)" 
+        }}
+      ></div>
+    </div>
+  );
 };
 
 export default Block7;

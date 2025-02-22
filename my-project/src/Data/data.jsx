@@ -1,45 +1,52 @@
 export const block3Data = [
   {
     id: 1,
-    image: "/Assets/Product img/Auriplanta.png",
+    image: "/Assets/Product img/Auriplanta.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Auriplanta",
     segment: "LiveStock",
     rating: 4.5,
   },
   {
     id: 2,
-    image: "/Assets/Product img/Nomino.png",
+    image: "/Assets/Product img/Nomino.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Nomino",
     segment: "LiveStock & Poultry",
     rating: 4.0,
   },
   {
     id: 3,
-    image: "/Assets/Product img/Metagrow-WS.png",
+    image: "/Assets/Product img/Metagrow-WS.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Metagrow WS",
     segment: "Poultry",
     rating: 4.5,
   },
   {
     id: 4,
-    image: "/Assets/Product img/Yeco Nanophosphosome.png",
+    image: "/Assets/Product img/Yeco Nanophosphosome.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Yeco Nanophosphosome",
     segment: "Poultry",
     rating: 4.0,
   },
   {
     id: 5,
-    image: "/Assets/Product img/Auribery Plus.png",
+    image: "/Assets/Product img/Auribery Plus.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
     title: "Auribery Plus",
     segment: "Human",
     rating: 4.5,
   }
 ];
 
+
 export const block8Data = [
   {
     id: 1,
     image: "/Assets/Product img/Auritrol.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auritrol",
     segment: "Health Supplements",
     rating: 4.5,
@@ -47,6 +54,7 @@ export const block8Data = [
   {
     id: 2,
     image: "/Assets/Product img/Aurijoint.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Aurijoint",
     segment: "Health Supplements",
     rating: 4.0,
@@ -54,6 +62,7 @@ export const block8Data = [
   {
     id: 3,
     image: "/Assets/Product img/Auricur Plus.jpg",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auricur Plus",
     segment: "Health Supplements",
     rating: 4.5,
@@ -61,6 +70,7 @@ export const block8Data = [
   {
     id: 4,
     image: "/Assets/Product img/Auriglow-massage-oil.webp",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auriglow massage Oil",
     segment: "Personal Care",
     rating: 4.0,
@@ -68,6 +78,7 @@ export const block8Data = [
   {
     id: 5,
     image: "/Assets/Product img/Auriglow anti marks oil.png",
+    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
     title: "Auriglow anti marks oil",
     segment: "Personal Care",
     rating: 4.5,
@@ -112,3 +123,86 @@ export const productTypes = [
   },
 ];
 
+export const speciesData = [
+  {
+    title: "Poultry",
+    image: "/Assets/block 5/Block5 img1.jpg",
+    data: [
+      { type: "Corn", amount: "50kg" },
+      { type: "Soybean", amount: "30kg" },
+    ],
+  },
+  {
+    title: "Aqua",
+    image: "/Assets/block 5/Block5 img2.jpg",
+    data: [
+      { type: "Wheat", amount: "20kg" },
+      { type: "Barley", amount: "40kg" },
+    ],
+  },
+  {
+    title: "Swine",
+    image: "/Assets/block 5/Block5 img3.jpg",
+    data: [
+      { type: "Maize", amount: "35kg" },
+      { type: "Oats", amount: "25kg" },
+    ],
+  },
+  {
+    title: "Pet",
+    image: "/Assets/block 5/Block5 img4.jpg",
+    data: [
+      { type: "Alfalfa", amount: "28kg" },
+      { type: "Grass Hay", amount: "33kg" },
+    ],
+  },
+  {
+    title: "Equine",
+    image: "/Assets/block 5/Block5 img5.jpeg",
+    data: [
+      { type: "Pellets", amount: "40kg" },
+      { type: "Hay", amount: "50kg" },
+    ],
+  },
+  {
+    title: "Feed & Grain",
+    image: "/Assets/block 5/Block5 img6.jpg",
+    data: [
+      { type: "Grass", amount: "30kg" },
+      { type: "Pasture", amount: "40kg" },
+    ],
+  },
+];
+
+export const reviews = [
+  {
+      id: 1,
+      name: "John Doe",
+      image: "/data/user1.png",
+      text: "Excellent service! Highly recommended.",
+  },
+  {
+      id: 2,
+      name: "Jane Smith",
+      image: "/data/user2.png",
+      text: "Great experience, very professional team!",
+  },
+  {
+      id: 3,
+      name: "Alex Johnson",
+      image: "/data/user3.png",
+      text: "Quick and reliable healthcare services.",
+  },
+  {
+      id: 4,
+      name: "Emma Brown",
+      image: "/data/user4.png",
+      text: "Loved the friendly staff and fast service.",
+  },
+  {
+      id: 5,
+      name: "Michael Wilson",
+      image: "/data/user5.png",
+      text: "Affordable and efficient medical solutions.",
+  },
+];
