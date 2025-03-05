@@ -20,6 +20,7 @@ import ResearchDevelopment from "./Pages/About us/ResearchDevelopment";
 import Export from "./Pages/About us/Export";
 import Certificates from "./Pages/About us/Certificates";
 import Yeppuen from "./Pages/Human/Yeppuen";
+import Pet from "./Pages/Veterinary/Pet";
 
 const App = () => {
   return (
@@ -38,6 +39,7 @@ const App = () => {
           <Route path="/poultry" element={<Poultry />} />
           <Route path="/aqua" element={<Aqua />} />
           <Route path="/swine" element={<Swine />} />
+          <Route path="/pet" element={<Pet />} />
           <Route path="/feed-grain" element={<FeedGrain />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/productbrochures" element={<ProductBrochures />} />
