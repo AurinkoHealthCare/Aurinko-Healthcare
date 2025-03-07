@@ -49,9 +49,11 @@ export const pet = [
             "Syrup base q.s."
         ],
         indications:
-            ["Rouon"],
+            ["Supportive Therapy during Tick Fever (Canine Ehrlichiosis), Babesiosis, Leishmaniasis, Canine idiopathic thrombocytopenia, Pancreatitis etc.",
+                "Supplement for hound species during any infection.",
+                "Protects and promotes platelet synthesis therapy."],
         usage:
-            ["Mec"],
+            ["Through oral route Cats: 2 ml twice daily Pups: 2 ml twice daily Or as directed by Veterinarian. Small breeds: 2 ml twice daily Medium breeds: 5 ml twice daily Large breeds: 10 ml twice daily."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -77,9 +79,12 @@ export const pet = [
             "Vetiver oil"
         ],
         indications:
-            ["Rouon"],
+            ["All Natural Dry Bath Foam Shampoo for pets.",
+                "100% Non Toxic with Natural and essential oils.",
+                "Anti-microbial efficacy prevents skin infections. Fast and Easy Clean.",
+                "Instantly de-odourizes pet odour and leaves pleasant fragrance. Leaves coat shiny and soft."],
         usage:
-            ["Mec"],
+            ["Spray the required quantity of Dry Bath Foam Shampoo gently over the fur and comb after 60 seconds."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -109,9 +114,11 @@ export const pet = [
             "Fortified with phytochemical principle of Ocimum sanctum, Allium sativum and Phyllanthus emblica."
         ],
         indications:
-            ["Rouon"],
+            ["Improves immunity, reduces mortality, enhances growth and provides better health in pets.",
+                "Acts as supportive therapy during disease exposure and helps in faster recovery.",
+                "Growth Promoter"],
         usage:
-            ["Mec"],
+            ["Dogs: For 1 to 2 weeks supplementation Up to 2.5 kg bwt: 1 ml tid 3 to 5 kg bwt: 2 ml tid 6 to 7 kg bwt: 3 ml bid 8 to 15 kg bwt: 6 ml bid 16 TO 22 kg bwt: 8 ml bid 23 to 30 kg bwt: 12 ml bid more than 31 kg bwt: 15 ml bid Cats: For 1 to 2 weeks supplementation Up to 2 kg bwt: 1 ml tid 2.5 to 4 kg bwt: 2 ml tid 4.5 to 6 kg bwt: 3 ml bid 6.5 kg bwt and more: 3 ml bid"],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -138,9 +145,12 @@ export const pet = [
             "Syrup base q.s."
         ],
         indications:
-            ["Rouon"],
+            ["Loss of appetite",
+                "Indigestion",
+                "Weakness",
+                "Digestive Disturbances"],
         usage:
-            ["Mec"],
+            ["Cats: 3 ml to 5 ml per day Pups: 3 ml to 5 ml per day Small breeds: 5 ml per day Medium breeds: 7 ml to 8 ml per day Large breeds: 10 ml per day To be administered orally or through drinking water on regular basis or as directed by a Veterinarian"],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -163,9 +173,9 @@ export const pet = [
             "Saponins 60 mg"
         ],
         indications:
-            ["Rouon"],
+            ["Reports suggest that Moringa oleifera is a rich source of Vitamin C and is packed with antioxidants. It helps to strengthen the immune system and supports body systems."],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -197,9 +207,12 @@ export const pet = [
             "Provides metabolizable energy value of 67820 Calories"
         ],
         indications:
-            ["Rouon"],
+            ["Makes bones and muscles stronger",
+                "Helps to heal fractures faster",
+                "Improves skin and fur condition",
+                "Enhances immunity and strength in weak pets Ideal for growing pups, pregnant or lactating pets"],
         usage:
-            ["Mec"],
+            ["Through oral route Cats/Pups/Small Breeds: 2 ml/Half Teaspoon twice daily Medium breeds: 5 ml/Full Teaspoon twice daily Large breeds: 10 ml/2 Teaspoonful twice daily Or as directed by Veterinarian"],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -228,9 +241,11 @@ export const pet = [
             "Folic acid 15 mg"
         ],
         indications:
-            ["Rouon"],
+            ["Supplementation of Iron and Copper during anaemia of nutritional deficiency.",
+                "Recommended during pregnancy and young age (calves, kids, lamb, foal, piglet etc.)",
+                "Adjunctive therapy with the treatment of Trypanosomiasis, Babesiosis, Theileriosis, Anaplasmosis etc."],
         usage:
-            ["Mec"],
+            ["Through oral route Cats/Pups/Small Breeds: 2 ml/Half Teaspoon twice daily Medium breeds: 5 ml/Full Teaspoon twice daily Large breeds: 10 ml/ 2 Full Teaspoon twice daily Or as directed by Veterinarian"],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -260,9 +275,9 @@ export const pet = [
             "Linalool 1450 mg"
         ],
         indications:
-            ["Rouon"],
+            ["Helps oxygen transition in lungs Decongestant for healthy respiration Builds immunity & boosts health"],
         usage:
-            ["Mec"],
+            ["Through oral route Cats/Pups/Small Breeds: 1 ml/¼ Teaspoon twice daily Medium breeds: 2 ml/½ Teaspoon twice daily Large breeds: 5 ml/1 Full Teaspoon twice daily or as directed by Veterinarian."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -287,9 +302,12 @@ export const pet = [
             "*Fortified with Piperine and Cuminum cyminum"
         ],
         indications:
-            ["Rouon"],
+            ["Supports musculo-skeletal and joint health",
+                "Helps to reduce the chances of cataract",
+                "Improve immunity, Health and well-being of pet",
+                "As a supportive therapy along with anti-biotics and anti-inflammatory medications."],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -313,9 +331,9 @@ export const pet = [
             "* Fortified with Piperine"
         ],
         indications:
-            ["Rouon"],
+            ["Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
         usage:
-            ["Mec"],
+            ["Cat/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -346,9 +364,11 @@ export const pet = [
             "Other ingredients: Silicon Dioxide"
         ],
         indications:
-            ["Rouon"],
+            ["Digestives disturbances i.e. indigestion, diarrhea, constipation etc.",
+                "Irritable Bowel Syndrome",
+                "Improves gut immunity"],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small Breeds: 1/2-1 sachet in lukewarm water once or twice daily. Large breeds: 1-2 sachets in lukewarm water once or twice daily."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -371,9 +391,9 @@ export const pet = [
             "Tannins 125 mg"
         ],
         indications:
-            ["Rouon"],
+            ["Reports suggest that Terminalia arjuna supplementation supports healthy blood pressure and reduces the risk of heart disorders."],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -400,9 +420,12 @@ export const pet = [
             "* Fortified with FOS"
         ],
         indications:
-            ["Rouon"],
+            ["Regular supplementation helps to improve the condition in Osteoporosis, and supports Fracture healing.",
+                "Improves condition during low mental acuity, Mental and physical fatigue.",
+                "High sensitivity to cough and cold.",
+                "Loss of appetite."],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -425,9 +448,12 @@ export const pet = [
             "(Turmeric essential oil)"
         ],
         indications:
-            ["Rouon"],
+            ["Supports musculo-skeletal and joint health",
+                "Helps to reduce the chances of cataract",
+                "Improve immunity, Health and well-being of pet",
+                "As a supportive therapy along with anti-biotics and anti-inflammatory medications."],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small Breeds: 1 ml/20 drops once or twice daily Medium breeds: 2 ml/half Teaspoon once or twice daily Large breeds: 2 ml/half Teaspoonful twice daily or as directed by Veterinarian."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -451,9 +477,9 @@ export const pet = [
             "* Fortified with Piperine & Carum carvi"
         ],
         indications:
-            ["Rouon"],
+            ["Reports suggest that supplementation of Withania somnifera alkaloids enhance energy metabolism to improve performance and health condition, augments immunity, improves the recovery from pain and inflammation especially during Rheumatoid arthritis condition, helps in reducing stress and anxiety related disorders."],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -482,9 +508,9 @@ export const pet = [
             "Other ingredients: Calcium carbonate, Permitted class II preservative."
         ],
         indications:
-            ["Rouon"],
+            ["Reports suggest that Curcumin and Boswellic acid supplementation support joint health and facilitates recovery during pain, inflammation and Rheumatoid arthritis"],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small breeds: 250 mg capsule once or twice daily Large breeds: 500 mg capsule once or twice daily As supportive therapy- 1-2 capsules twice daily for 7-14 days."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -512,9 +538,10 @@ export const pet = [
             "Other ingredients: Silicon Dioxide"
         ],
         indications:
-            ["Rouon"],
+            ["Digestives disturbances i.e. indigestion, diarrhea, constipation etc.",
+                "Irritable Bowel Syndrome."],
         usage:
-            ["Mec"],
+            ["Cats/Pups/Small Breeds: 1/2-1 sachet in lukewarm water once or twice daily. Large breeds: 1-2 sachets in lukewarm water once or twice daily."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -542,9 +569,12 @@ export const pet = [
             "Curcuma longa oil 2 gm"
         ],
         indications:
-            ["Rouon"],
+            ["Wound healer",
+                "Maggoticide",
+                "Fly repellen",
+                "Fungal infections and Mange infestations"],
         usage:
-            ["Mec"],
+            ["2 to 3 topical applications daily for 3 to 5 days"],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -595,9 +625,12 @@ export const pet = [
             "Syrup base q.s."
         ],
         indications:
-            ["Rouon"],
+            ["Ensures pre-digested carbohydrates as optimum source of energy.",
+                "An ultimate source of amino acids and micro-minerals. Ensures enzymatic activity for carbohydrate & protein digestion.",
+                "Ensures gut efficiency and proper gut health.",
+                "Improves growth, energy and performance in pups. Useful for weak and debilitated pets."],
         usage:
-            ["Mec"],
+            ["Cats: 3 ml to 5 ml per day Pups: 3 ml to 5 ml per day Small breeds: 5 ml per day Medium breeds: 7 ml to 8 ml per day Large breeds: 10 ml per day To be administered orally or through drinking water on regular basis or as directed by a Veterinarian"],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -645,9 +678,12 @@ export const pet = [
             "Citric Acid 3280 mg"
         ],
         indications:
-            ["Rouon"],
+            ["To accelerate growth in pups.",
+                "Essential vitamins, amino acids, micro-minerals and electrolytes improve growth, energy and health status.",
+                "Essential fatty acids and grape polyphenols improves fertility and reproductive life of pets.",
+                "Nucleotides and grape polyphenols augments immunity during period of stress, vaccination, heat stress, loss of appetite and disease challenges."],
         usage:
-            ["Mec"],
+            ["Cats: 3 ml to 5 ml per day Pups: 3 ml to 5 ml per day Small breeds: 5 ml per day Medium breeds: 7 ml to 8 ml per day Large breeds: 10 ml per day To be administered orally or through drinking water on regular basis or as directed by a Veterinarian."],
         report: " ",
         brochure: " ",
         feedback: " "
@@ -673,9 +709,9 @@ export const pet = [
             "a & b cedrene…………………1200 mg"
         ],
         indications:
-            ["Rouon"],
+            ["Prevention and control of ticks, mites and flea infestation."],
         usage:
-            ["Mec"],
+            ["Spray directly on the affected areas or whole body."],
         report: " ",
         brochure: " ",
         feedback: " "
