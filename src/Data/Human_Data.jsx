@@ -22,7 +22,7 @@ export const Human = [
     indications:
       ["Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut friendly probiotics and Vitamin A."],
     usage:
-      "1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -49,7 +49,7 @@ export const Human = [
     indications:
       ["Reports suggest that consuming green tea extract helps in weight loss management. Auricam is a Nanophosphosome form of green tea with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "2 capsules daily once or in divided doses. Or as directed by qualified healthcare professional. Better results observed in empty stomach or 1 hr interval from food intake. This product is not intended to cure or prevent any disease.",
+      ["2 capsules daily once or in divided doses. Or as directed by qualified healthcare professional. Better results observed in empty stomach or 1 hr interval from food intake. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -78,7 +78,7 @@ export const Human = [
       ["Reports suggest that Curcumin supplementation improves immunity & respiratory health, facilitates recovery during pain, inflammation, Rheumatoid arthritis and helps in wound healing.",
         "Auricur® is a Nanophosphosome®  form of Curcumin with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 tablet/capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 tablet/capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -114,7 +114,7 @@ export const Human = [
     indications:
       ["Reports suggest that Curcumin and Tinospora cordifolia supplementation improves immunity, facilitates recovery during pain, inflammation, Rheumatoid arthritis, helps in wound healing & Diabetes management. Auricur® Plus is a combination of Curcumin Nanophosphosome and Tinospora cordifolia with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 tablet/capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 tablet/capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -140,7 +140,7 @@ export const Human = [
     indications:
       ["Reports suggest that supplementation of Withania somnifera alkaloids enhance energy metabolism to improve performance and health condition, augments immunity, improves the recovery from pain and inflammation especially during Rheumatoid arthritis condition, helps in reducing stress and anxiety related disorders. Aurigandha is a natural plant active health supplement form of Withania somnifera with bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 capsule twice daily during post lunch/dinner. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily during post lunch/dinner. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -175,7 +175,7 @@ export const Human = [
     indications:
       ["Reports suggest that Silymarin and Andrographis paniculata supplementation supports liver health(hepatoprotective) and reduces the risk of liver disorders like Fatty Liver Syndrome. AurilivTM is a Silybum marianum and Andrographis paniculata Nanophosphosome® with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 capsule twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -207,7 +207,7 @@ export const Human = [
     indications:
       ["Reports suggest that Curcumin and Boswellic acid supplementation facilitates recovery during pain, inflammation and Rheumatoid arthritis.Aurijoint® is a combination of Curcumin Nanophosphosome® and Boswellia serrata with technologically advanced bioenhancer and metabolic potentiator technology.",],
     usage:
-      "1 capsule twice daily with warm milk / water(morning / evening).Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily with warm milk / water(morning / evening).Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -234,7 +234,7 @@ export const Human = [
     indications:
       ["Digestives disturbances i.e.indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome."],
     usage:
-      "1-2 capsule daily.Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease.",
+      ["1-2 capsule daily.Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -259,7 +259,7 @@ export const Human = [
     indications:
       ["Reports suggest that supplementation of Tinospora cordifolia increases the activity of body’s immune system and helps in lowering the blood glucose levels .Aurifoliatm is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 capsule twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -290,7 +290,7 @@ export const Human = [
     indications:
       ["Digestive disturbances, i.e.indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome"],
     usage:
-      "1 sachet in lukewarm water once or twice daily.Or as directed by qualified healthcare professionals.This product is not intended to cure or prevent any disease.",
+      ["1 sachet in lukewarm water once or twice daily.Or as directed by qualified healthcare professionals.This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -318,7 +318,7 @@ export const Human = [
     indications:
       ["Reports suggests that Resveratrol supplementation improves the recovery from macular degeneration, have Neuroprotective effects in Alzheimer, Huntington and Parkinson diseases, also promotes healthy blood sugar in overweight people. Auritrol®  is a Grape skin Nanophosphosome® containing Resveratrol, with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 capsule twice daily.Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily.Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -345,7 +345,7 @@ export const Human = [
     indications:
       ["Reports suggest that supplementation of Withania somnifera alkaloids enhance energy metabolism to improve performance and health condition, augments immunity, improves the recovery from pain and inflammation especially during Rheumatoid arthritis condition, helps in reducing stress and anxiety related disorders. Aurisom® is a Nanophosphosome® form of Withania somnifera with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 tablet/capsule twice daily during post lunch/dinner or as directed by qualified healthcare professionals. This product is not intended to cure or prevent any disease.",
+      ["1 tablet/capsule twice daily during post lunch/dinner or as directed by qualified healthcare professionals. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -370,7 +370,7 @@ export const Human = [
     indications:
       ["Reports suggest that Curcumin supplementation improves immunity & respiratory health, facilitates recovery during pain, inflammation, Rheumatoid arthritis and helps in wound healing. CurinoTM is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -397,7 +397,7 @@ export const Human = [
     indications:
       ["Reports suggest that Curcumin supplementation improves immunity & respiratory health, facilitates recovery during pain, inflammation, Rheumatoid arthritis and helps in wound healing. CurinoTM is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      "1 capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 capsule twice daily with warm milk/water (morning/evening). Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -424,7 +424,7 @@ export const Human = [
     indications:
       ["Prepares a fortified Super Health Drink Acts as rejuvenator and stress reliever. Strengthens body immunity and stabilizes cellular integrity. Enriched with antioxidants and immunity boosters."],
     usage:
-      "Mix 1 sachet in a glass full of hot milk/water and consume once or twice daily. Or as directed by qualified healthcare professionals. This product is not intended to cure or prevent any disease.",
+      ["Mix 1 sachet in a glass full of hot milk/water and consume once or twice daily. Or as directed by qualified healthcare professionals. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -456,7 +456,7 @@ export const Human = [
     indications:
       ["Digestives disturbances i.e. indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome Improves gut immunity"],
     usage:
-      "1 sachet in luke warm water once or twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 sachet in luke warm water once or twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -482,7 +482,7 @@ export const Human = [
     indications:
       ["Digestives disturbances i.e. indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome Improves gut immunity"],
     usage:
-      "1 capsule in a day. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease.",
+      ["1 capsule in a day. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "

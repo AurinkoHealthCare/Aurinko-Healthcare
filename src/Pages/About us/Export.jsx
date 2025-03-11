@@ -29,7 +29,10 @@ const Export = () => {
                     <p className="mb-6">
                         <strong>Email to:</strong>{" "}
                         <a href="mailto:exim@aurinkohealthcare.com" className="text-blue-600 hover:underline">
-                            exim@aurinkohealthcare.com
+                            exim@aurinkohealthcare.com,
+                        </a>{" "}
+                        <a href="mailto: info@aurinkohealthcare.com" className="text-blue-600 hover:underline">
+                            info@aurinkohealthcare.com
                         </a>
                     </p>
                 </div>
