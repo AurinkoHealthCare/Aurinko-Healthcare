@@ -10,22 +10,22 @@ const Footer = () => {
                         <h4 className="text-base md:text-lg lg:text-xl font-semibold mb-4">INFORMATION</h4>
                         <ul className="space-y-2 text-sm md:text-base ">
                             <Link to={'/'}><li className="hover:text-orange-500">Home</li></Link>
-                            <li className="hover:text-orange-500">About Us</li>
-                            <li className="hover:text-orange-500">Ingredients</li>
-                            <li className="hover:text-orange-500">Contact Us </li>
+                            <Link to={'/about-us'}><li className="hover:text-orange-500">About Us</li></Link>
+                            <Link to={'/'}><li className="hover:text-orange-500">Ingredients</li></Link>
+                            <Link to={'/contact-us'}><li className="hover:text-orange-500">Contact Us </li></Link>
                         </ul>
                     </div>
                     <div>
                         <h4 className="text-base md:text-lg lg:text-xl font-semibold mb-4">PRODUCTS</h4>
                         <ul className="space-y-2 text-sm md:text-base">
-                            <li className="hover:text-orange-500">Health Suppliments</li>
-                            <li className="hover:text-orange-500">Personal Care</li>
-                            <li className="hover:text-orange-500">Livestock</li>
-                            <li className="hover:text-orange-500">Poultry</li>
-                            <li className="hover:text-orange-500">Aqua</li>
-                            <li className="hover:text-orange-500">Swine</li>
-                            <li className="hover:text-orange-500">Pet</li>
-                            <li className="hover:text-orange-500">Equine</li>
+                            <Link to={'/health-supplements'}><li className="hover:text-orange-500">Health Suppliments</li></Link>
+                            <Link to={'/personal-care'}><li className="hover:text-orange-500">Personal Care</li></Link>
+                            <Link to={'/livestock'}><li className="hover:text-orange-500">Livestock</li></Link>
+                            <Link to={'/poultry'}><li className="hover:text-orange-500">Poultry</li></Link>
+                            <Link to={'/aqua'}><li className="hover:text-orange-500">Aqua</li></Link>
+                            <Link to={'/swine'}><li className="hover:text-orange-500">Swine</li></Link>
+                            <Link to={'/pet'}><li className="hover:text-orange-500">Pet</li></Link>
+                            <Link to={'/'}><li className="hover:text-orange-500">Equine</li></Link>
                         </ul>
                     </div>
                     <div>

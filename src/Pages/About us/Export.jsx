@@ -1,6 +1,22 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Export = () => {
+    const [tooltip, setTooltip] = useState({ visible: false, text: "", top: "0%", left: "0%" });
+
+    const locations = [
+        { name: "India", top: "45%", left: "63%" },
+        { name: "Zimbabwe", top: "75%", left: "50%" },
+        { name: "South Korea", top: "37%", left: "75%" },
+    ];
+
+    const handleMouseEnter = (name, top, left) => {
+        setTooltip({ visible: true, text: name, top, left });
+    };
+
+    const handleMouseLeave = () => {
+        setTooltip({ visible: false });
+    };
+
     return (
         <div className="font-sans">
             <div className="relative">
@@ -14,7 +30,6 @@ const Export = () => {
                     <h1 className="text-4xl font-bold">Export</h1>
                 </div>
             </div>
-
             <div className="container mx-auto px-4 py-12 flex flex-col md:flex-row items-center gap-8">
                 <div className="w-full md:w-1/2">
                     <h2 className="text-2xl font-bold mb-4">Global Presence</h2>
@@ -31,19 +46,41 @@ const Export = () => {
                         <a href="mailto:exim@aurinkohealthcare.com" className="text-blue-600 hover:underline">
                             exim@aurinkohealthcare.com,
                         </a>{" "}
-                        <a href="mailto: info@aurinkohealthcare.com" className="text-blue-600 hover:underline">
+                        <a href="mailto:info@aurinkohealthcare.com" className="text-blue-600 hover:underline">
                             info@aurinkohealthcare.com
                         </a>
                     </p>
                 </div>
-                <div className="w-full md:w-1/2">
+                <div className="w-full md:w-1/2 relative">
                     <img
-                        src="/Assets/vision and mission/GlobalMap.jpg"
-                        alt="World map highlighting different regions"
-                        className="w-full max-w-md mx-auto"
-                        width="600"
-                        height="400"
+                        src="/Assets/vision and mission/world-map.png"
+                        alt="World Map"
+                        className="w-full rounded-lg shadow-md"
                     />
+                    {locations.map((loc, index) => (
+                        <div
+                            key={index}
+                            className="absolute text-red-500 text-2xl cursor-pointer transform -translate-x-1/2 -translate-y-1/2 transition-transform duration-200 hover:scale-125"
+                            style={{ top: loc.top, left: loc.left }}
+                            onMouseEnter={() => handleMouseEnter(loc.name, loc.top, loc.left)}
+                            onMouseLeave={handleMouseLeave}
+                        >
+                            <i className="fas fa-map-marker-alt"></i>
+                        </div>
+                    ))}
+                    {tooltip.visible && (
+                        <div
+                            className="absolute bg-black text-white text-xs px-2 py-1 rounded shadow-md transition-opacity duration-200"
+                            style={{
+                                top: `calc(${tooltip.top} - 25px)`,
+                                left: tooltip.left,
+                                transform: "translate(-50%, -100%)",
+                                whiteSpace: "nowrap",
+                            }}
+                        >
+                            {tooltip.text}
+                        </div>
+                    )}
                 </div>
             </div>
         </div>
