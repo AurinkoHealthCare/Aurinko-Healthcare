@@ -24,6 +24,7 @@ import Yeppuen from "./Pages/Human/Yeppuen";
 import Pet from "./Pages/Veterinary/Pet";
 import Rating from "./Pages/Media/Review & Feedback";
 import Blog from "./Pages/Media/Blog/Blog";
+import Equines from "./Pages/Veterinary/Equines";
 
 const App = () => {
   return (
@@ -42,6 +43,7 @@ const App = () => {
           <Route path="/poultry" element={<Poultry />} />
           <Route path="/aqua" element={<Aqua />} />
           <Route path="/swine" element={<Swine />} />
+          <Route path="/equine" element={<Equines />} />
           <Route path="/pet" element={<Pet />} />
           <Route path="/feed-grain" element={<FeedGrain />} />
           <Route path="/reports" element={<Reports />} />
