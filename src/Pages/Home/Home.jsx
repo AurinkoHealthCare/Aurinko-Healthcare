@@ -13,22 +13,22 @@ import Block10 from "../../Components/Home Parts/Block10";
 import Footer from "../../Layout/Footer/footer";
 
 const Home = () => {
-    return (
-        <div className="absolute top-0 left-0 w-full h-auto bg-gradient-to-br from-white to-gray-100">
-            <ImageSlider />
-            <Block1 />
-            <Block2 />
-            <Block3 />
-            <Block4 />
-            <Block5 />
-            <Block6 />
-            <Block7 />
-            <Block8 />
-            <Block9/>
-            <Block10/>
-            <Footer />
-        </div>
-    );
+  return (
+    <div className="absolute top-0 left-0 w-full h-auto bg-gradient-to-br from-white to-gray-100">
+      <ImageSlider />
+      <Block1 />
+      <Block2 />
+      <Block3 />
+      <Block4 />
+      <Block5 />
+      <Block6 />
+      <Block7 />
+      <Block8 />
+      <Block9 />
+      <Block10 />
+      <Footer />
+    </div>
+  );
 };
 
 export default Home;
