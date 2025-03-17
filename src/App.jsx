@@ -25,6 +25,8 @@ import Rating from "./Pages/Media/Review & Feedback";
 import ProductBrochures from "./Pages/Media/ProductBrochures";
 import Blog from "./Pages/Media/Blog";
 import Equines from "./Pages/Veterinary/Equines";
+import Blog1 from "./Components/Blog/blog1";
+import Blog2 from "./Components/Blog/blog2";
 
 const App = () => {
   return (
@@ -48,6 +50,8 @@ const App = () => {
           <Route path="/feed-grain" element={<FeedGrain />} />
           <Route path="/reports" element={<Reports />} />
           <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/blog1" element={<Blog1 />} />
+          <Route path="/blog/blog2" element={<Blog2 />} />
           <Route path="/articles" element={<Articles />} />
           <Route path="/rating" element={<Rating />} />
           <Route path="/productbrochures" element={<ProductBrochures />} />
