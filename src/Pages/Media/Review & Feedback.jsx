@@ -22,19 +22,13 @@ const Rating = () => {
 
   return (
     <div className="min-h-screen">
-      <div className="relative">
-        <img
-          src="/Assets/banner/Health suppliments.webp"
-          alt="Health suppliments"
-          className="w-full h-[500px] object-cover object-bottom"
-        />
-        <div className="absolute inset-0 bg-black opacity-50"></div>
-        <div className="absolute inset-0 flex flex-col justify-center items-center text-white p-2">
+      <div>
+        <div className="flex flex-col justify-center items-center p-2">
           <h1 className="text-4xl font-bold">Reviews and Feedback</h1>
         </div>
       </div>
-      <div className="flex justify-center">
-        <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-2xl">
+      <div className="flex justify-between">
+        <div className="bg-white p-4 rounded-lg shadow-md w-full max-w-2xl">
           <div className="mb-4">
             <label className="block text-gray-700 text-lg font-semibold mb-2">
               Your overall rating
@@ -100,6 +94,9 @@ const Rating = () => {
             </button>
           </div>
         </div>
+        <div>
+            <img src="/Assets/Media/ratings.jpg" alt="Review & Feedback" className="w-full mt-8" />
+          </div>
       </div>
     </div>
   );

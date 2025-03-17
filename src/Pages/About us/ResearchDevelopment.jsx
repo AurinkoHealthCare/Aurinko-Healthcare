@@ -5,9 +5,9 @@ const ResearchDevelopment = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="https://storage.googleapis.com/a1aa/image/PDiBL-srCPc1L2_Iaf-mCAe8QjFJd6yO-DK4ozd3n4c.jpg"
+          src="/Assets/banner/Research and developement.jpg"
           alt="Scientists working in a lab"
-          className="w-full h-[500px] object-cover"
+          className="w-full h-[400px] object-cover object-top"
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <h1 className="text-white text-3xl md:text-5xl font-bold">
@@ -43,11 +43,9 @@ const ResearchDevelopment = () => {
 
           <div className="w-full md:w-1/2">
             <img
-              src="https://storage.googleapis.com/a1aa/image/sktXaB8EmtXwg01keCtiWL7jf3Hsbw819HXREqx2MTc.jpg"
+              src="/Assets/Research and developement/research img 1.jpg"
               alt="Scientist working with lab equipment"
               className="w-full h-auto mx-auto"
-              width="600"
-              height="400"
             />
           </div>
         </div>

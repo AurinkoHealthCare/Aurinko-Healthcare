@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { reviews } from "../../Data/data";
+import { Link } from "react-router-dom";
 
 const Block10 = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -31,9 +32,9 @@ const Block10 = () => {
               Aurinko Health Care Pvt. Ltd
             </h2>
           </div>
-          <button className="mt-4 px-6 py-3 bg-orange-600 text-white text-lg font-medium rounded-full shadow-lg hover:bg-green-700 transition-all duration-300">
+          <Link to={"/rating"}><button className="mt-4 px-6 py-3 bg-orange-600 text-white text-lg font-medium rounded-full shadow-lg hover:bg-green-700 transition-all duration-300">
             Go Review
-          </button>
+          </button></Link>
         </div>
         <AnimatePresence mode="wait">
           <motion.div

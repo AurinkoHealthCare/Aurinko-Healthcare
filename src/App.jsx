@@ -15,7 +15,6 @@ import Swine from "./Pages/Veterinary/Swine";
 import FeedGrain from "./Pages/Veterinary/Feed & Grain";
 import Reports from "./Pages/Media/Report";
 import Articles from "./Pages/Media/Articles";
-import ProductBrochures from "./Pages/Product Brochures/ProductBrochures";
 import ManufacturingFacility from "./Pages/About us/manufacturing-facility";
 import ResearchDevelopment from "./Pages/About us/ResearchDevelopment";
 import Export from "./Pages/About us/Export";
@@ -23,7 +22,8 @@ import Certificates from "./Pages/About us/Certificates";
 import Yeppuen from "./Pages/Human/Yeppuen";
 import Pet from "./Pages/Veterinary/Pet";
 import Rating from "./Pages/Media/Review & Feedback";
-import Blog from "./Pages/Media/Blog/Blog";
+import ProductBrochures from "./Pages/Media/ProductBrochures";
+import Blog from "./Pages/Media/Blog";
 import Equines from "./Pages/Veterinary/Equines";
 
 const App = () => {

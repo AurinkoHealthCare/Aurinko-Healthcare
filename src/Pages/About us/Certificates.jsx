@@ -12,9 +12,7 @@ const Certificates = () => {
             <img
               src={certificate.imgSrc}
               alt={certificate.name + " Certificate"}
-              className="mx-auto mb-2 hover:scale-105"
-              width="200"
-              height="300"
+              className="mx-auto mb-2 hover:scale-110 h-64"
             />
             <p className="font-bold">{certificate.name}</p>
           </div>
@@ -23,4 +21,5 @@ const Certificates = () => {
     </main>
   );
 };
+
 export default Certificates;

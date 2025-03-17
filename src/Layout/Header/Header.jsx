@@ -9,7 +9,7 @@ const Header = () => {
   const isHomePage = location.pathname === "/";
 
   return (
-    <div className={`w-full z-50 font-semibold sticky top-0 ${isHomePage ? "bg-black/10 text-white hover:bg-white hover:text-black" : "bg-white z-50 text-black shadow-md"} flex flex-wrap items-center justify-between p-2 md:px-6 lg:px-12`}>
+    <div className={`w-full z-30 font-semibold sticky top-0 ${isHomePage ? "bg-black/10 text-white hover:bg-white hover:text-black" : "bg-white z-50 text-black shadow-md"} flex flex-wrap items-center justify-between p-2 md:px-6 lg:px-12`}>
       <div className="z-30">
         <Link to={'/'}> <img
           src="/Assets/Aurinko Logo.png"
