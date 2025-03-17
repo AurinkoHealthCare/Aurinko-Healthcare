@@ -1,4 +1,4 @@
-export const Human = [
+const human_data = [
   {
     id: 1,
     name: "Supports Urinary Tract Health",
@@ -489,3 +489,4 @@ export const Human = [
   }
 ];
 
+export default human_data;
