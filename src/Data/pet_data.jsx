@@ -1,4 +1,4 @@
-export const pet = [
+const pet_data = [
   {
     id: 1,
     name: "Mega Spectrum Dewormer For Small Pets",
@@ -717,3 +717,5 @@ export const pet = [
     feedback: " "
   }
 ];
+
+export default pet_data;

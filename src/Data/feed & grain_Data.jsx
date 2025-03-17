@@ -1,4 +1,4 @@
-export const feedgrain = [
+const feedgrain_data = [
   {
     id: 1,
     name: "AURIFEED CATTLE SUPER",
@@ -122,3 +122,5 @@ export const feedgrain = [
     feedback: " "
   }
 ];
+
+export default feedgrain_data;

@@ -1,4 +1,4 @@
-export const aqua = [
+const aqua_data = [
   {
     id: 1,
     name: "Advanced Mineral Zeolite",
@@ -1146,3 +1146,5 @@ export const aqua = [
     feedback: " "
   }
 ]; 
+
+export default aqua_data;

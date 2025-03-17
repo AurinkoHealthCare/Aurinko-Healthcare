@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/ProductCard";
-import { persnolcare } from "../../Data/persnol_care_data";
+import Persnol_care_Data from "../../Data/Persnol_care_Data";
 
 const Persnolcare = () => {
   return (
@@ -17,9 +17,9 @@ const Persnolcare = () => {
         </div>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">
-        {persnolcare?.length > 0 ? (
+        {Persnol_care_Data?.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-            {persnolcare.map((product) => (
+            {Persnol_care_Data.map((product) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>

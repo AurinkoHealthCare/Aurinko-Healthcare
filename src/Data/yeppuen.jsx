@@ -1,4 +1,4 @@
-export const yeppuen = [
+const yeppuen_data = [
   {
     id: 1,
     name: "Hyper Facial Toner",
@@ -130,3 +130,5 @@ export const yeppuen = [
     ]
   }
 ];
+
+export default yeppuen_data;  

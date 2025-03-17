@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/ProductCard";
-import { poultry } from "../../Data/poultry_data";
+import poultry_data from "../../Data/poultry_data";
 
 const Poultry = () => {
   return (
@@ -17,9 +17,9 @@ const Poultry = () => {
       </div>
     </div>
     <div className="flex flex-col min-h-screen w-full p-4">
-      {poultry?.length > 0 ? (
+      {poultry_data?.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-          {poultry.map((product) => (
+          {poultry_data.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </div>

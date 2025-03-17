@@ -1,6 +1,6 @@
 import React from "react";
-import ProductCard from "../../Components/Human/ProductCard";
-import { feedgrain } from "../../Data/feed & grain_Data";
+import ProductCard from "../../Components/Human/ProductCard"; 
+import feedgrain_data from "../../Data/feed & grain_Data";
 
 const FeedGrain = () => {
   return (
@@ -17,9 +17,9 @@ const FeedGrain = () => {
         </div>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">
-        {feedgrain?.length > 0 ? (
+        {feedgrain_data?.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-            {feedgrain.map((product) => (
+            {feedgrain_data.map((product) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>

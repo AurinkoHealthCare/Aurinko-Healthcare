@@ -1,4 +1,4 @@
-export const persnolcare = [
+const Persnol_care_Data = [
   {
     id: 1,
     name: "NOURISHING MOISTURIZER",
@@ -389,4 +389,4 @@ export const persnolcare = [
   }
 ];
 
-
+export default Persnol_care_Data;

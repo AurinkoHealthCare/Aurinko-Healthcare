@@ -1,4 +1,4 @@
-export const swine = [
+const Swine_Data = [
   {
     id: 1,
     name: "Advanced Cocktail Enzyme Formulation",
@@ -1005,3 +1005,5 @@ export const swine = [
     feedback: " "
   }
 ];
+
+export default Swine_Data;

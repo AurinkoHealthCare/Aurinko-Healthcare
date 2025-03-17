@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/ProductCard";
-import { aqua } from "../../Data/aqua_data";
+import aqua_data from "../../Data/aqua_data";
 
 const Aqua = () => {
   return (
@@ -17,9 +17,9 @@ const Aqua = () => {
         </div>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">
-        {aqua?.length > 0 ? (
+        {aqua_data?.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-            {aqua.map((product) => (
+            {aqua_data.map((product) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>

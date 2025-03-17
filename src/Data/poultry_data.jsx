@@ -1,4 +1,4 @@
-export const poultry = [
+const poultry_data = [
   {
     id: 1,
     name: "An Ultimate Poultry Tonic",
@@ -1506,3 +1506,5 @@ export const poultry = [
     feedback: " "
   }
 ];
+
+export default poultry_data;

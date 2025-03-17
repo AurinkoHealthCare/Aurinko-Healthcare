@@ -1,6 +1,6 @@
 import React from "react";
-import { yeppuen } from "../../Data/yeppuen";
 import YeppuenCard from "../../Components/Human/YeppuenCard";
+import yeppuen_data from "../../Data/yeppuen";
 
 const Yeppuen = () => {
   return (
@@ -17,9 +17,9 @@ const Yeppuen = () => {
         </div>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">
-        {yeppuen.length > 0 ? (
+        {yeppuen_data.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-            {yeppuen.map((product) => (
+            {yeppuen_data.map((product) => (
               <YeppuenCard key={product.id} product={product} />
             ))}
           </div>

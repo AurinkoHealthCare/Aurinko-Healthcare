@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/ProductCard";
-import { swine } from "../../Data/Swine_Data";
+import Swine_Data from "../../Data/Swine_Data";
 
 const Swine = () => {
   return (
@@ -17,9 +17,9 @@ const Swine = () => {
         </div>
       </div>
       <div className="flex flex-col min-h-screen w-full p-4">
-        {swine?.length > 0 ? (
+        {Swine_Data?.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-            {swine.map((product) => (
+            {Swine_Data.map((product) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>
