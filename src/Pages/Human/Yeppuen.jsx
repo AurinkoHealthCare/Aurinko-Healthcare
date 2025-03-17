@@ -1,6 +1,6 @@
 import React from "react";
 import YeppuenCard from "../../Components/Human/YeppuenCard";
-import yeppuen_data from "../../Data/yeppuen";
+import yeppuen_data from "../../Data/yeppuen.jsx";
 
 const Yeppuen = () => {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/ProductCard";
-import Persnol_care_Data from "../../Data/Persnol_care_Data";
+import Persnol_care_Data from "../../Data/Persnol_care_Data.jsx";
 
 const Persnolcare = () => {
   return (

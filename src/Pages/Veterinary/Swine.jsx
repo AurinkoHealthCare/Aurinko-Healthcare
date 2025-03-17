@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/ProductCard";
-import Swine_Data from "../../Data/Swine_Data";
+import Swine_Data from "../../Data/Swine_Data.jsx";
 
 const Swine = () => {
   return (
