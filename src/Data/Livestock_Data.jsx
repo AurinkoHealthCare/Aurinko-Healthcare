@@ -1,4 +1,4 @@
-export const livestock = [
+const livestock_data = [
   {
     id: 1,
     name: "Novel Formulation for Management of Mastitis",
@@ -1844,3 +1844,5 @@ export const livestock = [
     feedback: " "
   }
 ];
+
+export default livestock_data;

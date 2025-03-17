@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "../../Components/Human/ProductCard";
-import { livestock } from "../../Data/livestock_data";
+import { livestock_data } from "../../Data/livestock_data";
 
 const Livestock = () => {
   return (
@@ -17,9 +17,9 @@ const Livestock = () => {
       </div>
     </div>
     <div className="flex flex-col min-h-screen w-full p-4">
-     {livestock?.length > 0 ? (
+     {livestock_data?.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-1 gap-4">
-          {livestock.map((product) => (
+          {livestock_data.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </div>
