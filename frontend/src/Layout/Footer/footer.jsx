@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="bg-green-800 text-white py-12">
       <div className="container mx-auto px-6">
         
-        <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-12 text-center md:text-left">
+        <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-5 text-center md:text-left">
           
           <div>
             <h4 className="text-xl font-semibold mb-2 text-orange-500">INFORMATION</h4>

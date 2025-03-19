@@ -30,7 +30,7 @@ const Navbar = () => {
   }, [isMobileMenuOpen]);
 
   return (
-    <header className="sticky top-0 left-0 w-full z-50 transition-all duration-300 bg-white h-26 font-medium">
+    <header className="sticky w-full z-50 transition-all duration-300 bg-white h-26 font-medium">
       <div className="container mx-auto flex items-center justify-between py-4 lg:py-1 px-6">
         <div className="hidden lg:flex items-center ">
           <Link to="/">
