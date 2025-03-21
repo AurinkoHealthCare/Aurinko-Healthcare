@@ -1,10 +1,13 @@
 import { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 const Navbar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(null);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [, setIsScrolled] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  const location = useLocation();
+  const isHomePage = location.pathname === '/';
 
   const toggleDropdown = (menu) => {
     setIsDropdownOpen(isDropdownOpen === menu ? null : menu);
@@ -30,7 +33,9 @@ const Navbar = () => {
   }, [isMobileMenuOpen]);
 
   return (
-    <header className="sticky w-full z-50 transition-all duration-300 bg-white h-26 font-medium">
+    <header className={`fixed w-full z-50 top-0 transition-all duration-300
+      ${isHomePage ? 'bg-black/10 text-white hover:bg-white hover:text-black' : 'bg-white text-black shadow-md'}
+     `}>
       <div className="container mx-auto flex items-center justify-between py-4 lg:py-1 px-6">
         <div className="hidden lg:flex items-center ">
           <Link to="/">
@@ -137,7 +142,7 @@ const Navbar = () => {
 
         <div className="hidden lg:flex items-center space-x-4">
           <button className="text-black hover:text-gray-700 relative ">
-            <i className="fas fa-shopping-bag text-2xl"><a href="https://aurinkohealthcare.in"></a></i>
+          <Link to="https://aurinkohealthcare.in"> <i className="fas fa-shopping-bag text-2xl"></i></Link>
           </button>
         </div>
 
@@ -154,7 +159,7 @@ const Navbar = () => {
           </div>
 
           <button className="text-black hover:text-gray-700 relative mr-[7%]">
-            <i className="fas fa-shopping-bag text-xl"><a href="https://aurinkohealthcare.in"></a></i>
+          <Link to="https://aurinkohealthcare.in"><i className="fas fa-shopping-bag text-xl"></i></Link>
           </button>
         </div>
       </div>
