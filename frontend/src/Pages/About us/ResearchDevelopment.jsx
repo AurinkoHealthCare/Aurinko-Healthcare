@@ -168,7 +168,7 @@ const ResearchDevelopment = () => {
             <h3 className="text-xl md:text-2xl font-bold text-orange-500 mb-4">
               Application of Neuna® particle
             </h3>
-            <ul className="text-gray-700  pl-5 mb-4">
+            <ul className="text-gray-700 pl-5 mb-4">
               <li>Research
                 <ul>
                   <li>Drug Screening</li>
@@ -272,7 +272,7 @@ const ResearchDevelopment = () => {
             <h1 className="text-2xl md:text-3xl font-bold mb-4">
               Properties of Neuna® Min
             </h1>
-            <ul className="text-gray-700 list-disc pl-5 mb-4">
+            <ul className="text-gray-700 pl-5 mb-4">
               <li>
                 High Surface Area-to-Volume Ratio
                 <ul className="list-disc pl-5">
@@ -310,7 +310,7 @@ const ResearchDevelopment = () => {
             <h3 className="text-xl md:text-2xl font-bold text-orange-500 mb-4">
               Applications of Neuna® Min
             </h3>
-            <ul className="text-gray-700 list-disc pl-5 mb-4">
+            <ul className="text-gray-700 pl-5 mb-4">
               <li>
                 Environmental Applications
                 <ul className="list-disc pl-5">
