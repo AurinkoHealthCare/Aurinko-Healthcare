@@ -27,6 +27,7 @@ import Equines from "./Pages/Veterinary/Equines";
 import Blog1 from "./Components/Blog/blog1";
 import Blog2 from "./Components/Blog/blog2";
 import Navbar from "../src/Layout/Navbar/Navbar";
+import Nanophosphosome from './Pages/Human/Nano-biotechnology Compounds/Nanophosphosomes';
 
 const App = () => {
   return (
@@ -43,6 +44,7 @@ const App = () => {
                 <Route path="contact-us" element={<ContactUs />} />
                 <Route path="vision-mission" element={<VisionMission />} />
                 <Route path="health-supplements" element={<Healthsupplements />} />
+                <Route path="nanophosphosome" element={<Nanophosphosome />} />
                 <Route path="personal-care" element={<Persnolcare />} />
                 <Route path="yeppuen" element={<Yeppuen />} />
                 <Route path="livestock" element={<Livestock />} />
