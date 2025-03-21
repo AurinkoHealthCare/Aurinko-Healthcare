@@ -274,21 +274,21 @@ const ResearchDevelopment = () => {
             </h1>
             <ul className="text-gray-700 pl-5 mb-4">
               <li>
-                High Surface Area-to-Volume Ratio
+              <span className="font-bold">High Surface Area-to-Volume Ratio</span>
                 <ul className="list-disc pl-5">
                   <li>Increases reactivity and adsorption capabilities.</li>
                   <li>Enhances catalytic efficiency in chemical processes.</li>
                 </ul>
               </li>
               <li>
-                Enhances Mechanical Strength
+              <span className="font-bold">Enhances Mechanical Strength</span>
                 <ul className="list-disc pl-5">
                   <li>Neuna® Min exhibit improved hardness and durability.</li>
                   <li>Used in reinforcement of composite materials.</li>
                 </ul>
               </li>
               <li>
-                Improves Thermal Stability
+              <span className="font-bold">Improves Thermal Stability</span>
                 <ul className="list-disc pl-5">
                   <li>Neuna® Min can withstand high temperatures without significant degradation.</li>
                   <li>Applied in heat-resistant coatings and thermal insulation materials.</li>
@@ -312,29 +312,29 @@ const ResearchDevelopment = () => {
             </h3>
             <ul className="text-gray-700 pl-5 mb-4">
               <li>
-                Environmental Applications
+              <span className="font-bold">Environmental Applications</span>
                 <ul className="list-disc pl-5">
                   <li>
-                    <span className="font-bold">Soil Remediation:</span> Neuna® Min can break down contaminants in soil, making it safer for agriculture and construction.
+                    Soil Remediation: Neuna® Min can break down contaminants in soil, making it safer for agriculture and construction.
                   </li>
                 </ul>
               </li>
               <li>
-                Medical and Healthcare
+              <span className="font-bold">Medical and Healthcare</span>
                 <ul className="list-disc pl-5">
                   <li>
-                    <span className="font-bold">Drug Delivery Systems:</span> Neuna® Min can be engineered to deliver drugs to specific sites in the body, increasing treatment efficacy and reducing side effects.
+                    Drug Delivery Systems: Neuna® Min can be engineered to deliver drugs to specific sites in the body, increasing treatment efficacy and reducing side effects.
                   </li>
                   <li>
-                    <span className="font-bold">Antibacterial Coatings:</span> Silver and copper nanoparticles exhibit strong antimicrobial properties.
+                    Antibacterial Coatings: Silver and copper nanoparticles exhibit strong antimicrobial properties.
                   </li>
                 </ul>
               </li>
               <li>
-                Agricultural Applications
+              <span className="font-bold">Agricultural Applications</span>
                 <ul className="list-disc pl-5">
                   <li>
-                    <span className="font-bold">Nano-fertilizers:</span> Improves nutrient absorption and enhances crop yield.
+                    Nano-fertilizers: Improves nutrient absorption and enhances crop yield.
                   </li>
                 </ul>
               </li>
