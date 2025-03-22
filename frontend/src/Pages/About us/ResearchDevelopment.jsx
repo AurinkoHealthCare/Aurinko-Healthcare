@@ -5,6 +5,7 @@ const ResearchDevelopment = () => {
     <div className="font-sans">
       <div className="relative">
         <img
+          loading="lazy"
           src="/Assets/banner/Research and developement.jpg"
           alt="Scientists working in a lab"
           className="w-full h-[400px] object-cover object-top"
@@ -43,6 +44,7 @@ const ResearchDevelopment = () => {
 
           <div className="w-full md:w-1/2">
             <img
+              loading="lazy"
               src="/Assets/Research and developement/research img 1.jpg"
               alt="Scientist working with lab equipment"
               className="w-full h-auto mx-auto"
@@ -74,6 +76,7 @@ const ResearchDevelopment = () => {
 
           <div className="w-full md:w-1/2">
             <img
+              loading="lazy"
               src="/Assets/Research and developement/Nanophosphosome.jpg"
               alt="Nanophosphosome"
               className=" h-96 mx-auto"
@@ -110,15 +113,18 @@ const ResearchDevelopment = () => {
           <div className="flex justify-center items-center">
             <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
               <div>
-                <img src="/Assets/Research and developement/Curcuma longa.jpg" alt="Curcuma longa" className="w-full rounded-lg shadow-lg" />
+                <img
+                  loading="lazy" src="/Assets/Research and developement/Curcuma longa.jpg" alt="Curcuma longa" className="w-full rounded-lg shadow-lg" />
                 <h1 className="text-center text-lg font-bold">Curcuma longa</h1>
               </div>
               <div>
-                <img src="/Assets/Research and developement/Berberis vulgaris.jpg" alt="Berberis vulgaris" className="w-full rounded-lg shadow-lg" />
+                <img
+                  loading="lazy" src="/Assets/Research and developement/Berberis vulgaris.jpg" alt="Berberis vulgaris" className="w-full rounded-lg shadow-lg" />
                 <h1 className="text-center text-lg font-bold">Berberis vulgaris</h1>
               </div>
               <div>
-                <img src="/Assets/Research and developement/Tagetes erecta.jpg" alt="Tagetes erecta" className="w-full rounded-lg shadow-lg" />
+                <img
+                  loading="lazy" src="/Assets/Research and developement/Tagetes erecta.jpg" alt="Tagetes erecta" className="w-full rounded-lg shadow-lg" />
                 <h1 className="text-center text-lg font-bold">Tagetes erecta</h1>
               </div>
             </div>
@@ -156,6 +162,7 @@ const ResearchDevelopment = () => {
           </div>
           <div className="w-full md:w-1/2">
             <img
+              loading="lazy"
               src="/Assets/Research and developement/Neuna® particles.jpg"
               alt="Neuna® particles"
               className="w-full h-auto mx-auto"
@@ -189,6 +196,7 @@ const ResearchDevelopment = () => {
           </div>
           <div className="w-full md:w-1/2">
             <img
+              loading="lazy"
               src="/Assets/Research and developement/Application of neuna particle.jpg"
               alt="Application of neuna particle"
               className="h-72 mx-auto"
@@ -198,19 +206,23 @@ const ResearchDevelopment = () => {
         <div className="flex justify-center items-center">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div>
-              <img src="/Assets/Research and developement/Copper Neuna®.jpg" alt="Copper Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img
+                loading="lazy" src="/Assets/Research and developement/Copper Neuna®.jpg" alt="Copper Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Copper Neuna®</h1>
             </div>
             <div>
-              <img src="/Assets/Research and developement/Silver Neuna®.jpg" alt="Silver Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img
+                loading="lazy" src="/Assets/Research and developement/Silver Neuna®.jpg" alt="Silver Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Silver Neuna®</h1>
             </div>
             <div>
-              <img src="/Assets/Research and developement/Zinc Neuna®.jpg" alt="Zinc Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img
+                loading="lazy" src="/Assets/Research and developement/Zinc Neuna®.jpg" alt="Zinc Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Zinc Neuna®</h1>
             </div>
             <div>
-              <img src="/Assets/Research and developement/Potassium Neuna®.jpg" alt="Potassium Neuna®" className="w-full rounded-lg shadow-lg" />
+              <img
+                loading="lazy" src="/Assets/Research and developement/Potassium Neuna®.jpg" alt="Potassium Neuna®" className="w-full rounded-lg shadow-lg" />
               <h1 className="text-center text-lg font-bold">Potassium Neuna®</h1>
             </div>
           </div>
@@ -234,6 +246,7 @@ const ResearchDevelopment = () => {
             <div className="flex gap-8 flex-wrap items-center">
               <div>
                 <img
+                  loading="lazy"
                   src="/Assets/Research and developement/Carbon Quantum Dots (CQDs).jpg"
                   alt="Carbon Quantum Dots (CQDs)"
                   className="h-20 object-cover"
@@ -251,6 +264,7 @@ const ResearchDevelopment = () => {
             <div className="flex gap-8 flex-wrap items-center">
               <div className="w-20">
                 <img
+                  loading="lazy"
                   src="/Assets/Research and developement/Carbon Polymer Bio-caging.jpg"
                   alt="Carbon Polymer Bio-caging"
                   className="h-20 w-auto object-cover"
@@ -274,21 +288,21 @@ const ResearchDevelopment = () => {
             </h1>
             <ul className="text-gray-700 pl-5 mb-4">
               <li>
-              <span className="font-bold">High Surface Area-to-Volume Ratio</span>
+                <span className="font-bold">High Surface Area-to-Volume Ratio</span>
                 <ul className="list-disc pl-5">
                   <li>Increases reactivity and adsorption capabilities.</li>
                   <li>Enhances catalytic efficiency in chemical processes.</li>
                 </ul>
               </li>
               <li>
-              <span className="font-bold">Enhances Mechanical Strength</span>
+                <span className="font-bold">Enhances Mechanical Strength</span>
                 <ul className="list-disc pl-5">
                   <li>Neuna® Min exhibit improved hardness and durability.</li>
                   <li>Used in reinforcement of composite materials.</li>
                 </ul>
               </li>
               <li>
-              <span className="font-bold">Improves Thermal Stability</span>
+                <span className="font-bold">Improves Thermal Stability</span>
                 <ul className="list-disc pl-5">
                   <li>Neuna® Min can withstand high temperatures without significant degradation.</li>
                   <li>Applied in heat-resistant coatings and thermal insulation materials.</li>
@@ -312,7 +326,7 @@ const ResearchDevelopment = () => {
             </h3>
             <ul className="text-gray-700 pl-5 mb-4">
               <li>
-              <span className="font-bold">Environmental Applications</span>
+                <span className="font-bold">Environmental Applications</span>
                 <ul className="list-disc pl-5">
                   <li>
                     Soil Remediation: Neuna® Min can break down contaminants in soil, making it safer for agriculture and construction.
@@ -320,7 +334,7 @@ const ResearchDevelopment = () => {
                 </ul>
               </li>
               <li>
-              <span className="font-bold">Medical and Healthcare</span>
+                <span className="font-bold">Medical and Healthcare</span>
                 <ul className="list-disc pl-5">
                   <li>
                     Drug Delivery Systems: Neuna® Min can be engineered to deliver drugs to specific sites in the body, increasing treatment efficacy and reducing side effects.
@@ -331,7 +345,7 @@ const ResearchDevelopment = () => {
                 </ul>
               </li>
               <li>
-              <span className="font-bold">Agricultural Applications</span>
+                <span className="font-bold">Agricultural Applications</span>
                 <ul className="list-disc pl-5">
                   <li>
                     Nano-fertilizers: Improves nutrient absorption and enhances crop yield.

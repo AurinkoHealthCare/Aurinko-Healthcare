@@ -19,7 +19,7 @@ const livestock_data = [
     usage:
       ["For Cows and Buffaloes: In Subclinical Mastitis: 100 gm daily for 2-4 days. As an adjunct to Mastitis therapy: 100 gm daily for 3-5 days."],
     report: " ",
-    brochure: " ",
+    brochure: "Assets/brochure/Masti 24.png",
     feedback: " "
   },
   {

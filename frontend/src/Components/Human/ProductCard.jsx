@@ -20,6 +20,7 @@ const ProductCard = ({ product }) => {
           src={product.Productimg}
           alt="Product Image"
           className="h-full w-full rounded-lg"
+          loading="lazy"
         />
       </div>
       <div className="md:w-2/3 w-full p-3 flex flex-col border">
@@ -27,15 +28,17 @@ const ProductCard = ({ product }) => {
           src={product.Productname}
           alt="Product Thumbnail"
           className="h-22 w-64 rounded-lg mb-2 object-contain"
-        />
+          loading="lazy"
+          />
         <div className="flex flex-wrap border-b pb-2">
           {tabs.map((label) => (
             <button
               key={label}
-              className={`px-3 py-1 text-sm md:text-base transition duration-300 ${activeTab === label
+              className={`px-3 py-1 text-sm md:text-base transition duration-300 ${
+                activeTab === label
                   ? "bg-green-800 text-orange-500 border-l-4 border-orange-500"
                   : "bg-green-700 text-white hover:bg-green-600"
-                }`}
+              }`}
               onClick={() => setActiveTab(label)}
             >
               {label}
@@ -75,12 +78,19 @@ const ProductCard = ({ product }) => {
             </ul>
           )}
           {activeTab === "Report" && <p>{product.report}</p>}
-          {activeTab === "Brochure" && <p>{product.brochure}</p>}
+          {activeTab === "Brochure" && product.brochure ? (
+            <iframe
+              src={product.brochure}
+              title="Brochure"
+              className="w-full h-[500px] border"
+            />
+          ) : (
+            <p>No brochure available.</p>
+          )}
           {activeTab === "Feedback" && <p>{product.feedback}</p>}
         </div>
       </div>
     </div>
-
   );
 };
 

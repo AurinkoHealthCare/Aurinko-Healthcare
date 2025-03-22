@@ -89,7 +89,8 @@ const Block9 = () => {
               src="/Assets/block 9.jpg"
               alt="Nature and Wellness"
               className="w-full h-56 object-cover rounded-lg shadow-md mb-4"
-            />
+              loading="lazy"
+              />
 
           </div>
         </div>

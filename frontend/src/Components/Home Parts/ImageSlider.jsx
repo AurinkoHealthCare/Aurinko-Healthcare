@@ -34,7 +34,8 @@ export default function ImageSlider() {
           src={images[currentIndex]}
           alt={`Slide ${currentIndex + 1}`}
           className="w-full h-full object-cover transition-transform duration-500 ease-in-out"
-        />
+          loading="lazy"
+          />
       </div>
 
       <button
