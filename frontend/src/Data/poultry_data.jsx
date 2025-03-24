@@ -1110,7 +1110,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
