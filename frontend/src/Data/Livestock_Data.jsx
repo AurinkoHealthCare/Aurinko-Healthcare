@@ -56,12 +56,12 @@ const livestock_data = [
     id: 3,
     name: "Maggoticidal Topical Wound Healer 100% Actives No Gas",
     description:
-      "AURIHEAL is a topical gasless spray formulation fortified with powerful essential oils for higher maggoticidal, wound healer and fly repellent action.",
+      "Auriheal is a topical gasless spray formulation fortified with powerful essential oils for higher maggoticidal, wound healer and fly repellent action.",
     segment: "Livestock",
     type: "Spray",
     category: "Wound Healer Spray",
     packaging: "75 ml, 100 ml bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriheal.webp",
     Productname: "/Assets/Product name/Livestock/Auriheal.webp",
     composition: [
       "Each 100 ml contains :",
@@ -758,7 +758,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "11 litre Bottle 5 litre Jar",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auribloat natura.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 10 ml conains:",
@@ -920,8 +920,7 @@ const livestock_data = [
       "Methylene Blue 1gm"
     ],
     indications:
-      ["Management of Lumpy Skin Disease Symptoms"
-      ],
+      ["Management of Lumpy Skin Disease Symptoms"],
     usage:
       ["Apply or Spray directly over body at alternate days."],
     report: " ",
@@ -937,7 +936,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "250 ml, 500 ml, 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurilum Lliquid.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each ml contains:",
@@ -989,7 +988,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 litre Bottle 5 litre Jar 25 litre Jar",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimet.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
@@ -1092,7 +1091,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "200 ml, 1 litre Bottle, 5 litre Jar,  25 litre Jar",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriplanta.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 ml contains phytochemical extracts of:",
@@ -1306,12 +1305,12 @@ const livestock_data = [
     id: 42,
     name: "    An Innovative Non-Antibiotic Growth Promoter",
     description:
-      "AURIGAIN is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
+      "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
     segment: "Livestock , Swine",
     type: "Powder",
     category: "Growth Promoter , Other Specialty",
     packaging: "1 kg 25 kg",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain livestock.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each Kg contains:",

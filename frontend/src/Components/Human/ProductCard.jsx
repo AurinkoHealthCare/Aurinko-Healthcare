@@ -44,7 +44,7 @@ const ProductCard = ({ product }) => {
             </button>
           ))}
         </div>
-        <div className="mt-3 text-lg lg:text-xl text-gray-700 overflow-y-auto max-h-[60vh]">
+        <div className="mt-3 text-base text-gray-700 overflow-y-auto max-h-[60vh]">
           {activeTab === "General Info" && (
             <>
               <h1 className="text-lg font-semibold">{product.name}</h1>
