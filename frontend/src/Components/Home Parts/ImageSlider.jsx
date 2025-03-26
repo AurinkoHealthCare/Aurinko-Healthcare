@@ -21,13 +21,13 @@ export default function ImageSlider() {
   };
 
   useEffect(() => {
-    intervalRef.current = setInterval(nextSlide, 40000);
+    intervalRef.current = setInterval(nextSlide, 4000);
 
     return () => clearInterval(intervalRef.current);
   }, []);
 
   return (
-    <div className="relative w-full lg:h-[70vh] mx-auto">
+    <div className="relative w-full lg:h-[80vh] mx-auto">
       <div className="relative w-full h-full overflow-hidden">
         <img
           src={images[currentIndex]}

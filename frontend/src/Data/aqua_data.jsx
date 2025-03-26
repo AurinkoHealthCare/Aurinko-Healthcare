@@ -499,7 +499,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Aqua.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Au.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -752,7 +752,7 @@ const aqua_data = [
     id: 25,
     name: "An Innovative Non-Antibiotic Growth Promoter",
     description:
-      "AURIGAIN AQUA is a unique blend of phytochemical extracts, probiotics, amino acids and essential oils that enhance growth and weight gain in aquaculture.",
+      "Aurigain Aqua is a unique blend of phytochemical extracts, probiotics, amino acids and essential oils that enhance growth and weight gain in aquaculture.",
     segment: "Aqua",
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
@@ -1016,12 +1016,12 @@ const aqua_data = [
     id: 34,
     name: "Aqua Probiotics",
     description:
-      "AURIPRO AQUA is a unique probiotic formulation for improving the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
+      "Auripro Aqua is a unique probiotic formulation for improving the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
     segment: "Aqua",
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm, 500 gm",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Aqua.webp",
     Productname: " ",
     composition: [
       "Each gm contains: -",
