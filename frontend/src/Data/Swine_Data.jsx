@@ -715,7 +715,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Nomino.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -741,7 +741,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AURITOX-BIO.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -767,7 +767,7 @@ const Swine_Data = [
     type: "Spray",
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -797,12 +797,12 @@ const Swine_Data = [
     id: 27,
     name: "An Innovative Non-Antibiotic Growth Promoter",
     description:
-      "AURIGAIN is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
+      "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
     segment: "Swine,Livestock",
     type: "Powder",
     category: "Growth Promoter , Other Specialty",
     packaging: "1 kg 25 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -865,7 +865,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -892,7 +892,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -914,12 +914,12 @@ const Swine_Data = [
     id: 31,
     name: "Phytogenic Anti-viral Prevention Programme",
     description:
-      "AURIVIR-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
+      "Aurivir-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
     segment: "Swine,Poultry",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -952,7 +952,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Performance Enhancer , Other Specialty",
     packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
     Productname: " ",
     composition: [
       "Contains high concentration of:",
@@ -980,7 +980,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
