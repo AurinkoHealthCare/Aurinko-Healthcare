@@ -8,7 +8,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Performance Enhancer , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimino.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimino.webp",
     Productname: " ",
     composition: [
       "Each Litre Contains:",
@@ -38,7 +38,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg 25 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Essenol WS.webp",
     Productname: " ",
     composition: [
       "Each kg Contains:",
@@ -64,7 +64,7 @@ const poultry_data = [
     type: "Powder",
     category: "Vitamins, Minerals and Electrolytes",
     packaging: "1 kg 25 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/NeunaMin Power Total.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -102,7 +102,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "AUROL is a unique and carefully controlled combination of Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene Glycol Ricinoleate (PEGR)."
@@ -127,7 +127,7 @@ const poultry_data = [
     type: "Powder",
     category: "Liver Stimulant , Other Specialty",
     packaging: "25 Kg bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 5 gm contains extracts derived from:",
@@ -159,7 +159,7 @@ const poultry_data = [
     type: "Powder",
     category: "Enzyme , Other Specialty",
     packaging: "1 kg 2.5 kg 25 kg bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -197,7 +197,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg and 25 kg bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -228,14 +228,14 @@ const poultry_data = [
   },
   {
     id: 8,
-    name: "METAGROW–VET is a postbiotic blend enriched with enzymes, metabolic activators, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.",
+    name: "Metagrow-Vet is a postbiotic blend enriched with enzymes, metabolic activators, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.",
     description:
-      "METAGROW–VET stimulates the growth, weight gain and Food Conversion Ratio (FCR) in poultry, reduces the chance of diseases, improves health and reduces mortality in birds.",
+      "Metagrow-Vet stimulates the growth, weight gain and Food Conversion Ratio (FCR) in poultry, reduces the chance of diseases, improves health and reduces mortality in birds.",
     segment: "Poultry",
     type: "Powder",
     category: " Growth Promoter, Other Specialty",
     packaging: "1 kg and 25 kg bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-Vet.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -257,14 +257,14 @@ const poultry_data = [
   },
   {
     id: 9,
-    name: "METAMUNE – VET is a postbiotic blend enriched with antioxidant and immune-boosting metabolites of Lactobacillus, Streptococcus and Bifidobacterium probiotics",
+    name: "Metamune – Vet is a postbiotic blend enriched with antioxidant and immune-boosting metabolites of Lactobacillus, Streptococcus and Bifidobacterium probiotics",
     description:
-      "METAMUNE – VET stimulates the immune system in poultry, reduces the chance of diseases, improves health and reduces mortality in birds.",
+      "Metamune – Vet stimulates the immune system in poultry, reduces the chance of diseases, improves health and reduces mortality in birds.",
     segment: "Poultry",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg and 25 kg bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Metamune vet.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -293,7 +293,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Ltr., 5 Ltr. and 50 Ltr. Drum",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Metablu plus.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",
@@ -325,12 +325,12 @@ const poultry_data = [
     id: 11,
     name: "",
     description:
-      "NATUCHOL is a blend of natural bioavailable Choline in conjugated form enriched with hepatostimulant, hepatoprotective herbs and chromium that help in maintaining liver functions, promotes adequate protein synthesis, scavenging oxygen free radicals, promotes regeneration of damage tissues and cells, protects from stress condition, maintains fertility and improves immunity in poultry.",
+      "Natuchol is a blend of natural bioavailable Choline in conjugated form enriched with hepatostimulant, hepatoprotective herbs and chromium that help in maintaining liver functions, promotes adequate protein synthesis, scavenging oxygen free radicals, promotes regeneration of damage tissues and cells, protects from stress condition, maintains fertility and improves immunity in poultry.",
     segment: "Poultry",
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bags",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Natuchol.webp",
     Productname: " ",
     composition: [
       "Each pack contains",
@@ -362,7 +362,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator, Antibacterial, Other Specialty",
     packaging: " 250 ml 500 ml 1 Ltr",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -391,7 +391,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Toxin Binder, Other Specialty",
     packaging: "500 ml, 1 Ltr and 5 Ltr",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each liter Contains:",
@@ -426,7 +426,7 @@ const poultry_data = [
     type: "Powder, Liquid",
     category: "Enzyme, Other Specialty",
     packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -465,7 +465,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator , Other Specialty",
     packaging: "500 ml, 1 Ltr, 5Ltr, 25 Ltr",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -493,7 +493,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "100 gm, 500 gm & 1 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
     Productname: " ",
     composition: [
       "Each 1 kg contains:",
@@ -517,12 +517,12 @@ const poultry_data = [
     id: 17,
     name: "Phytogenic Anti-viral Prevention Programme",
     description:
-      "AURIVIR is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
+      "Aurivir is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
     segment: "Poultry, Swine",
     type: "Powder, Liquid",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
     Productname: " ",
     composition: [
       "Each Ltr contains:",
@@ -564,7 +564,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg and 25 kg Pack",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auripro gut ws.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -590,7 +590,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg and 25 kg Pack",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auripro gut.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -617,7 +617,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Immunomodulator , Other Specialty, Antibacterial",
     packaging: "250 gm 1 Kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Olbac.webp",
     Productname: " ",
     composition: [
       "Each 100 gm of Essential oil contains:",
@@ -647,7 +647,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Livauro.webp",
     Productname: " ",
     composition: [
       "Each 10 ml contains:",
@@ -668,12 +668,12 @@ const poultry_data = [
     id: 22,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
-      "AURIDA is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins and essential oils for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+      "Aurida is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins and essential oils for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -703,12 +703,12 @@ const poultry_data = [
     id: 23,
     name: "Powerful Silver nanoparticles with unique biopolymer for water treatment only",
     description:
-      "AURISIL is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
+      "Aurisil is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 ml 1 Ltr",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurisil.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -735,7 +735,7 @@ const poultry_data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "25 Kg Bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "NUTRITIONAL VALUE PER 5 Kg",
@@ -760,7 +760,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -787,7 +787,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 gm Pack, 1 kg pack",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Kg essential oil contains-",
@@ -828,7 +828,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
     Productname: " ",
     composition: [
       "Each 100 gm contains:",
@@ -864,7 +864,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -902,7 +902,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains.",
@@ -926,7 +926,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Toxin Binder , Other Specialty",
     packaging: "100 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar 50 Ltr Drum and 200 Ltr Drum",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox plus.webp",
     Productname: " ",
     composition: [
       "Each 100 ml contains:",
@@ -952,7 +952,7 @@ const poultry_data = [
     type: "Powder",
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jarx",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Nomino.webp",
     Productname: " ",
     composition: [
       "Each Litre contains:",
@@ -980,12 +980,12 @@ const poultry_data = [
     id: 32,
     name: "Supports Metabolic Activation",
     description:
-      "PHOSBOL is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in birds and animals.",
+      "Phosbol is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in birds and animals.",
     segment: "Livestock ,Poultry, Aqua",
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm, 1 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Phosbol.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -1014,7 +1014,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm, 1 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -1051,7 +1051,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm, 1 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -1084,7 +1084,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Livauroforte.webp",
     Productname: " ",
     composition: [
       "Each 5 ml contains extracts derived from:",
@@ -1138,7 +1138,7 @@ const poultry_data = [
     type: "Powder",
     category: "Enzymes , Other Specialty",
     packaging: "5 Kg Pack, 10 kg Pack, 15 kg Bucket",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Probizyme.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -1163,7 +1163,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 gm Pack 1 kg Pack",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD-DS.webp",
     Productname: " ",
     composition: [
       "Each Kg essential oil contains-",
@@ -1188,7 +1188,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurovita.webp",
     Productname: " ",
     composition: [
       "Aurovita",
@@ -1215,7 +1215,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Yeco Nanophosphosome.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1249,12 +1249,12 @@ const poultry_data = [
     id: 41,
     name: "An Innovative Non-Antibiotic Growth Promoter",
     description:
-      "AURIGAIN is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
+      "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigain poultry.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigain.webp",
     Productname: " ",
     composition: [
       "Each pack contains:",
@@ -1281,7 +1281,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "500 gm , 1 kg & 25 kg bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Phytase enzyme 10000 FYT/ gm"
@@ -1303,7 +1303,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Contains : Calcium sulphate,Guar gum"
@@ -1326,7 +1326,7 @@ const poultry_data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "xtracts of Allium Sativum and Ocimum sanctum, Phhytochemical principles of Thymol, Curcumin and Capsaicin Nucleotides, Vitamin C,FOS, Selenium, Zinc, Esterified Butyrate, Organic acid derivatives, Fermentation Extracts Base of Ginger, Garlic & Inulin QS"
@@ -1348,7 +1348,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm pack",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Contains :",
@@ -1375,7 +1375,7 @@ const poultry_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Probicap-4S.webp",
     Productname: " ",
     composition: [
       "Each gm contains:",
@@ -1404,7 +1404,7 @@ const poultry_data = [
     type: "Powder",
     category: "Performance Enhancer",
     packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Contains high concentration of:",
@@ -1426,12 +1426,12 @@ const poultry_data = [
     id: 48,
     name: "Phytogenic Anti-viral Prevention Programme",
     description:
-      "AURIVIR-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
+      "Aurivir-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
     Productname: " ",
     composition: [
       "Each kg contains:",
@@ -1466,7 +1466,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
       "Each Kg contains:",
@@ -1489,7 +1489,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
-     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
     Productname: " ",
     composition: [
       "Each ml contains:",

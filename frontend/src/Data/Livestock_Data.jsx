@@ -1340,12 +1340,12 @@ const livestock_data = [
     id: 43,
     name: "    Electrolytes for Heat Stress",
     description:
-      "AURILYTE PLUS is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
+      "Aurilyte Plus is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
     segment: "Livestock , Poultry , Swine",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
     Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.png",
     composition: [
       "Each 100 gm contains:",

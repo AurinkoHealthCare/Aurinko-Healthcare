@@ -7,7 +7,6 @@ const Yeppuen = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          loading="lazy"
           src="/Assets/banner/Persnol care.webp"
           alt="Personal care"
           className="w-full h-[500px] object-cover"
