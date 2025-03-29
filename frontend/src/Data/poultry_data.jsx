@@ -97,7 +97,7 @@ const poultry_data = [
     id: 4,
     name: "A Potentiated Formulation of Bio-Surfactant & Emulsifier",
     description:
-      "AUROL is a unique potentiated and controlled combination of biological and semi-synthetic emulsifiers such as Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene glycol Ricinoleate (PEGR), which makes it a natural biosurfactant and emulsifier. AUROL can be applied to significantly improve the animal performance by boosting feed utilization in the body.",
+      "Aurol is a unique potentiated and controlled combination of biological and semi-synthetic emulsifiers such as Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene glycol Ricinoleate (PEGR), which makes it a natural biosurfactant and emulsifier. Aurol can be applied to significantly improve the animal performance by boosting feed utilization in the body.",
     segment: "Poultry",
     type: "Powder",
     category: "Other Specialty",
@@ -105,7 +105,7 @@ const poultry_data = [
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
     Productname: " ",
     composition: [
-      "AUROL is a unique and carefully controlled combination of Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene Glycol Ricinoleate (PEGR)."
+      "Aurol is a unique and carefully controlled combination of Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene Glycol Ricinoleate (PEGR)."
     ],
     indications:
       ["Improves the bioavailability of both water soluble and fat soluble nutrients. Prevents wastage of fat/oil through indigestion.",
@@ -154,7 +154,7 @@ const poultry_data = [
     id: 6,
     name: "Advanced Cocktail Enzyme Formulation",
     description:
-      "AURIZYME is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
+      "Aurizyme is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
     segment: "Poultry",
     type: "Powder",
     category: "Enzyme , Other Specialty",
@@ -386,7 +386,7 @@ const poultry_data = [
     id: 13,
     name: "3 -in -1 Organic Toxin Binder",
     description:
-      "MYTOBI NATURA is a blend of hepato - protective, liver cell rejuvenating, nephro - protective, antifungal, antibacterial and anti - oxidant phyto - chemical extracts.Enriched with mannan oligosaccharides and vitamins.",
+      "Mytobi Natura is a blend of hepato - protective, liver cell rejuvenating, nephro - protective, antifungal, antibacterial and anti - oxidant phyto - chemical extracts.Enriched with mannan oligosaccharides and vitamins.",
     segment: "Poultry",
     type: "Liquid",
     category: "Toxin Binder, Other Specialty",
@@ -421,7 +421,7 @@ const poultry_data = [
     id: 14,
     name: "A multi - purpose enzyme",
     description:
-      "UNILYZ Penta contains Lysozyme, a natural anti - microbial enzyme found in all living organisms having diverse role starting from digestion to immune response.UNILYZ Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal / poultry feed in order to reduce the perceived risk of anti - microbial resistance in human and animal populations.",
+      "Unilyza contains Lysozyme, a natural anti - microbial enzyme found in all living organisms having diverse role starting from digestion to immune response.Unilyz Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal / poultry feed in order to reduce the perceived risk of anti - microbial resistance in human and animal populations.",
     segment: "Poultry, Swine",
     type: "Powder, Liquid",
     category: "Enzyme, Other Specialty",
@@ -460,7 +460,7 @@ const poultry_data = [
     id: 15,
     name: "Potent Organic Immunomodulator",
     description:
-      "AURIMUNE is an innovative organic immuno - modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
+      "Aurimune is an innovative organic immuno - modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
     segment: "Poultry, Swine",
     type: "Liquid",
     category: "Immunomodulator , Other Specialty",
@@ -488,7 +488,7 @@ const poultry_data = [
     id: 16,
     name: "Potent Organic Immunomodulator",
     description:
-      "AURIMUNE FORTE WS is an innovative organic immuno - modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
+      "Aurimune Forte WS is an innovative organic immuno - modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
     segment: "Poultry, Aqua",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
@@ -730,7 +730,7 @@ const poultry_data = [
     id: 24,
     name: "Organic Glycine Chelated Trace Minerals for Superior Performance",
     description:
-      "A Premium Chelated Mineral Blend fortified with potentiated probiotics for Broilers, Layers and Breeders. CHELAMIN FORTE contains highly bioavailable glycinate chelates along with nutritive minerals and probiotics for help ameliorating skeletal & muscular growth/ strength, carcass quality, physiological function, egg & shell quality, fertility, immunity, FCR index etc.",
+      "A Premium Chelated Mineral Blend fortified with potentiated probiotics for Broilers, Layers and Breeders. Chelamin Forte contains highly bioavailable glycinate chelates along with nutritive minerals and probiotics for help ameliorating skeletal & muscular growth/ strength, carcass quality, physiological function, egg & shell quality, fertility, immunity, FCR index etc.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
@@ -787,7 +787,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 gm Pack, 1 kg pack",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD.webp",
     Productname: " ",
     composition: [
       "Each Kg essential oil contains-",
@@ -859,7 +859,7 @@ const poultry_data = [
     id: 28,
     name: "Electrolytes for Heat Stress",
     description:
-      "Aurilyte  is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
+      "Aurilyte is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
     segment: "Livestock , Poultry , Swine",
     type: "Powder",
     category: "Other Specialty",
@@ -1009,7 +1009,7 @@ const poultry_data = [
     id: 33,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
-      "AURIDA Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+      "Aurida Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Other Specialty",
@@ -1046,7 +1046,7 @@ const poultry_data = [
     id: 34,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
-      "AURIDA Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+      "Aurida Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Other Specialty",
@@ -1276,7 +1276,7 @@ const poultry_data = [
     id: 42,
     name: "Enzyme Premix",
     description:
-      "AURIPHOS is an advanced granular premix of thermo tolerant and pH stable phytase enzyme for better phosphorus absorption through feed. Auriphos is fortified with side activity of cellulase, hemicellulase, beta glucanase, fungal amylase and glucomylase.",
+      "Auriphos is an advanced granular premix of thermo tolerant and pH stable phytase enzyme for better phosphorus absorption through feed. Auriphos is fortified with side activity of cellulase, hemicellulase, beta glucanase, fungal amylase and glucomylase.",
     segment: "Poultry, Aqua",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
@@ -1461,7 +1461,7 @@ const poultry_data = [
     id: 49,
     name: "Powerful Toxin Binder",
     description:
-      "AURITOX-BIO is highly effective toxin binder fortified with Activated Carbon, Calcium Propionate, Sodium Benzoate and MOS to bind Mycotoxins, Reduce liver stress, Improve immunity and performance.",
+      "Auritox-Bio is highly effective toxin binder fortified with Activated Carbon, Calcium Propionate, Sodium Benzoate and MOS to bind Mycotoxins, Reduce liver stress, Improve immunity and performance.",
     segment: "Poultry, Swine",
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
