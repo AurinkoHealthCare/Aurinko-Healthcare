@@ -86,7 +86,7 @@ const livestock_data = [
     id: 4,
     name: "Now you can convert your ordinary feed to value added one",
     description:
-      "AURIPLUS is a scienti ically formulated blend of natural essential oils designed to enhance immune function, optimize digestion, and promote overall health in animals.",
+      "Auriplus is a scienti ically formulated blend of natural essential oils designed to enhance immune function, optimize digestion, and promote overall health in animals.",
     segment: "Livestock",
     type: "Liquid",
     category: "Animal Feed Premix",
@@ -482,7 +482,7 @@ const livestock_data = [
     id: 16,
     name: "Milk & Milk Fat Enhancer Bolus",
     description:
-      "MILKY VET BOLUS is a Milk Enhancer bolus fortified with Carbon technology based Nano minerals, Calcium, phosphorus, Essential Vitamins and galactagogue herbs.",
+      "Milky Vet Bolus is a Milk Enhancer bolus fortified with Carbon technology based Nano minerals, Calcium, phosphorus, Essential Vitamins and galactagogue herbs.",
     segment: "Livestock",
     type: "Bolus",
     category: "Milk Enhancer",

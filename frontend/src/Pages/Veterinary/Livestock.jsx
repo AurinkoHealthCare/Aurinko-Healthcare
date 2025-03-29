@@ -7,7 +7,7 @@ const Livestock = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="/Assets/banner/Livestock.jpg"
+          src="/Assets/banner/Livestock.webp"
           alt="Livestock"
           className="w-full h-[500px] object-cover object-top"
         />

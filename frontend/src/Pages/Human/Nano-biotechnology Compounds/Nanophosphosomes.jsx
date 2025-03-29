@@ -7,8 +7,8 @@ const Nanophosphosome = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="/Assets/banner/Health suppliments.webp"
-          alt="Health suppliments"
+          src="/Assets/banner/Nanophosphosome.webp"
+          alt="Nanophosphosome"
           className="w-full h-[500px] object-cover object-bottom"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>

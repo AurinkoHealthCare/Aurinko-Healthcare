@@ -7,7 +7,7 @@ const Healthsupplements = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="/Assets/banner/Health suppliments.webp"
+          src="/Assets/banner/Health supplements.webp"
           alt="Health suppliments"
           className="w-full h-[500px] object-cover object-bottom"
         />

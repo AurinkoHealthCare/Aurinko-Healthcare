@@ -2,10 +2,10 @@ import { useState, useEffect, useRef } from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 const images = [
-  "/Assets/banner/Nanophosphosome.webp",
-  "/Assets/banner/2.jpg",
-  "/Assets/banner/Auricur Banner.jpg",
-  "/Assets/banner/aurinko banner.jpg",
+  "/Assets/banner/Nanophosphosom.webp",
+  "/Assets/banner/Neuna particle.webp",
+  "/Assets/banner/Nunamin.webp",
+  "/Assets/banner/Ad banner.webp",
 ];
 
 export default function ImageSlider() {

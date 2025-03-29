@@ -522,7 +522,7 @@ const human_data = [
     id: 17,
     name: " Complementary Food Supplement Vitality and Energy Booster",
     description:
-      "AURIPOWER is a unique formula on of Panax ginseng root extract that helps to boost the immune system, improves vitality, energy levels and manage sexual disfunc on.",
+      "Auripower is a unique formula on of Panax ginseng root extract that helps to boost the immune system, improves vitality, energy levels and manage sexual disfunc on.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -646,7 +646,7 @@ const human_data = [
     id: 21,
     name: "Complementary Food Supplement Supports Healthy Blood Pressure",
     description:
-      "AUROJUNA is a powerful blend of Terminalia arjuna extract to support heart health. Studies suggest that the bark of Arjuna shows a significant reduc on in chest pain by lowering the level of cor sol i.e., the stress hormone. Arjuna also improves exercise tolerance, improves HDL levels and reduces blood pressure. It supports cardiovascular health and strengthens & tones the heart muscles.",
+      "Aurojuna is a powerful blend of Terminalia arjuna extract to support heart health. Studies suggest that the bark of Arjuna shows a significant reduc on in chest pain by lowering the level of cor sol i.e., the stress hormone. Arjuna also improves exercise tolerance, improves HDL levels and reduces blood pressure. It supports cardiovascular health and strengthens & tones the heart muscles.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -678,7 +678,7 @@ const human_data = [
     id: 22,
     name: "Complementary Food Supplement Cardiovascular Health ",
     description:
-      "AURIGREEN Is a unique formula on of Camellia sinensis that Helps to reduce blood pressure levels and LDL cholesterol improves blood vessel flexibility and supports cardiovascular health.",
+      "Aurigreen Is a unique formula on of Camellia sinensis that Helps to reduce blood pressure levels and LDL cholesterol improves blood vessel flexibility and supports cardiovascular health.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -818,7 +818,7 @@ const human_data = [
     id: 26,
     name: " Complementary Food Supplement Gut-acting Probiotic Blend",
     description:
-      "AURIGUT is a unique bland formula on of 3 gut ac ng probio cs enriched with Fructo-oligosaccharide to promotes healthy diges on and enhances gut immunity.",
+      "Aurigut is a unique bland formula on of 3 gut ac ng probio cs enriched with Fructo-oligosaccharide to promotes healthy diges on and enhances gut immunity.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -852,7 +852,7 @@ const human_data = [
     id: 27,
     name: "Complementary Food Supplement A UNIQUE PROBIOTIC BLEND",
     description:
-      "AUROLAC is a unique blend formula on of 4 gut ac ng probio cs enriched with Fructo-oligosaccharide to improve diges on and gut health.",
+      "Aurolac is a unique blend formula on of 4 gut ac ng probio cs enriched with Fructo-oligosaccharide to improve diges on and gut health.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -885,7 +885,7 @@ const human_data = [
     id: 28,
     name: "Complementary Food Supplement A UNIQUE PROBIOTIC BLEND",
     description:
-      "AUROLAC Power is an Advanced blend formula on of 4 Gut Acting Probio cs to maintain intes nal pH, improves gut protec on, promotes healthy diges on and enhances gut immunity. AUROLAC Power improves biosynthesis of Vitamin B, Vitamin K & Folic acid. These gut ac ng probio cs produce bacteriocins to act against pathogenic microbes & reduces diges ve disturbances.",
+      "Aurolac Power is an Advanced blend formula on of 4 Gut Acting Probio cs to maintain intes nal pH, improves gut protec on, promotes healthy diges on and enhances gut immunity. AUROLAC Power improves biosynthesis of Vitamin B, Vitamin K & Folic acid. These gut ac ng probio cs produce bacteriocins to act against pathogenic microbes & reduces diges ve disturbances.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -1156,7 +1156,7 @@ const human_data = [
     id: 37,
     name: " ",
     description:
-      "WELLNESS HONEY enriched with Moringa oleifera improves Bone health, cardiac functions, liver functions and immunity.",
+      "Wellness Honey enriched with Moringa oleifera improves Bone health, cardiac functions, liver functions and immunity.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -1187,7 +1187,7 @@ const human_data = [
     id: 38,
     name: " ",
     description:
-      "WELLNESS HONEY enriched with Withania somnifera, Convolvulus prostrates and Bacopa monnieri ext. improves concentration, cognitive function and brain health.",
+      "Wellness Honey enriched with Withania somnifera, Convolvulus prostrates and Bacopa monnieri ext. improves concentration, cognitive function and brain health.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -1218,7 +1218,7 @@ const human_data = [
     id: 39,
     name: " ",
     description:
-      "WELLNESS HONEY enriched with curcumin, optimizes anti-inflammatory properties, provides instant energy and immunity for overall well-being.",
+      "Wellness Honey enriched with curcumin, optimizes anti-inflammatory properties, provides instant energy and immunity for overall well-being.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -1250,7 +1250,7 @@ const human_data = [
     id: 40,
     name: " ",
     description:
-      "WELLNESS HONEY enriched with Shilajit improves physical endurance, male fertility, hormonal functions and immune system to keep strong and healthy.",
+      "Wellness Honey enriched with Shilajit improves physical endurance, male fertility, hormonal functions and immune system to keep strong and healthy.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -1278,7 +1278,7 @@ const human_data = [
     id: 41,
     name: " ",
     description:
-      "WELLNESS HONEY enriched with Withania somnifera and Carum carvi, reduces mental stress, insomnia & improves metabolism, body growth and immunity.",
+      "Wellness Honey enriched with Withania somnifera and Carum carvi, reduces mental stress, insomnia & improves metabolism, body growth and immunity.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -1310,7 +1310,7 @@ const human_data = [
     id: 42,
     name: " ",
     description:
-      "WELLNESS HONEY enriched with Terminalia arjuna and Cinnamomum zeylanicum, improves cardiac functions, strengthens the heart muscles and immunity ",
+      "Wellness Honey enriched with Terminalia arjuna and Cinnamomum zeylanicum, improves cardiac functions, strengthens the heart muscles and immunity ",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
@@ -1338,7 +1338,7 @@ const human_data = [
     id: 43,
     name: " ",
     description:
-      "WELLNESS HONEY enriched with Clove and Tulsi improves respiratory system and immunity to fight against allergies, infections and pathogens.",
+      "Wellness Honey enriched with Clove and Tulsi improves respiratory system and immunity to fight against allergies, infections and pathogens.",
     segment: "Human OTC",
     type: "Capsule",
     category: "Other Specialty",
