@@ -72,7 +72,6 @@ const App = () => {
         <Route path="/articles" element={<Articles />} />
         <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
-
       <Footer />
     </div>
   );

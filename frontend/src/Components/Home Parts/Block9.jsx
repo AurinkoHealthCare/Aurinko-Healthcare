@@ -1,6 +1,12 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 const Block9 = () => {
+  const reloadPage = (e, url) => {
+    e.preventDefault();
+    window.location.href = url;
+  };
+  
   return (
     <div className="flex flex-col items-center justify-center py-12 px-6 md:px-10 lg:px-16">
       <div className="text-center">
@@ -17,9 +23,11 @@ const Block9 = () => {
         to enhance your physical, mental, and social well-being. Join us on the journey to a
         healthier life.
       </p>
-      <button className="mt-8 bg-green-600 text-white text-sm md:text-base px-6 py-3 rounded-lg shadow-md hover:bg-green-700 transition-all">
-        ENROLL NOW →
-      </button>
+      <Link to="/contact-us"  onClick={(e) => reloadPage(e, "/contact-us")}>
+        <button className="mt-8 bg-green-600 text-white text-sm md:text-base px-6 py-3 rounded-lg shadow-md hover:bg-green-700 transition-all">
+          ENROLL NOW →
+        </button>
+      </Link>
     </div>
   );
 };
