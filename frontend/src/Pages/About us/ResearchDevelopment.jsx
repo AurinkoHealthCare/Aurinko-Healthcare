@@ -6,7 +6,7 @@ const ResearchDevelopment = () => {
       <div className="relative">
         <img
           loading="lazy"
-          src="/Assets/banner/Research and developement.jpg"
+          src="/Assets/banner/Research and developement.webp"
           alt="Scientists working in a lab"
           className="w-full"
         />

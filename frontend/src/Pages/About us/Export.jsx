@@ -21,7 +21,7 @@ const Export = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="/Assets/banner/export.jpg"
+          src="/Assets/banner/export.webp"
           alt="Export"
           className="w-full"
         />

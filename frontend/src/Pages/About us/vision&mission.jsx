@@ -6,7 +6,7 @@ const VisionMission = () => {
       <div className="relative">
         <img
           loading="lazy"
-          src="/Assets/banner/vission and mission.jpg"
+          src="/Assets/banner/vission and mission.webp"
           alt="Vision and Mission"
           className="w-full"
         />

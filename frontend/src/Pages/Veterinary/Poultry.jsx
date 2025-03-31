@@ -7,7 +7,7 @@ const Poultry = () => {
     <div className="font-sans">
       <div className="relative">
         <img
-          src="/Assets/banner/Poultry.jpg"
+          src="/Assets/banner/Poultry.webp"
           alt="Poultry"
           className="w-full"
         />
