@@ -11,6 +11,10 @@ const categories = [
 ];
 
 const PhotoGallery = () => {
+  const reloadPage = (e, url) => {
+    e.preventDefault();
+    window.location.href = url;
+  };
   return (
     <div
       className="min-h-screen flex flex-col items-center bg-gradient-to-b px-6 py-16"
@@ -25,7 +29,7 @@ const PhotoGallery = () => {
       </motion.h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-6 w-full max-w-4xl">
         {categories.map((category, index) => (
-          <Link to={category.path} className="mt-4 text-lg font-semibold text-gray-800">
+          <Link to={category.path} className="mt-4 text-lg font-semibold text-gray-800" onClick={(e) => reloadPage(e, category.path)}>
             <motion.div
               key={index}
               whileHover={{ scale: 1.05 }}

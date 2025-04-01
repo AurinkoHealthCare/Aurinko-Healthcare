@@ -3,6 +3,10 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 
 const Gallery = () => {
+  const reloadPage = (e, url) => {
+    e.preventDefault();
+    window.location.href = url;
+  };
   return (
     <div
       className="min-h-screen flex flex-col items-center px-6 py-16"
@@ -33,7 +37,7 @@ const Gallery = () => {
           transition={{ type: "spring", stiffness: 300 }}
           className="overflow-hidden rounded-xl shadow-lg hover:shadow-2xl bg-black/20 backdrop-blur-md border border-white/10"
         >
-          <Link to="/photos" className="block">
+          <Link to="/photos" className="block" onClick={(e) => reloadPage(e, "/photos")}>
             <img
               src="/Assets/Media/Gallery/Photos.webp"
               alt="Photos"
@@ -51,7 +55,7 @@ const Gallery = () => {
           transition={{ type: "spring", stiffness: 300 }}
           className="overflow-hidden rounded-xl shadow-lg hover:shadow-2xl bg-black/20 backdrop-blur-md border border-white/10"
         >
-          <Link to="/videos" className="block">
+          <Link to="/videos" className="block" onClick={(e) => reloadPage(e, "/videos")}>
             <img
               src="/Assets/Media/Gallery/Video.jpg"
               alt="Videos"
