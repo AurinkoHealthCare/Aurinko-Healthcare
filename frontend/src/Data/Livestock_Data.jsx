@@ -32,13 +32,13 @@ const livestock_data = [
     id: 2,
     name: "Postbiotic Growth Promoter",
     description:
-      "METAGROW-VET",
+      "Metagrow-vet",
     segment: "Livestock",
     type: "",
     category: "",
     packaging: "",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/.webp",
-    Productname: "/Assets/Product name/Livestock/.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Metagrow-vet.webp",
+    Productname: "/Assets/Product name/Livestock/Metagrow-vet.webp",
     composition: [
       "Each sachet contains:",
       "High Metabolic Activators, Antimicrobial peptides, Antioxidants and Immunogens(Metabolic extracts of Saccharomyces and Bacillus probiotics enriched with enzymes)",
@@ -63,13 +63,13 @@ const livestock_data = [
     id: 3,
     name: "A unique Protein Supplement with probiotics",
     description:
-      "METAGROW-VET",
+      " PROBI PRO",
     segment: "Livestock",
     type: "",
     category: "",
     packaging: "1 kg 25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/.webp",
-    Productname: "/Assets/Product name/Livestock/.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/PROBI PRO.webp",
+    Productname: "/Assets/Product name/Livestock/PROBI PRO.webp",
     composition: [
       "Each 1 kg contains",
       "Saccharomyces cerevisiae 300 billion cfu/gm, Lactobacillus sporogenes 3 billion cfu/gm, Aspergillus oryzae 3 billion cfu/gm, Propionibacterium freudenrechii 20 billion cfu/gm, Propionibacterium acidipropionici 0.2 billion cfu/gm, Grape polyphenols ext. 500 mg, Maize gluten 940 gm"
@@ -96,7 +96,7 @@ const livestock_data = [
     category: "",
     packaging: "10X2 Bolus",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Bolus.webp",
-    Productname: "/Assets/Product name/Livestock/a.webp",
+    Productname: "/Assets/Product name/Livestock/Aurigain bolus.webp",
     composition: [
       "Each Bolus contains:",
       "Phytochemical extract derived from Leptadenia reticulata 30 gm, Asparagus recemosus 6 gm, Trigonella foenum 7gm ",
@@ -257,7 +257,7 @@ const livestock_data = [
     id: 10,
     name: "Premium Galactogogue Enrihed with SNF Builders and Mastitis Prevention Factors",
     description:
-      "Auromilk is novel galactogogue formulation with high quality bypass fat, bypass protein, calcium, coated vitamins, potentiated probiotics, immunomodulators and grape polyphenols for enhanced milk production, fat and SNF along with prevention of mastitis.",
+      "Auromilk Forte is novel galactogogue formulation with high quality bypass fat, bypass protein, calcium, coated vitamins, potentiated probiotics, immunomodulators and grape polyphenols for enhanced milk production, fat and SNF along with prevention of mastitis.",
     segment: "Livestock",
     type: "Powder",
     category: "Other Specialty",
@@ -886,13 +886,13 @@ const livestock_data = [
     id: 30,
     name: "Proven Digestive Stimulant",
     description:
-      "Probirum vet bolus",
+      "Probirum-vet Bolus",
     segment: "Livestock",
     type: "",
     category: "",
     packaging: "",
     Productimg: "/Assets/Product images/Veterinary/Livestock/.webp",
-    Productname: "/Assets/Product name/Livestock/.webp",
+    Productname: "/Assets/Product name/Livestock/Probirum-vet Bolus.webp",
     composition: [
       "Each Bolus contains:",
       "Cellulase 6000 units , Hemicellulase 150 units , Xylanase 4000 units, Pectinase 750 units , Lipase 1000 units , Papain 500 units , Protease 3000 units , Myo Inositol 75 mg, Biotin (Pure) 20 mg , Aspergillus oryzae 1000 million cfu, Saccharomyces cerevisiae 50000 million cfu, Lactobacillus sporogenes 2000 million cfu, Niacin 1 gm , DL Methionine 5 gm, Copper sulphate 100 mg , Zinc sulphate 200 mg, Cobalt sulphate 20 mg , MOS 300 mg Andrographis paniculata ext. 300 mg Phyllanthus niruri ext. 250 mg Eclipta alba ext. 300 mg Boerhavia diffusa ext. 125 mg"
@@ -941,13 +941,13 @@ const livestock_data = [
     id: 32,
     name: "Complete Gut Care with Synbiotics",
     description:
-      "Auri pro gut liquid",
+      "Auripro gut Liquid",
     segment: "Livestock",
     type: "",
     category: "",
     packaging: "",
     Productimg: "/Assets/Product images/Veterinary/Livestock/.webp",
-    Productname: "/Assets/Product name/Livestock/.webp",
+    Productname: "/Assets/Product name/Livestock/Auripro gut Liquid.webp",
     composition: [
       "Each Ltr contains:",
       "Mannan oligosaccharides 240000 mg, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus (Probiotic count is 3,000 Billion CFU per Ltr)"
@@ -1237,8 +1237,8 @@ const livestock_data = [
     type: "",
     category: "Other Specialty",
     packaging: " ",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/.webp",
-    Productname: "/Assets/Product name/Livestock/.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Maspre dip.webp",
+    Productname: "/Assets/Product name/Livestock/Maspre dip.webp",
     composition: [
       "Each 100 ml contains:",
       "Tea tree oil ",
@@ -1267,8 +1267,8 @@ const livestock_data = [
     type: "Gel",
     category: "Nutrition Supplement",
     packaging: "400 gm squeezable bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Gelmil Advanced 500.webp",
-    Productname: "/Assets/Product name/Livestock/Gelmil Advanced-500.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Gelmil Nano.webp",
+    Productname: "/Assets/Product name/Livestock/Gelmil Nano.webp",
     composition: [
       "Each 300 gm Contains:",
       "Calcium ……….….....  40 gm",
@@ -1491,7 +1491,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "500 ml, 1 ltr.",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
+    Productname: "/Assets/Product name/Livestock/Aurilum Liquid.webp",
     composition: [
       "Each Litre contains:",
       "Methylene Blue 1gm"
@@ -1778,7 +1778,7 @@ const livestock_data = [
     category: "Flukicide , Anthelmintic",
     packaging: "1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimec.webp",
-    Productname: "/Assets/Product name/LivestockAurimec.webp",
+    Productname: "/Assets/Product name/Livestock/Aurimec.webp",
     composition: [
       "Each ml contains:",
       "Ivermectin IP 0.8 mg,",
@@ -2109,7 +2109,74 @@ const livestock_data = [
     report: " ",
     brochure: " ",
     feedback: " "
-  }
+  },
+  {
+    id: 74,
+    name: "Fortified Phosphorus Bolus",
+    description:
+      "Auriphos",
+    segment: "Livestock",
+    type: "Bolus",
+    category: "",
+    packaging: "5X4 Boli",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriphos.webp",
+    Productname: "/Assets/Product name/Livestock/Auriphos.webp",
+    composition: [
+      "Each bolus contains:",
+      "Sodium acid phosphate…………………10 gm",
+      "Vitamin A…………………25000 IU",
+      "Vitamin D3………………………………20000 IU",
+      "Cobalt sulphate……………………………20 mg",
+      "Vitamin E………………………………500 IU",
+      "Selenium Neunamin……1600 mcg",
+      "Chromium Neunamin……………………3200 mcg",
+      "Phytase Enzyme………………………20000 Units",
+      "Myo Inositol …………………10 mg"
+    ],
+    indications:
+      [
+        "Pica and poor appetite, Milk leakage in dairy cows through teat, Metabolic disorder i.e. post-parturient hemoglobinuria (Red urine), Ketosis and Milk fever, Drop in milk production, Infertility (Delayed maturity, Anoestrus and Delayed ovulation) associated with phosphorus deficiency."
+      ],
+    usage:
+      [
+        "Cow and buffalo: 1 bolus b.i.d. for 3-5 days.",
+        "Sheep and goat: ½ bolus b.i.d. for 3-5 days."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 74,
+    name: "Single shot Powerful Phosphorus Supplement",
+    description:
+      "Auriphos Nano Gel",
+    segment: "Livestock",
+    type: "Gel",
+    category: "",
+    packaging: "450 gm Bottle",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriphos Nano Gel.webp",
+    Productname: "/Assets/Product name/Livestock/Auriphos Nano Gel.webp",
+    composition: [
+      "Each 450 gm contains:",
+      "Phosphorus...…....................20 gm",
+      "Vitamin A………………..100000 IU",
+      "Vitamin D3…………….….50000 IU",
+      "Cobalt Sulfate……...…….….50 mg",
+      "Vitamin E…………….….....2000 IU",
+      "Selenium Neunamin…….....10 mg",
+      "Chromium Neunamin….......30 mg",
+      "Gluconeogenic Precursor ",
+      "Metabolizable energy value of 6,480 kj"
+    ],
+    indications:
+      ["Pica and poor appetite, Milk leakage in dairy cows through teat, Metabolic disorder i.e. post-parturient hemoglobinuria (Red urine), Ketosis and Milk fever, Drop in milk production, Infertility (Delayed maturity, Anoestrus and Delayed ovulation) associated with phosphorus deficiency."],
+    usage:
+      ["Regular use: Administer one bottle at the first sign of deficiency to support normal breeding, alleviates negative energy balance and associated complications"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
 ];
 
 export default livestock_data;
