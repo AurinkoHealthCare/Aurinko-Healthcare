@@ -619,6 +619,36 @@ const livestock_data = [
   },
   {
     id: 22,
+    name: "Fertility Vitamin Complex",
+    description:
+      "Aurivit AD3E Plus is an advanced fetility complex enriched with vitamin A, Vitamin C, Vitamin D3, Vitamin E and Selenium.",
+    segment: "Livestock , Swine",
+    type: "Liquid",
+    category: "Performance Enhancer , Other Specialty",
+    packaging: "100 ml 250 ml 500 ml 1 L",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
+    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
+    composition: [
+      "Each ml contains:",
+      "Vitamin A 1,00,000 IU,",
+      "Vitamin C 20 mg,",
+      "Vitamin D3 40,000 IU,",
+      "Vitamin E 40 IU,",
+      "Sodium selenite 100 mcg"
+    ],
+    indications:
+      ["Maintains overall growth",
+        "Helps in healthy pregnancy and improves fertility in cattle",
+        "Helps to improve immunity and fight stress conditions"
+      ],
+    usage:
+      ["Cow, Buffalo and Horse- 10 ml daily in morning and evening Goat, Sheep, Calves- 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional. Swine: Pig: 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 23,
     name: "Conception Promoter",
     description:
       "OMEGA CONCEPTTM is an advanced formulation enriched with phyto-herbal extracts, essential omega fatty acids; minerals and vitamins that enhance conception rate, immunity and uterine health.",
@@ -648,7 +678,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 23,
+    id: 24,
     name: "Phytobiotic Intrauterine Infusion",
     description:
       "Thypin-IU is a blend of potent phytobiotic essential oils used to prevent and control the postpartum intrauterine infections and diseases caused by bacteria, mycoplasma and protozoa.",
@@ -674,7 +704,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 24,
+    id: 25,
     name: "Uterine Tonic",
     description:
       "Partum 11 is a unique combination of phytochemical extracts and minerals that prevent post-partum complications i.e. Retention of placenta, Silent heat, repeat breeding, uterine infections with infertility and increases milk production.",
@@ -705,7 +735,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 25,
+    id: 26,
     name: "A Potent Phytobiotic & Immunomodulator Against Metritis",
     description:
       "Metriwin is synergistic combination of powerful extracts of curcumin, Tinospora cordifolia , Allium sativum and Azadirachta Indica enriched with bioenhancer and metabolic potentiator technology. Bioenhancer and Metabolic potentiator technology enhances the permeability of intestinal microvilli and improves the absorption of Curcuminoids, Tinospora cordifolia flavonoids, Allium sativum and Azadirachtin and also prevents its metabolic reduction through inhibition of P-gp, efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
@@ -733,7 +763,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 26,
+    id: 27,
     name: "For Placenta Retention",
     description:
       "Auriplanta is an all natural advanced formulation enriched with natural plant extracts for the management of placenta retention problem in cattles.",
@@ -771,7 +801,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 27,
+    id: 28,
     name: "Uterine Tonic and Galactogogue",
     description:
       "Aurimet is a premium uterine tonic and galactogogue enriched with natural plant extracts for the management of uterine health in cattle.",
@@ -813,7 +843,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 28,
+    id: 29,
     name: "With Probiotics for Reproductive Health of Ovary and Uterus",
     description:
       "Neunamin Plus DS is an innovative formulation of carbon technology based rumen protected nano minerals fortified with probiotics and vitamins, regulates hormonal balance, vaginal pH, improves reproductive environment, immunity and reduces oxidative stress to optimize reproductive health of ovary and uterus in bovines.",
@@ -853,7 +883,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 29,
+    id: 30,
     name: "Proven Digestive Stimulant",
     description:
       "Probirum vet bolus",
@@ -877,7 +907,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 30,
+    id: 31,
     name: "Proven Digestive Stimulant",
     description:
       "Probirum is unique combination of rumen specific enzymes with potentiated probiotics, essential amino acids, essential minerals and vitamins for Simple Indigestion and Anorexia.",
@@ -908,7 +938,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 31,
+    id: 32,
     name: "Complete Gut Care with Synbiotics",
     description:
       "Auri pro gut liquid",
@@ -934,7 +964,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 32,
+    id: 33,
     name: "Powerful phytoactives for rumen care",
     description:
       "Digerum is an innovative formulation enriched with powerful phytoactives which correct bloating, improves digestive performance and reduces gut-inflamation",
@@ -975,7 +1005,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 33,
+    id: 34,
     name: "Quick Acting Rumenotoric-Probiotic Bolus",
     description:
       "Salacgil is an all-natural potentiated probiotic bolus with proven sialagogue and rumino-reticular stimulant action required in prolonged cases of anorexia.",
@@ -1007,7 +1037,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 34,
+    id: 35,
     name: "    Potentiated Probiotics, Prebiotic, Vitamin, Amino Acid & Trace Minerals Digestive Powder",
     description:
       "Salacgil DS is an all-natural potentiated probiotic, prebiotic, vitamin, amino acid, trace minerals digestive powder with proven sialagogue and rumino-reticular stimulant action required in prolonged cases of anorexia.",
@@ -1038,7 +1068,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 35,
+    id: 36,
     name: "Potentiated Probiotics, Prebiotic, Vitamins, Trace Minerals, Enzymes & Digestive Bolus",
     description:
       "Turbogil vet is an all-natural potentiated probiotics, prebiotic, enzymes, vitamins, immunomodulator & trace minerals containing bolus with proven sialagogue and rumino-reticular stimulant action required in prolonged cases of anorexia.",
@@ -1065,7 +1095,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 36,
+    id: 37,
     name: "Supports Joint Health",
     description:
       "Suportho is an advanced liquid formulation enriched with Glucosamine and Chondroitin sulphate to support joint health in livestock as well as Equines.",
@@ -1093,7 +1123,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 37,
+    id: 38,
     name: "Novel Formulation for Management of Mastitis",
     description:
       "Maspre Forte is a potentiated blend of Vitamins, Probiotics and Minerals that helps in prevention from subclinical mastitis and mastitis. It also helps to restore milk pH and improve the milk quality.",
@@ -1117,7 +1147,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 38,
+    id: 39,
     name: "Novel Formulation To Enhance Antibiotic Efficacy During Mastitis",
     description:
       "Maspre Ultimate is a unique blend of phospholipase, Microbial lysozyme, bacteriocins producing Bacillus and other Probiotics, Vitamins, chelated minerals and enzymes to improve the efficacy of antibiotics & act as adjunct therapy in clinical mastitis.",
@@ -1144,7 +1174,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 39,
+    id: 40,
     name: "Anti-inflammatory gel for udder",
     description:
       "Maspre Gel is a unique topical formulation of anti-inflammatory, analgesic and immunostimulant phyto actives used for the management of udder mastitis that strengthens the keratin layer of the teat canal lumen and strengthens the udder defense system, there by boosting udder immunity.",
@@ -1175,7 +1205,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 40,
+    id: 41,
     name: "Novel Formulation for Management of Mastitis",
     description:
       "Maspre is a potentiated blend of Vitamins, Probiotics and Minerals that helps in prevention from subclinical mastitis and mastitis. It also helps to restore milk pH and improve the milk quality.",
@@ -1199,7 +1229,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 41,
+    id: 42,
     name: "Strengthens udder defense mechanism",
     description:
       "Maspre Dip",
@@ -1229,7 +1259,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 42,
+    id: 43,
     name: "Instantly Bioavailable Nano Calcium and Magnesium with Nanogel Technology",
     description:
       "Gelmil nano",
@@ -1258,7 +1288,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 43,
+    id: 44,
     name: "Instantly Bioavailable Anionic Calcium-Magnesium Gel",
     description:
       "Gelmil Advanced 500 is instantly bioavailable oral anionic Calcium and Magnesium gel fortified with phosphorus and glucogenic precursers. Each bottle provides calcium equivalent to 5 bottles of I/V calcium. Serum calcium reaches to significant levels within 15 minutes and stays for extended periods. Self-dispensing squeezable bottle provides ease of administration",
@@ -1287,7 +1317,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 44,
+    id: 45,
     name: "The Rumen Buffer",
     description:
       "Bufto",
@@ -1310,7 +1340,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 45,
+    id: 46,
     name: "The Rumen Buffer",
     description:
       "Bufto Forte, the rumen buffer, is a unique blend of rumen buffering agents, probiotics, prebiotic, minerals, vitamin and amino acid to support ruminal acidosis and restore the normal ruminal pH and microflora.",
@@ -1342,7 +1372,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 46,
+    id: 47,
     name: "Management of Post-Parturient Problems",
     description:
       "Neulact is patented formulation to prevent post-partum complications (Retention of placenta, Milk Fever, Mastitis and Metritis) in peri-parturient animals. Fortified with power packs to provide loading dose of immune booster action. Provides ease of administration in granule form",
@@ -1370,7 +1400,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 47,
+    id: 48,
     name: "Management of Tympany and Bloat",
     description:
       "Auribloat is an advanced formulation for the management of tympany and bloat problems in cattle.",
@@ -1397,7 +1427,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 48,
+    id: 49,
     name: "Management of Tympany and Bloat",
     description:
       "Auribloat Natura is an all natural formulation enriched with natural phyto-extracts, oils and MOS complex for the management of tympany and bloat problems in cattle.",
@@ -1428,7 +1458,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 49,
+    id: 50,
     name: "Antiviral Support Against Lumpy Skin Disease",
     description:
       "Aurilum is an advanced formulation to support the management of Lumpy Skin Disease and its symptoms.",
@@ -1452,7 +1482,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 50,
+    id: 51,
     name: "Antiviral Support Against Lumpy Skin Disease",
     description:
       "Aurilum Liquid",
@@ -1475,7 +1505,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 51,
+    id: 52,
     name: "For management of dry period",
     description:
       "Drylact is an advance formulation enriched with herbal extracts, essential vitamins and minerals to improve hyperprolactinemia, metabolism and reproductive health in pre and postnatal lactation period.",
@@ -1506,8 +1536,8 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 52,
-    name: "    Electrolytes for Heat Stress",
+    id: 53,
+    name: "Electrolytes for Heat Stress",
     description:
       "Aurilyte Plus is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
     segment: "Livestock , Poultry , Swine",
@@ -1543,7 +1573,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 53,
+    id: 54,
     name: "Super Nutrition with Nano-Dose Advantage",
     description:
       "Neuna Forte is a premium super rich nutrition enriched with MHA Chelates, Coated Vitamins, Potentiated Probiotics, Grape Polyphenols, Energy Booster Complex & Unique Phytobio-CalphosTM. A powerful nutrition supplement enriched with 23 essential nutrients for production, reproduction, better health and disease resistance in lactating cows and buffaloes",
@@ -1590,7 +1620,496 @@ const livestock_data = [
     brochure: " ",
     feedback: " "
   },
- 
+  {
+    id: 55,
+    name: "Fly Repellent-Maggoticidal & Wound Healer Spray",
+    description:
+      "Aurospray is topical spray using innovative technology of high actives- low propellant (60:40) spray formulation, fortified with powerful phytochemical extracts for higher maggoticidal, wound healer and fly repellent efficacy",
+    segment: "Livestock",
+    type: "Spray",
+    category: "Other Specialty",
+    packaging: "100 ml aluminum bottle",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
+    Productname: "/Assets/Product name/Livestock/Auro Spray.webp",
+    composition: [
+      "Each 100 ml contains :",
+      "Ocimum sanctum oil 6.4 gm",
+      "Cinnamomum tamala oil 1.6 gm",
+      "Eucalyptus oil 6.4 gm",
+      "Cedrus deodara oil 2 gm",
+      "Azadiractha indica oil 5 gm",
+      "Pongamia pinnata oil 4 gm",
+      "Cymbopongon citratus oil 9.6 gm",
+      "Curcuma longa oil 2 gm"
+    ],
+    indications:
+      ["Wound healer Maggoticide Fly repellen Fungal infections and Mange infestations"],
+    usage:
+      ["2 to 3 topical applications daily for 3 to 5 days"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 56,
+    name: "Maggoticidal Topical Wound Healer 100% Actives No Gas",
+    description:
+      "Auriheal is a topical gasless spray formulation fortified with powerful essential oils for higher maggoticidal, wound healer and fly repellent action.",
+    segment: "Livestock",
+    type: "Spray",
+    category: "Wound Healer Spray",
+    packaging: "75 ml, 100 ml bottle",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriheal.webp",
+    Productname: "/Assets/Product name/Livestock/Auriheal.webp",
+    composition: [
+      "Each 100 ml contains :",
+      "Ocimum sanctum oil 8 gm",
+      "Cinnamomum tamala oil 2 gm",
+      "Eucalyptus oil 8 gm",
+      "Cedrus deodara oil 2 gm",
+      "Azadirachta indica oil 5 gm",
+      "Pongamia pinnata oil 5 gm",
+      "Cymbopongon citratus oil 12gm",
+      "Curcuma longa oil 2 gm"
+    ],
+    indications:
+      ["Wound healer Maggoticide Fly repellent Fungal infections Mange infestations"],
+    usage:
+      ["2 to 3 topical applications daily for 3 to 5 days"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 57,
+    name: "Broad Spectrum Anthelmintic for Small Animals",
+    description:
+      "Mecfen Plus is unique combination of Fenbendazole, Ivermectin and Praziquantel. Mecfen Plus ensures complete protection against round worm and tape worm infestation in small animal like- Sheep, Goat, Calf, Foals and Pig.",
+    segment: "Livestock",
+    type: "Liquid",
+    category: "Anti-Parasitic , Anthelmintic",
+    packaging: "6 tablets strip in a unit carton, 100 ml, 250 ml and 500 ml bottle",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen Plus.webp",
+    Productname: "/Assets/Product name/Livestock/Mecfen Plus.webp",
+    composition: [
+      "Each tablet contains:",
+      "Fenbendazole………..300 mg",
+      "Praziquantel…………………..150 mg",
+      "Ivermectin…………….12 mg",
+      "",
+      "Each ml contains:",
+      "Fenbendazole…………….75 mg",
+      "Praziquantel……………..37.5 mg",
+      "Ivermectin…………….3 mg"
+    ],
+    indications:
+      ["Round worm",
+        "Tape worm",
+        "Ectoparasite infestation"
+      ],
+    usage:
+      ["Sheep/ Goat/ Calf/ Foal/ Pig- 1 tablet for 40 kg bwt by oral route Sheep/ Goat/ Calf/ Foal/ Pig- 1 ml 10 kg bwt by oral route"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 58,
+    name: "Synergistic Combination of Fenbendazole and Ivermectin",
+    description:
+      "Mecfen is combination of Fenbendazole and Ivermectin.Both anthelmintics act synergistically ensuring complete protection against round worm and tape worm infestation in bovines",
+    segment: "Livestock",
+    type: "Bolus",
+    category: "Anti - Parasitic, Anthelmintic",
+    packaging: "Single bolus strip in a unit carton",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen.webp",
+    Productname: "/Assets/Product name/Livestock/Mecfen.webp",
+    composition: [
+      "Each bolus contains:",
+      "Fenbendazole…………….3 gm",
+      "Ivermectin…………….100 mg"
+    ],
+    indications:
+      ["Round worm",
+        "Tape worm",
+        "Ectoparasite infestation"
+      ],
+    usage:
+      ["Cow/ Buffalo- 7.5 to 10 mg per kg bwt by oral route for 300-400 kg bwt"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 59,
+    name: "Fenbendazole and Ivermectin Bolus",
+    description:
+      "Mecfen Forte bolus is combination of Fenbendazole and Ivermectin that is used against gastrointestinal parasites.",
+    segment: "Livestock",
+    type: "Bolus",
+    category: "Anti-Parasitic , Anthelmintic",
+    packaging: "Single bolus strip in a unit carton",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen forte.webp",
+    Productname: "/Assets/Product name/Livestock/Mecfen Forte.webp",
+    composition: [
+      "Each bolus contains:",
+      "Fenbendazole…………….5 gm",
+      "Ivermectin…………….150 mg"
+
+    ],
+    indications:
+      ["Broad spectrum action against Roundworm, Tapeworms and ectoparasites.",
+        "Effective against immature, arrested Larval stages and adult worms.",
+        "Suitable for all age group of animal.",
+      ],
+    usage:
+      ["Cow/ buffalo- 10 mg per kg bwt by oral route for 400 - 500 kg bwt."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 60,
+    name: "Ivermectin Oral Solution Bp (vet) 0.08% W/v",
+    description:
+      "Aurimec is Ivermectin de-wormer solution for the management of gastro-intestinal nematodes and worms.",
+    segment: "Livestock , Aqua",
+    type: "Liquid",
+    category: "Flukicide , Anthelmintic",
+    packaging: "1 L",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimec.webp",
+    Productname: "/Assets/Product name/LivestockAurimec.webp",
+    composition: [
+      "Each ml contains:",
+      "Ivermectin IP 0.8 mg,",
+      "Benzyl Alcohol IP (As Preservative) 0.02 ml",
+      "Aqueous base q.s."
+    ],
+    indications:
+      ["Sheep Gastro- intestinal Nematodes, Pulmonary Nematodes, Ostertagia, Oestrous ovis",
+        "Dogs Gastro-intestinal Nematodes & Heart worms",
+        "Cattle Gastro-intestinal Nematodes, Lung worms, Eye worms, Skin worms Horses Gastro- intestinal nematodes, Lung worms, Ostertagia Strongylus",
+        "Aquaculture Ectoparasitic copepods (Sea lice), Gastro-intestinal Nematodes Lung worms Eye worms Skin worms"],
+    usage:
+      ["25 ml/100 kg body weight or as directed by Veterinarian. 25 ml/100 kg body weight Aquaculture:-10-13 ml/100 kg body weight or as directed by Veterinarian/ Aquaculture consultant."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 61,
+    name: "Broad Spectrum Flukicide and Endectocide",
+    description:
+      "Triclauri is a broad spectrum and powerful flukicide drench against all forms i.e.early immature, immature and adult liver flukes.Also effective against nasal bots, round worm, lung worm and itch mite",
+    segment: "Livestock",
+    type: "Liquid",
+    category: "Flukicide",
+    packaging: "100 ml, 500 ml and 1 litre Bottle",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Triclauri.webp",
+    Productname: "/Assets/Product name/Livestock/Triclauri.webp",
+    composition: [
+      "Each ml contains:",
+      "Triclabendazole…………..50 mg",
+      "Ivermectin……………………1 mg"
+    ],
+    indications:
+      ["Liver fluke infestation",
+        "Nasal bots",
+        "Round worm infestation",
+        "Itch mite infestation"
+      ],
+    usage:
+      ["As an oral drench- Sheep, Goat, Cattle and Buffalo: 1 ml/5 kg body weight or as directed by veterinarian."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 62,
+    name: "New Generation Fluoroquinolone",
+    description:
+      "Neubac the latest fourth-generation fluoroquinolone with wide antimicrobial spectrum, quick response time and least chances of resistance. It is effective against gram positive and negative aerobes and anaerobes, mycoplasma and chlamydia. Highly effective against acute infections of respiratory, uterine and mammary system",
+    segment: "Livestock",
+    type: "Injectable",
+    category: "Antimicrobial , Antibacterial",
+    packaging: "30 ml Vial in a unit carton with Tray and Antiseptic swab",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productname: "/Assets/Product name/Livestock/Neubac.webp",
+    composition: [
+      "Each ml contains:",
+      "Moxifloxacin 100 mg"
+    ],
+    indications:
+      ["Endometritis, Metritis, Pyometra, Prolapse of uterus, Pneumonia, HS, CCPP, CBPP and Mastitis"],
+    usage:
+      ["Cow/ Buffalo/ Sheep/Goat- 5 mg per kg bwt by IM/ IV route"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 63,
+    name: "Powerful Hematinic",
+    description:
+      "Ferauri is a powerful hematinic formulation for supplementation of iron and copper during anemia of nutritional deficiency.",
+    segment: "Livestock",
+    type: "Liquid",
+    category: "Nutrition Supplement , Other Specialty",
+    packaging: "250 ml. 500 ml",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Ferauri.webp",
+    Productname: "/Assets/Product name/Livestock/Ferauri.webp",
+    composition: [
+      "Each 50 ml contains:",
+      "Chelated Ferrous glycinate 2250 mg (eq. to 450 mg of Iron),",
+      "Chelated Copper glycinate 600 mg (eq. to 90 mg of Copper), Cobalt chloride 10 mg (eq. to 4.5 mg of Cobalt),",
+      "Cholecalciferol 25000 IU, Niacinamide 300 mg, Pyridoxine Hcl 100 mg, Vitamin E 500 IU,",
+      "Folic acid 15 mg, Cyanocobalamin 200 mcg, Calcium Pantothenate 100 mg"
+    ],
+    indications:
+      ["Supplementation of Iron and Copper during anaemia or nutritional deficiency.",
+        "Recommended during pregnancy and young age (calves, kids, lamb, foal, piglet etc.)",
+        "Adjunctive therapy with the treatment of Trypanosomiasis, Babesiosis, Theileriosis, Anaplasmosis etc."
+      ],
+    usage:
+      ["Cow and Buffalo: 40-50 ml daily orally. Calf, Sheep and Goat: 10-15 ml daily orally."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 64,
+    name: "Powerful Hematinic and Hepatoprotectant",
+    description:
+      "Ferauri plus is a powerful Hematinic and hepatoprotectant tonic which helps to improve the haemoglobin in blood as well as protects and improves the function of Liver cells.",
+    segment: "Livestock",
+    type: "Liquid",
+    category: "Nutrition Supplement , Other Specialty",
+    packaging: "250 ml. 500 ml",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Ferauri plus.webp",
+    Productname: "/Assets/Product name/Livestock/Ferauri Plus.webp",
+    composition: [
+      "Each 50 ml contains:",
+      "Chelated Ferrous glycinate 2250 mg (eq. to 450 mg of Iron),",
+      "Chelated Copper glycinate 600 mg (eq. to 90 mg of Copper),",
+      "Cobalt chloride 10 mg (eq. to 4.5 mg of Cobalt),",
+      "Cholecalciferol 25000 IU,",
+      "Niacinamide 300 mg,",
+      "Pyridoxine Hcl 100 mg,",
+      "Vitamin E 500 IU,",
+      "Folic acid 15 mg,",
+      "Cyanocobalamin 200 mcg,",
+      "Calcium Pantothenate 100 mg,",
+      "Andrographis paniculata eq. to 8000 mg,",
+      "Phyllanthus niruri eq. to 5000 mg,",
+      "Eclipta alba eq. to 6000 mg,",
+      "Boerahavia diffusa eq. to 4000 mg,",
+      "Choline chloride 937.5 mg"
+    ],
+    indications:
+      ["Weakness and Anaemia.",
+        "To reduce the chances of calf mortality.",
+        "As growth promoter in weak, debilitated and retarded calves.",
+        "As an adjunctive therapy in Trypanosomiasis, Babesiosis, Theileriosis, Anaplasmosis.",],
+    usage:
+      ["Cow and Buffalo: 40-50 ml daily orally. Calf, Sheep and Goat: 10-15 ml daily orally"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 65,
+    name: "Supports Metabolic Activation",
+    description:
+      "Phosbol is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in birds and animals.",
+    segment: "Livestock, Poultry, Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "100 gm, 1 kg",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Phosbol.webp",
+    Productname: "/Assets/Product name/Livestock/Phosbol.webp",
+    composition: [
+      "Each gm contains:",
+      "Butaphosphan INN 100 mg",
+      "Vitamin B12 50 mg"
+    ],
+    indications:
+      ["Increases Meat, Milk & Egg Production",
+        "Augments body Metabolism",
+        "Improves FCR",
+        "Prevents Cannibalism",
+        "Improves Appetite",
+        "Removes deficiency signs of phosphorus"],
+    usage:
+      ["Poultry: 1gm / 1-2 Ltr.  of drinking water as per direction of Qualified  veterinary Practitioner"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 66,
+    name: "Organic long acting mosquito repellent",
+    description:
+      "AURIMOS LIQUID is highly effective essential oil blend with Nano-emulsion Technology fortified with controlled release mechanism to prevent and control mosquito in the farm animal shed. A regular spray is used as potent mosquito repellent and killer. It is completely safe, effective and long acting formulation.",
+    segment: "Livestock",
+    type: "Liquid",
+    category: "Mosquito repellent",
+    packaging: "100 gm, 250 gm and 1 kg Bottle",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimos.webp",
+    Productname: "/Assets/Product name/Livestock/Aurimos.webp",
+    composition: [
+      "Each 100 gm essential oil contains:",
+      "Eugenol…………… 5000 mg",
+      "Citral……………….. 3900 mg",
+      "Thymol…………….. 1300 mg",
+      "Linalool…………………2400 mg"
+    ],
+    indications:
+      ["IPrevent from the incidence of all kind of mosquitoes infections including Dengue, Chikungunya, Malariya, Zika"],
+    usage:
+      ["10-20 gm needs to be diluted in 1 ltr of water to spray over 1000 sq. feet area, mainly roof, pillar and walls. The dilution depends on the intensity of mosquito problem in the area."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 67,
+    name: "Novel Formulation for Management of Mastitis",
+    description:
+      "Masti 24 is potentiated blend of Vitamins, Probiotics and Minerals that helps to prevent from subclinical mastitis and mastitis.It also helps to restore milk pH and improve the milk quality.",
+    segment: "Livestock",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "100 gm",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Masti 24.webp",
+    Productname: "/Assets/Product name/Livestock/Masti 24.jpeg",
+    composition: [
+      "Each 100 gm contains:",
+      "Trisodium citrate 30000 mg, Vitamin A 200000 IU, Vitamin D3 100000 IU, Vitamin E 750 IU, Vitamin H 20 mg, Vitamin K 50 mg, Copper glycinate 1000 mg, Zinc glycinate 3000 mg, Manganese glycinate 3000 mg, Selenium 10 mg, Cobalt sulphate 50 mg, Potassium iodide 10 mg, Magnesium 1500 mg, Silica 2500 mg, Saccharomyces cerevisiae 100 billion CFU, Aspergillus oryzae 1000 million CFU, Bacillus coagulans 1000 million CFU, Bacillus subtilis 25 billion CFU, Bacillus licheniformis 25 billion CFU, Serratiopeptidase 100 mg, Methionine 5000 mg, Grape Polyphenol extract 150 mg, MOS Complex 20000 mg, Bromelain 1000 mg.",
+    ],
+    indications:
+      ["Prevents sub-clinical mastitis & reduces the prevalence of mastitis Increases immunity & milk quality when milk production decreases"],
+    usage:
+      ["For Cows and Buffaloes: In Subclinical Mastitis: 100 gm daily for 2-4 days. As an adjunct to Mastitis therapy: 100 gm daily for 3-5 days."],
+    report: " ",
+    brochure: "Assets/brochure/Masti 24.webp",
+    feedback: " "
+  },
+  {
+    id: 68,
+    name: "Now you can convert your ordinary feed to value added one",
+    description:
+      "Auriplus is a scienti ically formulated blend of natural essential oils designed to enhance immune function, optimize digestion, and promote overall health in animals.",
+    segment: "Livestock",
+    type: "Liquid",
+    category: "Animal Feed Premix",
+    packaging: "1 Ltr., 5 Ltr. and 50 Ltr.",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
+    composition: [
+      "Each 100 ml contains :",
+      "Ocimum sanctum oil 8 gm",
+      "Cinnamomum tamala oil 2 gm",
+      "Eucalyptus oil 8 gm",
+      "Cedrus deodara oil 2 gm",
+      "Azadirachta indica oil 5 gm",
+      "Pongamia pinnata oil 5 gm",
+      "Cymbopongon citratus oil 12gm",
+      "Curcuma longa oil 2 gm"
+    ],
+    indications:
+      [
+        "Improves digestion and nutrient absorption.",
+        "Boosts immune function to protect from infections.",
+        "Reduces inlammation and oxidative stress.",
+        "Fights infections to ensure healthy growth.",
+        "Reduces stress, promoting optimal growth conditions"
+      ],
+    usage:
+      ["2 Ltr. – 5 Ltr. per tone of feed"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+
+  {
+    id: 69,
+    name: "Powerful phytoactives for rumen care",
+    description:
+      "Bovicare vet plus is an innovative formulation enriched with powerful phytoactives which correct bloating, improves digestive performance and reduces gut-inflamation",
+    segment: "Livestock",
+    type: "Powder",
+    category: "Digestive enhancer and gut support",
+    packaging: "30 gm",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productname: "/Assets/Product name/Livestock/Mecfeb Plus.webp",
+    composition: [
+      "Water Soluble Powder & each gm contains-",
+      "Trachyspermum ammi extract 60 mg",
+      "Ginger extract 50 mg",
+      "Andrographis paniculata 60 mg",
+      "DL-Methionine 80 mg",
+      "Vitamin B6 0.42 mg",
+      "Vitamin B3 8 mg",
+      "Biotin 80 mcg",
+      "Cobalt carbonate 0.2 mg",
+      "Anhydrous Dextrose 870 mg"
+    ],
+    indications:
+      ["Bloat, Digestive disorders caused by decreased activity of reticulum and rumen or sudden dietary changes and /or intoxication.",
+        "As a supportive therapy in diseases caused by foreign bodies and hypo-glycemic conditions in cattle, calves, sheep and goats."
+      ],
+    usage:
+      ["Supplementation (Supportive therapy)",
+        "Adult animal: 120 g twice daily.",
+        "Calf: 60 g twice daily, Sheep/Goat: 30 g once daily.",
+        "Supplementation (Prevention)",
+        "Adult cattle: 30 gm twice daily",
+        "Young animals: 30 gm per day for 2-3 consecutive days.",
+        "Administer as a drench with ½ to 1 litre of water or, as directed by the registered Veterinarian."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 70,
+    name: "With Probiotics for Reproductive Health of Ovary and Uterus",
+    description:
+      "Neunamin Plus is an innovative formulation of carbon technology based rumen protected nano minerals fortified with probiotics and vitamins, regulates hormonal balance, vaginal pH, improves reproductive environment, immunity and reduces oxidative stress to optimize reproductive health of ovary and uterus in bovines.",
+    segment: "Livestock",
+    type: "Bolus",
+    category: "Reproductive Performance Modulators",
+    packaging: "5X4 bolus Pack",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Neunamin plus.webp",
+    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
+    composition: [
+      "Each Bolus Contains:",
+      "Zinc Neunamin…………………………………..1, 60,000 mcg",
+      "Manganese Neunamin……………………..1, 60,000 mcg",
+      "Copper Neunamin……………………………….55,000 mcg",
+      "Iron Neunamin…………………………………….64,000 mcg",
+      "Selenium Neunamin………………………………1, 600 mcg",
+      "Iodine Neunamin…………………………………..6, 400 mcg",
+      "Chromium Neunamin…………………………….3200 mcg",
+      "Vitamin A………………………………………………….50,000 IU",
+      "Vitamin D3………………………………………………..20,000 IU",
+      "Vitamin E……………………………………………………….500 IU",
+      "MOS………………………………………………………………300 mg",
+      "Grape Polyphenol Ext.equivalent to",
+      "Vitamin E activity……………………………….……………..500 IU",
+      "Lactobacillus gasseri, Lactobacillus fermentum, Lactobacillus plantarum (Total Probiotic Count 2,000 million cfu)",
+    ],
+    indications:
+      ["Improves mineral bioavailability and regulates hormonal balance to improve reproductive functions",
+        "Enhances optimum follicular growth and ensures timely ovulation",
+        "Improves vaginal / uterine pH and environment to facilitate fertilization",
+        "Enhances conception rate after AI"
+      ],
+    usage:
+      ["Cow and Buffalo: 1 Bolus daily for 20 days by oral route."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  }
 ];
 
 export default livestock_data;
