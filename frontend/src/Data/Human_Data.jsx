@@ -1162,7 +1162,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Moringa oleifera.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Moringa oleifera ext. 300 mg (60 mg Saponins)"
@@ -1193,7 +1193,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Withania somnifera.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/.webp",
     composition: [
       " Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Withania somnifera ext. 125 mg (12.5 mg Withanolides), Convolvulus prostrates ext. 100 mg (4 mg Alkaloids), Bacopa monnieri ext. 100 mg (50 mg Bacosides)",
@@ -1224,7 +1224,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Cuecumin.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/.webp",
     composition: [
       "Each tea spoon full of organic honey contains: ",
       "Organic honey 7 gm, Curcumin 95 mg",
@@ -1256,7 +1256,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Shilajit.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/.webp",
     composition: [
       "Each tea spoon full of organic honey contains: ",
       "Organic honey 7 gm, Shilajit ext. 300 mg (Fulvic acid 210 mg)"
@@ -1284,7 +1284,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Carum carvi.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Withania somnifera 125 mg (12.5 mg withanolides)",
@@ -1316,7 +1316,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Terminalia arjuna.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Terminalia arjuna ext. 500 mg (125 mg Tannins), Cinnamomum zeylanicum ext. 500 mg (150 mg Cinnamaldehyde) "
@@ -1344,7 +1344,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Clove and tulsi.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auricam.webp",
+    Productname: "/Assets/Product name/Health suppliments/.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Syzygium aromaticum ext. 150 mg, Ocimum sanctum ext. 250 mg"
