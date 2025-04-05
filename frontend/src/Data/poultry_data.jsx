@@ -9,7 +9,7 @@ const poultry_data = [
     category: "Nutrition Supplement , Performance Enhancer , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimino.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurimino.webp",
     composition: [
       "Each Litre Contains:",
       "Protein Hydrolysate 360 gm, Arginine 5200mg,  Cystine1050mg, Glycine 3150mg,  Histidine 2000mg, Isoleucine 3275mg, Leucine 5700mg, L-Lysine 4500mg, DL-Methionine 1350mg, Phenylalanine 3400mg, Serine 3800mg, Tyrosine 3200mg, Threonine ,2900mg",
@@ -39,7 +39,7 @@ const poultry_data = [
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jarx",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Nomino.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Nomino.webp",
     composition: [
       "Each Litre contains:",
       "Vitamin A 5,00,000 IU, Vitamin D3 1,00,000 IU, Vitamin E 10,000 mg, Vitamin B1 1,250 mg, Vitamin B2 500 mg, Vitamin B6 625 mg, Vitamin B12 5,300 mcg, Vitamin K 350 mg, Vitamin H 10,00,000 mcg, Vitamin C 10,000 mg, Niacin 1,400 mg, D-Panthenol 625 mg, Folic Acid precursor 625 mg, L-Lysine 100 mg, DL-Methionine 1,500 mg, Protein Hydrolysate 10,000 mg, Iodine 500 mg, Selenium 125 mg, Cobalt 500 mg, Organic Copper 4,000 mg, Organic Manganese 10,000 mg, Organic Zinc 10,000 mg, Sodium Chloride 9.815 g, Potassium Chloride 82.430 g, Magnesium sulphate Heptahydrate 455 mg, Citric Acid 3,280 mg, Essential Fatty acids 1,000 mg, Nucleotides 5,000 mg, Grape Polyphenol eq. to 3,000 IU Vitamin E activity",
@@ -72,7 +72,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigain.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AURIGAIN.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts of-",
@@ -99,7 +99,7 @@ const poultry_data = [
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurigrow.webp",
     composition: [
       "xtracts of Allium Sativum and Ocimum sanctum, Phhytochemical principles of Thymol, Curcumin and Capsaicin Nucleotides, Vitamin C,FOS, Selenium, Zinc, Esterified Butyrate, Organic acid derivatives, Fermentation Extracts Base of Ginger, Garlic & Inulin QS"
     ],
@@ -121,7 +121,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg and 25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Auriquinol Power.webp",
     composition: [
       "Each 100 gm contains:",
       "Alpha amylase…………….40000 unit",
@@ -153,13 +153,13 @@ const poultry_data = [
     id: 6,
     name: "Postbiotic growth promoter for broilers",
     description:
-      " METAGROW-WS",
+      "Metagrow-ws",
     segment: "Poultry",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg & 25 kg drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Metagrow-ws.webp",
     composition: [
       "Each pack contains:",
       "High metabolic activators, antimicrobial peptides, antioxidants and immunogens (metabolic extracts of Saccharomyces and Bacillus probiotics enriched with enzymes)",
@@ -184,7 +184,7 @@ const poultry_data = [
     category: " Growth Promoter, Other Specialty",
     packaging: "1 kg and 25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-Vet.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/S.webp",
     composition: [
       "Each pack contains:",
       "High metabolic activators, antioxidants and immunogens",
@@ -207,13 +207,13 @@ const poultry_data = [
     id: 8,
     name: "Postbiotic immunomodulator for breeder birds",
     description:
-      " META MUNE",
+      "Metamune",
     segment: "Poultry",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg & 25 kg drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Metamune.webp",
     composition: [
       "Each pack contains:",
       "High metabolic antioxidants, antimicrobial peptides and immunogens (metabolic extracts of Saccharomyces and Bacillus probiotics)"
@@ -238,7 +238,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg and 25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Metamune vet.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/S.webp",
     composition: [
       "Each pack contains:",
       "High metabolite antioxidants and immunogens",
@@ -259,6 +259,48 @@ const poultry_data = [
   },
   {
     id: 10,
+    name: "Phytogenic Anti-viral Prevention Programme",
+    description:
+      "Aurivir is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
+    segment: "Poultry, Swine",
+    type: "Powder, Liquid",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productname: "/Assets/Product name/Poultry/S.webp",
+    composition: [
+      "Each Ltr contains:",
+      "Phytochemical principles of Allicin, Withanolides, polyphenols, Epigallocatechin-3-gallate Vitamin C 2.8 gm, Selenium 0.21 mg, Copper (as glycinate complex) 33 mg, Manganese (as glycinate complex) 16 mg",
+      "Fortified with Carum carvi",
+      "Powder:",
+      "Each Kg contains:",
+      "Phytochemical principles of Allicin",
+      "Withanolides, polyphenols",
+      "Epigallocatechin-3-gallate",
+      "Vitamin C 20 gm",
+      "Selenium 1.48 mg",
+      "Copper (as glycinate complex) 225 mg",
+      "Manganese (as glycinate complex) 112 mg",
+      "Fortified with Carum carvi"
+    ],
+    indications:
+      ["To prevent and control RNA viral infections (Infectious Bronchitis, Avian Influenza, New Castle Disease, Infectious Bursal Disease).",
+        "Help to reduce the incidence of bacterial and viral diseases.",
+        "Ensures faster recovery during disease outbreaks.",
+        "Improves the antibody titre when given along with vaccinations.",
+        "Regular use prevents recurrence of infection."],
+    usage:
+      ["Liquid supplementation-",
+        "For Poultry:",
+        "Powder supplementation-:",
+        "For prevention- 600-700 gm per tonne of feed for 1-2 weeks.",
+        "As Supportive therapy during acute infections- 2 kg per tonne of feed for 5-7 days."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 11,
     name: "Phytogenic Anti-viral Immuno Modulator",
     description:
       "Aurivir-IBD",
@@ -267,7 +309,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "1 kg & 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurivir-IBD.webp",
     composition: [
       "Each Kg contains:",
       "Phytochemical principles of Allicin, Berberine-Quercetin  Nanophosphosome® , Camellia sinensis  Nanophosphosome® , Vitamin C 75 gm, Cu (as glycinate complex) 300 mg, Mn (as glycinate complex) 150 mg Fortified with Selenium"
@@ -286,7 +328,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 11,
+    id: 12,
     name: "Phytogenic Anti-viral Prevention Programme",
     description:
       "Aurivir-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
@@ -295,7 +337,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurivir - S.webp",
     composition: [
       "Each kg contains:",
       "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin-3-gallate, Grape Skin Nanophosphosome®",
@@ -321,7 +363,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 12,
+    id: 13,
     name: "Phytogenic Anti-viral Immuno Modulator",
     description:
       "Aurivir-EO",
@@ -330,7 +372,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurivir - EO.webp",
     composition: [
       " Each pack contains:",
       "Phytochemical principles of 1,8 cineol, Camphor, Thujone, Geranial, Neral, Citronellal, Linalool, Cinnamaldehyde, Eugenol, Silver nanoparticles, Octanoic acid, Alpha monolaurin, Lauric acid"
@@ -350,7 +392,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 13,
+    id: 14,
     name: "Phytogenic Anti-viral Immuno Modulator",
     description:
       "Aurivir-R",
@@ -359,7 +401,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurivir - R.webp",
     composition: [
       "Each Kg contains:",
       "Phytochemical principles of Proanthocyanidins, Eugenol, Oleanolic acid, Carnosic acid Berberine-Quercetin Nanophosphosome® , Rosmarinic-Urosolic acid  Nanophosphosome® Vitamin C 75 gm, Cu (as glycinate complex) 300 mg, Mn (as glycinate complex) 150 mg Fortified with Selenium"
@@ -377,7 +419,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 14,
+    id: 15,
     name: "Potent Organic Immunomodulator",
     description:
       "Aurimune is an innovative organic immuno - modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
@@ -386,7 +428,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "500 ml, 1 Ltr, 5Ltr, 25 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurimune.webp",
     composition: [
       "Each Litre contains:",
       "Mannan oligosaccharides 20 gm, Vitamin C 6000 mg, Betaine hydrochloride 25000 mg, Vitamin E 9000 mg, Sodium selenite 2250 mg, Pepsin 180 mg, Nucleotides 2000 mg, Protein hydrolysate 15000 mg, Fortified with phytochemical principles of Ocimum sanctum, Phyllanthus emblica, Allium sativum and Lysozyme"
@@ -405,7 +447,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 15,
+    id: 16,
     name: "Potent Organic Immunomodulator",
     description:
       "Aurimune Forte WS is an innovative organic immuno - modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
@@ -414,7 +456,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "100 gm, 500 gm & 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurimune Forte WS.webp",
     composition: [
       "Each 1 kg contains:",
       "Mannan oligosaccharides160 gm, Vitamin C 48 gm, Betaine hydrochloride 200 gm, Pepsin 1.44 gm, Vitamin E 48 gm, Sodium selenite 3.6 gm, Nucleotides 16 gm, Protein hydrolysate 120 gm",
@@ -434,7 +476,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 16,
+    id: 17,
     name: " ",
     description:
       "Metablu plus is an innovative formulation containing Eugenia jambolana, Acacia arabica and methylene blue nanoparticles with Antiviral, Antibacterial and Antifungal Activity for birds and animals",
@@ -443,7 +485,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Ltr., 5 Ltr. and 50 Ltr. Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Metablu plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/MetaBlu Plus.webp",
     composition: [
       "Each ml contains:",
       "Phytochemical extracts derived from",
@@ -471,7 +513,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 17,
+    id: 18,
     name: "Advanced Mold Inhibitor and Mycotoxin Binder",
     description:
       "Auritox Plus is a new generation mycotoxin binder with advanced action of Beta-glucan and Mannan Oligosaccharide. The Mannan Oligosaccharide converts mycotoxin to non-toxic and harmless metabolites. Mannose sugars influence the immune system by stimulation the secretion of mannose binding protein from liver, which binds to invading bacteria and mycotoxins.",
@@ -480,7 +522,7 @@ const poultry_data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "100 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar 50 Ltr Drum and 200 Ltr Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Auritox Plus.webp",
     composition: [
       "Each 100 ml contains:",
       "Mannan oligosaccharides 160 mg, Sodium potassium tartrate 10 mg, Citric acid 800 mg, Sodium citrate 10 mg, Phosphoric acid 650 mg, Thiamine mononitrate 30 mg, Malic acid 100 mg, Riboflavin 30 mg, Tartaric acid 150 mg, Pyridoxine hydrochloride 200 mg, Disodium EDTA 150 mg, Copper pentasulphate 1 gm, Propylene glycol 10 gm, Saccharomyces cerevisiae 2 gm, Aspartic acid 20 mg."
@@ -497,7 +539,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 18,
+    id: 19,
     name: "Buffered Organic Acids and Emulsifier Solution",
     description:
       "AURICID",
@@ -505,8 +547,8 @@ const poultry_data = [
     type: "Liquid",
     category: "Toxin Binder , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox plus.webp",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/.webp",
+    Productname: "/Assets/Product name/Poultry/AURICID.webp",
     composition: [
       "Each ml contains:",
       "Organic Acids",
@@ -525,7 +567,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 19,
+    id: 20,
     name: "Powerful Toxin Binder",
     description:
       "Auritox-Bio is highly effective toxin binder fortified with Activated Carbon, Calcium Propionate, Sodium Benzoate and MOS to bind Mycotoxins, Reduce liver stress, Improve immunity and performance.",
@@ -534,33 +576,10 @@ const poultry_data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Auritox BIO.webp",
     composition: [
       "Each Kg contains:",
       "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide"
-    ],
-    indications:
-      ["Controls and reduces feed contamination, Bind multiple mycotoxins, Inhibits growth of mold and prevents further mycotoxin production, Increases immunity and reduce stress on liver, Improves laying performance and growth in birds"],
-    usage:
-      ["1 kg per ton of feed for 40 ppm feed mycotoxin concentration, 2 kg per ton of feed for 60 ppm feed mycotoxin concentration, 3 kg per ton of feed for 80 ppm feed mycotoxin concentration, 4 kg per ton of feed for 100 ppm feed mycotoxin concentration"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 20,
-    name: "Powerful Toxin Binder",
-    description:
-      "Auritox-Premium",
-    segment: "Poultry, Swine",
-    type: "Powder",
-    category: "Toxin Binder , Other Specialty",
-    packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
-    composition: [
-      "Each Kg contains:",
-      "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide Extract of Heptoprotective herbs Organic acids"
     ],
     indications:
       ["Controls and reduces feed contamination, Bind multiple mycotoxins, Inhibits growth of mold and prevents further mycotoxin production, Increases immunity and reduce stress on liver, Improves laying performance and growth in birds"],
@@ -580,7 +599,30 @@ const poultry_data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AURI TOX  Premium.webp",
+    composition: [
+      "Each Kg contains:",
+      "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide Extract of Heptoprotective herbs Organic acids"
+    ],
+    indications:
+      ["Controls and reduces feed contamination, Bind multiple mycotoxins, Inhibits growth of mold and prevents further mycotoxin production, Increases immunity and reduce stress on liver, Improves laying performance and growth in birds"],
+    usage:
+      ["1 kg per ton of feed for 40 ppm feed mycotoxin concentration, 2 kg per ton of feed for 60 ppm feed mycotoxin concentration, 3 kg per ton of feed for 80 ppm feed mycotoxin concentration, 4 kg per ton of feed for 100 ppm feed mycotoxin concentration"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 22,
+    name: "Powerful Toxin Binder",
+    description:
+      "Auritox-ultimate",
+    segment: "Poultry, Swine",
+    type: "Powder",
+    category: "Toxin Binder , Other Specialty",
+    packaging: "25 kg Bag",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/Auritox Ultimate.webp",
     composition: [
       "Each Kg contains:",
       "Microalgae diatoms, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide Extract of Heptoprotective herbs, Organic acids, Toxin binding probiotics, Seaweed extract"
@@ -594,7 +636,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 22,
+    id: 23,
     name: "3 -in -1 Organic Toxin Binder",
     description:
       "Mytobi Natura is a blend of hepato - protective, liver cell rejuvenating, nephro - protective, antifungal, antibacterial and anti - oxidant phyto - chemical extracts.Enriched with mannan oligosaccharides and vitamins.",
@@ -603,7 +645,7 @@ const poultry_data = [
     category: "Toxin Binder, Other Specialty",
     packaging: "500 ml, 1 Ltr and 5 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/MytobiNatura.webp",
     composition: [
       "Each liter Contains:",
       "Phytochemical extracts from blend of Andrographis paniculata, Eclipta alba, Terminalia chebula, and",
@@ -615,21 +657,21 @@ const poultry_data = [
       "Mannan oligosaccharide Complex………20 gm"
     ],
     indications:
-      ["MYTOBINATURA Controls mycotoxins and reduces morbidity and early mortality in birds.",
+      ["Mytobi Natura Controls mycotoxins and reduces morbidity and early mortality in birds.",
         "Biotransformation of the toxins through Mannan Oligosaccharides",
         "Protects the liver, kidney and improves their health condition, feed conversion ratio.",
         "Does not interfere with any medication or coccidiostats",
         "Better response during vaccination programmes",
         "Enhances cellular and humoral humanity, improves growth, body weight and egg production."],
     usage:
-      ["0.25 to 0.5 ml of MYTOBINATURA per ltr. of drinking water for 5 to 7 days",
+      ["0.25 to 0.5 ml of MytobiNatura per ltr. of drinking water for 5 to 7 days",
         "During Stress - 0.5 to 1 ml per ltr.of drinking water for 5 to 7 days"],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
-    id: 23,
+    id: 24,
     name: "Innovative And Powerful Mycotoxin Binder",
     description:
       "Acitox",
@@ -638,7 +680,7 @@ const poultry_data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Acitox.webp",
     composition: [
       "Bentonite-montmorillonite 38%",
       "Sepiolite 39%",
@@ -654,7 +696,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 24,
+    id: 25,
     name: "Powerful Mycotoxin Binder and Antioxidant",
     description:
       "Acitox Power",
@@ -663,7 +705,7 @@ const poultry_data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Acitox Power.webp",
     composition: [
       " Bentonite-montmorillonite 21.5% ",
       "Sepiolite 21.5%",
@@ -685,7 +727,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 25,
+    id: 26,
     name: "Powerful Mycotoxin Binder and Immunomodulator",
     description:
       "Acitox FORTE Liquid",
@@ -694,7 +736,7 @@ const poultry_data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Acitox Forte Liquid.webp",
     composition: [
       "Each ltr contains:",
       "Citric acid monohydrate 60 gm, Phosphoric acid 60 gm, Lactic acid 20 gm, Biotin 0.015 gm, Nicotinamide 1 gm, Calcium chloride 3 gm, Potassium Iodide 0.046 gm, Sodium Selenite 0.788 gm, Zinc chloride 3.2 gm, Ferric chloride 3 gm, Magnesium chloride hexahydrate 2.5 gm, Manganese chloride 6.31 gm, Copper sulphate 0.32 gm, Cobalt sulphate 0.0338 gm, Vitamin B 1 gm, Vitamin B 0.06 gm,  Vitamin B 0.8 gm, Vitamin B 0.006  gm, Yeast extract 20 gm  (Saccharomyces cerevisiae 4.125x10 CFU, equivalent to 0.12 gm Nitrogen content) Protein hydrolysate (40% Amino acid, 20 gm Nitrogen from Amino acid)"
@@ -709,7 +751,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 26,
+    id: 27,
     name: "An Ideal Mycotoxin Binder Enriched with Activated Carbon & MOS",
     description:
       "Acitox-Bio is a multifunctional broadspectrum mycotoxin binder formulated to combat the toxic secondary metabolites produced by certain fungi and mould species and to protect the poultry from their ill effects.",
@@ -718,7 +760,7 @@ const poultry_data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/S.webp",
     composition: [
       "Each Kg contains:",
       "HSCAS…………………………………760 gm",
@@ -737,7 +779,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 27,
+    id: 28,
     name: "Super Anti-oxidant and Immunomodulator",
     description:
       "Aurovita is a strong anti-oxidant and immuno-modulator enriched with Vitamin E, Selenium, Vitamin A, D3, Grape polyphenol and Biotin. Aurovita provides powerful stress buster, performance enhancer and immuno-stimulant efficacy to improve health and growth even during periods of stress and disease challenges",
@@ -746,7 +788,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurovita.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AuroVita.webp",
     composition: [
       "Aurovita",
       "Each 100 gm contains:",
@@ -764,7 +806,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 28,
+    id: 29,
     name: "Electrolytes for Heat Stress",
     description:
       "Aurilyte is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
@@ -773,7 +815,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurilyte.webp",
     composition: [
       "Each kg contains:",
       "Sodium chloride 257 gm",
@@ -802,7 +844,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 29,
+    id: 30,
     name: "Electrolytes for Heat Stress",
     description:
       "Aurilyte PLUS is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
@@ -811,7 +853,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurilyte Plus.webp",
     composition: [
       "Each 100 gm contains:",
       "Sodium chloride 0.8 gm",
@@ -838,7 +880,31 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 30,
+    id: 31,
+    name: "Premium Liver Tonic",
+    description:
+      "Aurilyte Vet is an advance liver tonic fortified with L-Carnitine and Cynarin extract to support liver health and reduce the risk of liver conditions like fatty liver syndrome. L-Carnitine plays a key role in maintaining liver function due to its effect on lipid metabolism. It transports fatty acids into mitochondria for oxidation and also buffers excess acetyl CoA away from mitochondria. Cynarin extract have hepato-protective effects. It inhibits the biosynthesis of hepato-cholesterol and improves the bile secretion. Choline acts as a lipotrophic substance. Choline and Methionine deficiency increases the risk of Fatty liver as their deficiency causes the synthesis of very-low-density-lipoproteins (VLDL).",
+    segment: "Poultry, Livestock",
+    type: "Liquid",
+    category: "Liver Stimulant , Other Specialty",
+    packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/S.webp",
+    composition: [
+      "Each 100 ml contains.",
+      "Sorbitol 20 gm, L-Carnitine 2.5 gm, Cynarin extract 500 mg, DL-Methionine 1 gm, Choline chloride 1.875 gm, Magnesium sulphate 1 gm"
+    ],
+    indications:
+      ["Improves fat metabolism and supports prevention of fatty liver condition and liver dysfunction",
+        "Increases the supply of free fatty acids in blood"],
+    usage:
+      ["For oral administration via feed or drinking water. Cattle & Horse: 15 ml per 100 kg body weight for 5 to 7 days. Sheep & Goat: 7.5 ml per 25 kg body weight for 5 to 7 days. Mixed with feed, the product should be used immediately. Medicated drinking water should be used within 24 hours. In case of increased or lowered water intake, adjust the medication concentrations accordingly. For Poultry: For oral administration via feed or drinking water. Poultry: 750 ml per 2000 ltr. of drinking water for 5 to 7 days. Mixed with feed, the product should be used immediately. Medicated drinking water should be used within 24 hours. In case of increased or lowered water intake, adjust the medication concentrations accordingly."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 32,
     name: "Organic Glycine Chelated Trace Minerals for Superior Performance",
     description:
       "A Premium Chelated Mineral Blend fortified with potentiated probiotics for Broilers, Layers and Breeders. Chelamin Forte contains highly bioavailable glycinate chelates along with nutritive minerals and probiotics for help ameliorating skeletal & muscular growth/ strength, carcass quality, physiological function, egg & shell quality, fertility, immunity, FCR index etc.",
@@ -847,7 +913,7 @@ const poultry_data = [
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "25 Kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Chelamin Forte.webp",
     composition: [
       "NUTRITIONAL VALUE PER 5 Kg",
       "Copper Glycinate 330g, Ferrous Glycinate 1650g , Manganese Glycinate 1310g , Zinc Glycinate 1500g, Organic Chromium 50mg, Lodine 10g, Cobalt 2500mg, Selenium 2500mg, Molybdenum 7.25 ppm, Lactobacillus sporogenes 1000 million, Saccharomyces cerevisiae 300 billion, Aspergillus oryzae 1000 million"
@@ -863,7 +929,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 31,
+    id: 33,
     name: "Premium Nutrient Growth Promoter",
     description:
       "Neuna premium",
@@ -871,8 +937,8 @@ const poultry_data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "2.2 Kg Pet Jar  25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
+    Productname: "/Assets/Product name/Poultry/Neuna Premium.webp",
     composition: [
       "Contains high concentrations of:",
       "Vitamin A, D and E (coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc (MHA), Organic Chromium, Selenium, Magnesium and Iodine, Esterified Butyrate, Phytase, Beta glucan and Mannan oligosaccharide, Bacillus subtilis, Bacillus licheniformis, Lactobacillus sporogenes, Saccharomyces cerevisiae, Microbial Lysozyme Energy booster complex, Phytobio Calphos® and Grape polyphenols extract."
@@ -888,7 +954,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 29,
+    id: 34,
     name: "Carbon Technology Nano Minerals",
     description:
       "NeunaMin Power Total is innovative blend of Carbon Technology based 7 Nano Minerals to enhance Growth Performance, Egg quality, immunity and reduces heat stress in poultry.",
@@ -897,7 +963,7 @@ const poultry_data = [
     category: "Vitamins, Minerals and Electrolytes",
     packaging: "1 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/NeunaMin Power Total.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Neunamin Power.webp",
     composition: [
       "Each kg contains:",
       "Zinc Neunamin…………………………………..1,00,000 PPM",
@@ -926,7 +992,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 30,
+    id: 35,
     name: "Herbal Liver Stimulant and Tonic",
     description:
       "Livauro is a purely herbal liver stimulant formulation with high quality phyto-chemical extracts to support liver health and reduce the risk of liver disorders.",
@@ -935,7 +1001,7 @@ const poultry_data = [
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Livauro.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Livauro.webp",
     composition: [
       "Each 10 ml contains:",
       "Extract derived from Andrographis paniculata 400 mg, Tephrosia purpurea 200 mg, Boerhavia diffusa 100 mg, Eclipta alba 200 mg, Picrorhiza kurroa 56 mg, Cichorium intybus 100 mg, Phyllanthus niruri 200 mg"
@@ -952,7 +1018,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 31,
+    id: 36,
     name: "Premium Herbal Liver Stimulant and Protectant",
     description:
       "LivauroForte is a purely herbal and advanced liver stimulant formulation with high quality phyto-chemical extracts to support liver health and reduce the risk of liver disorders.",
@@ -961,7 +1027,7 @@ const poultry_data = [
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Livauroforte.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Livauro Forte.webp",
     composition: [
       "Each 5 ml contains extracts derived from:",
       "Andrographis paniculata 800 mg, Eclipta alba 600 mg, Phyllanthus niruri 500 mg, Boerahavia diffusa 400 mg, Picrorhiza kurroa 225 mg, Cichorium intybus 200 mg, Tephrosia purpurea 1000 mg, Aqueous base q.s."
@@ -978,7 +1044,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 5,
+    id: 37,
     name: "Premium Herbal Liver Stimulant and Protectant",
     description:
       "LivauroForte Dry is a purely herbal liver stimulant formulation in a dry powder form with high quality phyto-chemical extracts to support liver health and reduce the risk of liver disorders.",
@@ -987,7 +1053,7 @@ const poultry_data = [
     category: "Liver Stimulant , Other Specialty",
     packaging: "25 Kg bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/S.webp",
     composition: [
       "Each 5 gm contains extracts derived from:",
       "Andrographis paniculata 5600 mg",
@@ -1010,7 +1076,63 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 34,
+    id: 38,
+    name: "Unique Supplement for Fatty Liver Syndrome ",
+    description:
+      "Neuliva",
+    segment: "Poultry",
+    type: "Liquid",
+    category: "Other Specialty",
+    packaging: "500 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuliva.webp",
+    Productname: "/Assets/Product name/Poultry/Neuliva.webp",
+    composition: [
+      "Each 30 ml contains:",
+      "Phosphatidyl choline 300 mg, Inositol 100 mg, Sorbitol 25 mg, Yeast extract 300 mg, DL Methionine 750 mg, Betaine HCL 120 mg, Calcium lactate 300 mg, Vitamin E 60 IU, Selenium 20 mcg, Thiamine 5 mg, Riboflavin 7.5 mg, Nicotinic acid 20 mg, Cyanocobalamin 30 mcg, Biotin 30 mcg, Grape polyphenols eq. to 30 IU of Vitamin E activity"
+    ],
+    indications:
+      ["Over weight flock with sudden drop in egg production, pale head skin and sudden death conditions.",
+        "Neuliva is recommended to prevent fatty liver syndrome and also used to reduce severity of symptoms. As an aid to support faster recovery from the condition."],
+    usage:
+      ["Through oral route Birds",
+        "Chicks: 5 ml daily per 100 birds",
+        "Growers: 10 ml daily per 100 birds",
+        "Layers : 15 ml daily per 100 birds",
+        "Broilers : 20 ml daily per 100 birds",
+        "Breeders : 20 ml daily per 100 birds"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 39,
+    name: "Premium liver tonic",
+    description:
+      "Auriliv vet",
+    segment: "Poultry",
+    type: "Liquid",
+    category: "Other Specialty",
+    packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Natuchol.webp",
+    Productname: "/Assets/Product name/Poultry/Aurili Vet.webp",
+    composition: [
+      "Each 100 ml contains.",
+      "Sorbitol 20 gm, L-Carnitine 2.5 gm, Cynarin extract 500 mg, DL-Methionine 1 gm, Choline chloride 1.875 gm, Magnesium sulphate 1 gm"
+    ],
+    indications:
+      ["Improves fat metabolism and supports prevention of fatty liver condition and liver dysfunction.",
+        "Increases the supply of free fatty acids in blood."],
+    usage:
+      ["For oral administration via feed or drinking water.",
+        "Poultry: 750 ml per 2000 ltr. of drinking water for 5 to 7 days.",
+        "Mixed with feed, the product should be used immediately.",
+        "Medicated drinking water should be used within 24 hours. In case of increased or lowered water intake, adjust the medication concentrations accordingly."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 40,
     name: "",
     description:
       "Natuchol is a blend of natural bioavailable Choline in conjugated form enriched with hepatostimulant, hepatoprotective herbs and chromium that help in maintaining liver functions, promotes adequate protein synthesis, scavenging oxygen free radicals, promotes regeneration of damage tissues and cells, protects from stress condition, maintains fertility and improves immunity in poultry.",
@@ -1019,7 +1141,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "25 kg Bags",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Natuchol.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Natuchol.webp",
     composition: [
       "Each pack contains",
       "Phosphatidyl choline",
@@ -1042,7 +1164,34 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 35,
+    id: 39,
+    name: "Complete Gut Health Formula",
+    description:
+      "Auripro Plus is a powerful combination of effective probiotic strains, enzymes and vitamins providing a wide range of gut support, improving FCR, digestibility and absorption.",
+    segment: "Poultry, Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "100 gm 1 kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/S.webp",
+    composition: [
+      "Each kg contains:",
+      "Vitamin B1 5 gm, Vitamin B6 5 gm, Vitamin C 10 gm, Alpha-amylase 10,00,000 IU, Protease 1,00,000 IU, Phytase 10,000 IU, Cellulase 1,00,000 IU, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Aspergillus oryzae, Saccharomyces boulardii, Aspergillus niger",
+      "(Total probiotic count NLT 3500 Billion CFU)"
+    ],
+    indications:
+      ["Improves gut health for enhanced growth and production.",
+        "Increases digestibility and enhances nutrient absorption.",
+        "Improves health, body weight gain and FCR.",
+        "Supports body immunity and reduces mortality. Enriched with Fish attractant flavor."],
+    usage:
+      ["Inclusion rate: In mash feed, Layer/Breeder/ Grower: 125 g/ton of feed. For Layer: 75-125 g/ton of feed. For Aqua: Mixing Ratio: (Gm/Kg of feed) For disease resistance: Fish: 1-2 gm Giant river prawn: 2-3 gm Tiger prawn: 4-5 gm For Therapeutic support: Fish: 2-3 gm Giant river prawn: 4-5 gm Tiger prawn: 6-8 gm"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 40,
     name: "Complete gut care with synbiotics",
     description:
       "Auripro Gut WS is a full-spectrum cocktail of extremely effective probiotic strains, fortified with Mannan Oligosaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
@@ -1051,7 +1200,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "100 gm 1 kg and 25 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auripro gut ws.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/S.webp",
     composition: [
       "Each kg contains:",
       "Mannan oligosaccharides 720 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus (Probiotic count is 3,000 Billion CFU per kg)"
@@ -1068,7 +1217,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 36,
+    id: 41,
     name: "Complete gut care with synbiotics",
     description:
       "Auripro Gut is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
@@ -1077,7 +1226,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "100 gm 1 kg and 25 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auripro gut.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Auripro gut.webp",
     composition: [
       "Each kg contains:",
       "Beta Glucan & MOS Complex 900 gm",
@@ -1095,7 +1244,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 40,
+    id: 42,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins and essential oils for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -1104,7 +1253,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurida.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts derived from",
@@ -1130,7 +1279,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 41,
+    id: 43,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -1139,7 +1288,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "500 gm, 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurida Pro.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts derived from:",
@@ -1163,7 +1312,29 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 42,
+    id: 44,
+    name: "Enzyme Premix",
+    description:
+      "Auriphos is an advanced granular premix of thermo tolerant and pH stable phytase enzyme for better phosphorus absorption through feed. Auriphos is fortified with side activity of cellulase, hemicellulase, beta glucanase, fungal amylase and glucomylase.",
+    segment: "Poultry, Aqua",
+    type: "Powder",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "500 gm , 1 kg & 25 kg bag",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/S.webp",
+    composition: [
+      "Phytase enzyme 10000 FYT/ gm"
+    ],
+    indications:
+      ["Advanced thermo-tolerant Phytase enzyme (Phosphohydrolase) to release the organic phosphorus in feed for better phosphorus absorption Better stability in extreme range of pH Increases bioavailability of Ca, Zn, Cu, Mg & other minerals Increases digestibility of proteins & amino acids"],
+    usage:
+      ["Poultry: Layer, Broiler and Grower 40-50 gm/ Ton of feed Swine: Swine- 40-50 gm ton of feed"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 45,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -1172,7 +1343,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "500 gm, 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurida Power.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts derived from:",
@@ -1200,7 +1371,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 43,
+    id: 46,
     name: "Mucolytic and Bronchodilator",
     description:
       "AuroRD is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
@@ -1209,7 +1380,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "500 gm Pack, 1 kg pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AuroRD.webp",
     composition: [
       "Each Kg essential oil contains-",
       "Vitamin A Palmitate 60,00,000 IU",
@@ -1241,7 +1412,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 44,
+    id: 47,
     name: "Powerful Mucolytic and Bronchodilator",
     description:
       "AuroRD DS is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
@@ -1250,7 +1421,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "500 gm Pack 1 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD-DS.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AuroRD DS.webp",
     composition: [
       "Each Kg essential oil contains-",
       "Vitamin A Palmitate 1,00,00,000 IU, Vitamin D3 40,00,000 IU, Eucalyptus oil (1-8 cineole, Limonene) 125 gm, Holy basil oil (Eugenol, Linalool) 50 gm, Peppermint oil(Menthol, 1-8 cineole) 250 gm, Clove oil (Eugenol) 10 gm, Thyme oil (Thymol) 10 gm, Lemon oil (Linalool, Limonene) 2 gm, Camphor oil (Linalool, 1-8 cineole) 20 gm, Ginger oil (Zingiberene) 5 gm"
@@ -1266,7 +1437,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 45,
+    id: 48,
     name: "Powerful Silver nanoparticles with unique biopolymer for water treatment only",
     description:
       "Aurisil is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
@@ -1275,7 +1446,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "500 ml 1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurisil.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurisil.webp",
     composition: [
       "Each 100 ml contains:",
       "Silver Nano Particles 2500 ppm.",
@@ -1293,7 +1464,36 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 46,
+    id: 49,
+    name: "Micro-encapsulated Probiotic Formulation.",
+    description:
+      "Unique Blend of Microencapsulated Bacillus Probiotics for Mesh, Pallet and Crumble Feed. Probicap 4S is a highly concentrated, high performance and most affordable probiotic formulation for pellet feed manufacturers. Probicap 4S provides prevention against bacterial, fungal and protozoal diseases as well as strong immunomodulatory effect for poultry, swine and aqua species.",
+    segment: "Poultry, Swine and Aqua",
+    type: "Powder",
+    category: "Nutrition Supplement",
+    packaging: "1 Kg and 25 Kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Probicap-4S.webp",
+    Productname: "/Assets/Product name/Poultry/S.webp",
+    composition: [
+      "Each gm contains:",
+      "Bacillus Subtilis",
+      "Bacillus Licheniformis",
+      "Bacillus Coagulans",
+      "Paenibacillus Polymyxa (Total 100 billion cfu viable probiotic cells per gm)"
+    ],
+    indications:
+      [" Unique microencapsulation technology to provide viable, effective and stable probiotic. Thermostable probiotic to withstand up to 950 C Temperature for 1 minute.",
+        "Resistance to moisture up to 12%. Acid tolerant in low-pH condition and bile tolerant.",
+        "Provides high number of viable and metabolically active cell.",
+        "Highly suitable as feed mix specially for pellet and crumble feed where probiotics gets destroyed due to high temperature and moisture."],
+    usage:
+      ["Poultry and Aqua- 10 gm to 20 gm per ton as support to disease resistance and prevention of bacterial, protozoal, fungal and viral diseases, higher breeding efficiency and growth of poultry, fish and shrimp Or as per recommendation by Poultry/ Aquaculture Specialist."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 50,
     name: "A Unique Non-Antibiotic Growth Promoter Enriched with Micro-encapsulated Essential oils",
     description:
       "Essenol WS is a unique water soluble non-antibiotic growth promoter enriched with micro-encapsulated essential oils to prevent and control bacterial and coccidial infections in poultry.",
@@ -1302,7 +1502,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Essenol WS.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Essenol WS.webp",
     composition: [
       "Each kg Contains:",
       "Thymol 3500 mg, Terpinene-4-ol 2400 mg, 1,8-Cineole 800 mg, Carvacrol 375 mg, Vitamin A 16,00,000 IU,",
@@ -1319,7 +1519,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 47,
+    id: 51,
     name: "Unique Blend of Essential Oils with Anti-Bacterial and Anti-Coccidial Effects",
     description:
       "Olbac is a unique essential oil blend to prevent and control bacterial and coccidial infections in poultry.",
@@ -1328,7 +1528,7 @@ const poultry_data = [
     category: "Immunomodulator , Other Specialty, Antibacterial",
     packaging: "250 gm 1 Kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Olbac.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Olbac.webp",
     composition: [
       "Each 100 gm of Essential oil contains:",
       "Thymol 7900 mg, Terpinene-4-ol 5400 mg, 1,8-Cineole 1800 mg, Carvacrol 850 mg, Vitamin A 40,00,000 IU, Vitamin D3 16,00,000 IU."
@@ -1349,7 +1549,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 48,
+    id: 52,
     name: "Supportive Therapy for Bacterial and Coccidial Infections",
     description:
       "Coccibac is a powerful essential oil blend to effectively support the therapy against clinical coccidiosis and bacterial infections.Coccibac also reduces the chance of disease recurrence.",
@@ -1358,7 +1558,7 @@ const poultry_data = [
     category: "Immunomodulator, Antibacterial, Other Specialty",
     packaging: " 250 ml 500 ml 1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/S.webp",
     composition: [
       "Each 100 gm contains:",
       "1 - 8 cineole 3900 mg",
@@ -1378,7 +1578,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 49,
+    id: 53,
     name: "A multi - purpose enzyme",
     description:
       "Unilyza contains Lysozyme, a natural anti - microbial enzyme found in all living organisms having diverse role starting from digestion to immune response.Unilyz Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal / poultry feed in order to reduce the perceived risk of anti - microbial resistance in human and animal populations.",
@@ -1386,8 +1586,8 @@ const poultry_data = [
     type: "Powder, Liquid",
     category: "Enzyme, Other Specialty",
     packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Unilyz Penta.webp",
+    Productname: "/Assets/Product name/Poultry/Unilyz Penta.webp",
     composition: [
       "Each gm contains:",
       "Microbial Lysozyme 3, 50,000 units",
@@ -1417,7 +1617,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 50,
+    id: 54,
     name: "Unique Probiotic-Enzyme Formulation",
     description:
       "Advanced Combination of Immunomodulator Probiotics, Thermo-tolerant and pH Stable Cocktail Enzyme",
@@ -1426,7 +1626,7 @@ const poultry_data = [
     category: "Enzymes , Other Specialty",
     packaging: "5 Kg Pack, 10 kg Pack, 15 kg Bucket",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Probizyme.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Probizyme.webp",
     composition: [
       "Each gm contains:",
       "Bacillus subtilis 30 million CFU, Bacillus licheniformis 30 million CFU, Lactobacillus acidophillus 10 million CFU, Saccharomyces boulardii 5 million CFU, Alpha amylase 400 FAU, Pectinase 2000 PGU, Cellulase 6000 CU, Phytase 400 FTU, Acid protease 500 HUT, Lipase 1200 lU, Glucanase 500 BU, Hemicellulase 150 HCU, Xylanase 9000 XU"
@@ -1442,7 +1642,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 52,
+    id: 55,
     name: "Advanced Cocktail Enzyme Formulation",
     description:
       "Aurizyme is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
@@ -1451,7 +1651,7 @@ const poultry_data = [
     category: "Enzyme , Other Specialty",
     packaging: "1 kg 2.5 kg 25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurizyme.webp",
     composition: [
       "Each 100 gm contains:",
       "Alpha amylase…………….40000 unit",
@@ -1481,6 +1681,84 @@ const poultry_data = [
   },
   {
     id: 56,
+    name: "Enzyme Premix",
+    description:
+      "AuriPhytase",
+    segment: "Poultry, Swine",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "25 kg Bag",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/Auri Phytase.webp",
+    composition: [" Phytase enzyme 10000 FYT/ gm"],
+    indications:
+      [" Advanced thermo-tolerant Phytase enzyme (Phosphohydrolase) to release the organic phosphorus in feed for better phosphorus absorption Better stability in extreme range of pH Increases bioavailability of Ca, Zn, Cu, Mg & other minerals Increases digestibility of proteins & amino acids"],
+    usage:
+      ["Layer, Broiler and Grower 40-50 gm/ Ton of feed"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 57,
+    name: "Liquid Curcumin Supplement",
+    description:
+      "Curino plus vet",
+    segment: "Poultry, Swine",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "50 kg Drum 200 kg Drum",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/Curino Plus Vet.webp",
+    composition:
+      [
+        "Each kg contains:",
+        "Curcumin 100 gm",
+        "Piperine 7 gm",
+        "Turmerone 140 gm",
+        "Capsaicin 10,00,000 SHU"
+      ],
+    indications:
+      ["Reduces heat stress Prevention from harmful effects of aflatoxins consumed together with diet. ",
+        "Increase of antibody titers after vaccination (e.g., against Newcastle disease)",
+        "Adjunct to antibiotics and anti-coccidials"],
+    usage:
+      ["For stress prevention & Growth:- 1 kg for 1000 ltr. of drinking water for 5000 birds.",
+        "As supportive therapy:- 3 kg for 1000 ltr. of drinking water for 5000 birds.",
+        "For pellets production:- 2-5 kg per ton."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 58,
+    name: " Turmeric Oil",
+    description:
+      "Curino vet",
+    segment: "Poultry, Swine",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "50 kg Drum 200 kg Drum",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/Curino vet.webp",
+    composition:
+      [
+        "Each kg contains: Curcumin 70 gm"
+      ],
+    indications:
+      ["Reduces heat stress Prevention from harmful effects of aflatoxins consumed together with diet. ",
+        "Increase of antibody titers after vaccination (e.g., against Newcastle disease)",
+        "Adjunct to antibiotics and anti-coccidials"],
+    usage:
+      ["For stress prevention & Growth:- 1 kg for 1000 ltr. of drinking water for 5000 birds.",
+        "As supportive therapy:- 3 kg for 1000 ltr. of drinking water for 5000 birds.",
+        "For pellets production:- 2-5 kg per ton."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 59,
     name: "High Quality Pellet Binder",
     description:
       "Aurobind is combination of calcium sulphate and guar gum. Guar gum is a natural plant gum that rapidly binds the grist into a flexible matrix to give good flowability, lubricating the die and improving durability. This allows pellets to withstand the abrasions of sieving, cooling, handling and transportation.",
@@ -1489,7 +1767,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "25 kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
     composition: [
       "Contains : Calcium sulphate,Guar gum"
     ],
@@ -1503,7 +1781,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 57,
+    id: 60,
     name: "Supports Metabolic Activation",
     description:
       "Phosbol is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in birds and animals.",
@@ -1512,7 +1790,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "100 gm, 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Phosbol.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Phosbol.webp",
     composition: [
       "Each gm contains:",
       "Butaphosphan INN 100 mg",
@@ -1532,7 +1810,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 58,
+    id: 61,
     name: "Highly Bioavailable Natural Pigments",
     description:
       "Yeco Nanophosphosome is a nano emulsified Lutein-Zeaxanthin Phosphatidylcholine Ethanolamine-Inositol-Serine Complex enriched with bioenhancer and metabolic potentiator technology. Yeco Nanophosphosome (Lutein-Zeaxanthin Nanophosphosome) easily crosses the gut barrier resulting in significantly higher blood levels of lutein and zeaxanthin. potentiated phospholipid complex acts as carrier mediated transport system, which directs lutein and zeaxanthin to reach the systemic circulation with enhanced bioavailability. Bioenhancer and metabolic potentiator technology enhances the permeability of intestinal microvilli and improves absorption as well prevents it’s metabolic reduction through invention of P-gp, CYP3AG and UGT Yeco Nanophosphosome provides consistent and uniform color for egg yolk, broiler skin and improves health and immunity.",
@@ -1541,7 +1819,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Yeco Nanophosphosome.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Yeco.webp",
     composition: [
       "Each kg contains:",
       "Lutein-Zeaxanthin Nanophosphosome",
@@ -1571,7 +1849,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 59,
+    id: 62,
     name: "A Potentiated Formulation of Bio-Surfactant & Emulsifier",
     description:
       "Aurol is a unique potentiated and controlled combination of biological and semi-synthetic emulsifiers such as Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene glycol Ricinoleate (PEGR), which makes it a natural biosurfactant and emulsifier. Aurol can be applied to significantly improve the animal performance by boosting feed utilization in the body.",
@@ -1580,7 +1858,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurol.webp",
     composition: [
       "Aurol is a unique and carefully controlled combination of Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene Glycol Ricinoleate (PEGR)."
     ],
