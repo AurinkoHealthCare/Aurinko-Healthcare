@@ -9,7 +9,7 @@ const Swine_Data = [
     category: "Enzyme , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
     Productimg: "/Assets/Product images/Veterinary/Poultry/AURIZYME.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurizyme.webp",
     composition: [
       "Each litre contains:",
       "Alpha amylase 250000 FAU, Pectinase 30000 PGU, Cellulase 10000000 CU, Arabinase 7000 units, Acid protease 400000 HUT, Lipase 6500 IU, Beta glucanase 10000 units, Alpha galactosidase 10000 units, Xylanase 1500000 XU, β-mannanase 10000 U, Phytase 68000 FTU"
@@ -99,7 +99,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurida.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts derived from",
@@ -136,7 +136,7 @@ const Swine_Data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "500 ml Pack 1 L Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua forte.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Vitoaqua Forte.webp",
     composition: [
       "Each Litre contains:",
       "Vitamin B1 7000 mg",
@@ -171,7 +171,7 @@ const Swine_Data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "100 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Auritox Plus.webp",
     composition: [
       "Each 100 ml contains:",
       "Mannan oligosaccharide",
@@ -204,7 +204,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "500 gm Pack, 1 kg pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AuroRD.webp",
     composition: [
       "Each kg contains:",
       "Vitamin A palmitate 60,00,000 IU",
@@ -240,7 +240,7 @@ const Swine_Data = [
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "25 Kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/CHELAMIN FORTE.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Chelamin Forte.webp",
     composition: [
       "NUTRITIONAL VALUE PER 5 Kg",
       "Copper Glycinate 330g, Ferrous Glycinate 1650g",
@@ -270,7 +270,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "500 ml 1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurisil.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurisil.webp",
     composition: [
       "Each 100 ml contains:",
       "Silver Nano Particles 2500 ppm."
@@ -298,7 +298,7 @@ const Swine_Data = [
     category: "Immunomodulator, Antibacterial , Other Specialty",
     packaging: "250 gm 1 Kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Olbac.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Olbac.webp",
     composition: [
       "Each 100 gm of Essential oil contains:",
       "Thymol 7900 mg, Terpinene-4-ol 5400 mg, 1,8-Cineole 1800 mg, Carvacrol 850 mg, Vitamin A 40,00,000 IU, Vitamin D3 16,00,000 IU."
@@ -326,7 +326,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Gutforte ws.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
     composition: [
       "Each kg contains:",
       "Beta-glucan 162 gm, Mannan oligosaccharides 162 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici",
@@ -357,7 +357,7 @@ const Swine_Data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "500 ml, 1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurimune.webp",
     composition: [
       "Each Litre contains:",
       "β- Glucan-MOS complex 25 gm, Vitamin C 6000 mg, Betaine hydrochloride 25000 mg, Vitamin E 9000 mg, Sodium selenite 2250 mg, Pepsin 180 mg, Nucleotides 2000 mg, Protein hydrolysate 40% 37500 mg",
@@ -385,7 +385,7 @@ const Swine_Data = [
     category: "Enzyme , Other Specialty",
     packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Poultry/UNILYZ Penta.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Unilyz Penta.webp",
     composition: [
       "Each kg contains:",
       "Lysozyme HCl 5000 FIP unit/mg, Vitamin A 2500000 IU, Vitamin D3 1000000 IU, Vitamin E 75000 IU, Selenium 200 mg, Vitamin C 80 gm",
@@ -414,7 +414,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "1 Kg 25 Kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurilyte Plus.webp",
     composition: [
       "Each 100 gm contains:",
       "Sodium chloride 0.8 gm",
@@ -444,30 +444,6 @@ const Swine_Data = [
   },
   {
     id: 15,
-    name: "High Quality Pellet Binder",
-    description:
-      "Aurobind is combination of calcium sulphate and guar gum. Guar gum is a natural plant gum that rapidly binds the grist into a flexible matrix to give good flowability, lubricating the die and improving durability. This allows pellets to withstand the abrasions of sieving, cooling, handling and transportation.",
-    segment: "Swine,Poultry",
-    type: "Gel",
-    category: "Other Specialty",
-    packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
-    Productname: " ",
-    composition: [
-      "Phytase enzyme 10000 FYT/ gm"
-    ],
-    indications:
-      [
-        "Advanced thermo-tolerant Phytase enzyme (Phosphohydrolase) to release the organic phosphorus in feed for better phosphorus absorption Better stability in extreme range of pH Increases bioavailability of Ca, Zn, Cu, Mg & other minerals Increases digestibility of proteins & amino acids."
-      ],
-    usage:
-      ["Poultry: Layer, Broiler and Grower 40-50 gm/ Ton of feed Swine: Swine- 40-50 gm ton of feed."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 16,
     name: "Super Anti-oxidant and Immunomodulator",
     description:
       "Aurovita is a strong anti-oxidant and immuno-modulator enriched with Vitamin E, Selenium, Vitamin A, D3, Grape polyphenol and Biotin. Aurovita provides powerful stress buster, performance enhancer and immuno-stimulant efficacy to improve health and growth even during periods of stress and disease challenges",
@@ -476,7 +452,7 @@ const Swine_Data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Kg Pack 25 Kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurovita.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AuroVita.webp",
     composition: [
       "Aurovita",
       "Each 100 gm contains:",
@@ -496,7 +472,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 17,
+    id: 16,
     name: "Powerful Mucolytic and Bronchodilator",
     description:
       "AuroRD DS is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
@@ -505,7 +481,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "500 gm Pack 1 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD-DS.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/AuroRD DS.webp",
     composition: [
       "Each Kg essential oil contains -",
       "Vitamin A Palmitate 1,00,00,000 IU, Vitamin D3 40,00,000 IU, Eucalyptus oil(1 - 8 cineole, Limonene)125 gm, Holy basil oil(Eugenol, Linalool) 50 gm, Peppermint oil(Menthol, 1 - 8 cineole) 250 gm, Clove oil(Eugenol) 10 gm",
@@ -526,7 +502,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 18,
+    id: 17,
     name: "Premium Herbal Liver Stimulant and Protectant",
     description:
       "LivauroForte is a purely herbal and advanced liver stimulant formulation with high quality phyto-chemical extracts to support liver health and reduce the risk of liver disorders.",
@@ -535,7 +511,7 @@ const Swine_Data = [
     category: "Liver Stimulant , Other Specialty",
     packaging: "500 ml Bottle 1 litre Bottle 5 litre Jar 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Livauroforte.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Livauro Forte.webp",
     composition: [
       "Each 5 ml contains extracts derived from:",
       "Andrographis paniculata 800 mg, Eclipta alba 600 mg, Phyllanthus niruri 500 mg, Boerahavia diffusa 400 mg, Picrorhiza kurroa 60 mg, Cichorium intybus 200 mg, Tephrosia purpurea 1000 mg, Aqueous base q.s."
@@ -554,7 +530,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 19,
+    id: 18,
     name: "All Natural Non-Antibiotic Growth Promoter",
     description:
       "Aurigrow is a unique non-antibiotic growth promoter fortified with phytochemicals, nucleotides, vitamins, minerals, FOS and organic acids to ensure potent antibacterial and antifungal action, improve immunity, egg production and aquaculture yield.",
@@ -563,7 +539,7 @@ const Swine_Data = [
     category: "Performance Enhancer , Immunomodulator",
     packaging: "100 gm and 500 gm HDPE bottle",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigrow.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurigrow.webp",
     composition: [
       " "
     ],
@@ -580,7 +556,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 20,
+    id: 19,
     name: "Micro-encapsulated Probiotic Formulation.",
     description:
       "Unique Blend of Microencapsulated Bacillus Probiotics for Mesh, Pallet and Crumble Feed. Probicap 4S is a highly concentrated, high performance and most affordable probiotic formulation for pellet feed manufacturers. Probicap 4S provides prevention against bacterial, fungal and protozoal diseases as well as strong immunomodulatory effect for poultry, swine and aqua species.",
@@ -588,8 +564,8 @@ const Swine_Data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Unique Blend.webp",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Probicap-4S.webp",
+    Productname: "/Assets/Product name/Aqua/Oprobicap-4S.webp",
     composition: [
       "Each gm contains:",
       "Bacillus Subtilis",
@@ -612,7 +588,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 21,
+    id: 20,
     name: "High Quality Pellet Binder",
     description:
       "Aurobind is combination of calcium sulphate and guar gum. Guar gum is a natural plant gum that rapidly binds the grist into a flexible matrix to give good flowability, lubricating the die and improving durability. This allows pellets to withstand the abrasions of sieving, cooling, handling and transportation.",
@@ -620,8 +596,8 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
     composition: [
       "Contains:",
       "Calcium sulphate",
@@ -639,7 +615,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 22,
+    id: 21,
     name: "Broad Spectrum, Powerful yet Safe Biocide",
     description:
       "Pondcure Plus is broad spectrum, powerful and safe biocide with potent oxidizing action against all major microbes. It may be used for aerial, surface or water system sanitization. Pondcure is suitable for aquaculture, swine and poultry applications",
@@ -647,8 +623,8 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "500 gm pack",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Pondcure Plus.webp",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondcure Plus.webp",
+    Productname: "/Assets/Product name/Aqua/Pondcure Plus.webp",
     composition: [
       "Contains:",
       "Potassium monosulphate compound………..49.8 % w / w",
@@ -669,7 +645,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 23,
+    id: 22,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -678,7 +654,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurida Power.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts derived from:",
@@ -707,7 +683,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 24,
+    id: 23,
     name: "Performance Enhancer & Growth Stlmulator",
     description:
       "Nomino is an advanced combination of organic minerals, essential amino acids, nucleotides, vitamins, electrolytes, fatty acids and grape polyphenols to improve immunity, alleviate stress, improve growth and production in birds and animals.",
@@ -715,8 +691,8 @@ const Swine_Data = [
     type: "Liquid",
     category: "Performance Enhancer , Nutrition Supplement",
     packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Nomino.webp",
-    Productname: " ",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Nomino.webp",
+    Productname: "/Assets/Product name/Livestock/Nomino.webp",
     composition: [
       "Each gm contains:",
       "Vitamin A 500,000 IU, Vitamin D3 75,000 IU, Vitamin E 10,000 mg, Vitamin B1 1, 250 mg, Vitamin B2 500 mg, Vitamin B6 625 mg, Vitamin B12 5, 300 mcg, Vitamin K 350 mg, Vitamin H12, 500 mcg, Vitamin C 1,000 mg, Niacin 1, 400 mg, D Panthenol 625 mg, Folic Acid precursor 625 mg, Lysine 100 mg, DL - Methionine 1, 500 mg, Protein Hydrolysate 1,000 mg, Iodine 500 mg, Selenium 125 mg, Cobalt 500 mg, Organic Copper 2000 mg, Organic Manganese 1,000 mg, Organic Zinc 3,000 mg, Sodium Chloride 9.815 g, Potassium Chloride 82.430 g, Magnesium sulphate Heptahydrate 455 mg, Citric Acid 3, 280 mg, Essential Fatty acids 1,000 mg, Nucleotides 5,000 mg, Grape Polyphenol eq.to 3,000 IU Vitamin E activity"
@@ -733,7 +709,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 25,
+    id: 24,
     name: "Powerful Toxin Binder",
     description:
       "AURITOX-BIO is highly effective toxin binder fortified with Activated Carbon, Calcium Propionate, Sodium Benzoate and MOS to bind Mycotoxins, Reduce liver stress, Improve immunity and performance.",
@@ -742,7 +718,7 @@ const Swine_Data = [
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/AURITOX-BIO.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Auritox BIO.webp",
     composition: [
       "Each Kg contains:",
       "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide"
@@ -759,7 +735,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 26,
+    id: 25,
     name: "Fly Repellent-Maggoticidal & Wound Healer Spray",
     description:
       "Aurospray is topical spray using innovative technology of high actives- low propellant (60:40) spray formulation, fortified with powerful phytochemical extracts for higher maggoticidal, wound healer and fly repellent efficacy",
@@ -768,7 +744,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Livestock/Auro Spray.webp",
     composition: [
       "Each 100 ml contains:",
       "Ocimum sanctum oil 8 gm",
@@ -794,7 +770,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 27,
+    id: 26,
     name: "An Innovative Non-Antibiotic Growth Promoter",
     description:
       "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
@@ -803,7 +779,7 @@ const Swine_Data = [
     category: "Growth Promoter , Other Specialty",
     packaging: "1 kg 25 kg",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Livestock/A.jpg",
     composition: [
       "Each Kg contains:",
       "Phytochemical extracts of - Leptadenia reticulate",
@@ -830,7 +806,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 28,
+    id: 27,
     name: "Povidone Iodine 10%",
     description:
       "Auridine-10 is a chemical disinfectant which is widely used in aquaculture. It can decrease the occurrence of pathogenic diseases and improve the survival of aquatic animals. Auridine-10 is a buffer of 1% iodine solution which is specifically used for disinfecting fish eggs. It contains 10% povidone iodine complex which provides 1% iodine. It has been reported as a broad-spectrum microbicide with potency to inactivate bacteria, fungi, protozoans, several viruses and some spores. Auridine-10 is not only used as a fish egg disinfectant but also to reduce the transmission of diseases between upcoming generations of fishes. Auridine-10 fish egg disinfectant is an important part of aquaculture.",
@@ -839,7 +815,7 @@ const Swine_Data = [
     category: "Antimicrobial , Antibacterial",
     packaging: "1 L 5 L",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auridine 10.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Aqua/Auridine 10.webp",
     composition: [
       "Povidone iodine 10 % with suitable stabilizer and activators."
     ],
@@ -857,7 +833,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 29,
+    id: 28,
     name: "Fertility Vitamin Complex",
     description:
       "Aurivit AD3E Plus is an advanced fetility complex enriched with vitamin A, Vitamin C, Vitamin D3, Vitamin E and Selenium.",
@@ -866,7 +842,7 @@ const Swine_Data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU, Vitamin C 20 mg, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
@@ -884,7 +860,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 30,
+    id: 29,
     name: "Fertility Vitamin Complex",
     description:
       "Aurivit AD3E is an advanced fetility complex enriched with vitamin A, Vitamin D3, Vitamin E and Selenium.",
@@ -893,7 +869,7 @@ const Swine_Data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Livestock/Aurivit AD3E.webp",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
@@ -911,7 +887,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 31,
+    id: 30,
     name: "Phytogenic Anti-viral Prevention Programme",
     description:
       "Aurivir-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
@@ -920,7 +896,7 @@ const Swine_Data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurivir - S.webp",
     composition: [
       "Each kg contains:",
       "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin - 3 - gallate, Grape Skin Nanophosphosome©",
@@ -944,7 +920,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 32,
+    id: 31,
     name: "Premium Nutrient Growth Promoter",
     description:
       "Neuna Premium is a Powerful Nutrient growth promoter and performance enhancer for Broilers, Layers and Swine. Neuna Premium enriched with Essential Vitamins, Micro-minerals, Chelated Micro-minerals, Potentiated Probiotics, Powerful Immunomodulators and Phytase enzyme. It is also fortified with research moieties ie. Phytobio-calphos and energy booster complex. Neuna Premium is cost effective formulation because no additional nutrient supplementation is required in the feeding animals.",
@@ -953,7 +929,7 @@ const Swine_Data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "2.2 Kg Pet jar and 25 Kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Neuna Premium.webp",
     composition: [
       "Contains high concentration of:",
       "Vitamin A, D3 and E(coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc(MHA), Organic Chromium, Selenium, Magnesium and Iodine",
@@ -972,16 +948,16 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 33,
+    id: 32,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
-      "AURIDA Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+      "Aurida Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
     segment: "Swine,Poultry",
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurida Pro.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts derived from:",

@@ -184,7 +184,7 @@ const poultry_data = [
     category: " Growth Promoter, Other Specialty",
     packaging: "1 kg and 25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-Vet.webp",
-    Productname: "/Assets/Product name/Poultry/S.webp",
+    Productname: "/Assets/Product name/Livestock/Metagrow-vet.webp",
     composition: [
       "Each pack contains:",
       "High metabolic activators, antioxidants and immunogens",
@@ -371,7 +371,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "250 gm 500 gm 1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/S.webp",
     Productname: "/Assets/Product name/Poultry/Aurivir - EO.webp",
     composition: [
       " Each pack contains:",
@@ -400,7 +400,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg 25 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/S.webp",
     Productname: "/Assets/Product name/Poultry/Aurivir - R.webp",
     composition: [
       "Each Kg contains:",
@@ -575,7 +575,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/A.webp",
     Productname: "/Assets/Product name/Poultry/Auritox BIO.webp",
     composition: [
       "Each Kg contains:",
@@ -704,7 +704,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox Power.webp",
     Productname: "/Assets/Product name/Poultry/Acitox Power.webp",
     composition: [
       " Bentonite-montmorillonite 21.5% ",
@@ -735,7 +735,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Toxin Binder , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox FORTE Liquid.webp",
     Productname: "/Assets/Product name/Poultry/Acitox Forte Liquid.webp",
     composition: [
       "Each ltr contains:",
@@ -759,8 +759,8 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox.webp",
-    Productname: "/Assets/Product name/Poultry/S.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox-Bio.webp",
+    Productname: "/Assets/Product name/Poultry/Acitox-Bio.webp",
     composition: [
       "Each Kg contains:",
       "HSCAS…………………………………760 gm",
@@ -847,7 +847,7 @@ const poultry_data = [
     id: 30,
     name: "Electrolytes for Heat Stress",
     description:
-      "Aurilyte PLUS is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
+      "Aurilyte Plus is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
     segment: "Livestock , Poultry , Swine",
     type: "Powder",
     category: "Other Specialty",
@@ -912,7 +912,7 @@ const poultry_data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "25 Kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/A.webp",
     Productname: "/Assets/Product name/Poultry/Chelamin Forte.webp",
     composition: [
       "NUTRITIONAL VALUE PER 5 Kg",
@@ -1113,7 +1113,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Natuchol.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriliv vet.webp",
     Productname: "/Assets/Product name/Poultry/Aurili Vet.webp",
     composition: [
       "Each 100 ml contains.",
@@ -1164,7 +1164,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 39,
+    id: 41,
     name: "Complete Gut Health Formula",
     description:
       "Auripro Plus is a powerful combination of effective probiotic strains, enzymes and vitamins providing a wide range of gut support, improving FCR, digestibility and absorption.",
@@ -1173,7 +1173,7 @@ const poultry_data = [
     category: "Other Specialty",
     packaging: "100 gm 1 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: "/Assets/Product name/Poultry/S.webp",
+    Productname: "/Assets/Product name/Aqua/Auripro Plus.webp",
     composition: [
       "Each kg contains:",
       "Vitamin B1 5 gm, Vitamin B6 5 gm, Vitamin C 10 gm, Alpha-amylase 10,00,000 IU, Protease 1,00,000 IU, Phytase 10,000 IU, Cellulase 1,00,000 IU, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Aspergillus oryzae, Saccharomyces boulardii, Aspergillus niger",
@@ -1191,7 +1191,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 40,
+    id: 42,
     name: "Complete gut care with synbiotics",
     description:
       "Auripro Gut WS is a full-spectrum cocktail of extremely effective probiotic strains, fortified with Mannan Oligosaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
@@ -1217,7 +1217,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 41,
+    id: 43,
     name: "Complete gut care with synbiotics",
     description:
       "Auripro Gut is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
@@ -1244,7 +1244,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 42,
+    id: 44,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins and essential oils for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -1279,7 +1279,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 43,
+    id: 45,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -1312,7 +1312,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 44,
+    id: 46,
     name: "Enzyme Premix",
     description:
       "Auriphos is an advanced granular premix of thermo tolerant and pH stable phytase enzyme for better phosphorus absorption through feed. Auriphos is fortified with side activity of cellulase, hemicellulase, beta glucanase, fungal amylase and glucomylase.",
@@ -1320,8 +1320,8 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "500 gm , 1 kg & 25 kg bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
-    Productname: "/Assets/Product name/Poultry/S.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/A.webp",
+    Productname: "/Assets/Product name/Livestock/Auriphos.webp",
     composition: [
       "Phytase enzyme 10000 FYT/ gm"
     ],
@@ -1334,7 +1334,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 45,
+    id: 47,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -1371,7 +1371,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 46,
+    id: 48,
     name: "Mucolytic and Bronchodilator",
     description:
       "AuroRD is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
@@ -1412,7 +1412,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 47,
+    id: 49,
     name: "Powerful Mucolytic and Bronchodilator",
     description:
       "AuroRD DS is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
@@ -1437,7 +1437,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 48,
+    id: 50,
     name: "Powerful Silver nanoparticles with unique biopolymer for water treatment only",
     description:
       "Aurisil is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
@@ -1464,7 +1464,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 49,
+    id: 51,
     name: "Micro-encapsulated Probiotic Formulation.",
     description:
       "Unique Blend of Microencapsulated Bacillus Probiotics for Mesh, Pallet and Crumble Feed. Probicap 4S is a highly concentrated, high performance and most affordable probiotic formulation for pellet feed manufacturers. Probicap 4S provides prevention against bacterial, fungal and protozoal diseases as well as strong immunomodulatory effect for poultry, swine and aqua species.",
@@ -1473,7 +1473,7 @@ const poultry_data = [
     category: "Nutrition Supplement",
     packaging: "1 Kg and 25 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Probicap-4S.webp",
-    Productname: "/Assets/Product name/Poultry/S.webp",
+    Productname: "/Assets/Product name/Aqua/Oprobicap-4S.webp",
     composition: [
       "Each gm contains:",
       "Bacillus Subtilis",
@@ -1493,7 +1493,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 50,
+    id: 52,
     name: "A Unique Non-Antibiotic Growth Promoter Enriched with Micro-encapsulated Essential oils",
     description:
       "Essenol WS is a unique water soluble non-antibiotic growth promoter enriched with micro-encapsulated essential oils to prevent and control bacterial and coccidial infections in poultry.",
@@ -1519,7 +1519,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 51,
+    id: 53,
     name: "Unique Blend of Essential Oils with Anti-Bacterial and Anti-Coccidial Effects",
     description:
       "Olbac is a unique essential oil blend to prevent and control bacterial and coccidial infections in poultry.",
@@ -1549,7 +1549,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 52,
+    id: 54,
     name: "Supportive Therapy for Bacterial and Coccidial Infections",
     description:
       "Coccibac is a powerful essential oil blend to effectively support the therapy against clinical coccidiosis and bacterial infections.Coccibac also reduces the chance of disease recurrence.",
@@ -1578,10 +1578,10 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 53,
+    id: 55,
     name: "A multi - purpose enzyme",
     description:
-      "Unilyza contains Lysozyme, a natural anti - microbial enzyme found in all living organisms having diverse role starting from digestion to immune response.Unilyz Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal / poultry feed in order to reduce the perceived risk of anti - microbial resistance in human and animal populations.",
+      "Unilyz contains Lysozyme, a natural anti - microbial enzyme found in all living organisms having diverse role starting from digestion to immune response.Unilyz Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal / poultry feed in order to reduce the perceived risk of anti - microbial resistance in human and animal populations.",
     segment: "Poultry, Swine",
     type: "Powder, Liquid",
     category: "Enzyme, Other Specialty",
@@ -1617,7 +1617,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 54,
+    id: 56,
     name: "Unique Probiotic-Enzyme Formulation",
     description:
       "Advanced Combination of Immunomodulator Probiotics, Thermo-tolerant and pH Stable Cocktail Enzyme",
@@ -1642,7 +1642,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 55,
+    id: 57,
     name: "Advanced Cocktail Enzyme Formulation",
     description:
       "Aurizyme is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
@@ -1680,7 +1680,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 56,
+    id: 58,
     name: "Enzyme Premix",
     description:
       "AuriPhytase",
@@ -1700,7 +1700,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 57,
+    id: 59,
     name: "Liquid Curcumin Supplement",
     description:
       "Curino plus vet",
@@ -1731,7 +1731,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 58,
+    id: 60,
     name: " Turmeric Oil",
     description:
       "Curino vet",
@@ -1758,7 +1758,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 59,
+    id: 61,
     name: "High Quality Pellet Binder",
     description:
       "Aurobind is combination of calcium sulphate and guar gum. Guar gum is a natural plant gum that rapidly binds the grist into a flexible matrix to give good flowability, lubricating the die and improving durability. This allows pellets to withstand the abrasions of sieving, cooling, handling and transportation.",
@@ -1781,7 +1781,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 60,
+    id: 62,
     name: "Supports Metabolic Activation",
     description:
       "Phosbol is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in birds and animals.",
@@ -1810,7 +1810,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 61,
+    id: 63,
     name: "Highly Bioavailable Natural Pigments",
     description:
       "Yeco Nanophosphosome is a nano emulsified Lutein-Zeaxanthin Phosphatidylcholine Ethanolamine-Inositol-Serine Complex enriched with bioenhancer and metabolic potentiator technology. Yeco Nanophosphosome (Lutein-Zeaxanthin Nanophosphosome) easily crosses the gut barrier resulting in significantly higher blood levels of lutein and zeaxanthin. potentiated phospholipid complex acts as carrier mediated transport system, which directs lutein and zeaxanthin to reach the systemic circulation with enhanced bioavailability. Bioenhancer and metabolic potentiator technology enhances the permeability of intestinal microvilli and improves absorption as well prevents it’s metabolic reduction through invention of P-gp, CYP3AG and UGT Yeco Nanophosphosome provides consistent and uniform color for egg yolk, broiler skin and improves health and immunity.",
@@ -1849,7 +1849,7 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 62,
+    id: 64,
     name: "A Potentiated Formulation of Bio-Surfactant & Emulsifier",
     description:
       "Aurol is a unique potentiated and controlled combination of biological and semi-synthetic emulsifiers such as Lysophosphatidylcholine, Phosphatidylcholine and Polyethylene glycol Ricinoleate (PEGR), which makes it a natural biosurfactant and emulsifier. Aurol can be applied to significantly improve the animal performance by boosting feed utilization in the body.",

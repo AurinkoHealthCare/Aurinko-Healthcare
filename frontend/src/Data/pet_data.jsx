@@ -462,7 +462,7 @@ const pet_data = [
     type: "capsules",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 & 90 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurisom Pet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurisom pet.webp",
     Productname: "/Assets/Product name/Pet/Aurisom Pet.webp",
     composition: [
       "Serving Size : 1 Capsule",
@@ -768,7 +768,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/a.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Sugarcalm M pet.webp",
     Productname: "/Assets/Product name/Pet/Sugarcalm-m Pet.webp",
     composition: [
       "Each 500 mg capsule contains:",
@@ -802,7 +802,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/a.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Sugarcalm plus pet.webp",
     Productname: "/Assets/Product name/Pet/Sugarcalm - Plus Pet.webp",
     composition: [
       " Each 500 mg Capsule contains:",
@@ -839,7 +839,7 @@ const pet_data = [
     type: "Tablet",
     category: "Other Specialty",
     packaging: "6 tablets",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen Plus.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurimind Plus Pet.webp",
     Productname: "/Assets/Product name/Pet/Aurimind Plus Pet.webp",
     composition: [
       "Each 500 mg capsule contains:",

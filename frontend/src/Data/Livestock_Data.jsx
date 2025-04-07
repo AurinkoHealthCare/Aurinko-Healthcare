@@ -32,12 +32,13 @@ const livestock_data = [
     id: 2,
     name: "Postbiotic Growth Promoter",
     description:
-      "Metagrow-vet",
-    segment: "Livestock",
-    type: "",
-    category: "",
-    packaging: "",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Metagrow-vet.webp",
+      ["Metagrow-Vet is a postbiotic blend enriched with enzymes, metabolic activators, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.",
+        "Metagrow-Vet stimulates the growth, weight gain and Food Conversion Ratio (FCR) in poultry, reduces the chance of diseases, improves health and reduces mortality in birds."],
+    segment: "Poultry",
+    type: "Powder",
+    category: " Growth Promoter, Other Specialty",
+    packaging: "1 kg and 25 kg bag",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-Vet.webp",
     Productname: "/Assets/Product name/Livestock/Metagrow-vet.webp",
     composition: [
       "Each sachet contains:",
@@ -63,7 +64,7 @@ const livestock_data = [
     id: 3,
     name: "A unique Protein Supplement with probiotics",
     description:
-      " PROBI PRO",
+      "PROBI PRO",
     segment: "Livestock",
     type: "",
     category: "",
@@ -531,7 +532,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "30 Bolus in a container",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
     Productname: "/Assets/Product name/Livestock/Estro Min.webp",
     composition: [
       "Each sachet contains:",
@@ -559,7 +560,7 @@ const livestock_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "16 gm sachets, Dispenser pack containing 20 sachets",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
     Productname: "/Assets/Product name/Livestock/Estro Min DS.webp",
     composition: [
       "Each sachet contains:",
@@ -627,7 +628,7 @@ const livestock_data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
+    Productname: "/Assets/Product name/Livestock/a.webp",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU,",
@@ -686,7 +687,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Antibacterial , Other Specialty",
     packaging: "10ml Aluminium bottle 25 ml multidose Aluminium bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
     Productname: "/Assets/Product name/Livestock/Thypin- IU.webp",
     composition: [
       "Each 2.5 gm contains:",
@@ -743,7 +744,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
     Productname: "/Assets/Product name/Livestock/Metriwin.webp",
     composition: [
       "Each 80 gm contains:",
@@ -915,7 +916,7 @@ const livestock_data = [
     type: "Granule",
     category: "Digestive",
     packaging: "15 gm sachet, Pack containing 25 sachet",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
     Productname: "/Assets/Product name/Livestock/Probirum.webp",
     composition: [
       "Each 15 gm Sachet contains :",
@@ -1045,7 +1046,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive , Other Specialty",
     packaging: "12 gm Sachets 10 Sachets in box",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
     Productname: "/Assets/Product name/Livestock/Salacgil DS.webp",
     composition: [
       "Each 12 g Sachet Contains:",
@@ -1103,7 +1104,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
     Productname: "/Assets/Product name/Livestock/Suportho.webp",
     composition: [
       "Each Ltr contains-",
@@ -1380,7 +1381,7 @@ const livestock_data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "1Box containing 48 sachets",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
     Productname: "/Assets/Product name/Livestock/Neulact.webp",
     composition: [
       "Each sachet contains :",
@@ -1490,7 +1491,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 ml, 1 ltr.",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
     Productname: "/Assets/Product name/Livestock/Aurilum Liquid.webp",
     composition: [
       "Each Litre contains:",
@@ -1833,7 +1834,7 @@ const livestock_data = [
     type: "Injectable",
     category: "Antimicrobial , Antibacterial",
     packaging: "30 ml Vial in a unit carton with Tray and Antiseptic swab",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
     Productname: "/Assets/Product name/Livestock/Neubac.webp",
     composition: [
       "Each ml contains:",
@@ -2003,7 +2004,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Animal Feed Premix",
     packaging: "1 Ltr., 5 Ltr. and 50 Ltr.",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
     Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
     composition: [
       "Each 100 ml contains :",
@@ -2040,7 +2041,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Livestock.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
     Productname: "/Assets/Product name/Livestock/Mecfeb Plus.webp",
     composition: [
       "Water Soluble Powder & each gm contains-",
@@ -2111,7 +2112,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 74,
+    id: 71,
     name: "Fortified Phosphorus Bolus",
     description:
       "Auriphos",
@@ -2147,7 +2148,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 74,
+    id: 72,
     name: "Single shot Powerful Phosphorus Supplement",
     description:
       "Auriphos Nano Gel",
