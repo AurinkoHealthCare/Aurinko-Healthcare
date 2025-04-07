@@ -3,7 +3,7 @@ const Swine_Data = [
     id: 1,
     name: "Advanced Cocktail Enzyme Formulation",
     description:
-      "AURIZYME is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
+      "Aurizyme is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
     segment: "Swine",
     type: "Liquid",
     category: "Enzyme , Other Specialty",
@@ -34,7 +34,7 @@ const Swine_Data = [
     category: "Other Specialty",
     packaging: "1 kg Pack, 25 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Probicap 3S.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Probicap 3S.webp",
     composition: [
       "Probicap 3S (Unique blend of 3 Bacillus probiotics)",
       "Bacillus subtilis",
@@ -66,7 +66,7 @@ const Swine_Data = [
     category: "Immunomodulator , Other Specialty",
     packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
-    Productname: " ",
+    Productname: "/Assets/Product name/Poultry/Aurivir.webp",
     composition: [
       "Each kg contains:",
       "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin-3-gallate, Grape Skin Nanophosphosome©",
@@ -239,7 +239,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "25 Kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/CHELAMIN FORTE.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Chelamin Forte.webp",
     Productname: "/Assets/Product name/Poultry/Chelamin Forte.webp",
     composition: [
       "NUTRITIONAL VALUE PER 5 Kg",
@@ -379,12 +379,12 @@ const Swine_Data = [
     id: 13,
     name: "A multi- purpose enzyme",
     description:
-      "UNILYZ Penta contains Lysozyme, a natural anti-microbial enzyme found in all living organisms having diverse role starting from digestion to immune response. UNILYZ Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal/poultry feed in order to reduce the perceived risk of anti-microbial resistance in human and animal populations.",
+      "Unilyz Penta contains Lysozyme, a natural anti-microbial enzyme found in all living organisms having diverse role starting from digestion to immune response. UNILYZ Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal/poultry feed in order to reduce the perceived risk of anti-microbial resistance in human and animal populations.",
     segment: "Swine, Poultry",
     type: "Liquid, Powder",
     category: "Enzyme , Other Specialty",
     packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/UNILYZ Penta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Unilyz Penta.webp",
     Productname: "/Assets/Product name/Poultry/Unilyz Penta.webp",
     composition: [
       "Each kg contains:",
@@ -596,7 +596,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriplanta.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurobind.webp",
     Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
     composition: [
       "Contains:",
@@ -778,8 +778,8 @@ const Swine_Data = [
     type: "Powder",
     category: "Growth Promoter , Other Specialty",
     packaging: "1 kg 25 kg",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain.webp",
-    Productname: "/Assets/Product name/Livestock/A.jpg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigain.webp",
+    Productname: "/Assets/Product name/Poultry/Aurigain.webp",
     composition: [
       "Each Kg contains:",
       "Phytochemical extracts of - Leptadenia reticulate",
@@ -842,7 +842,7 @@ const Swine_Data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
-    Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
+    Productname: "/Assets/Product name/Livestock/Aurivit-AD3 Plus.jpg",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU, Vitamin C 20 mg, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"

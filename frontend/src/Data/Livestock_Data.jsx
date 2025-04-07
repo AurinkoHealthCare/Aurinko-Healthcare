@@ -32,8 +32,10 @@ const livestock_data = [
     id: 2,
     name: "Postbiotic Growth Promoter",
     description:
-      ["Metagrow-Vet is a postbiotic blend enriched with enzymes, metabolic activators, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.",
-        "Metagrow-Vet stimulates the growth, weight gain and Food Conversion Ratio (FCR) in poultry, reduces the chance of diseases, improves health and reduces mortality in birds."],
+      [
+        "Metagrow-Vet is a postbiotic blend enriched with enzymes, metabolic activators, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.",
+        "Metagrow-Vet stimulates the growth, weight gain and Food Conversion Ratio (FCR) in poultry, reduces the chance of diseases, improves health and reduces mortality in birds."
+      ],
     segment: "Poultry",
     type: "Powder",
     category: " Growth Promoter, Other Specialty",
@@ -332,7 +334,7 @@ const livestock_data = [
     type: "",
     category: "",
     packaging: "",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Milky Vet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Milky Vet nano.webp",
     Productname: "/Assets/Product name/Livestock/Milk Vet.webp",
     composition: [
       "Each kg Contains:",
@@ -532,7 +534,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "30 Bolus in a container",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Estromin.webp",
     Productname: "/Assets/Product name/Livestock/Estro Min.webp",
     composition: [
       "Each sachet contains:",
@@ -560,7 +562,7 @@ const livestock_data = [
     type: "Powder",
     category: "Nutrition Supplement",
     packaging: "16 gm sachets, Dispenser pack containing 20 sachets",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Estromin DS.webp",
     Productname: "/Assets/Product name/Livestock/Estro Min DS.webp",
     composition: [
       "Each sachet contains:",
@@ -687,7 +689,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Antibacterial , Other Specialty",
     packaging: "10ml Aluminium bottle 25 ml multidose Aluminium bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Thypin-IU.webp",
     Productname: "/Assets/Product name/Livestock/Thypin- IU.webp",
     composition: [
       "Each 2.5 gm contains:",
@@ -744,7 +746,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Metriwin.webp",
     Productname: "/Assets/Product name/Livestock/Metriwin.webp",
     composition: [
       "Each 80 gm contains:",
@@ -892,7 +894,7 @@ const livestock_data = [
     type: "",
     category: "",
     packaging: "",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Probirum-vet Bolus.webp",
     Productname: "/Assets/Product name/Livestock/Probirum-vet Bolus.webp",
     composition: [
       "Each Bolus contains:",
@@ -916,7 +918,7 @@ const livestock_data = [
     type: "Granule",
     category: "Digestive",
     packaging: "15 gm sachet, Pack containing 25 sachet",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/k.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Probirum.webp",
     Productname: "/Assets/Product name/Livestock/Probirum.webp",
     composition: [
       "Each 15 gm Sachet contains :",
@@ -947,7 +949,7 @@ const livestock_data = [
     type: "",
     category: "",
     packaging: "",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auripro gut Liquid.webp",
     Productname: "/Assets/Product name/Livestock/Auripro gut Liquid.webp",
     composition: [
       "Each Ltr contains:",
@@ -1046,7 +1048,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive , Other Specialty",
     packaging: "12 gm Sachets 10 Sachets in box",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Salacgil DS.webp",
     Productname: "/Assets/Product name/Livestock/Salacgil DS.webp",
     composition: [
       "Each 12 g Sachet Contains:",
@@ -1104,7 +1106,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Suportho.webp",
     Productname: "/Assets/Product name/Livestock/Suportho.webp",
     composition: [
       "Each Ltr contains-",
@@ -1215,7 +1217,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "75 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Maspre.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
+    Productname: "/Assets/Product name/Livestock/Maspre.webp",
     composition: [
       "Each 75 gm contains:",
       "Trisodium citrate 30 gm, Vitamin A 200000 IU, Vitamin D3 40000 IU, Vitamin E 1000 IU, Biotin 20 mg, Vitamin K 50 mg, Selenium 10 mg, Copper sulphate 1000 mg, Cobalt sulphate 50 mg, Zinc sulphate 3000 mg, Manganese sulphate 3000 mg, Potassium iodide 10 mg, Lactic acid bacillus 1 billion CFU, Live yeast 50 billion CFU, Serratiopeptidase 75 mg, Aspergillus oryzae 1 billion CFU, Methionine 5 gm, Bacillus subtilis 15 billion CFU, Bacillus licheniformis 15 billion CFU"
@@ -1381,7 +1383,7 @@ const livestock_data = [
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
     packaging: "1Box containing 48 sachets",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Neulact.webp",
     Productname: "/Assets/Product name/Livestock/Neulact.webp",
     composition: [
       "Each sachet contains :",
@@ -1410,7 +1412,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "1 litre Bottle 5 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auribloat.webp",
-    Productname: "/Assets/Product name/Livestock/Auriblat.webp",
+    Productname: "/Assets/Product name/Livestock/Auribloat.webp",
     composition: [
       "Each 5 ml contains:",
       "(As simethicone USP emlusion) 1%",
@@ -1437,7 +1439,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "11 litre Bottle 5 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auribloat natura.webp",
-    Productname: "/Assets/Product name/Livestock/Auriblat Natura.webp",
+    Productname: "/Assets/Product name/Livestock/Auribloat Natura.webp",
     composition: [
       "Each 10 ml conains:",
       "Trachyspermum ammi linn extract 6.25 ml",
@@ -1491,7 +1493,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "500 ml, 1 ltr.",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurilum Liquid.webp",
     Productname: "/Assets/Product name/Livestock/Aurilum Liquid.webp",
     composition: [
       "Each Litre contains:",
@@ -1834,7 +1836,7 @@ const livestock_data = [
     type: "Injectable",
     category: "Antimicrobial , Antibacterial",
     packaging: "30 ml Vial in a unit carton with Tray and Antiseptic swab",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Neubac.webp",
     Productname: "/Assets/Product name/Livestock/Neubac.webp",
     composition: [
       "Each ml contains:",
@@ -1950,7 +1952,7 @@ const livestock_data = [
     id: 66,
     name: "Organic long acting mosquito repellent",
     description:
-      "AURIMOS LIQUID is highly effective essential oil blend with Nano-emulsion Technology fortified with controlled release mechanism to prevent and control mosquito in the farm animal shed. A regular spray is used as potent mosquito repellent and killer. It is completely safe, effective and long acting formulation.",
+      "Aurimos Liquid is highly effective essential oil blend with Nano-emulsion Technology fortified with controlled release mechanism to prevent and control mosquito in the farm animal shed. A regular spray is used as potent mosquito repellent and killer. It is completely safe, effective and long acting formulation.",
     segment: "Livestock",
     type: "Liquid",
     category: "Mosquito repellent",
@@ -2004,7 +2006,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Animal Feed Premix",
     packaging: "1 Ltr., 5 Ltr. and 50 Ltr.",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriplus.webp",
     Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
     composition: [
       "Each 100 ml contains :",
@@ -2041,8 +2043,8 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/A.webp",
-    Productname: "/Assets/Product name/Livestock/Mecfeb Plus.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Bovicare vet plus.webp",
+    Productname: "/Assets/Product name/Livestock/Bovicare vet plus.webp",
     composition: [
       "Water Soluble Powder & each gm contains-",
       "Trachyspermum ammi extract 60 mg",
@@ -2081,7 +2083,7 @@ const livestock_data = [
     category: "Reproductive Performance Modulators",
     packaging: "5X4 bolus Pack",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Neunamin plus.webp",
-    Productname: "/Assets/Product name/Livestock/auriwell-anti-stress-oil.webp",
+    Productname: "/Assets/Product name/Livestock/Neunamin plus.webp",
     composition: [
       "Each Bolus Contains:",
       "Zinc Neunamin…………………………………..1, 60,000 mcg",

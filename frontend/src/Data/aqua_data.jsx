@@ -562,8 +562,8 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 Kg, 25 Kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/P.webp",
-    Productname: "/Assets/Product name/Aqua/P.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Metagrow Aqua.webp",
+    Productname: "/Assets/Product name/Aqua/Metagrow Aqua.webp",
     composition: [
       "Each pack contains:",
       "High Metabolic Activators, Antimicrobial peptides, Antioxidants and Immunogens",
@@ -862,7 +862,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Gut Aqua.webp",
     Productname: "/Assets/Product name/Aqua/Auripro Gut Aqua.webp",
     composition: [
       "Each kg contains:",
@@ -1188,7 +1188,7 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg & 5 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Phyta Canth.webp",
     Productname: "/Assets/Product name/Aqua/Phyta Canth.webp",
     composition: [
       "Each kg contains:",
@@ -1216,7 +1216,7 @@ const aqua_data = [
     type: "Gel",
     category: "Other Specialty",
     packaging: "1 Ltr & 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurifgel.webp",
     Productname: "/Assets/Product name/Aqua/Aurifgel.webp",
     composition: [
       "Each Ltr contains:",
@@ -1280,8 +1280,8 @@ const aqua_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/A.webp",
-    Productname: "/Assets/Product name/Aqua/Aqua.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auroxy.webp",
+    Productname: "/Assets/Product name/Aqua/Auroxy.webp",
     composition: [
       "Each kg contains:",
       "Sodium percarbonate 700 gm",

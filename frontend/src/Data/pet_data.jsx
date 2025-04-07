@@ -8,7 +8,7 @@ const pet_data = [
     type: "Strips",
     category: "Other Specialty",
     packaging: "Pack size 100 Sterile Strips",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/m.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Schirmer.webp",
     Productname: "/Assets/Product name/Pet/Pticein.webp",
     composition: [
       ""
@@ -37,7 +37,7 @@ const pet_data = [
     type: "Strips",
     category: "Other Specialty",
     packaging: "Pack size 100 Sterile Strips",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/M.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Pticein.webp",
     Productname: "/Assets/Product name/Pet/Pticein.webp",
     composition: [
       "Each strip contains:",
@@ -118,7 +118,7 @@ const pet_data = [
     type: "Liquid",
     category: "Nutrition Supplement, Performance Enhancer, Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurimino Pet.webp",
     Productname: "/Assets/Product name/Pet/Aurimino Pet.webp",
     composition: [
       "Each 15 ml Contains:",
@@ -174,7 +174,7 @@ const pet_data = [
     type: "Capsule",
     category: "Immunomodulator, Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Auringa Pet.webp",
     Productname: "/Assets/Product name/Pet/Auringa Pet.webp",
     composition: [
       "1 Capsule:",
@@ -199,7 +199,7 @@ const pet_data = [
     type: "Liquid",
     category: "Immunomodulator",
     packaging: "100 ml, 250 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurimune Pet.webp",
     Productname: "/Assets/Product name/Pet/Auri Mune Pet.webp",
     composition: [
       "Each 100 ml contains:",
@@ -268,7 +268,7 @@ const pet_data = [
     type: "Capsule",
     category: "Liver Stimulant",
     packaging: "250 mg and 500 mg pack with 60 & 90 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/a.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Auricur Plus Pet.webp",
     Productname: "/Assets/Product name/Pet/Auricur Plus Pet.webp",
     composition: [
       "Serving Size : 1 Capsule",
@@ -497,7 +497,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurijoint pet.webp",
     Productname: "/Assets/Product name/Pet/Aurijoint Pet.webp",
     composition: [
       "1 Capsule:",
@@ -528,7 +528,7 @@ const pet_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 ml, 200 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/A.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Supoj.webp",
     Productname: "/Assets/Product name/Pet/Supoj.webp",
     composition: [
       "Each 100 ml contains:",
@@ -565,7 +565,7 @@ const pet_data = [
     type: "Liquid",
     category: "Enzyme",
     packaging: "100 ml, 250 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Digyme.webp",
     Productname: "/Assets/Product name/Pet/Digyme.webp",
     composition: [
       "Each 5 ml contains:",
@@ -597,7 +597,7 @@ const pet_data = [
     type: "Liquid",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurocal Pet.webp",
     Productname: "/Assets/Product name/Pet/Aurocal Pet.webp",
     composition: [
       "Each 100 ml contains:",
@@ -634,7 +634,7 @@ const pet_data = [
     type: "Liquid",
     category: "Nutrition Supplement ,Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Ferauri Plus Pet.webp",
     Productname: "/Assets/Product name/Pet/Erauri Plus Pet.webp",
     composition: [
       "Each 50 ml contains:",
@@ -680,7 +680,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Quadrical Pet.webp",
     Productname: "/Assets/Product name/Pet/Quadrical Pet.webp",
     composition: [
       "1 Capsule",
@@ -712,7 +712,7 @@ const pet_data = [
     type: "Powder",
     category: "Digestive, Other Specialty",
     packaging: "10 X 2g sachet",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurolac Power pet.webp",
     Productname: "/Assets/Product name/Pet/Aurolac Power pet.webp",
     composition: [
       "Serving size 1 Packet (2g)",
@@ -743,7 +743,7 @@ const pet_data = [
     type: "Capsule",
     category: "Other Specialty",
     packaging: "250 mg and 500 mg pack with 60 capsules",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurojuna Pet.webp",
     Productname: "/Assets/Product name/Pet/Aurojuna Pet.webp",
     composition: [
       "1 Capsule",
@@ -959,7 +959,7 @@ const pet_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 ml, 250 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Smilie.webp",
     Productname: "/Assets/Product name/Pet/Smilie.webp",
     composition: [
       "Each pack Contains:",
@@ -990,7 +990,7 @@ const pet_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "100 gm, 500 gm",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurospray.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Tik-Tik.webp",
     Productname: "/Assets/Product name/Pet/Tik-Tik.webp",
     composition: [
       "Each 100 gm essential oils contains:",
@@ -1019,7 +1019,7 @@ const pet_data = [
     category: "Other Specialty",
     packaging: "100 ml aluminum bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
-    Productname: "/Assets/Product name/Pet/A.webp",
+    Productname: "/Assets/Product name/Pet/Aurospray.webp",
     composition: [
       "Each 100 ml contains :",
       "Ocimum sanctum oil 8 gm",
