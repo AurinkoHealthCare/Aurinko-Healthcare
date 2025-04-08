@@ -40,6 +40,7 @@ import FarmersFairs from './Components/Gallery/Photos/FarmersFairs';
 import Exhibitions from './Components/Gallery/Photos/Exhibitions';
 import TeamMeetingTraining from './Components/Gallery/Photos/TeamMeetingTraining';
 import CrmActivities from './Components/Gallery/Photos/CrmActivities';
+import LastLine from './Layout/Footer/lastline';
 
 const App = () => {
   return (
@@ -87,6 +88,7 @@ const App = () => {
         <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
       <Footer />
+      <LastLine/>
     </div>
   );
 };
