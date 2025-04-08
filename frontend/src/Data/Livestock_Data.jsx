@@ -359,7 +359,7 @@ const livestock_data = [
     type: "Liquid",
     category: "",
     packaging: "500 ml 1 Ltr Bottle 5 Ltr. 25 Ltr.",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurocal plus .webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurocal plus.webp",
     Productname: "/Assets/Product name/Livestock/Aurocal Plus.webp",
     composition: [
       "Each 100 ml contains:",
