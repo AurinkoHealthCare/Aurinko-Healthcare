@@ -763,7 +763,7 @@ const pet_data = [
     id: 23,
     name: " Complementary Food Supplement",
     description:
-      " Sugarcalm-M Pet is blend of high metabolic an oxidants and immunogens of bacillus & lactobacillus probio cs that protect cells from oxida ve stress or slow damage caused by free radicals, protects cellular and organ damage.",
+      "Sugarcalm-M Pet is blend of high metabolic an oxidants and immunogens of bacillus & lactobacillus probio cs that protect cells from oxida ve stress or slow damage caused by free radicals, protects cellular and organ damage.",
     segment: "Pet",
     type: "Capsule",
     category: "Other Specialty",
@@ -797,7 +797,7 @@ const pet_data = [
     id: 24,
     name: " Complementary Food Supplement",
     description:
-      " Sugarcalm-plus Pet is a unique blend of Probio cs, prebiotic and berberine Hcl that improves insulin sensi vity, glycemic control, reduces inflamma on in body and modulates gut microbiota in individuals with hyperglycemia.",
+      "Sugarcalm-plus Pet is a unique blend of Probio cs, prebiotic and berberine Hcl that improves insulin sensi vity, glycemic control, reduces inflamma on in body and modulates gut microbiota in individuals with hyperglycemia.",
     segment: "Pet",
     type: "Capsule",
     category: "Other Specialty",
