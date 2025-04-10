@@ -402,7 +402,7 @@ const aqua_data = [
     id: 13,
     name: "Yucca schidigera extract with Probiotics",
     description:
-      "Yuschi pro plus Liquid",
+      "Yuschi pro plus is a unique probiotics formulation fortified with Yucca schidigera extract improves the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
     segment: "Aqua",
     type: "Liquid",
     category: "Other Specialty",
@@ -555,13 +555,13 @@ const aqua_data = [
   },
   {
     id: 18,
-    name: "Postbiotic Growyh Promoter",
+    name: "Powerful Metabolites for Growth and Immunity",
     description:
-      "Metagrow aqua",
+      "Metagrow Aqua is a postbiotic blend enriched with growth enzymes, metabolic activators, antimicrobial peptides, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.Metagrow Aqua stimulates the growth and helps in weight gain, reduces the chance of diseases, improves health and reduces mortality in fishes and shrimps. ",
     segment: "Aqua",
     type: "Powder",
-    category: "Other Specialty",
-    packaging: "1 Kg, 25 Kg",
+    category: "Performance Enhancer, Immunomodulator, Other Specialty",
+    packaging: "1 Kg Pack 25 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Metagrow Aqua.webp",
     Productname: "/Assets/Product name/Aqua/Metagrow Aqua.webp",
     composition: [
@@ -857,11 +857,11 @@ const aqua_data = [
     id: 28,
     name: "Complete Gut Care with Synbiotics",
     description:
-      "Auripro gut aqua",
-    segment: "Poultry , Aqua",
+      "Auripro Gut is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
+    segment: "Aqua",
     type: "Powder",
     category: "Other Specialty",
-    packaging: "1 kg Pack",
+    packaging: "100 gm, 250 gm, 500 gm and 1 kg",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Gut Aqua.webp",
     Productname: "/Assets/Product name/Aqua/Auripro Gut Aqua.webp",
     composition: [
@@ -1183,11 +1183,11 @@ const aqua_data = [
     id: 39,
     name: "Unique Antioxidant-Yield Booster Formulation with Carotenoid Pigment",
     description:
-      "Phyta canth",
+      "Phytacanth is an antioxidant-yield booster enriched with Grape Polyphenol, Canthaxanthin, enzymes and Vitamins.Phytacanth improves the pigmentation in Shrimp, Salmon, Trout, Gold fish, Red and Gilthead Sea bream and increases crop yield and mineral absorption in aqua culture.",
     segment: "Aqua",
     type: "Powder",
-    category: "Other Specialty",
-    packaging: "1 kg & 5 kg",
+    category: "Performance Enhancer, Immunomodulator, Other Specialty",
+    packaging: "1 Kg Pack 25 Kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Phyta Canth.webp",
     Productname: "/Assets/Product name/Aqua/Phyta Canth.webp",
     composition: [
@@ -1209,9 +1209,9 @@ const aqua_data = [
   },
   {
     id: 40,
-    name: "Fish Gel Binder",
+    name: "Fish Gel Binder to Support Growth",
     description:
-      "AuriFgel",
+      "Aurifgel is a unique fish gel binder enriched with amino acids, vitamins, probiotics and seaweed extract to support growth of aquaculture.",
     segment: "Aqua",
     type: "Gel",
     category: "Other Specialty",
