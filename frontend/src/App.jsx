@@ -88,7 +88,7 @@ const App = () => {
         <Route path="/contact-us" element={<ContactUs />} />
       </Routes>
       <Footer />
-      <LastLine/>
+      <LastLine />
     </div>
   );
 };
