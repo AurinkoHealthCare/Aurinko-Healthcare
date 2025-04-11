@@ -36,10 +36,10 @@ const livestock_data = [
         "Metagrow-Vet is a postbiotic blend enriched with enzymes, metabolic activators, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.",
         "Metagrow-Vet stimulates the growth, weight gain and Food Conversion Ratio (FCR) in poultry, reduces the chance of diseases, improves health and reduces mortality in birds."
       ],
-    segment: "Poultry",
+    segment: "Poultry,Livestock",
     type: "Powder",
-    category: " Growth Promoter, Other Specialty",
-    packaging: "1 kg and 25 kg bag",
+    category: "Performance Enhancer, Immunomodulator, Other Specialty",
+    packaging: "1 kg & 2 gm X 30 Sachet",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-Vet.webp",
     Productname: "/Assets/Product name/Livestock/Metagrow-vet.webp",
     composition: [
@@ -66,11 +66,11 @@ const livestock_data = [
     id: 3,
     name: "A unique Protein Supplement with probiotics",
     description:
-      "PROBI PRO",
+      "Probipro is a unique protein supplement enriched with probiotics, Grape polyphenols and Maize gluten to compensate the low grade of protein source in feed.",
     segment: "Livestock",
-    type: "",
-    category: "",
-    packaging: "1 kg 25 kg Bag",
+    type: "Powder",
+    category: "Feed Supplement, Other Specialty",
+    packaging: "1 kg and 25 kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Livestock/PROBI PRO.webp",
     Productname: "/Assets/Product name/Livestock/PROBI PRO.webp",
     composition: [
@@ -78,25 +78,21 @@ const livestock_data = [
       "Saccharomyces cerevisiae 300 billion cfu/gm, Lactobacillus sporogenes 3 billion cfu/gm, Aspergillus oryzae 3 billion cfu/gm, Propionibacterium freudenrechii 20 billion cfu/gm, Propionibacterium acidipropionici 0.2 billion cfu/gm, Grape polyphenols ext. 500 mg, Maize gluten 940 gm"
     ],
     indications:
-      [
-        "To compensate the low grade of protein source in feed"
-      ],
+      ["To compensate the low grade of protein source in feed"],
     usage:
-      [
-        "For Cow & Buffalo: 15-30gm daily"
-      ],
+      ["For Cow & Buffalo: 15-30gm daily"],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
     id: 4,
-    name: "A metabolic activator for weight gain",
+    name: "An Innovative Metabolic Activator for Weight Gain",
     description:
-      "Aurigain Bolus.",
+      "Aurigain Bolus is unique blend of phytochemical extracts, probiotics, amino acid and growth enzymes that enhance growth and weight gain in cattle.",
     segment: "Livestock",
     type: "Bolus",
-    category: "",
+    category: "Growth Promoter, Other Specialty",
     packaging: "10X2 Bolus",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigain Bolus.webp",
     Productname: "/Assets/Product name/Livestock/Aurigain bolus.webp",
@@ -327,13 +323,13 @@ const livestock_data = [
   },
   {
     id: 12,
-    name: "Milk Enhancer fortified with Neunamins ",
+    name: "Milk & Milk Fat Enhancer Bolus Fortified with Nanominerals",
     description:
-      "Milky Vet nano",
+      "Milky Vet Nano is a Milk Enhancer fortified with Carbon technology based essential vitamins, minerals and probiotics that improve milk yield, supports overall cow health and helps to improve digestion and metabolism.",
     segment: "Livestock",
-    type: "",
-    category: "",
-    packaging: "",
+    type: "Bolus",
+    category: "Milk Enhancer",
+    packaging: "25 gm X 10 Sachet",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Milky Vet nano.webp",
     Productname: "/Assets/Product name/Livestock/Milk Vet.webp",
     composition: [
@@ -354,10 +350,10 @@ const livestock_data = [
     id: 13,
     name: "Powerful Calcium Supplementation for High Milk Yield, Better Health & Mastitis Prevention",
     description:
-      "Aurocal Plus ",
+      "Aurocal Plus is powerful Calcium liquid supplementation for enhanced milk yield with reduced incidence of mastitis. Potassium iodide, Organic chromium, Biotin, Cobalt improves Galactopoiesis mechanism in the udder. High concentration of Ca, P, Mg and Vitamin D3 improves mineral supplementation level in high yielding animals with strong immunity and udder defense mechanism due to Zinc Glycinate, Copper Glycinate and Lycopene.",
     segment: "Livestock",
     type: "Liquid",
-    category: "",
+    category: "Milk Enhancer",
     packaging: "500 ml 1 Ltr Bottle 5 Ltr. 25 Ltr.",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurocal plus.webp",
     Productname: "/Assets/Product name/Livestock/Aurocal Plus.webp",
@@ -499,13 +495,13 @@ const livestock_data = [
   },
   {
     id: 18,
-    name: "Kidney Tonic rejuvenator and protectant ",
+    name: "Kidney Tonic, Rejuvenator and Protectant",
     description:
-      "Aurinal",
+      "Aurinal is an advanced kidney tonic rejuvenator with phyto-chemical extracts, Vitamins and minerals to support Kidney Health and reduces the risk of Kidney disorders.",
     segment: "Livestock",
-    type: "",
-    category: "Other Specialty",
-    packaging: "",
+    type: "Liquid",
+    category: "Kidney Tonic Rejuvenator, Other Specialty",
+    packaging: "500 ml, 1 Ltr, 2 Ltr and 5 Ltr.",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurinal.webp",
     Productname: "/Assets/Product name/Livestock/Aurinal.webp",
     composition: [
@@ -889,11 +885,11 @@ const livestock_data = [
     id: 30,
     name: "Proven Digestive Stimulant",
     description:
-      "Probirum-vet Bolus",
+      "Probirum- vet Bolus is unique combination of rumen specific enzymes with potentiated probiotics, essential amino acids, essential minerals and vitamins for simple indigestion and anorexia.",
     segment: "Livestock",
-    type: "",
-    category: "",
-    packaging: "",
+    type: "Bolus",
+    category: "Digestive Enhancer",
+    packaging: "10X2 Bolis Pack",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Probirum-vet Bolus.webp",
     Productname: "/Assets/Product name/Livestock/Probirum-vet Bolus.webp",
     composition: [
@@ -944,11 +940,11 @@ const livestock_data = [
     id: 32,
     name: "Complete Gut Care with Synbiotics",
     description:
-      "Auripro gut Liquid",
+      "Auripro Gut Liquid is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaccharides (MOS) providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
     segment: "Livestock",
-    type: "",
-    category: "",
-    packaging: "",
+    type: "Liquid",
+    category: "Dietary Supplement, Other Specialty",
+    packaging: "100 ml",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auripro gut Liquid.webp",
     Productname: "/Assets/Product name/Livestock/Auripro gut Liquid.webp",
     composition: [
@@ -1235,11 +1231,11 @@ const livestock_data = [
     id: 42,
     name: "Strengthens udder defense mechanism",
     description:
-      "Maspre Dip",
+      "Maspre dip is a unique formulation of essential oils and nano silver used for the management of healthy udder that strengthens the keratin layer of the teat canal and lumen. Maspre dip improves the udder defense system against pathogens, providing a physical as well as anti-microbial barrier.  ",
     segment: "Livestock",
-    type: "",
+    type: "Liquid Gel",
     category: "Other Specialty",
-    packaging: " ",
+    packaging: "1 Ltr, 5 Ltr, 25 Ltr, 50 Ltr and 200 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Maspre dip.webp",
     Productname: "/Assets/Product name/Livestock/Maspre dip.webp",
     composition: [
@@ -1265,11 +1261,11 @@ const livestock_data = [
     id: 43,
     name: "Instantly Bioavailable Nano Calcium and Magnesium with Nanogel Technology",
     description:
-      "Gelmil nano",
+      "Gelmil Nano is instantly bioavailable oral anionic Calcium and Magnesium gel fortified with phosphorus and gluconeogenic precursors. Each bottle provides calcium equivalent to 5 bottles of I/V calcium. Serum calcium reaches to significant levels within 15-30 minutes and stays for extended periods. Self-dispensing squeezable bottle provides ease of administration.",
     segment: "Livestock",
     type: "Gel",
     category: "Nutrition Supplement",
-    packaging: "400 gm squeezable bottle",
+    packaging: "300 gm squeezable bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Gelmil Nano.webp",
     Productname: "/Assets/Product name/Livestock/Gelmil Nano.webp",
     composition: [
@@ -1323,11 +1319,11 @@ const livestock_data = [
     id: 45,
     name: "The Rumen Buffer",
     description:
-      "Bufto",
+      "Bufto, the rumen buffer, is a unique blend of rumen buffering agents, probiotics, prebiotic, minerals, vitamin and amino acid to support ruminal acidosis and restore the normal ruminal pH and microflora.",
     segment: "Livestock",
-    type: "",
+    type: "Powder",
     category: "Other Specialty",
-    packaging: "",
+    packaging: "25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Bufto.webp",
     Productname: "/Assets/Product name/Livestock/Bufto.webp",
     composition: [
@@ -1464,11 +1460,11 @@ const livestock_data = [
     id: 50,
     name: "Antiviral Support Against Lumpy Skin Disease",
     description:
-      "Aurilum is an advanced formulation to support the management of Lumpy Skin Disease and its symptoms.",
+      "Aurilum Plus is an advanced phytochemical extracts-based formulation enriched with Methylene blue to support the management of Lumpy Skin Disease and its symptoms.",
     segment: "Livestock",
     type: "Liquid",
     category: "Other Specialty",
-    packaging: "250 ml, 500 ml, 1 Ltr",
+    packaging: "500 ml and 1 Ltr",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurilum Plus.webp",
     Productname: "/Assets/Product name/Livestock/Aurilum Plus.webp",
     composition: [
@@ -1486,29 +1482,6 @@ const livestock_data = [
   },
   {
     id: 51,
-    name: "Antiviral Support Against Lumpy Skin Disease",
-    description:
-      "Aurilum Liquid",
-    segment: "Livestock",
-    type: "Liquid",
-    category: "Other Specialty",
-    packaging: "500 ml, 1 ltr.",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurilum Liquid.webp",
-    Productname: "/Assets/Product name/Livestock/Aurilum Liquid.webp",
-    composition: [
-      "Each Litre contains:",
-      "Methylene Blue 1gm"
-    ],
-    indications:
-      ["Management of Lumpy Skin Disease Symptoms"],
-    usage:
-      ["Apply or Spray directly over body at alternate days."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 52,
     name: "For management of dry period",
     description:
       "Drylact is an advance formulation enriched with herbal extracts, essential vitamins and minerals to improve hyperprolactinemia, metabolism and reproductive health in pre and postnatal lactation period.",
@@ -1539,7 +1512,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 53,
+    id: 52,
     name: "Electrolytes for Heat Stress",
     description:
       "Aurilyte Plus is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
@@ -1576,7 +1549,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 54,
+    id: 53,
     name: "Super Nutrition with Nano-Dose Advantage",
     description:
       "Neuna Forte is a premium super rich nutrition enriched with MHA Chelates, Coated Vitamins, Potentiated Probiotics, Grape Polyphenols, Energy Booster Complex & Unique Phytobio-CalphosTM. A powerful nutrition supplement enriched with 23 essential nutrients for production, reproduction, better health and disease resistance in lactating cows and buffaloes",
@@ -1624,7 +1597,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 55,
+    id: 54,
     name: "Fly Repellent-Maggoticidal & Wound Healer Spray",
     description:
       "Aurospray is topical spray using innovative technology of high actives- low propellant (60:40) spray formulation, fortified with powerful phytochemical extracts for higher maggoticidal, wound healer and fly repellent efficacy",
@@ -1654,7 +1627,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 56,
+    id: 55,
     name: "Maggoticidal Topical Wound Healer 100% Actives No Gas",
     description:
       "Auriheal is a topical gasless spray formulation fortified with powerful essential oils for higher maggoticidal, wound healer and fly repellent action.",
@@ -1684,7 +1657,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 57,
+    id: 56,
     name: "Broad Spectrum Anthelmintic for Small Animals",
     description:
       "Mecfen Plus is unique combination of Fenbendazole, Ivermectin and Praziquantel. Mecfen Plus ensures complete protection against round worm and tape worm infestation in small animal like- Sheep, Goat, Calf, Foals and Pig.",
@@ -1717,7 +1690,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 58,
+    id: 57,
     name: "Synergistic Combination of Fenbendazole and Ivermectin",
     description:
       "Mecfen is combination of Fenbendazole and Ivermectin.Both anthelmintics act synergistically ensuring complete protection against round worm and tape worm infestation in bovines",
@@ -1744,7 +1717,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 59,
+    id: 58,
     name: "Fenbendazole and Ivermectin Bolus",
     description:
       "Mecfen Forte bolus is combination of Fenbendazole and Ivermectin that is used against gastrointestinal parasites.",
@@ -1772,7 +1745,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 60,
+    id: 59,
     name: "Ivermectin Oral Solution Bp (vet) 0.08% W/v",
     description:
       "Aurimec is Ivermectin de-wormer solution for the management of gastro-intestinal nematodes and worms.",
@@ -1800,7 +1773,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 61,
+    id: 60,
     name: "Broad Spectrum Flukicide and Endectocide",
     description:
       "Triclauri is a broad spectrum and powerful flukicide drench against all forms i.e.early immature, immature and adult liver flukes.Also effective against nasal bots, round worm, lung worm and itch mite",
@@ -1828,7 +1801,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 62,
+    id: 61,
     name: "New Generation Fluoroquinolone",
     description:
       "Neubac the latest fourth-generation fluoroquinolone with wide antimicrobial spectrum, quick response time and least chances of resistance. It is effective against gram positive and negative aerobes and anaerobes, mycoplasma and chlamydia. Highly effective against acute infections of respiratory, uterine and mammary system",
@@ -1851,7 +1824,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 63,
+    id: 62,
     name: "Powerful Hematinic",
     description:
       "Ferauri is a powerful hematinic formulation for supplementation of iron and copper during anemia of nutritional deficiency.",
@@ -1880,7 +1853,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 64,
+    id: 63,
     name: "Powerful Hematinic and Hepatoprotectant",
     description:
       "Ferauri plus is a powerful Hematinic and hepatoprotectant tonic which helps to improve the haemoglobin in blood as well as protects and improves the function of Liver cells.",
@@ -1920,7 +1893,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 65,
+    id: 64,
     name: "Supports Metabolic Activation",
     description:
       "Phosbol is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in birds and animals.",
@@ -1949,7 +1922,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 66,
+    id: 65,
     name: "Organic long acting mosquito repellent",
     description:
       "Aurimos Liquid is highly effective essential oil blend with Nano-emulsion Technology fortified with controlled release mechanism to prevent and control mosquito in the farm animal shed. A regular spray is used as potent mosquito repellent and killer. It is completely safe, effective and long acting formulation.",
@@ -1975,7 +1948,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 67,
+    id: 66,
     name: "Novel Formulation for Management of Mastitis",
     description:
       "Masti 24 is potentiated blend of Vitamins, Probiotics and Minerals that helps to prevent from subclinical mastitis and mastitis.It also helps to restore milk pH and improve the milk quality.",
@@ -1998,7 +1971,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 68,
+    id: 67,
     name: "Now you can convert your ordinary feed to value added one",
     description:
       "Auriplus is a scienti ically formulated blend of natural essential oils designed to enhance immune function, optimize digestion, and promote overall health in animals.",
@@ -2035,7 +2008,7 @@ const livestock_data = [
   },
 
   {
-    id: 69,
+    id: 68,
     name: "Powerful phytoactives for rumen care",
     description:
       "Bovicare vet plus is an innovative formulation enriched with powerful phytoactives which correct bloating, improves digestive performance and reduces gut-inflamation",
@@ -2074,7 +2047,7 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 70,
+    id: 69,
     name: "With Probiotics for Reproductive Health of Ovary and Uterus",
     description:
       "Neunamin Plus is an innovative formulation of carbon technology based rumen protected nano minerals fortified with probiotics and vitamins, regulates hormonal balance, vaginal pH, improves reproductive environment, immunity and reduces oxidative stress to optimize reproductive health of ovary and uterus in bovines.",
@@ -2114,13 +2087,13 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 71,
-    name: "Fortified Phosphorus Bolus",
+    id: 70,
+    name: "Powerful Phosphorus Bolus Supplement",
     description:
-      "Auriphos",
+      "Auriphos Bolus is an innovative nutritional supplement that supports reproductive health, metabolic functions and overall productivity by providing essential nutrients like phosphorus and vitamins. Auriphos Bolus significantly helps to prevent metabolic disorders like ketosis and milk fever, improves estrus cycle regularity and enhances overall reproductive efficiency of cattle and dairy animals.",
     segment: "Livestock",
     type: "Bolus",
-    category: "",
+    category: "Nutritional Supplement, Other Specialty",
     packaging: "5X4 Boli",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auriphos.webp",
     Productname: "/Assets/Product name/Livestock/Auriphos.webp",
@@ -2150,13 +2123,13 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 72,
+    id: 71,
     name: "Single shot Powerful Phosphorus Supplement",
     description:
-      "Auriphos Nano Gel",
+      "Auriphos Nano Gel is an innovative nutritional supplement that supports reproductive health, metabolic functions and overall productivity by providing essential nutrients like phosphorus and vitamins. Auriphos Nano Gel significantly helps to prevent metabolic disorders like ketosis and milk fever, improves estrus cycle regularity and enhances overall reproductive efficiency of cattle and dairy animals.",
     segment: "Livestock",
-    type: "Gel",
-    category: "",
+    type: "Liquid Gel",
+    category: "Nutritional Supplement, Other Specialty",
     packaging: "450 gm Bottle",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auriphos Nano Gel.webp",
     Productname: "/Assets/Product name/Livestock/Auriphos Nano Gel.webp",
