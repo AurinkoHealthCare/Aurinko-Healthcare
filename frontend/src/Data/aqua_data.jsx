@@ -23,7 +23,7 @@ const aqua_data = [
       [
         "Recommended when high ammonia, nitrite and toxic gases observed in pond",
         "Reduced or eliminated loss of fish and prawns due to toxic ammonia and nitrite concentration",
-        "Effective for fresh and sea water even at relatively high BOD/COD (under 200 ppm). Effective over wide temperature range (490 F to 1490 F)"
+        "Effective for fresh and sea water even at relatively high BOD/COD (under 200 ppm). Effective over wide temperature range (49° F to 149° F)"
       ],
     usage:
       ["Mix 200 gm with 5 Ltr. lukewarm pond water along with 500 gm jaggery. Keep it 72-96 hrs for fermentation. Afterwards, mix 45 ltr. water to spread over 1 acre pond. Or as directed by aquaculture consultant."],
@@ -68,7 +68,7 @@ const aqua_data = [
   },
   {
     id: 3,
-    name: "Improves Nitrite Levels and Promotes Aqua Health",
+    name: "Corrects Nitrite Levels and Promotes Aqua Health",
     description:
       "Auririch is a blend of different potent probiotics to improve nitrite levels in pond and also promote aquaculture health.",
     segment: "Aqua",
