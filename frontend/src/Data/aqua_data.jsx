@@ -534,7 +534,7 @@ const aqua_data = [
         "Shrimp < 45 days old: 2 g/kg of feed.",
         "Shrimp > 45 days old: 1 g/kg of feed.",
         "Unsuccessful molting in shrimp: 2-3 g/kg of feed, feed 5-7 consecutive days."],
-    report: " ",
+    report: " ", 
     brochure: " ",
     feedback: " "
   },
