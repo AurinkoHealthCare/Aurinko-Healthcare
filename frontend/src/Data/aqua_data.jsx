@@ -99,13 +99,13 @@ const aqua_data = [
   },
   {
     id: 4,
-    name: "Advanced Plankton Growth Booster Gel",
+    name: "Advanced Plankton Growth Booster",
     description:
       "Planktogrow™ Gel is an advanced gel formula enriched with potent probiotics for management of plankton growth in the pond. The higher plankton growth serves as a food source for microscopic zooplanktons which later on serves as the base of food chain to further support as food for larger aquatic life like fishes, shrimps, prawns etc.",
     segment: "Aqua",
     type: "Gel",
     category: "Performance Enhancer",
-    packaging: "1 liter bottle and 5 liter Jar",
+    packaging: "5 kg Pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Planktogrow Gel.webp",
     Productname: "/Assets/Product name/Aqua/Plankto Grow Gel.webp",
     composition: [
@@ -119,20 +119,7 @@ const aqua_data = [
       "(Total probiotics count 50 million cfu per gm)"
     ],
     indications:
-      [
-        "Zooplankton enhancement in the pond",
-        "Control for the sludge build up",
-        "Breakdown of dissolved protein",
-        "Fragmentation of unused feed",
-        "Direct inhibition of pathogenic microbes",
-        "Competes with harmful microbes",
-        "Stabilization of existing algal blooms",
-        "Elimination of malodour from the ponds",
-        "Efficacy in high salinity",
-        "Usefulness for desulphurization and degradation of pollutants",
-        "Prevention of stress factors in ponds",
-        "Improvement of water quality"
-      ],
+      ["Zooplankton enhancement, Sludge and malodour reduction, Inhibits the growth of pathogenic bacteria, Complete water quality improvement and stabilizing algal growth "],
     usage:
       ["2.5-5 kg per acre"],
     report: " ",
@@ -253,15 +240,11 @@ const aqua_data = [
       "Each kg contains:",
       "Silicon dioxide……. 75-85%",
       "Aluminium oxide……. 5-10%",
-      "Ferrous oxide (Iron).. 0.5-1%",
+      "Ferrous oxide (Iron).. 2-3%",
       "Calcium oxide……… 2-4%"
     ],
     indications:
-      [
-        "Turbidity remover",
-        "Toxin binder",
-        "Stabilizes water quality"
-      ],
+      ["Turbidity remover Toxin binder Stabilizes water quality"],
     usage:
       ["10-40 Kg/ Acre"],
     report: " ",
@@ -291,12 +274,7 @@ const aqua_data = [
       "(Total probiotic count is 60 billion CFU per Kg)"
     ],
     indications:
-      [
-        "Turbidity remover",
-        "Toxin binder",
-        "Water quality stabilizer",
-        "Aquaculture growth and disease resistance"
-      ],
+      ["Turbidity remover Toxin binder Water quality stabilizer Aquaculture growth and disease resistance"],
     usage:
       ["10-20 Kg/ Acre"],
     report: " ",
@@ -446,19 +424,25 @@ const aqua_data = [
     Productname: "/Assets/Product name/Aqua/Yuschi Pro Plus.webp",
     composition: [
       "Each Kg Contains:",
-      "Yucca schidigera 30 % extract 100 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus polymyxa, Bacillus megaterium, Bacillus coagulans, SiO2 25 %, Al2O3 4 %, CaO 1 %, Na2O 0.025 %, MgO 0.5 %, Fe2O3 0.5 %, K2O 0.5 %",
+      "Yucca schidigera 30 % extract 100 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus polymyxa, Bacillus megaterium, Bacillus coagulans",
+      "SiO₂……25 %, Al₂O₃……4 %, CaO……1 %, Na₂O……0.025 %, MgO……0.5 %, Fe₂O₃……0.5 %, K₂O……0.5 %",
       "Enriched with Xylanase, Protease, Cellulase, Lipase, Beta glucanase, Alpha amylase enzymes.",
       "(Total Probiotic Count NLT 8000 Billion CFU)"
     ],
     indications:
       [
-        "For management of ammonia, sludge, oxygen and toxicity in pond water",
-        "Reconditioning of aqua pond and improve water quality",
-        "Reduces pathogen levels in pond. Improves growth rate, survival rate and productivity",
+        "For management of ammonia, sludge, oxygen and toxicity in pond water.",
+        "Reconditioning of aqua pond and improve water quality.",
+        "Reduces pathogen levels in pond. Improves growth rate, survival rate and productivity.",
         "Controls development of harmful microorganism for shrimp/fish."
       ],
     usage:
-      ["Each 100 gm powder has to be mixed well with 20-25 kg of dry sand before spreading in aqua pond. High level of ammonia in pond: 300 gm/Acre Moderate level of ammonia in pond: 200 gm/Acre Prevention of ammonia and management of pond: 100 gm/Acre, use in every 15 days. Or as Recommended by Qualified Aquaculture Practitioner only."],
+      ["100 gm with 5 ltr. lukewarm pond water along with jaggery and keep it for 72-96 hrs for fermentation.",
+        "Afterwards, mix 50 ltr water to spread over 1 acre pond.",
+        "High level of ammonia in pond: 450-500 gm/Acre",
+        " Moderate level of ammonia in pond: 300 gm/Acre",
+        "Prevention of ammonia and management of pond: 150 gm/Acre, use in every 15 days.",
+        "Or as Recommended by Qualified Aquaculture Practitioner only."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -471,12 +455,12 @@ const aqua_data = [
     segment: "Aqua , Swine , Poultry",
     type: "Powder",
     category: "Performance Enhancer , Immunomodulator",
-    packaging: "100 gm and 500 gm HDPE bottle",
+    packaging: "100 gm and 250 gm and 1 Kg pack",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigrow.webp",
     Productname: "/Assets/Product name/Aqua/Auri Grow.webp",
     composition: [
       "Each pack Contains:",
-      "Extracts of Allium sativum and Ocimum sanctum, Phytochemical principles of Thymol, Eugenol, Curcumin and Capsaicin, Nucleotides, Vitamin C, Mannan oligosaccharide, Selenium, Zinc, Organic acid derivatives, Fermentation extracts & Inulin"
+      "Extracts of Allium sativum and Ocimum sanctum, Phytochemical principles of Thymol, Eugenol, Curcumin and Capsaicin, Nucleotides, Vitamin C, Mannan oligosaccharide, Selenium, Zinc, Organic acid derivatives, Postbiotic Metabolites of Bacillus Spp., Protease enzyme  & Inulin"
     ],
     indications:
       [
@@ -485,7 +469,7 @@ const aqua_data = [
         "Strong anti-bacterial and anti-fungal supplement."
       ],
     usage:
-      ["1 gm to 2 gm per kg of feed once a day as growth promoter 2 gm to 4 gm per kg of feed twice a day during bacterial and fungal infections. Poultry and Swine – 750 gms to 1 kg per ton as growth promoter."],
+      ["1 gm to 2 gm per kg of feed once a day as growth promoter 2 gm to 4 gm per kg of feed twice a day during bacterial and fungal infections."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -498,13 +482,14 @@ const aqua_data = [
     segment: "Aqua",
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
-    packaging: "100 gm 500 gm & 1 kg",
+    packaging: "500 gm & 1 kg & 25 kg Bag",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigain Aqua.webp",
     Productname: "/Assets/Product name/Aqua/Aurigain Aqua.webp",
     composition: [
       "Each pack contains:",
       "Phytochemical extracts of -",
-      "Leptadenia reticulata, Asparagus racemosus, Trigonella foenum, Ocimum sanctum, Phyllanthus embllica, Andrographis paniculata, Eclipta a lba, Sacchromyces cerevisiae, Bacillus coagulans, Aspergillus oryzae, DL - Methionine, Niacin, Biotin, Fortified with Essential oils"
+      "Leptadenia reticulata, Asparagus racemosus, Trigonella foenum, Ocimum sanctum, Phyllanthus embllica, Andrographis paniculata, Eclipta alba, Sacchromyces cerevisiae, Bacillus coagulans, Aspergillus oryzae, DL - Methionine, Niacin, Biotin",
+      "Fortified with Essential oils"
     ],
     indications:
       [
@@ -524,13 +509,13 @@ const aqua_data = [
     segment: "Aqua",
     type: "Powder",
     category: "Other Specialty",
-    packaging: "100 gm, 1 kg, 25 kg",
+    packaging: "100 gm, 1 kg and 25 kg bag",
     Productimg: "/Assets/Product images/Veterinary/Aqua/Phosbol Aqua.webp",
     Productname: "/Assets/Product name/Aqua/Phosbol Aqua.webp",
     composition: [
       "Each gm contains:",
       "Butaphosphan INN……………………………….100 mg",
-      "Vitamin B12…………………………………………50 mcg",
+      "Vitamin B₁₂…………………………………………50 mcg",
       "Pediococcus acidilactici……………………500000 cfu"
     ],
     indications:
