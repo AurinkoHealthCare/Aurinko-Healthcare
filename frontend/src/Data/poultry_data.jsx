@@ -258,48 +258,6 @@ const poultry_data = [
     feedback: " "
   },
   {
-    id: 10,
-    name: "Phytogenic Anti-viral Prevention Programme",
-    description:
-      "Aurivir is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
-    segment: "Poultry, Swine",
-    type: "Powder, Liquid",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
-    Productname: "/Assets/Product name/Poultry/Aurivir.webp",
-    composition: [
-      "Each Ltr contains:",
-      "Phytochemical principles of Allicin, Withanolides, polyphenols, Epigallocatechin-3-gallate Vitamin C 2.8 gm, Selenium 0.21 mg, Copper (as glycinate complex) 33 mg, Manganese (as glycinate complex) 16 mg",
-      "Fortified with Carum carvi",
-      "Powder:",
-      "Each Kg contains:",
-      "Phytochemical principles of Allicin",
-      "Withanolides, polyphenols",
-      "Epigallocatechin-3-gallate",
-      "Vitamin C 20 gm",
-      "Selenium 1.48 mg",
-      "Copper (as glycinate complex) 225 mg",
-      "Manganese (as glycinate complex) 112 mg",
-      "Fortified with Carum carvi"
-    ],
-    indications:
-      ["To prevent and control RNA viral infections (Infectious Bronchitis, Avian Influenza, New Castle Disease, Infectious Bursal Disease).",
-        "Help to reduce the incidence of bacterial and viral diseases.",
-        "Ensures faster recovery during disease outbreaks.",
-        "Improves the antibody titre when given along with vaccinations.",
-        "Regular use prevents recurrence of infection."],
-    usage:
-      ["Liquid supplementation-",
-        "For Poultry:",
-        "Powder supplementation-:",
-        "For prevention- 600-700 gm per tonne of feed for 1-2 weeks.",
-        "As Supportive therapy during acute infections- 2 kg per tonne of feed for 5-7 days."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
     id: 11,
     name: "Phytogenic Anti-viral Immuno Modulator",
     description:
@@ -1695,37 +1653,6 @@ const poultry_data = [
       [" Advanced thermo-tolerant Phytase enzyme (Phosphohydrolase) to release the organic phosphorus in feed for better phosphorus absorption Better stability in extreme range of pH Increases bioavailability of Ca, Zn, Cu, Mg & other minerals Increases digestibility of proteins & amino acids"],
     usage:
       ["Layer, Broiler and Grower 40-50 gm/ Ton of feed"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 59,
-    name: "Liquid Curcumin Supplement",
-    description:
-      "Curino plus vet",
-    segment: "Poultry, Swine",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "50 kg Drum 200 kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Curino plus vet.webp",
-    Productname: "/Assets/Product name/Poultry/Curino Plus Vet.webp",
-    composition:
-      [
-        "Each kg contains:",
-        "Curcumin 100 gm",
-        "Piperine 7 gm",
-        "Turmerone 140 gm",
-        "Capsaicin 10,00,000 SHU"
-      ],
-    indications:
-      ["Reduces heat stress Prevention from harmful effects of aflatoxins consumed together with diet. ",
-        "Increase of antibody titers after vaccination (e.g., against Newcastle disease)",
-        "Adjunct to antibiotics and anti-coccidials"],
-    usage:
-      ["For stress prevention & Growth:- 1 kg for 1000 ltr. of drinking water for 5000 birds.",
-        "As supportive therapy:- 3 kg for 1000 ltr. of drinking water for 5000 birds.",
-        "For pellets production:- 2-5 kg per ton."],
     report: " ",
     brochure: " ",
     feedback: " "

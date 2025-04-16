@@ -161,40 +161,6 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 6,
-    name: "Advanced Plankton Growth Booster",
-    description:
-      "PlanktoGrow Dry is a fortified combination of Rhodococcus spp, Rhodobacter spp, Bacillus spp, Paenibacillus spp, Nitrifying and Denitrifying bacteria to provide better ecological balance and superior health conditions for aquaculture farming. It helps in reducing pathogenic microbes, controls the sludge build up, removes malodour and improves water quality to stabilize the algal bloom and grow zooplankton. PlanktoGrow Dry is a double strength formulation fortified with Active Growth Medium.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "80 gm Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/PlanktoGrow Dry.webp",
-    Productname: "/Assets/Product name/Aqua/Plankto Grow Dry.webp",
-    composition: [
-      "Each 80 gm bottle contains:",
-      "Bacillus licheniformis",
-      "Paenibacillus polymyxa",
-      "Rhodococcus spp.",
-      "Rhodobacter spp.",
-      "Nitrosomonas spp.",
-      "Nitrobacter spp.",
-      "(Total Probiotic count is 750 billion CFU)"
-    ],
-    indications:
-      [
-        "Zooplankton enhancement, Sludge and malodour reduction",
-        "Inhibits the growth of pathogenic bacteria",
-        "Complete water quality",
-        "Enhance algal growth with increased nitrification process"
-      ],
-    usage:
-      ["80 gm with 5 ltr. lukewarm pond water along with jaggery and keep it for 72-96 hrs for fermentation. Afterwards, mix 50 ltr water to spread over 1 acre pond."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
     id: 7,
     name: "Plankton Bloom Controller",
     description:
@@ -534,13 +500,13 @@ const aqua_data = [
         "Shrimp < 45 days old: 2 g/kg of feed.",
         "Shrimp > 45 days old: 1 g/kg of feed.",
         "Unsuccessful molting in shrimp: 2-3 g/kg of feed, feed 5-7 consecutive days."],
-    report: " ", 
+    report: " ",
     brochure: " ",
     feedback: " "
   },
   {
     id: 18,
-    name: "Powerful Metabolites for Growth and Immunity",
+    name: "Postbiotic Growth Promoter",
     description:
       "Metagrow Aqua is a postbiotic blend enriched with growth enzymes, metabolic activators, antimicrobial peptides, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.Metagrow Aqua stimulates the growth and helps in weight gain, reduces the chance of diseases, improves health and reduces mortality in fishes and shrimps. ",
     segment: "Aqua",
@@ -553,8 +519,7 @@ const aqua_data = [
       "Each pack contains:",
       "High Metabolic Activators, Antimicrobial peptides, Antioxidants and Immunogens",
       "(Metabolic extracts of Saccharomyces and Bacillus probiotics enriched with enzymes)",
-      "Fortified with Betaglucan-Mannan ",
-      "oligosaccharide complex"
+      "Fortified with Betaglucan-Mannan oligosaccharide complex"
     ],
     indications:
       [
@@ -623,6 +588,32 @@ const aqua_data = [
   },
   {
     id: 21,
+    name: "Premium Aqua Nutrition",
+    description:
+      "Auromin Forte Chelated.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Nutrition Supplement , Other Specialty",
+    packaging: "10 Kg Pack 25 Kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auromin Forten Chelated.webp",
+    Productname: "/Assets/Product name/Aqua/Auromin Forten Chelated.webp",
+    composition: [
+      "Each kg contains:",
+      "Cobalt sulphate100 mg, Potassium iodate 325 mg, Magnesium oxide 36 gm, Iron MHA 58.3 gm (Elemental Fe 7 gm), Manganese MHA 41.6 gm (Elemental Mn 5 gm), Copper MHA 16.6 gm (Elemental Cu 2 gm), Zinc MHA 83.3 gm (Elemental Zinc 10 gm), Chromium Nicotinate 403 mg (Elemental Cr 50 mg) Calcium 236 gm, Phosphorus 118 gm, DL- Methionine 2 gm, L- Lysine Mono Hydrochloride 4.4 gm, Selenium 15 mg, Potassium 100 mg, Sodium 5.9 gm, Sulphur 8.1 gm, Cellulase 150000 IU, Xylanase 225000 IU, Beta glucanase 12500 IU, Alphaamylase 10000 IU, Fungal Protease 12500 IU, Phytase 50000 IU, Pectinase 50000 IU, Mannase 12500 IU, Hemicellulase 3750 IU, Saccharomyces cerevisiae 2x10 CFU, Lactobacillus sporogenes 1x10 CFU, Bacillus subtilis 1x10 CFU, Bacillus megaterium 1x10 CFU, Bacillus licheniformis 1x10 CFU, Vitamin A (Coated) 1200000 IU, Vitamin D3 (Coated) 240000 IU, Vitamin E (Coated) 3000 IU, Vitamin C 10 gm, Grape Polyphenol Extract 300 mg"
+    ],
+    indications:
+      [
+        " Premium buffer chelated micro-minerals, macro-minerals, amino acids, special probiotics, vitamins, enzymes and anti-oxidants",
+        "Premium nutrition supplementation for higher crop yield and better disease resistance in aquaculture."
+      ],
+    usage:
+      ["3-4kg/ton of feed"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 21,
     name: "Vitamin C Liquid",
     description:
       "Vitoaqua is Vitamin C liquid formulation, a dietry vitamin formulation required for fish and shrimps. They perform specific and systemic functions in a variety of fish and shrimps. Vitoaqua also enhances the immunity and growth of fish and shrimps, reduces the impact of environmental, seasonal & ecological stress conditions in aquaculture.",
@@ -634,7 +625,7 @@ const aqua_data = [
     Productname: "/Assets/Product name/Aqua/Vitoaqua.webp",
     composition: [
       "Each Litre contains:",
-      "Vitamin C 250,000 mg, Vitamin B12 44, 500 mcg, Stabilizer and activators"
+      "Vitamin C ………………250,000 mg, Vitamin B₁₂………………44, 500 mcg, Stabilizer and activators"
     ],
     indications:
       [
@@ -662,24 +653,26 @@ const aqua_data = [
     Productname: "/Assets/Product name/Aqua/Vitoaqua Forte.webp",
     composition: [
       "Each Litre contains:",
-      "Vitamin B1 7000 mg",
-      "Vitamin B2 14000 mg",
-      "Vitamin B3 35000 mg",
-      "Vitamin B5 35000 mg",
-      "Vitamin B6 17500 mg",
-      "Vitamin C 250000 mg",
-      "Vitamin B7 875000 mcg",
-      "Vitamin B9 17500 mg",
-      "Vitamin B12 44500 mcg"
+      "Vitamin B1 ……………… 7000 mg",
+      "Vitamin B2 ……………… 14000 mg",
+      "Vitamin B3 ……………… 35000 mg",
+      "Vitamin B5 ……………… 35000 mg",
+      "Vitamin B6 ……………… 17500 mg",
+      "Vitamin C ……………… 250000 mg",
+      "Vitamin B7 ……………… 875000 mcg",
+      "Vitamin B9 ……………… 17500 mg",
+      "Vitamin B12 ……………… 44500 mcg"
     ],
     indications:
       [
-        "Poor growth and performance. Poor feed efficiency.",
-        "Low immunity and high mortality rate. During environmental, seasonal or ecological stress conditions.",
-        "Growth of healthy RBCs, DNA reproduction and nerve function."
+        "Poor growth and performance.",
+        "Poor feed efficiency.",
+        "Low immunity and high mortality rate.",
+        "During environmental, seasonal or ecological stress conditions.",
+        "Growth of healthy RBCs, and healthy nerve function."
       ],
     usage:
-      ["Fishes/Prawns/Shrimps: 200-250 ml per acre for fish and shrimp, 400-500 ml per acre for shrimp under stress condition Or use as directed by an aquaculture technician. Swine: 2-3 ml/Ltr of drinking water."],
+      ["Fishes/Prawns/Shrimps: 200-250 ml per acre for fish and shrimp, 400-500 ml per acre for shrimp under stress condition Or use as directed by an aquaculture technician."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -697,7 +690,7 @@ const aqua_data = [
     Productname: "/Assets/Product name/Aqua/Neuna Forte Aqua.webp",
     composition: [
       "Each pack contains:",
-      "Very high concentrations of coated Vitamin A, coated Vitamin D3, coated Vitamin E, Zinc MHA, Copper MHA, Manganese MHA, Iron MHA, Magnesium, Nicotinamide, Cobalt, Iodine, Sulphur, Potassium, Sodium, Selenium, Saccharomyces cerevisiae, Aspergillus oryzae, Lactobacillus sporogenes, Bioactive chromium, Grape PP extract, Phytobio - CalphosTM, Myo - inositol - hexakisphosphate - 3 phosphohydrolase concentrate, Energy Booster Complex"
+      "Very high concentrations of Coated Vitamin A, Coated Vitamin D3, Coated Vitamin E, Zinc Neunamin, Copper Neunamin, Manganese Neunamin, Iron Neunamin, Chromium Neunamin, Iodine Neunamin, Selenium Neunamin, Nicotinamide, Cobalt, Sulphur, Potassium, Sodium, Saccharomyces cerevisiae, Aspergillus oryzae, Lactobacillus sporogenes, Bioactive chromium, Grape PP  extract, Phytobio-Calphos® , Myo-inositol-hexakisphosphate 3-phosphohydrolase concentrate, Energy Booster Complex"
     ],
     indications:
       [
@@ -706,14 +699,19 @@ const aqua_data = [
         "Enhances immunity against diseases"
       ],
     usage:
-      ["2 to 4 kg per ton of feed. For fish fingerlings: 8-10 kg per ton of feed"],
+      [
+        "Mixing Ratio",
+        "For fish fingerlings: 8-10 kg per tonne of feed",
+        "For Grower: 4-6 kg per tonne of feed",
+        "For Adult: 2 kg per tonne of feed"
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
     id: 24,
-    name: "Micro-encapsulated Probiotic Formulation.",
+    name: "Micro-encapsulated Probiotic",
     description:
       "Unique Blend of Microencapsulated Bacillus Probiotics for Mesh, Pallet and Crumble Feed. Probicap 4S is a highly concentrated, high performance and most affordable probiotic formulation for pellet feed manufacturers. Probicap 4S provides prevention against bacterial, fungal and protozoal diseases as well as strong immunomodulatory effect for poultry, swine and aqua species.",
     segment: "Poultry, Swine and Aqua",
@@ -728,17 +726,12 @@ const aqua_data = [
       "Bacillus Licheniformis",
       "Bacillus Coagulans",
       "Paenibacillus Polymyxa",
-      "(Total 100 billion cfu viable probiotic cells per gm)"
+      "(Total probiotics count is 100 Billion CFU per gm))"
     ],
     indications:
-      [
-        "Unique microencapsulation technology to provide viable, effective and stable probiotic. Thermostable probiotic to withstand up to 950 C Temperature for 1 minute.",
-        "Resistance to moisture up to 12%. Acid tolerant in low-pH condition and bile tolerant.",
-        "Provides high number of viable and metabolically active cell.",
-        "Highly suitable as feed mix specially for pellet and crumble feed where probiotics gets destroyed due to high temperature and moisture."
-      ],
+      ["Suitable for Pellet and Crumble feed manufacturing, Thermo stable (withstands up to 95° C), Moisture resistant (withstands up to 12% moisture), Acid tolerant, High number of viable and metabolically active cells."],
     usage:
-      ["Poultry and Aqua- 10 gm to 20 gm per ton as support to disease resistance and prevention of bacterial, protozoal, fungal and viral diseases, higher breeding efficiency and growth of poultry, fish and shrimp Or as per recommendation by Poultry/ Aquaculture Specialist."],
+      ["Aqua-10 gm to 20 gm per ton as support to disease resistance & reduce the chances of bacterial & protozoal diseases, higher breeding efficiency and growth of fish and shrimp or as per recommendation by Aquaculture Specialist."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -761,7 +754,7 @@ const aqua_data = [
       "Bacillus megaterium",
       "Paenibacillus polymyxa",
       "Lactobacillus plantarum",
-      "(Total probiotic count is 50 billion CFU per unit.)"
+      "(Total probiotic count is 50 billion CFU per gm.)"
     ],
     indications:
       [
@@ -883,7 +876,7 @@ const aqua_data = [
     Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn Plus.webp",
     Productname: "/Assets/Product name/Aqua/Aquasyn Plus.webp",
     composition: [
-      "Contains:",
+      "Each kg Contains:",
       "Specific Ig Y antibodies for Vibriosis",
       "Nano particles, Phytochemicals and Polyphenols, Beta Glucan, Mannan Oligosaccharide",
       "Nano technology based delivery system"
@@ -1215,43 +1208,6 @@ const aqua_data = [
     usage:
       ["5-6 ml per kg of feed.",
         "Or as directed by aquaculture consultant or technician."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 41,
-    name: "Complete Gut Care with Synbiotics",
-    description:
-      "Gut Forte is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "100 gm, 250 gm, 500 gm and 1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Gutforte.webp",
-    Productname: "/Assets/Product name/Aqua/Aqua.webp",
-    composition: [
-      "Each kg contains:",
-      "Beta Glucan 30,000 mg, Mannan oligosaccharides 40,000 mg, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici, Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium, Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus",
-      "(Probiotic count is 2, 250 Billion CFU per kg)"
-    ],
-    indications:
-      [
-        "Creates a micro-ecology with acidic pH resulting from the production of volatile fatty",
-        "acids (Acetic, Butyric, Propionic, and Lactic acids) and anti-microbial substance such as",
-        "bacteriocins to act against bacterial, fungal and coccidial pathogens across the gut.",
-        "Improves production of endogenous butyric acid for better gut health and growth.",
-        "Optimizes gut health, improves digestibility and enhances nutrient absorption.",
-        "Reduces the effect of feed borne toxins and ammonia production in litter.",
-        "Promotes and maintains better flock health with improved economic gain.",
-        "Increases body weight gain and improves FCR.",
-        "Improves body immunity and reduces mortality."
-      ],
-    usage:
-      ["Aquaculture :",
-        "0.3 gm per Kg of feed during fry, fingerling stage.",
-        "0.2 gm per Kg of feed up to 120 days of growth period in carps / up to 45 days in prawns.",
-        "0.1 gm per Kg of feed from 121 days onwards in carps / from 46 days onwards in prawns."],
     report: " ",
     brochure: " ",
     feedback: " "

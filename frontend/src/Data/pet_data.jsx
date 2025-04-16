@@ -1008,39 +1008,6 @@ const pet_data = [
     report: " ",
     brochure: " ",
     feedback: " "
-  },
-  {
-    id: 32,
-    name: "Fly Repellent - Maggoticidal & Wound Healer Spray",
-    description:
-      "Aurospray is topical spray using innovative technology of high actives - low propellant(60: 40) spray formulation, fortified with powerful phytochemical extracts for higher maggoticidal, wound healer and fly repellent efficacy",
-    segment: "Livestock, Pet, Swine",
-    type: "Spray",
-    category: "Other Specialty",
-    packaging: "100 ml aluminum bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
-    Productname: "/Assets/Product name/Pet/Aurospray.webp",
-    composition: [
-      "Each 100 ml contains :",
-      "Ocimum sanctum oil 8 gm",
-      "Cinnamomum tamala oil 2 gm",
-      "Eucalyptus oil 8 gm",
-      "Cedrus deodara oil 2 gm",
-      "Azadiractha indica oil 5 gm",
-      "Pongamia pinnata oil 5 gm",
-      "Cymbopongon citratus oil 12 gm",
-      "Curcuma longa oil 2 gm"
-    ],
-    indications:
-      ["Wound healer",
-        "Maggoticide",
-        "Fly repellen",
-        "Fungal infections and Mange infestations"],
-    usage:
-      ["2 to 3 topical applications daily for 3 to 5 days"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
   }
 ];
 

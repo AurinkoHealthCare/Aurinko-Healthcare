@@ -317,37 +317,6 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 11,
-    name: "Complete gut care with synbiotics",
-    description:
-      "Gutforte WS is a full-spectrum cocktail of extremely effective probiotic strains, fortified with Mannan Oligosaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
-    segment: "Swine, Poultry",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "100 gm 1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Gutforte ws.webp",
-    Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
-    composition: [
-      "Each kg contains:",
-      "Beta-glucan 162 gm, Mannan oligosaccharides 162 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici",
-      "Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium",
-      "Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus",
-      "(Probiotic count is 2,250 Billion CFU per kg)"
-    ],
-    indications:
-      [
-        "Improves production and growth. Optimizes gut health.",
-        "Improves digestibility and enhance nutrient absorption.",
-        "Increase body weight gain and improves FCR. Reduce ammonia production in litter.",
-        "Improves body immunity and reduces mortality. Promotes and maintains better flock health with improved economic gain."
-      ],
-    usage:
-      ["Inclusion rate: In mash feed, Layer/Breeder/ Grower: 200 g/ton of feed. For Layer: 100-200 g/ton of feed. Inclusion rate: In mash feed Swine: For Piglets : 500g-1000g/ ton of feed. For Pig Fattening: 500g/ton of feed. For Gestating & Lactating sows: 500g/ton of feed. 1st month :- 0.25 gm/day 2nd month :- 0.5 gm/day 3rd month :- 1 gm/day 4th month :- 1.5 gm/day 5th month :- 2 gm/day 6th month :- 2.5 gm/day."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
     id: 12,
     name: "Potent Organic Immunomodulator",
     description:
@@ -730,41 +699,6 @@ const Swine_Data = [
       ],
     usage:
       ["1 kg per ton of feed for 40 ppm feed mycotoxin concentration, 2 kg per ton of feed for 60 ppm feed mycotoxin concentration, 3 kg per ton of feed for 80 ppm feed mycotoxin concentration, 4 kg per ton of feed for 100 ppm feed mycotoxin concentration"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 25,
-    name: "Fly Repellent-Maggoticidal & Wound Healer Spray",
-    description:
-      "Aurospray is topical spray using innovative technology of high actives- low propellant (60:40) spray formulation, fortified with powerful phytochemical extracts for higher maggoticidal, wound healer and fly repellent efficacy",
-    segment: "Livestock , Pet , Swine",
-    type: "Spray",
-    category: "Other Specialty",
-    packaging: "100 ml aluminum bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
-    Productname: "/Assets/Product name/Livestock/Auro Spray.webp",
-    composition: [
-      "Each 100 ml contains:",
-      "Ocimum sanctum oil 8 gm",
-      "Cinnamomum tamala oil 2 gm",
-      "Eucalyptus oil 8 gm",
-      "Cedrus deodara oil 2 gm",
-      "Azadiractha indica oil 5 gm",
-      "Pongamia pinnata oil 5 gm",
-      "Cymbopongon citratus oil 12 gm",
-      "Curcuma longa oil 2 gm"
-    ],
-    indications:
-      [
-        "Wound healer",
-        "Maggoticide",
-        "Fly repellen",
-        "Fungal infections and Mange infestations"
-      ],
-    usage:
-      ["2 to 3 topical applications daily for 3 to 5 days."],
     report: " ",
     brochure: " ",
     feedback: " "

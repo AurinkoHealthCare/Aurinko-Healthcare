@@ -179,32 +179,6 @@ const livestock_data = [
     feedback: " "
   },
   {
-    id: 7,
-    name: "Supports Immunity and Liver Health",
-    description:
-      "Aurigraph 9 is a technologically advanced liver health supplement enriched with health benefits of Andrographis paniculata fortified with Bioenhancer technology to support liver health and immunity.",
-    segment: "Livestock",
-    type: "Liquid",
-    category: "Immunomodulator , Liver Stimulant , Other Specialty",
-    packaging: "100 ml 250 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigraph 9.webp",
-    Productname: "/Assets/Product name/Livestock/Aurigraph 9.webp",
-    composition: [
-      "Each 100 ml contains:",
-      "Andrographis paniculata extract with Andrographoloids 900 mg",
-      "Fortified with Bioenhancer Technology"
-    ],
-    indications:
-      ["Supports Immunity and healthy liver function",
-        "Helps to rejuvenate liver cells",
-        "Acts as Hepatoprotective and helps to reduce the risk of liver disorders"],
-    usage:
-      ["Cow/Buffalo/ Horse: 6 ml/100 kg body weight for 5-7 days. Sheep/Goat: 3 ml/25 kg body weight for 5-7 days. For regular supplementation, 1/4 of dose is recommended."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
     id: 8,
     name: "Powerful Galactogogue Enrihed with SNF Builders",
     description:
@@ -1592,36 +1566,6 @@ const livestock_data = [
       ],
     usage:
       ["Cows- 10 gm upto 10 litre milk yield per day and 1 gm. per litre per day on the additional yield Buffaloes- 10 gm upto 8 litres milk yield per day and 1.25 gm. per litre per day on the additional yield MIXING RATIO- Cows, Buffaloes, Poultry and Swine- 0.2% to be mixed in feed Or as recommended by Veterinarian / Animal Nutritionist"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 54,
-    name: "Fly Repellent-Maggoticidal & Wound Healer Spray",
-    description:
-      "Aurospray is topical spray using innovative technology of high actives- low propellant (60:40) spray formulation, fortified with powerful phytochemical extracts for higher maggoticidal, wound healer and fly repellent efficacy",
-    segment: "Livestock",
-    type: "Spray",
-    category: "Other Specialty",
-    packaging: "100 ml aluminum bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurospray.webp",
-    Productname: "/Assets/Product name/Livestock/Auro Spray.webp",
-    composition: [
-      "Each 100 ml contains :",
-      "Ocimum sanctum oil 6.4 gm",
-      "Cinnamomum tamala oil 1.6 gm",
-      "Eucalyptus oil 6.4 gm",
-      "Cedrus deodara oil 2 gm",
-      "Azadiractha indica oil 5 gm",
-      "Pongamia pinnata oil 4 gm",
-      "Cymbopongon citratus oil 9.6 gm",
-      "Curcuma longa oil 2 gm"
-    ],
-    indications:
-      ["Wound healer Maggoticide Fly repellen Fungal infections and Mange infestations"],
-    usage:
-      ["2 to 3 topical applications daily for 3 to 5 days"],
     report: " ",
     brochure: " ",
     feedback: " "
