@@ -100,7 +100,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Immunomodulator , Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurigraph 9 Plus.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/aurigraph 9 plus.webp",
     Productname: "/Assets/Product name/Livestock/Aurigraph 9 Plus.webp",
     composition: [
       "Each 100 ml contains:",
@@ -712,6 +712,29 @@ const livestock_data = [
       ],
     usage:
       ["Cow/ Buffalo- 50 to 100 gm orally daily (50 gm for 10 litre producing cow and 8 litre producing buffalo)"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 25,
+    name: "High Quality Pellet Binder",
+    description:
+      "Aurobind is combination of calcium sulphate and guar gum. Guar gum is a natural plant gum that rapidly binds the grist into a flexible matrix to give good flowability, lubricating the die and improving durability. This allows pellets to withstand the abrasions of sieving, cooling, handling and transportation.",
+    segment: "Poultry, Swine",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "25 kg Bag",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurobind.webp",
+    Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
+    composition: [
+      "Contains : Calcium sulphate,Guar gum"
+    ],
+    indications:
+      ["Improve the quality and strength of feed pellet",
+        "Reduces dust and fines"],
+    usage:
+      ["0.1% to 0.3% inclusion rate in feed"],
     report: " ",
     brochure: " ",
     feedback: " "
