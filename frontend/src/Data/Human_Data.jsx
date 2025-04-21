@@ -849,7 +849,7 @@ const human_data = [
     category: "Digestive, Other Specialty",
     packaging: "2 g Sachet X 10 Sachet in one unit carton",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac Plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurolac plus.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac Plus.webp",
     composition: [
       "Serving size 1 Packet(2g) Servings Per Container 10",
       "Calories 6",
@@ -880,7 +880,7 @@ const human_data = [
     category: "Digestive, Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
     Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac forte.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurolac forte.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac Forte.webp",
     composition: [
       "Each 500 mg Capsule contains:",
       "Lactobacillus crispatus 4 billion",
@@ -899,6 +899,29 @@ const human_data = [
   },
   {
     id: 29,
+    name: "High Quality Pellet Binder",
+    description:
+      "Aurobind is combination of calcium sulphate and guar gum. Guar gum is a natural plant gum that rapidly binds the grist into a flexible matrix to give good flowability, lubricating the die and improving durability. This allows pellets to withstand the abrasions of sieving, cooling, handling and transportation.",
+    segment: "Poultry, Swine",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "25 kg Bag",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurobind.webp",
+    Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
+    composition: [
+      "Contains : Calcium sulphate,Guar gum"
+    ],
+    indications:
+      ["Improve the quality and strength of feed pellet",
+        "Reduces dust and fines"],
+    usage:
+      ["0.1% to 0.3% inclusion rate in feed"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 30,
     name: "Curcumin Extract",
     description:
       "Curino is Turmeric based natural health supplement enriched with bioenhancer and metabolic potentiator technology. Bioenhancer and Metabolic potentiator technology enhances the permeability of intestinal microvilli and improves Curcumin absorption as well prevents it’s metabolic reduction through inhibition of P-gp, CYP3AG and UGT.",
@@ -923,7 +946,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 30,
+    id: 31,
     name: "Curcumin with Tinospora cordifolia Extract",
     description:
       "Curino Plus is a synergistic combination of Curcumin and Tinospora cordifolia with bioenhancer and metabolic potentiator technology. Bioenhancer and metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve Tinospora cordifolia absorption as well prevents its metabolic reduction through inhibition of P-gp efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
@@ -950,7 +973,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 31,
+    id: 32,
     name: "5 Phyto-essentials with Extra Power of Vitamin D3 and Natural Milk Ingredients",
     description:
       "Aurinko® Golden Milk Latte is an unique blend of powerful extracts of Curcumin, Ginger, Cinnamon, Piper Nigrum, Turmerone essential oil fortified with Vitamin D3 and natural milk ingredients. These Phytoactives enhances the value of milk and turns it a super health drink. Aurinko® Golden Milk Latte has been developed after extensive research by Phytoscientists and taste testers of Aurinko Healthcare.",
@@ -977,7 +1000,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 32,
+    id: 33,
     name: "5 Phyto-essentials with Extra Power of Vitamin D3 and Natural Milk Ingredients",
     description:
       "Golden Milk Latte Plus is a unique blend of powerful extracts of Curcumin, Ginger, Cinnamon for fied with Piper Nigrum, Turmerone essen al oil for fied with Vitamin D3 and 5 gut ac ng probio cs. These Phyto ac ves enhances the value of milk and turns it a super health drink. Golden Milk Latte has been developed a er extensive research by Phyto scien sts and taste testers of Aurinko Healthcare.",
@@ -1016,7 +1039,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 33,
+    id: 34,
     name: "Complementary Food Supplement Cissus quadrangularis extract with Probiotics",
     description:
       "Quadrical® is a unique and advanced blend of technologically superior extract of Cissus quadrangularis (Phyto Biocalphos® Technology) and probio cs for improved growth and bone health.",
@@ -1052,7 +1075,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 34,
+    id: 35,
     name: "Complementary Food Supplement  Supports Kidney Health",
     description:
       "Reintoni is a powerful probio cs formula on enriched with 3 probio cs i.e Lactobacillus acidophilus, Bifidobacterium longum, Streptococcus thermophilus which improves Kidney filtra on func on and health and Fructooligosaccharide (FOS) that reduces inflamma on, kidney failure risk and nephrotoxicity.",
@@ -1079,7 +1102,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 35,
+    id: 36,
     name: " Complementary Food Supplement Postbiotic Blend to reduce diabetes complications",
     description:
       "Sugarcalm M is blend of high metabolic an oxidants and immunogens of bacillus & lactobacillus probio cs that protect cells from oxida ve stress or slow damage caused by free radicals, protects cellular and organ damage.",
@@ -1114,7 +1137,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 36,
+    id: 37,
     name: " Complementary Food Supplement Synbiotic Blend for Glycemic Management",
     description:
       "Sugarcalm - plus is a unique blend of Probio cs, prebio c and berberine Hcl that improves insulin sensi vity, glycemic control, reduces inflamma on in body and modulates gut microbiota in individuals with hyperglycemia.",
@@ -1153,7 +1176,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 37,
+    id: 38,
     name: " ",
     description:
       "Wellness Honey enriched with Moringa oleifera improves Bone health, cardiac functions, liver functions and immunity.",
@@ -1162,7 +1185,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Moringa oleifera.webp",
-    Productname: "/Assets/Product name/Health suppliments/.webp",
+    Productname: "/Assets/Product name/Health suppliments/Honey.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Moringa oleifera ext. 300 mg (60 mg Saponins)"
@@ -1184,7 +1207,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 38,
+    id: 39,
     name: " ",
     description:
       "Wellness Honey enriched with Withania somnifera, Convolvulus prostrates and Bacopa monnieri ext. improves concentration, cognitive function and brain health.",
@@ -1193,7 +1216,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Withania somnifera.webp",
-    Productname: "/Assets/Product name/Health suppliments/.webp",
+    Productname: "/Assets/Product name/Health suppliments/Honey.webp",
     composition: [
       " Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Withania somnifera ext. 125 mg (12.5 mg Withanolides), Convolvulus prostrates ext. 100 mg (4 mg Alkaloids), Bacopa monnieri ext. 100 mg (50 mg Bacosides)",
@@ -1215,7 +1238,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 39,
+    id: 40,
     name: " ",
     description:
       "Wellness Honey enriched with curcumin, optimizes anti-inflammatory properties, provides instant energy and immunity for overall well-being.",
@@ -1224,7 +1247,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Cuecumin.webp",
-    Productname: "/Assets/Product name/Health suppliments/.webp",
+    Productname: "/Assets/Product name/Health suppliments/Honey.webp",
     composition: [
       "Each tea spoon full of organic honey contains: ",
       "Organic honey 7 gm, Curcumin 95 mg",
@@ -1247,7 +1270,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 40,
+    id: 41,
     name: " ",
     description:
       "Wellness Honey enriched with Shilajit improves physical endurance, male fertility, hormonal functions and immune system to keep strong and healthy.",
@@ -1256,7 +1279,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Shilajit.webp",
-    Productname: "/Assets/Product name/Health suppliments/.webp",
+    Productname: "/Assets/Product name/Health suppliments/Honey.webp",
     composition: [
       "Each tea spoon full of organic honey contains: ",
       "Organic honey 7 gm, Shilajit ext. 300 mg (Fulvic acid 210 mg)"
@@ -1275,7 +1298,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 41,
+    id: 42,
     name: " ",
     description:
       "Wellness Honey enriched with Withania somnifera and Carum carvi, reduces mental stress, insomnia & improves metabolism, body growth and immunity.",
@@ -1284,7 +1307,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Carum carvi.webp",
-    Productname: "/Assets/Product name/Health suppliments/.webp",
+    Productname: "/Assets/Product name/Health suppliments/Honey.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Withania somnifera 125 mg (12.5 mg withanolides)",
@@ -1307,7 +1330,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 42,
+    id: 43,
     name: " ",
     description:
       "Wellness Honey enriched with Terminalia arjuna and Cinnamomum zeylanicum, improves cardiac functions, strengthens the heart muscles and immunity ",
@@ -1316,7 +1339,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Terminalia arjuna.webp",
-    Productname: "/Assets/Product name/Health suppliments/.webp",
+    Productname: "/Assets/Product name/Health suppliments/Honey.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Organic honey 7 gm, Terminalia arjuna ext. 500 mg (125 mg Tannins), Cinnamomum zeylanicum ext. 500 mg (150 mg Cinnamaldehyde) "
@@ -1335,7 +1358,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 43,
+    id: 44,
     name: " ",
     description:
       "Wellness Honey enriched with Clove and Tulsi improves respiratory system and immunity to fight against allergies, infections and pathogens.",
@@ -1344,7 +1367,7 @@ const human_data = [
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Clove and tulsi.webp",
-    Productname: "/Assets/Product name/Health suppliments/.webp",
+    Productname: "/Assets/Product name/Health suppliments/Honey.webp",
     composition: [
       "Each tea spoon full of organic honey contains:",
       "Syzygium aromaticum ext. 150 mg, Ocimum sanctum ext. 250 mg"

@@ -480,7 +480,7 @@ const livestock_data = [
     category: "Animal Feed Premix",
     packaging: "1 Ltr., 5 Ltr. and 50 Ltr.",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Auriplus.webp",
-    Productname: "/Assets/Product name/Livestock/AuriPlus.jpg",
+    Productname: "/Assets/Product name/Livestock/Auriplus.webp",
     composition: [
       "Each 100 ml contains :",
       "Ocimum sanctum oil 8 gm",
@@ -1112,7 +1112,7 @@ const livestock_data = [
     category: "Other Specialty",
     packaging: "100 gm",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Masti 24.webp",
-    Productname: "/Assets/Product name/Livestock/Masti 24.jpeg",
+    Productname: "/Assets/Product name/Livestock/Masti 24.webp",
     composition: [
       "Each 100 gm contains:",
       "Trisodium citrate 30000 mg, Vitamin A 200000 IU, Vitamin D3 100000 IU, Vitamin E 750 IU, Vitamin H 20 mg, Vitamin K 50 mg, Copper glycinate 1000 mg, Zinc glycinate 3000 mg, Manganese glycinate 3000 mg, Selenium 10 mg, Cobalt sulphate 50 mg, Potassium iodide 10 mg, Magnesium 1500 mg, Silica 2500 mg, Saccharomyces cerevisiae 100 billion CFU, Aspergillus oryzae 1000 million CFU, Bacillus coagulans 1000 million CFU, Bacillus subtilis 25 billion CFU, Bacillus licheniformis 25 billion CFU, Serratiopeptidase 100 mg, Methionine 5000 mg, Grape Polyphenol extract 150 mg, MOS Complex 20000 mg, Bromelain 1000 mg.",
@@ -1588,7 +1588,7 @@ const livestock_data = [
     category: "Reproductive Performance Modulators",
     packaging: "5X4 bolus Pack",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Neunamin plus.webp",
-    Productname: "/Assets/Product name/Livestock/Neunamin plus.webp",
+    Productname: "/Assets/Product name/Livestock/Neunamin Plus.webp",
     composition: [
       "Each Bolus Contains:",
       "Zinc Neunamin…………………………………..1, 60,000 mcg",

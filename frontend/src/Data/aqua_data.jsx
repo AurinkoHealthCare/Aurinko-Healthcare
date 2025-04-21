@@ -1033,7 +1033,7 @@ const aqua_data = [
     indications:
       [
         "Ecofriendly biocide",
-        "Effective against virus, bacteria and fungi"
+        "Effective against virus, bacteria and fungi" 
       ],
     usage:
       ["Aquaculture- 500 g- 1 Kg/ Ha; Poultry and Swine- 5 gm/ litre of water, water disinfection-1-2 gm/10 litre of water"],
