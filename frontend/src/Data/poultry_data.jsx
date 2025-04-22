@@ -298,7 +298,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Liver Stimulant, Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriliv vet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/auriliv vet.webp",
     Productname: "/Assets/Product name/Poultry/Aurili Vet.webp",
     composition: [
       "Each 100 ml contains.",
@@ -1344,7 +1344,7 @@ const poultry_data = [
     type: "Powder",
     category: " Growth Promoter, Other Specialty",
     packaging: "1 kg and 25 kg bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-Vet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow vet.webp",
     Productname: "/Assets/Product name/Livestock/Metagrow-vet.webp",
     composition: [
       "Each pack contains:",

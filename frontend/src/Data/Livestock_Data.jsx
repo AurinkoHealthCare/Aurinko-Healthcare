@@ -159,7 +159,7 @@ const livestock_data = [
     type: "Powder",
     category: "Liver Stimulant , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 Ltr 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriliv vet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/auriliv vet.webp",
     Productname: "/Assets/Product name/Livestock/Auriliv vet.webp",
     composition: [
       "Each 100 ml contains.",
@@ -250,7 +250,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Flukicide , Anthelmintic",
     packaging: "1 L",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurimec.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/aurimec.webp",
     Productname: "/Assets/Product name/Livestock/Aurimec.webp",
     composition: [
       "Each ml contains:",
@@ -346,7 +346,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Kidney Tonic Rejuvenator, Other Specialty",
     packaging: "500 ml, 1 Ltr, 2 Ltr and 5 Ltr.",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurinal.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/aurinal.webp",
     Productname: "/Assets/Product name/Livestock/Aurinal.webp",
     composition: [
       "Each 200 ml contains phytochemical extracts of:",
@@ -410,7 +410,7 @@ const livestock_data = [
     type: "Liquid Gel",
     category: "Nutritional Supplement, Other Specialty",
     packaging: "450 gm Bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriphos Nano Gel.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auripos Nano Gel.webp",
     Productname: "/Assets/Product name/Livestock/Auriphos Nano Gel.webp",
     composition: [
       "Each 450 gm contains:",
@@ -748,7 +748,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Bovicare vet plus.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/bovicare vet plus.webp",
     Productname: "/Assets/Product name/Livestock/Bovicare vet plus.webp",
     composition: [
       "Water Soluble Powder & each gm contains-",
@@ -810,7 +810,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "100 gm 200 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Bufto Forte.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/bufto forte.webp",
     Productname: "/Assets/Product name/Livestock/Bufto Forte.webp",
     composition: [
       "Each 200 gm contains:",
@@ -842,7 +842,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive enhancer and gut support",
     packaging: "30 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Digerum.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/digerum.webp",
     Productname: "/Assets/Product name/Livestock/Digerum.webp",
     composition: [
       "Each gm contains",
@@ -914,7 +914,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "30 Bolus in a container",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Estromin.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/estromin.webp",
     Productname: "/Assets/Product name/Livestock/Estro Min.webp",
     composition: [
       "Each sachet contains:",
@@ -981,7 +981,7 @@ const livestock_data = [
     type: "Powder",
     category: "Nutrition Supplement , Other Specialty",
     packaging: "16 gm sachet, Pack containing 60 sachets",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Fat-a-Fat.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/fat a fat.webp",
     Productname: "/Assets/Product name/Livestock/Fat-a-Fat.webp",
     composition: [
       "Each 15 gm Sachet contains :",
@@ -1293,7 +1293,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Anti - Parasitic, Anthelmintic",
     packaging: "Single bolus strip in a unit carton",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/mecfen.webp",
     Productname: "/Assets/Product name/Livestock/Mecfen.webp",
     composition: [
       "Each bolus contains:",
@@ -1348,7 +1348,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Anti-Parasitic , Anthelmintic",
     packaging: "6 tablets strip in a unit carton, 100 ml, 250 ml and 500 ml bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Mecfen Plus.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/mecefen plus.webp",
     Productname: "/Assets/Product name/Livestock/Mecfen Plus.webp",
     composition: [
       "Each tablet contains:",
@@ -1384,7 +1384,7 @@ const livestock_data = [
     type: "Powder",
     category: "Performance Enhancer, Immunomodulator, Other Specialty",
     packaging: "1 kg & 2 gm X 30 Sachet",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-Vet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Metagrow-Vet.webp",
     Productname: "/Assets/Product name/Livestock/Metagrow-vet.webp",
     composition: [
       "Each sachet contains:",
@@ -1415,7 +1415,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "80 gm",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Metriwin.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/metriwin.webp",
     Productname: "/Assets/Product name/Livestock/Metriwin.webp",
     composition: [
       "Each 80 gm contains:",
@@ -1486,7 +1486,7 @@ const livestock_data = [
     type: "Bolus",
     category: "Milk Enhancer",
     packaging: "25 gm X 10 Sachet",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Milky Vet nano.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/milky vet nano.webp",
     Productname: "/Assets/Product name/Livestock/Milk Vet.webp",
     composition: [
       "Each kg Contains:",
@@ -1919,7 +1919,7 @@ const livestock_data = [
     type: "Powder",
     category: "Digestive , Other Specialty",
     packaging: "12 gm Sachets 10 Sachets in box",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Salacgil DS.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Salacgil ds.webp",
     Productname: "/Assets/Product name/Livestock/Salacgil DS.webp",
     composition: [
       "Each 12 g Sachet Contains:",
@@ -1978,7 +1978,7 @@ const livestock_data = [
     type: "Liquid",
     category: "Antibacterial , Other Specialty",
     packaging: "10ml Aluminium bottle 25 ml multidose Aluminium bottle",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Thypin-IU.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Thypin IU.webp",
     Productname: "/Assets/Product name/Livestock/Thypin- IU.webp",
     composition: [
       "Each 2.5 gm contains:",
