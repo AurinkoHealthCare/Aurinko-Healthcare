@@ -725,7 +725,7 @@ const livestock_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurobind.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurobind.webp",
     Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
     composition: [
       "Contains : Calcium sulphate,Guar gum"

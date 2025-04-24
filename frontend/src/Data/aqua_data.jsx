@@ -106,7 +106,7 @@ const aqua_data = [
     type: "Gel",
     category: "Performance Enhancer",
     packaging: "5 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Planktogrow Gel.webp",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Planktogrow gel.webp",
     Productname: "/Assets/Product name/Aqua/Plankto Grow Gel.webp",
     composition: [
       "Each Pack Contains :",
