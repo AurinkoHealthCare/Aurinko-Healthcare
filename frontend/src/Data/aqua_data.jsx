@@ -32,10 +32,355 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 15,
+    id: 2,
+    name: "Potent Aqua Immunomodulator",
+    description:
+      "Aquasyn is unique immunomodulator enriched with potentiated probiotics and algal extract. Highly effective for mortality prevention programme during WSSV, Vibriosis and other infections outbreak in shrimp and fish.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "1 Kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn.webp",
+    Productname: "/Assets/Product name/Aqua/Aqua Syn.webp",
+    composition: [
+      "Each kg contains:",
+      "Lactobacillus plantarum, Bacillus amyloliquefaciens, Sargassum spp.Extract, Beta Glucan Mannan Oligosaccharide, Vitamin E, Grape Polyphenol, Ascorbic Acid",
+      "(Total probiotic count is 22,000 billion CFU per kg)"
+    ],
+    indications:
+      [
+        "Immuno-stimulation and better survivability against WSSV, Vibriosis and other infections in shrimp and fish",
+        "Growth promoter in fish"
+      ],
+    usage:
+      ["400 gm per 100 Kg of feed for Mortality Prevention Programme 40 gms per 100 Kg of feed as regular supplementation for immune stimulation and growth promotion"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 3,
+    name: "Nano Technology Based and Specific Ig Y Enriched Immunomodulator for Vibriosis",
+    description:
+      "A nano technology based and specific lgY enriched formulation, fortified with Silver nano particles and potent immuno-stimulants. Enhances cell-mediated and antibody-mediated immunity to improve disease resistance and survivability against fatal shrimp diseases like Vibriosis etc. Highly effective against White Feces Syndrome, White Gut Disease, White Muscle Disease, stunted growth and Loose Shell Syndrome.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "1 Kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn Plus.webp",
+    Productname: "/Assets/Product name/Aqua/Aquasyn Plus.webp",
+    composition: [
+      "Each kg Contains:",
+      "Specific Ig Y antibodies for Vibriosis",
+      "Nano particles, Phytochemicals and Polyphenols, Beta Glucan, Mannan Oligosaccharide",
+      "Nano technology based delivery system"
+    ],
+    indications:
+      [
+        "Enhances Cell-mediated and Humoral Immunity",
+        "Improves disease resistance and Survivability against Vibriosis"
+      ],
+    usage:
+      ["500 gm per 100 Kg of feed"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 4,
+    name: "Benzalkonium Chloride-80%",
+    description:
+      "Auriben is a quaternary ammonium compound with exceptional microbicidal properties for use as a potent biocide & deodorant in aquaculture. It is a cationic surfactant used to remove ectoparasites from ﬁsh, prawn and shrimp. It has detergent & antibacterial activities and is eﬀective to prevent & control bacterial, protozoan and monogenean infections.",
+    segment: "Aqua",
+    type: "Liquid",
+    category: "Other Specialty",
+    packaging: "1 L Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
+    Productname: "/Assets/Product name/Aqua/Auriben.webp",
+    composition: [
+      "Alkyl Dimethyl Benzyl Ammonium",
+      "Chloride 80%",
+      "(with suitable stabilizers and activators)"
+    ],
+    indications:
+      [
+        "Triggers moulting activity in shrimps & prawns. Controls and prevents bacterial and fungal diseases in aquaculture",
+        "Can be administered concurrently with specific oral anti-bacterials in fish culture. Prevention of surface ulcers, wounds & lesions in fish culture",
+        "Increases cultivation density and harvest. Germicidal activity enhances in the presence of nitrogenous organic matter",
+        "Decomposes leaving behind no residues and causes no pollution problem."
+      ],
+    usage:
+      ["Prawn/Shrimp/Fish Ponds: 45-75 Days: 1 Ltr/1300 m2 ; 75-100 Days: 1.5 Ltr/1300 m2 100 days to harvest: 2.0 Ltrs/1300 m2 Auriben is indicated for use during high pathogenic bacteria loads and to control and prevent secondary infections as a consequence of viral infection. Red Disease in Shrimp hatcheries: A day’s bath in 1 – 2 ppm solution. Apply Auriben once every 7-10 days or 2-3 days according to water quality or as advised by aquaculture consultant."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 5,
+    name: "Povidone Iodine 10%",
+    description:
+      "Auridine-10 is a chemical disinfectant which is widely used in aquaculture. It can decrease the occurrence of pathogenic diseases and improve the survival of aquatic animals. Auridine-10 is a buffer of 1% iodine solution which is specifically used for disinfecting fish eggs. It contains 10% povidone iodine complex which provides 1% iodine. It has been  ed as a broad-spectrum microbicide with potency to inactivate bacteria, fungi, protozoans, several viruses and some spores. Auridine-10 is not only used as a fish egg disinfectant but also to reduce the transmission of diseases between upcoming generations of fishes. Auridine-10 fish egg disinfectant is an important part of aquaculture.",
+    segment: "Aqua, Swine",
+    type: "Liquid",
+    category: "Antimicrobial , Antibacterial",
+    packaging: "1 L & 5 L",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auridine 10.webp",
+    Productname: "/Assets/Product name/Aqua/Auridine 10.webp",
+    composition: [
+      "Povidone iodine 10% with suitable stabilizer and activators."
+    ],
+    indications:
+      [
+        "Pond water disinfectant Maintains water pH and temperature.",
+        "Prevents harmful external parasites. Improves the pond water environment, inhibits algae growth.",
+        "Germicidal for pre-operative and post operative skin washing.",
+        "For bacterial and fungal skin infections. Helps to prevent infections in cuts, wounds, scratches, abrasion and burns."
+      ],
+    usage:
+      ["Aqua: Dilute 500-1000 ml of Auridine 10 in 100 litres of water and spray uniformly throughout the culture pond of 1 acre or meter water depth. Swine: For Topical Application."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 6,
+    name: "Management of Acidified Ponds",
+    description:
+      "Aurifung pH is a unique pond alkalizer enriched with potent pond alkalizers and organic anti-bacterial and anti-fungals for management of acidified ponds.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "25 Kg pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurifung.webp",
+    Productname: "/Assets/Product name/Aqua/Aurifung PH.webp",
+    composition: [
+      "Each pack contains:",
+      "Pond Alkalizers",
+      "Organic Anti-bacterial and Anti-fungals"
+    ],
+    indications:
+      [
+        "Sheep Gastro- intestinal Nematodes, Pulmonary Nematodes, Ostertagia, Oestrous ovis",
+        "Dogs Gastro-intestinal Nematodes & Heart worms",
+        "Cattle Gastro-intestinal Nematodes, Lung worms, Eye worms, Skin worms Horses Gastro- intestinal nematodes, Lung worms, Ostertagia Strongylus",
+        "Aquaculture Ectoparasitic copepods (Sea lice), Gastro-intestinal Nematodes Lung worms Eye worms Skin worms"
+      ],
+    usage:
+      ["25 ml/100 kg body weight or as directed by Veterinarian.",
+        "Aquaculture:-25-40 kg/ton of feed or as directed by Veterinarian/ Aquaculture consultant."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 7,
+    name: "Fish Gel Binder to Support Growth",
+    description:
+      "Aurifgel is a unique fish gel binder enriched with amino acids, vitamins, probiotics and seaweed extract to support growth of aquaculture.",
+    segment: "Aqua",
+    type: "Gel",
+    category: "Other Specialty",
+    packaging: "1 Ltr & 5 Ltr",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurifgel.webp",
+    Productname: "/Assets/Product name/Aqua/Aurifgel.webp",
+    composition: [
+      "Each Ltr contains:",
+      "Essential enzymes, Highly concentrated herbal substances along with Arginine 5200 mg, Phenylalanine 3400 mg, Tryptophan 2900 mg, Glycine 3500 mg, Inositol 2800 mg, L-Lysine 500 mg, DL-Methionine 500 mg, Vitamin B1 4000 mg, Vitamin B2 3750 mg, Vitamin B5 2000 mg, Vitamin B12 15000 mcg, Vitamin A 50000 IU, Vitamin D3 10000 IU, Vitamin C 1000 mg, Seaweed extract 10 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Bacillus amyloliquefaciens (Total probiotic count 100 Billion) with Binding agents, pH stabilizersand attractants Q.S. to 1 Litre"
+    ],
+    indications:
+      [
+        "Excellent carrier and binder for fish supplement and feed.",
+        "Enriched with amino acids, vitamins, probiotics and seaweed extract to support growth of aquaculture."
+      ],
+    usage:
+      ["5-6 ml per kg of feed.",
+        "Or as directed by aquaculture consultant or technician."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 8,
+    name: "An Innovative Non-Antibiotic Growth Promoter",
+    description:
+      "Aurigain Aqua is a unique blend of phytochemical extracts, probiotics, amino acids and essential oils that enhance growth and weight gain in aquaculture.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Nutrition Supplement , Other Specialty",
+    packaging: "500 gm & 1 kg & 25 kg Bag",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigain Aqua.webp",
+    Productname: "/Assets/Product name/Aqua/Aurigain Aqua.webp",
+    composition: [
+      "Each pack contains:",
+      "Phytochemical extracts of -",
+      "Leptadenia reticulata, Asparagus racemosus, Trigonella foenum, Ocimum sanctum, Phyllanthus embllica, Andrographis paniculata, Eclipta alba, Sacchromyces cerevisiae, Bacillus coagulans, Aspergillus oryzae, DL - Methionine, Niacin, Biotin",
+      "Fortified with Essential oils"
+    ],
+    indications:
+      [
+        "Initiates faster growth in growing carps and prawns to achieve higher weight gain."
+      ],
+    usage:
+      ["Indian Major Carps: 1% mixed with feed along with binder gel. Supplementation is recommended for 3-4 months. Prawns: 1% mixed with feed along with binder gel. Supplementation is recommended for 45-60 days."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 9,
+    name: "All Natural Non-Antibiotic Growth Promoter",
+    description:
+      "Aurigrow is a unique non-antibiotic growth promoter fortified with phytochemicals, nucleotides, vitamins, minerals, FOS and organic acids to ensure potent antibacterial and antifungal action, improve immunity, egg production and aquaculture yield.",
+    segment: "Aqua , Swine , Poultry",
+    type: "Powder",
+    category: "Performance Enhancer , Immunomodulator",
+    packaging: "100 gm and 250 gm and 1 Kg pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigrow.webp",
+    Productname: "/Assets/Product name/Aqua/Auri Grow.webp",
+    composition: [
+      "Each pack Contains:",
+      "Extracts of Allium sativum and Ocimum sanctum, Phytochemical principles of Thymol, Eugenol, Curcumin and Capsaicin, Nucleotides, Vitamin C, Mannan oligosaccharide, Selenium, Zinc, Organic acid derivatives, Postbiotic Metabolites of Bacillus Spp., Protease enzyme  & Inulin"
+    ],
+    indications:
+      [
+        "Improves immunity and reduce mortality rate",
+        "Growth promoter",
+        "Strong anti-bacterial and anti-fungal supplement."
+      ],
+    usage:
+      ["1 gm to 2 gm per kg of feed once a day as growth promoter 2 gm to 4 gm per kg of feed twice a day during bacterial and fungal infections."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 10,
+    name: "Ivermectin Oral Solution Bp (vet) 0.08% W/v",
+    description:
+      "Aurimec is Ivermectin de-wormer solution for the management of gastro-intestinal nematodes and worms.",
+    segment: "Livestock, Aqua",
+    type: "Liquid",
+    category: "Flukicide , Anthelmintic",
+    packaging: "1 L",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/aurimec.webp",
+    Productname: "/Assets/Product name/Aqua/Aurimec.webp",
+    composition: [
+      "Each ml contains:",
+      "Ivermectin IP 0.8 mg, Benzyl Alcohol IP (As Preservative) 0.02 ml",
+      "Aqueous base q.s."
+    ],
+    indications:
+      [
+        "Sheep Gastro- intestinal Nematodes, Pulmonary Nematodes, Ostertagia, Oestrous ovis",
+        "Dogs Gastro-intestinal Nematodes & Heart worms",
+        "Cattle Gastro-intestinal Nematodes, Lung worms, Eye worms, Skin worms Horses Gastro- intestinal nematodes, Lung worms, Ostertagia Strongylus",
+        "Aquaculture Ectoparasitic copepods (Sea lice), Gastro-intestinal Nematodes Lung worms Eye worms Skin worms"
+      ],
+    usage:
+      ["25 ml/100 kg body weight or as directed by Veterinarian. 25 ml/100 kg body weight Aquaculture:-10-13 ml/100 kg body weight or as directed by Veterinarian/ Aquaculture consultant."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 11,
+    name: "Aqua Probiotics",
+    description:
+      "Auripro Aqua is a unique probiotic formulation for improving the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "80 gm, 500 gm",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Aqua.webp",
+    Productname: "/Assets/Product name/Aqua/Auripro Aqua.webp",
+    composition: [
+      "Each gm contains: -",
+      "Bacillus subtilis",
+      "Bacillus licheniformis",
+      "Bacillus megaterium",
+      "Paenibacillus polymyxa",
+      "Lactobacillus plantarum",
+      "(Total probiotic count is 50 billion CFU per gm.)"
+    ],
+    indications:
+      [
+        "Reconditioning of aqua pond.",
+        "For management of ammonia, sludge, oxygen, and toxicity in pond water",
+        "Improving the immunity and reducing pathogen levels in pond"
+      ],
+    usage:
+      ["30-50 gm with 5 ltr lukewarm pond water along with 250 gm jaggery and keep it for 72-96 hrs for fermentation. Afterwards, dilute in 50 litre of water to spray in 1 Acre pond. Repeat after every 15 days till the pond condition stabilize."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 12,
+    name: "Complete Gut Care with Synbiotics",
+    description:
+      "Auripro Gut is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "100 gm, 250 gm, 500 gm and 1 kg",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro gut aqua.webp",
+    Productname: "/Assets/Product name/Aqua/Auripro Gut Aqua.webp",
+    composition: [
+      "Each kg contains:",
+      "Beta Glucan & Mos complex 900 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici, Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium, Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus",
+      "(Probiotic count is 3,000 Billion CFU per kg)"
+    ],
+    indications:
+      [
+        "Improves production of endogenous butyric acid for better gut health and growth.",
+        "Optimizes gut health, improves digestibility and enhances nutrient absorption.",
+        "Reduces the effect of feed borne toxins and ammonia production in litter.",
+        "Promotes and maintains better flock health with improved economic gain.",
+        "Increases body weight gain and improves FCR.",
+        "Improves body immunity and reduces mortality."
+      ],
+    usage:
+      ["Aquaculture :0.3 gm per Kg of feed during fry,fingerling stage.",
+        "0.2 gm per Kg of feed up to 120 days of growth period in carps / up to 45 days in prawns.",
+        "0.1 gm per Kg of feed from 121 days onwards in carps / from 46 days onwards in prawns."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 13,
+    name: "Complete Gut Health Formula",
+    description:
+      "Auripro Plus is a powerful combination of effective probiotic strains, enzymes and vitamins providing a wide range of gut support, improving FCR, digestibility and absorption.",
+    segment: "Poultry , Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "100 gm 1 kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Plus.webp",
+    Productname: "/Assets/Product name/Aqua/Auripro Plus.webp",
+    composition: [
+      "Each kg contains:",
+      "Vitamin B1 5 gm, Vitamin B6 5 gm, Vitamin C 10 gm, Alpha-amylase 10,00,000 IU, Protease 1,00,000 IU, Phytase 10,000 IU, Cellulase 1,00,000 IU, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Aspergillus oryzae, Saccharomyces boulardii, Aspergillus niger",
+      "(Total probiotic count NLT 3500 Billion CFU)"
+    ],
+    indications:
+      [
+        "Improves gut health for enhanced growth and production.",
+        "Increases digestibility and enhances nutrient absorption.",
+        "Improves health, body weight gain and FCR.",
+        "Supports body immunity and reduces mortality. Enriched with Fish attractant flavor."
+      ],
+    usage:
+      ["Inclusion rate: In mash feed, Layer/Breeder/ Grower: 125 g/ton of feed. For Layer: 75-125 g/ton of feed. For Aqua: Mixing Ratio: (Gm/Kg of feed) For disease resistance: Fish: 1-2 gm Giant river prawn: 2-3 gm Tiger prawn: 4-5 gm For Therapeutic support: Fish: 2-3 gm Giant river prawn: 4-5 gm Tiger prawn: 6-8 gm"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 14,
     name: "Corrects Nitrite Levels and Promotes Aqua Health",
     description:
-    "Auririch is a blend of different potent probiotics to improve nitrite levels in pond and also promote aquaculture health.",
+      "Auririch is a blend of different potent probiotics to improve nitrite levels in pond and also promote aquaculture health.",
     segment: "Aqua",
     type: "Liquid",
     category: "Other Specialty",
@@ -51,19 +396,19 @@ const aqua_data = [
       "(Total probiotic count 77.5 million CFU per ml)"
     ],
     indications:
-    [
-      "Reduces toxic nitrite and nitrate concentration to support loss of valuable fish",
-      "Sludge and malodour reduction",
-      "Improves water quality for good aquaculture health"
-    ],
+      [
+        "Reduces toxic nitrite and nitrate concentration to support loss of valuable fish",
+        "Sludge and malodour reduction",
+        "Improves water quality for good aquaculture health"
+      ],
     usage:
-    ["500 ml-2 litre/acre Or as directed by aqua consultant or Technician."],
+      ["500 ml-2 litre/acre Or as directed by aqua consultant or Technician."],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
-    id: 16,
+    id: 15,
     name: "Essential Aqua Minerals",
     description:
       "Auromin is complete blend of essential macro and micro minerals, which provides suitable environment by maintaining moderate pH, reduces water toxicity, hardness and enhance growth of aquatic life.",
@@ -88,7 +433,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 17,
+    id: 16,
     name: "Premium Aqua Nutrition",
     description:
       "Auromin Forte is complete blend of essential macro and micro minerals Fortified with Vitamins, Amino acids and probiotics, which provides suitable environment by maintaining moderate pH, reduces water toxicity, hardness and enhance growth of aquatic life.",
@@ -113,7 +458,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 18,
+    id: 17,
     name: "Premium Aqua Nutrition",
     description:
       "Auromin Forte Chelated.",
@@ -134,6 +479,42 @@ const aqua_data = [
       ],
     usage:
       ["3-4kg/ton of feed"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 18,
+    name: "Potent Organic Immunomodulator",
+    description:
+      "Aurimune forte WS is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
+    segment: "Poultry , Aqua",
+    type: "Powder",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "100 gm, 500 gm & 1 kg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
+    Productname: "/Assets/Product name/Aqua/Aurimune Forte ws.webp",
+    composition: [
+      "Each 1 kg contains:",
+      "Mannan oligosaccharides 160 gm",
+      "Vitamin C 48 gm",
+      "Betaine hydrochloride 200 gm",
+      "Pepsin 1.44 gm",
+      "Vitamin E 48 gm",
+      "Sodium selenite 3.6 gm",
+      "Nucleotides 16 gm",
+      "Protein hydrolysate 120 gm",
+      "Fortified with Microbial Lysozyme and phytochemical principles of Ocimum sanctum",
+      "Phyllanthus emblica and Allium sativum."
+    ],
+    indications:
+      [
+        "Improves immunity, reduces mortality, enhances growth and provides better health",
+        "Acts as supportive therapy during disease exposure and helps in faster recovery",
+        "Growth Promoter"
+      ],
+    usage:
+      ["As immunomodulator and growth promoter:- 2.5-7.5 gm mixed with 100 ltr. water for 500 birds twice daily for 4 to 8 weeks. For mortality prevention programme during severe stress, immune compromised status or disease exposure:- 7.5-15 gm mixed with 100 ltr. water for 500 birds twice daily for 2-3 weeks. Aqua: As immuno-modulator and growth promoter:- 2 gm/kg of feed during fry, fingerling stage. 1 gm/kg of feed up to 120 days of growth period in carps/up to 45 days in prawns. 0.5 gm/kg of feed from 121 days onwards in carps/ from 46 days onwards in prawns. During severe stress, immune compromised status or disease exposure, the rate of supplementation may be increased up to 2-3 times."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -203,200 +584,8 @@ const aqua_data = [
     brochure: " ",
     feedback: " "
   },
-
- 
   {
-    id: 8,
-    name: "An Innovative Non-Antibiotic Growth Promoter",
-    description:
-      "Aurigain Aqua is a unique blend of phytochemical extracts, probiotics, amino acids and essential oils that enhance growth and weight gain in aquaculture.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Nutrition Supplement , Other Specialty",
-    packaging: "500 gm & 1 kg & 25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigain Aqua.webp",
-    Productname: "/Assets/Product name/Aqua/Aurigain Aqua.webp",
-    composition: [
-      "Each pack contains:",
-      "Phytochemical extracts of -",
-      "Leptadenia reticulata, Asparagus racemosus, Trigonella foenum, Ocimum sanctum, Phyllanthus embllica, Andrographis paniculata, Eclipta alba, Sacchromyces cerevisiae, Bacillus coagulans, Aspergillus oryzae, DL - Methionine, Niacin, Biotin",
-      "Fortified with Essential oils"
-    ],
-    indications:
-      [
-        "Initiates faster growth in growing carps and prawns to achieve higher weight gain."
-      ],
-    usage:
-      ["Indian Major Carps: 1% mixed with feed along with binder gel. Supplementation is recommended for 3-4 months. Prawns: 1% mixed with feed along with binder gel. Supplementation is recommended for 45-60 days."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 9,
-    name: "All Natural Non-Antibiotic Growth Promoter",
-    description:
-      "Aurigrow is a unique non-antibiotic growth promoter fortified with phytochemicals, nucleotides, vitamins, minerals, FOS and organic acids to ensure potent antibacterial and antifungal action, improve immunity, egg production and aquaculture yield.",
-    segment: "Aqua , Swine , Poultry",
-    type: "Powder",
-    category: "Performance Enhancer , Immunomodulator",
-    packaging: "100 gm and 250 gm and 1 Kg pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurigrow.webp",
-    Productname: "/Assets/Product name/Aqua/Auri Grow.webp",
-    composition: [
-      "Each pack Contains:",
-      "Extracts of Allium sativum and Ocimum sanctum, Phytochemical principles of Thymol, Eugenol, Curcumin and Capsaicin, Nucleotides, Vitamin C, Mannan oligosaccharide, Selenium, Zinc, Organic acid derivatives, Postbiotic Metabolites of Bacillus Spp., Protease enzyme  & Inulin"
-    ],
-    indications:
-      [
-        "Improves immunity and reduce mortality rate",
-        "Growth promoter",
-        "Strong anti-bacterial and anti-fungal supplement."
-      ],
-    usage:
-      ["1 gm to 2 gm per kg of feed once a day as growth promoter 2 gm to 4 gm per kg of feed twice a day during bacterial and fungal infections."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 23,
-    name: "Postbiotic Growth Promoter",
-    description:
-    "Metagrow Aqua is a postbiotic blend enriched with growth enzymes, metabolic activators, antimicrobial peptides, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.Metagrow Aqua stimulates the growth and helps in weight gain, reduces the chance of diseases, improves health and reduces mortality in fishes and shrimps. ",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Performance Enhancer, Immunomodulator, Other Specialty",
-    packaging: "1 Kg Pack 25 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Metagrow Aqua.webp",
-    Productname: "/Assets/Product name/Aqua/Metagrow Aqua.webp",
-    composition: [
-      "Each pack contains:",
-      "High Metabolic Activators, Antimicrobial peptides, Antioxidants and Immunogens",
-      "(Metabolic extracts of Saccharomyces and Bacillus probiotics enriched with enzymes)",
-      "Fortified with Betaglucan-Mannan oligosaccharide complex"
-    ],
-    indications:
-    [
-        "Immunostimul ation and better survivability against WSSV, Vibriosis and other infections in shrimp and fish.",
-        "Growth promoter in shrimp and fish."
-      ],
-      usage:
-      [
-        "Aquaculture- 3 gm per Kg of feed during fry, fingerling stage.",
-        "2 gm per Kg of feed up to 120 days of growth period in  carps / up to 45 days in prawns.",
-        "1 gm per Kg of feed from 121 days onwards in carps / from 46 days onwards in prawns."
-      ],
-      report: " ",
-      brochure: " ",
-      feedback: " "
-    },
-    {
-      id: 25,
-      name: "Immunopotentiator and Growth Promoter",
-      description:
-        "Phosbol Aqua is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in aquaculture crop.",
-      segment: "Aqua",
-      type: "Powder",
-      category: "Other Specialty",
-      packaging: "100 gm, 1 kg and 25 kg bag",
-      Productimg: "/Assets/Product images/Veterinary/Aqua/Phosbol Aqua.webp",
-      Productname: "/Assets/Product name/Aqua/Phosbol Aqua.webp",
-      composition: [
-        "Each gm contains:",
-        "Butaphosphan INN……………………………….100 mg",
-        "Vitamin B₁₂…………………………………………50 mcg",
-        "Pediococcus acidilactici……………………500000 cfu"
-      ],
-      indications:
-        [
-          "Improves eubiosis, stimulates digestive enzyme production",
-          "Promotes digestion and prevents harmful pathogens.",
-          "Relieves stress and restores immunity in the corp.",
-          "Improves metabolism, FCR and body weight gain.",
-          "Increases egg production and hatchability.",
-          "Supports molting and help quickly harden the shell.",
-          "Enhance immunity and reduce mortality rate."
-        ],
-      usage:
-        ["Feed 1 time/day for every day.",
-          "Support feed digestion, absorption and balance the intestinal microflora",
-          "Shrimp < 45 days old: 2 g/kg of feed.",
-          "Shrimp > 45 days old: 1 g/kg of feed.",
-          "Unsuccessful molting in shrimp: 2-3 g/kg of feed, feed 5-7 consecutive days."],
-      report: " ",
-      brochure: " ",
-      feedback: " "
-    },
-
-
-  {
-    id: 24,
-    name: "Super Nutrition for Aqua",
-    description:
-      "Neuna forte aqua is a premium super rich nutrition enriched with MHA Chelates, coated vitamins, potentiated probiotics, GPP, energy booster complex and unique phytobio-calphosTM. A powerful nutrition supplement enriched with 23 essential nutrition for growth, reproduction, better health and disease resistance in aquaculture.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Nutrition Supplement , Performance Enhancer",
-    packaging: "1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Neunaforte.webp",
-    Productname: "/Assets/Product name/Aqua/Neuna Forte Aqua.webp",
-    composition: [
-      "Each pack contains:",
-      "Very high concentrations of Coated Vitamin A, Coated Vitamin D3, Coated Vitamin E, Zinc Neunamin, Copper Neunamin, Manganese Neunamin, Iron Neunamin, Chromium Neunamin, Iodine Neunamin, Selenium Neunamin, Nicotinamide, Cobalt, Sulphur, Potassium, Sodium, Saccharomyces cerevisiae, Aspergillus oryzae, Lactobacillus sporogenes, Bioactive chromium, Grape PP  extract, Phytobio-Calphos® , Myo-inositol-hexakisphosphate 3-phosphohydrolase concentrate, Energy Booster Complex"
-    ],
-    indications:
-      [
-        "Improves growth of aquaculture",
-        "Increases body weight gain Improves reproductive efficiency",
-        "Enhances immunity against diseases"
-      ],
-    usage:
-      [
-        "Mixing Ratio",
-        "For fish fingerlings: 8-10 kg per tonne of feed",
-        "For Grower: 4-6 kg per tonne of feed",
-        "For Adult: 2 kg per tonne of feed"
-      ],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-
-  {
-    id: 25,
-    name: "Aqua Probiotics",
-    description:
-      "Auripro Aqua is a unique probiotic formulation for improving the immunity of aqua crop, reconditioning of aqua pond and improve water quality through management of ammonia, sludge, oxygen and toxicity.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "80 gm, 500 gm",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Aqua.webp",
-    Productname: "/Assets/Product name/Aqua/Auripro Aqua.webp",
-    composition: [
-      "Each gm contains: -",
-      "Bacillus subtilis",
-      "Bacillus licheniformis",
-      "Bacillus megaterium",
-      "Paenibacillus polymyxa",
-      "Lactobacillus plantarum",
-      "(Total probiotic count is 50 billion CFU per gm.)"
-    ],
-    indications:
-      [
-        "Reconditioning of aqua pond.",
-        "For management of ammonia, sludge, oxygen, and toxicity in pond water",
-        "Improving the immunity and reducing pathogen levels in pond"
-      ],
-    usage:
-      ["30-50 gm with 5 ltr lukewarm pond water along with 250 gm jaggery and keep it for 72-96 hrs for fermentation. Afterwards, dilute in 50 litre of water to spray in 1 Acre pond. Repeat after every 15 days till the pond condition stabilize."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 26,
+    id: 21,
     name: "Bio-Remediation of Organic Compost",
     description:
       "A unique probiotics formulation for faster de  of organic waste and reduction of sludge through Bio-remediation process using nitrification, denitrification, oxidation, catabolism, production of proteolytic, amylolytic enzymes and inhibition of pathogenic microorganism.",
@@ -430,300 +619,7 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 27,
-    name: "Complete Gut Health Formula",
-    description:
-      "Auripro Plus is a powerful combination of effective probiotic strains, enzymes and vitamins providing a wide range of gut support, improving FCR, digestibility and absorption.",
-    segment: "Poultry , Aqua",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "100 gm 1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro Plus.webp",
-    Productname: "/Assets/Product name/Aqua/Auripro Plus.webp",
-    composition: [
-      "Each kg contains:",
-      "Vitamin B1 5 gm, Vitamin B6 5 gm, Vitamin C 10 gm, Alpha-amylase 10,00,000 IU, Protease 1,00,000 IU, Phytase 10,000 IU, Cellulase 1,00,000 IU, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Aspergillus oryzae, Saccharomyces boulardii, Aspergillus niger",
-      "(Total probiotic count NLT 3500 Billion CFU)"
-    ],
-    indications:
-      [
-        "Improves gut health for enhanced growth and production.",
-        "Increases digestibility and enhances nutrient absorption.",
-        "Improves health, body weight gain and FCR.",
-        "Supports body immunity and reduces mortality. Enriched with Fish attractant flavor."
-      ],
-    usage:
-      ["Inclusion rate: In mash feed, Layer/Breeder/ Grower: 125 g/ton of feed. For Layer: 75-125 g/ton of feed. For Aqua: Mixing Ratio: (Gm/Kg of feed) For disease resistance: Fish: 1-2 gm Giant river prawn: 2-3 gm Tiger prawn: 4-5 gm For Therapeutic support: Fish: 2-3 gm Giant river prawn: 4-5 gm Tiger prawn: 6-8 gm"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 28,
-    name: "Complete Gut Care with Synbiotics",
-    description:
-      "Auripro Gut is a full-spectrum cocktail of eleven extremely effective probiotic strains, fortified with Mannan oligosaaccharides (MOS) and Beta glucan providing a wide range of gut support and immunomodulation by colonizing across the complete digestive tract.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "100 gm, 250 gm, 500 gm and 1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auripro gut aqua.webp",
-    Productname: "/Assets/Product name/Aqua/Auripro Gut Aqua.webp",
-    composition: [
-      "Each kg contains:",
-      "Beta Glucan & Mos complex 900 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus mesentericus, Lactobacillus plantarum, Pediococcus acidilactici, Streptococcus faecalis, Clostridium butyricum, Enterococcus faecium, Saccharomyces boulardii, Bacillus coagulans, Lactobacillus acidophilus",
-      "(Probiotic count is 3,000 Billion CFU per kg)"
-    ],
-    indications:
-      [
-        "Improves production of endogenous butyric acid for better gut health and growth.",
-        "Optimizes gut health, improves digestibility and enhances nutrient absorption.",
-        "Reduces the effect of feed borne toxins and ammonia production in litter.",
-        "Promotes and maintains better flock health with improved economic gain.",
-        "Increases body weight gain and improves FCR.",
-        "Improves body immunity and reduces mortality."
-      ],
-    usage:
-      ["Aquaculture :0.3 gm per Kg of feed during fry,fingerling stage.",
-        "0.2 gm per Kg of feed up to 120 days of growth period in carps / up to 45 days in prawns.",
-        "0.1 gm per Kg of feed from 121 days onwards in carps / from 46 days onwards in prawns."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 29,
-    name: "Nano Technology Based and Specific Ig Y Enriched Immunomodulator for Vibriosis",
-    description:
-      "A nano technology based and specific lgY enriched formulation, fortified with Silver nano particles and potent immuno-stimulants. Enhances cell-mediated and antibody-mediated immunity to improve disease resistance and survivability against fatal shrimp diseases like Vibriosis etc. Highly effective against White Feces Syndrome, White Gut Disease, White Muscle Disease, stunted growth and Loose Shell Syndrome.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "1 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn Plus.webp",
-    Productname: "/Assets/Product name/Aqua/Aquasyn Plus.webp",
-    composition: [
-      "Each kg Contains:",
-      "Specific Ig Y antibodies for Vibriosis",
-      "Nano particles, Phytochemicals and Polyphenols, Beta Glucan, Mannan Oligosaccharide",
-      "Nano technology based delivery system"
-    ],
-    indications:
-      [
-        "Enhances Cell-mediated and Humoral Immunity",
-        "Improves disease resistance and Survivability against Vibriosis"
-      ],
-    usage:
-      ["500 gm per 100 Kg of feed"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 30,
-    name: "Potent Aqua Immunomodulator",
-    description:
-      "Aquasyn is unique immunomodulator enriched with potentiated probiotics and algal extract. Highly effective for mortality prevention programme during WSSV, Vibriosis and other infections outbreak in shrimp and fish.",
-    segment: "Aqua",
-    type: "Powder",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "1 Kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Aquasyn.webp",
-    Productname: "/Assets/Product name/Aqua/Aqua Syn.webp",
-    composition: [
-      "Each kg contains:",
-      "Lactobacillus plantarum, Bacillus amyloliquefaciens, Sargassum spp.Extract, Beta Glucan Mannan Oligosaccharide, Vitamin E, Grape Polyphenol, Ascorbic Acid",
-      "(Total probiotic count is 22,000 billion CFU per kg)"
-    ],
-    indications:
-      [
-        "Immuno-stimulation and better survivability against WSSV, Vibriosis and other infections in shrimp and fish",
-        "Growth promoter in fish"
-      ],
-    usage:
-      ["400 gm per 100 Kg of feed for Mortality Prevention Programme 40 gms per 100 Kg of feed as regular supplementation for immune stimulation and growth promotion"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 31,
-    name: "Potent Organic Immunomodulator",
-    description:
-      "Aurimune forte WS is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
-    segment: "Poultry , Aqua",
-    type: "Powder",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "100 gm, 500 gm & 1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune forte WS.webp",
-    Productname: "/Assets/Product name/Aqua/Aurimune Forte ws.webp",
-    composition: [
-      "Each 1 kg contains:",
-      "Mannan oligosaccharides 160 gm",
-      "Vitamin C 48 gm",
-      "Betaine hydrochloride 200 gm",
-      "Pepsin 1.44 gm",
-      "Vitamin E 48 gm",
-      "Sodium selenite 3.6 gm",
-      "Nucleotides 16 gm",
-      "Protein hydrolysate 120 gm",
-      "Fortified with Microbial Lysozyme and phytochemical principles of Ocimum sanctum",
-      "Phyllanthus emblica and Allium sativum."
-    ],
-    indications:
-      [
-        "Improves immunity, reduces mortality, enhances growth and provides better health",
-        "Acts as supportive therapy during disease exposure and helps in faster recovery",
-        "Growth Promoter"
-      ],
-    usage:
-      ["As immunomodulator and growth promoter:- 2.5-7.5 gm mixed with 100 ltr. water for 500 birds twice daily for 4 to 8 weeks. For mortality prevention programme during severe stress, immune compromised status or disease exposure:- 7.5-15 gm mixed with 100 ltr. water for 500 birds twice daily for 2-3 weeks. Aqua: As immuno-modulator and growth promoter:- 2 gm/kg of feed during fry, fingerling stage. 1 gm/kg of feed up to 120 days of growth period in carps/up to 45 days in prawns. 0.5 gm/kg of feed from 121 days onwards in carps/ from 46 days onwards in prawns. During severe stress, immune compromised status or disease exposure, the rate of supplementation may be increased up to 2-3 times."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 32,
-    name: "Povidone Iodine 10%",
-    description:
-      "Auridine-10 is a chemical disinfectant which is widely used in aquaculture. It can decrease the occurrence of pathogenic diseases and improve the survival of aquatic animals. Auridine-10 is a buffer of 1% iodine solution which is specifically used for disinfecting fish eggs. It contains 10% povidone iodine complex which provides 1% iodine. It has been  ed as a broad-spectrum microbicide with potency to inactivate bacteria, fungi, protozoans, several viruses and some spores. Auridine-10 is not only used as a fish egg disinfectant but also to reduce the transmission of diseases between upcoming generations of fishes. Auridine-10 fish egg disinfectant is an important part of aquaculture.",
-    segment: "Aqua, Swine",
-    type: "Liquid",
-    category: "Antimicrobial , Antibacterial",
-    packaging: "1 L & 5 L",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auridine 10.webp",
-    Productname: "/Assets/Product name/Aqua/Auridine 10.webp",
-    composition: [
-      "Povidone iodine 10% with suitable stabilizer and activators."
-    ],
-    indications:
-      [
-        "Pond water disinfectant Maintains water pH and temperature.",
-        "Prevents harmful external parasites. Improves the pond water environment, inhibits algae growth.",
-        "Germicidal for pre-operative and post operative skin washing.",
-        "For bacterial and fungal skin infections. Helps to prevent infections in cuts, wounds, scratches, abrasion and burns."
-      ],
-    usage:
-      ["Aqua: Dilute 500-1000 ml of Auridine 10 in 100 litres of water and spray uniformly throughout the culture pond of 1 acre or meter water depth. Swine: For Topical Application."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 33,
-    name: "Benzalkonium Chloride-80%",
-    description:
-      "Auriben is a quaternary ammonium compound with exceptional microbicidal properties for use as a potent biocide & deodorant in aquaculture. It is a cationic surfactant used to remove ectoparasites from ﬁsh, prawn and shrimp. It has detergent & antibacterial activities and is eﬀective to prevent & control bacterial, protozoan and monogenean infections.",
-    segment: "Aqua",
-    type: "Liquid",
-    category: "Other Specialty",
-    packaging: "1 L Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auriben.webp",
-    Productname: "/Assets/Product name/Aqua/Auriben.webp",
-    composition: [
-      "Alkyl Dimethyl Benzyl Ammonium",
-      "Chloride 80%",
-      "(with suitable stabilizers and activators)"
-    ],
-    indications:
-      [
-        "Triggers moulting activity in shrimps & prawns. Controls and prevents bacterial and fungal diseases in aquaculture",
-        "Can be administered concurrently with specific oral anti-bacterials in fish culture. Prevention of surface ulcers, wounds & lesions in fish culture",
-        "Increases cultivation density and harvest. Germicidal activity enhances in the presence of nitrogenous organic matter",
-        "Decomposes leaving behind no residues and causes no pollution problem."
-      ],
-    usage:
-      ["Prawn/Shrimp/Fish Ponds: 45-75 Days: 1 Ltr/1300 m2 ; 75-100 Days: 1.5 Ltr/1300 m2 100 days to harvest: 2.0 Ltrs/1300 m2 Auriben is indicated for use during high pathogenic bacteria loads and to control and prevent secondary infections as a consequence of viral infection. Red Disease in Shrimp hatcheries: A day’s bath in 1 – 2 ppm solution. Apply Auriben once every 7-10 days or 2-3 days according to water quality or as advised by aquaculture consultant."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 34,
-    name: "Broad Spectrum, Powerful yet Safe Biocide",
-    description:
-      "Pondcure Plus is broad spectrum, powerful and safe biocide with potent oxidizing action against all major microbes. It may be used for aerial, surface or water system sanitization. Pondcure is suitable for aquaculture, swine and poultry applications",
-    segment: "Poultry , Swine , Aqua",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "500 gm pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondcure Plus.webp",
-    Productname: "/Assets/Product name/Aqua/Pondcure Plus.webp",
-    composition: [
-      "Contains :",
-      "Potassium monosulphate compound………..49.8% w/w",
-      "containing triple salt – potassium monopersulphate",
-      "Potassium hydrogen sulphate",
-      "Potassium sulphate",
-      "Sodium dichloroisocyanurate………….5%"
-    ],
-    indications:
-      [
-        "Ecofriendly biocide",
-        "Effective against virus, bacteria and fungi" 
-      ],
-    usage:
-      ["Aquaculture- 500 g- 1 Kg/ Ha; Poultry and Swine- 5 gm/ litre of water, water disinfection-1-2 gm/10 litre of water"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 35,
-    name: "Ivermectin Oral Solution Bp (vet) 0.08% W/v",
-    description:
-      "Aurimec is Ivermectin de-wormer solution for the management of gastro-intestinal nematodes and worms.",
-    segment: "Livestock, Aqua",
-    type: "Liquid",
-    category: "Flukicide , Anthelmintic",
-    packaging: "1 L",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/aurimec.webp",
-    Productname: "/Assets/Product name/Aqua/Aurimec.webp",
-    composition: [
-      "Each ml contains:",
-      "Ivermectin IP 0.8 mg, Benzyl Alcohol IP (As Preservative) 0.02 ml",
-      "Aqueous base q.s."
-    ],
-    indications:
-      [
-        "Sheep Gastro- intestinal Nematodes, Pulmonary Nematodes, Ostertagia, Oestrous ovis",
-        "Dogs Gastro-intestinal Nematodes & Heart worms",
-        "Cattle Gastro-intestinal Nematodes, Lung worms, Eye worms, Skin worms Horses Gastro- intestinal nematodes, Lung worms, Ostertagia Strongylus",
-        "Aquaculture Ectoparasitic copepods (Sea lice), Gastro-intestinal Nematodes Lung worms Eye worms Skin worms"
-      ],
-    usage:
-      ["25 ml/100 kg body weight or as directed by Veterinarian. 25 ml/100 kg body weight Aquaculture:-10-13 ml/100 kg body weight or as directed by Veterinarian/ Aquaculture consultant."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 36,
-    name: "Pond Acidifier",
-    description:
-      "Ponci, the pond acidifier, is a unique combination of organic acids for neutralizing the harmful high pH in ponds and thus supporting the aqua production.",
-    segment: "Aqua",
-    type: "Liquid",
-    category: "Other Specialty",
-    packaging: "10 Ltr & 35 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Ponci.webp",
-    Productname: "/Assets/Product name/Aqua/Ponci.webp",
-    composition: [
-      "Organic acids"
-    ],
-    indications:
-      [
-        "Restores normal pond pH",
-        "Reduces mortality and help to minimize the ill-effects of high pond alkalinity"
-      ],
-    usage:
-      ["Use 10-12.5 L of Ponci in 1 Acre pond after reconstitution in 50 L water. Repeat after 12 hours, if necessary. Better results observed with Planktoban."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 37,
+    id: 22,
     name: "Premium Herbal Liver Stimulant and Protectant",
     description:
       "LivauroForte is a purely herbal and advanced liver stimulant formulation with high quality phyto-chemical extracts to support liver health and reduce the risk of liver disorders.",
@@ -755,37 +651,108 @@ const aqua_data = [
     feedback: " "
   },
   {
-    id: 38,
-    name: "Management of Acidified Ponds",
+    id: 23,
+    name: "Postbiotic Growth Promoter",
     description:
-      "Aurifung pH is a unique pond alkalizer enriched with potent pond alkalizers and organic anti-bacterial and anti-fungals for management of acidified ponds.",
+      "Metagrow Aqua is a postbiotic blend enriched with growth enzymes, metabolic activators, antimicrobial peptides, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.Metagrow Aqua stimulates the growth and helps in weight gain, reduces the chance of diseases, improves health and reduces mortality in fishes and shrimps. ",
     segment: "Aqua",
     type: "Powder",
-    category: "Other Specialty",
-    packaging: "25 Kg pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurifung.webp",
-    Productname: "/Assets/Product name/Aqua/Aurifung PH.webp",
+    category: "Performance Enhancer, Immunomodulator, Other Specialty",
+    packaging: "1 Kg Pack 25 Kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Metagrow Aqua.webp",
+    Productname: "/Assets/Product name/Aqua/Metagrow Aqua.webp",
     composition: [
       "Each pack contains:",
-      "Pond Alkalizers",
-      "Organic Anti-bacterial and Anti-fungals"
+      "High Metabolic Activators, Antimicrobial peptides, Antioxidants and Immunogens",
+      "(Metabolic extracts of Saccharomyces and Bacillus probiotics enriched with enzymes)",
+      "Fortified with Betaglucan-Mannan oligosaccharide complex"
     ],
     indications:
       [
-        "Sheep Gastro- intestinal Nematodes, Pulmonary Nematodes, Ostertagia, Oestrous ovis",
-        "Dogs Gastro-intestinal Nematodes & Heart worms",
-        "Cattle Gastro-intestinal Nematodes, Lung worms, Eye worms, Skin worms Horses Gastro- intestinal nematodes, Lung worms, Ostertagia Strongylus",
-        "Aquaculture Ectoparasitic copepods (Sea lice), Gastro-intestinal Nematodes Lung worms Eye worms Skin worms"
+        "Immunostimul ation and better survivability against WSSV, Vibriosis and other infections in shrimp and fish.",
+        "Growth promoter in shrimp and fish."
       ],
     usage:
-      ["25 ml/100 kg body weight or as directed by Veterinarian.",
-        "Aquaculture:-25-40 kg/ton of feed or as directed by Veterinarian/ Aquaculture consultant."],
+      [
+        "Aquaculture- 3 gm per Kg of feed during fry, fingerling stage.",
+        "2 gm per Kg of feed up to 120 days of growth period in  carps / up to 45 days in prawns.",
+        "1 gm per Kg of feed from 121 days onwards in carps / from 46 days onwards in prawns."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
-    id: 39,
+    id: 24,
+    name: "Super Nutrition for Aqua",
+    description:
+      "Neuna forte aqua is a premium super rich nutrition enriched with MHA Chelates, coated vitamins, potentiated probiotics, GPP, energy booster complex and unique phytobio-calphosTM. A powerful nutrition supplement enriched with 23 essential nutrition for growth, reproduction, better health and disease resistance in aquaculture.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Nutrition Supplement , Performance Enhancer",
+    packaging: "1 kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Neunaforte.webp",
+    Productname: "/Assets/Product name/Aqua/Neuna Forte Aqua.webp",
+    composition: [
+      "Each pack contains:",
+      "Very high concentrations of Coated Vitamin A, Coated Vitamin D3, Coated Vitamin E, Zinc Neunamin, Copper Neunamin, Manganese Neunamin, Iron Neunamin, Chromium Neunamin, Iodine Neunamin, Selenium Neunamin, Nicotinamide, Cobalt, Sulphur, Potassium, Sodium, Saccharomyces cerevisiae, Aspergillus oryzae, Lactobacillus sporogenes, Bioactive chromium, Grape PP  extract, Phytobio-Calphos® , Myo-inositol-hexakisphosphate 3-phosphohydrolase concentrate, Energy Booster Complex"
+    ],
+    indications:
+      [
+        "Improves growth of aquaculture",
+        "Increases body weight gain Improves reproductive efficiency",
+        "Enhances immunity against diseases"
+      ],
+    usage:
+      [
+        "Mixing Ratio",
+        "For fish fingerlings: 8-10 kg per tonne of feed",
+        "For Grower: 4-6 kg per tonne of feed",
+        "For Adult: 2 kg per tonne of feed"
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 25,
+    name: "Immunopotentiator and Growth Promoter",
+    description:
+      "Phosbol Aqua is an advanced combination enriched with essential vitamin and probiotic, to stimulate Metabolism, Growth & Homeostasis in aquaculture crop.",
+    segment: "Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "100 gm, 1 kg and 25 kg bag",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Phosbol Aqua.webp",
+    Productname: "/Assets/Product name/Aqua/Phosbol Aqua.webp",
+    composition: [
+      "Each gm contains:",
+      "Butaphosphan INN……………………………….100 mg",
+      "Vitamin B₁₂…………………………………………50 mcg",
+      "Pediococcus acidilactici……………………500000 cfu"
+    ],
+    indications:
+      [
+        "Improves eubiosis, stimulates digestive enzyme production",
+        "Promotes digestion and prevents harmful pathogens.",
+        "Relieves stress and restores immunity in the corp.",
+        "Improves metabolism, FCR and body weight gain.",
+        "Increases egg production and hatchability.",
+        "Supports molting and help quickly harden the shell.",
+        "Enhance immunity and reduce mortality rate."
+      ],
+    usage:
+      ["Feed 1 time/day for every day.",
+        "Support feed digestion, absorption and balance the intestinal microflora",
+        "Shrimp < 45 days old: 2 g/kg of feed.",
+        "Shrimp > 45 days old: 1 g/kg of feed.",
+        "Unsuccessful molting in shrimp: 2-3 g/kg of feed, feed 5-7 consecutive days."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 26,
     name: "Unique Antioxidant-Yield Booster Formulation with Carotenoid Pigment",
     description:
       "Phytacanth is an antioxidant-yield booster enriched with Grape Polyphenol, Canthaxanthin, enzymes and Vitamins.Phytacanth improves the pigmentation in Shrimp, Salmon, Trout, Gold fish, Red and Gilthead Sea bream and increases crop yield and mineral absorption in aqua culture.",
@@ -812,34 +779,6 @@ const aqua_data = [
     brochure: " ",
     feedback: " "
   },
-  {
-    id: 40,
-    name: "Fish Gel Binder to Support Growth",
-    description:
-      "Aurifgel is a unique fish gel binder enriched with amino acids, vitamins, probiotics and seaweed extract to support growth of aquaculture.",
-    segment: "Aqua",
-    type: "Gel",
-    category: "Other Specialty",
-    packaging: "1 Ltr & 5 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Aurifgel.webp",
-    Productname: "/Assets/Product name/Aqua/Aurifgel.webp",
-    composition: [
-      "Each Ltr contains:",
-      "Essential enzymes, Highly concentrated herbal substances along with Arginine 5200 mg, Phenylalanine 3400 mg, Tryptophan 2900 mg, Glycine 3500 mg, Inositol 2800 mg, L-Lysine 500 mg, DL-Methionine 500 mg, Vitamin B1 4000 mg, Vitamin B2 3750 mg, Vitamin B5 2000 mg, Vitamin B12 15000 mcg, Vitamin A 50000 IU, Vitamin D3 10000 IU, Vitamin C 1000 mg, Seaweed extract 10 gm, Bacillus subtilis, Bacillus licheniformis, Bacillus coagulans, Bacillus amyloliquefaciens (Total probiotic count 100 Billion) with Binding agents, pH stabilizersand attractants Q.S. to 1 Litre"
-    ],
-    indications:
-      [
-        "Excellent carrier and binder for fish supplement and feed.",
-        "Enriched with amino acids, vitamins, probiotics and seaweed extract to support growth of aquaculture."
-      ],
-    usage:
-      ["5-6 ml per kg of feed.",
-        "Or as directed by aquaculture consultant or technician."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-
   {
     id: 27,
     name: "Plankton Bloom Controller",
@@ -935,6 +874,61 @@ const aqua_data = [
     feedback: " "
   },
   {
+    id: 30,
+    name: "Pond Acidifier",
+    description:
+      "Ponci, the pond acidifier, is a unique combination of organic acids for neutralizing the harmful high pH in ponds and thus supporting the aqua production.",
+    segment: "Aqua",
+    type: "Liquid",
+    category: "Other Specialty",
+    packaging: "10 Ltr & 35 Ltr",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Ponci.webp",
+    Productname: "/Assets/Product name/Aqua/Ponci.webp",
+    composition: [
+      "Organic acids"
+    ],
+    indications:
+      [
+        "Restores normal pond pH",
+        "Reduces mortality and help to minimize the ill-effects of high pond alkalinity"
+      ],
+    usage:
+      ["Use 10-12.5 L of Ponci in 1 Acre pond after reconstitution in 50 L water. Repeat after 12 hours, if necessary. Better results observed with Planktoban."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 31,
+    name: "Broad Spectrum, Powerful yet Safe Biocide",
+    description:
+      "Pondcure Plus is broad spectrum, powerful and safe biocide with potent oxidizing action against all major microbes. It may be used for aerial, surface or water system sanitization. Pondcure is suitable for aquaculture, swine and poultry applications",
+    segment: "Poultry , Swine , Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "500 gm pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondcure Plus.webp",
+    Productname: "/Assets/Product name/Aqua/Pondcure Plus.webp",
+    composition: [
+      "Contains :",
+      "Potassium monosulphate compound………..49.8% w/w",
+      "containing triple salt – potassium monopersulphate",
+      "Potassium hydrogen sulphate",
+      "Potassium sulphate",
+      "Sodium dichloroisocyanurate………….5%"
+    ],
+    indications:
+      [
+        "Ecofriendly biocide",
+        "Effective against virus, bacteria and fungi"
+      ],
+    usage:
+      ["Aquaculture- 500 g- 1 Kg/ Ha; Poultry and Swine- 5 gm/ litre of water, water disinfection-1-2 gm/10 litre of water"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
     id: 32,
     name: "Advanced Mineral Zeolite",
     description:
@@ -994,7 +988,7 @@ const aqua_data = [
     id: 34,
     name: "Advanced Mineral Zeolite with Unique Probiotics",
     description:
-    "Pondlite Pro DS is zeolite granule enriched with unique probiotic combination to optimize pond hygiene, prevent pathogen colonization, maintain proper pH, eliminate toxic gases and reduce ammonia nitrogen in pond. Pondlite Pro provides superior health conditions for aquaculture growth and multiplication.",
+      "Pondlite Pro DS is zeolite granule enriched with unique probiotic combination to optimize pond hygiene, prevent pathogen colonization, maintain proper pH, eliminate toxic gases and reduce ammonia nitrogen in pond. Pondlite Pro provides superior health conditions for aquaculture growth and multiplication.",
     segment: "Aqua",
     type: "Granule",
     category: "Toxin Binder",
@@ -1017,14 +1011,14 @@ const aqua_data = [
       "(Total probiotic count is 120 billion CFU per Kg)"
     ],
     indications:
-    [
-      "Turbidity reducer",
-      "Toxin binder",
-      "Water quality stabilizer",
-      "Aquaculture growth and disease resistance"
-    ],
+      [
+        "Turbidity reducer",
+        "Toxin binder",
+        "Water quality stabilizer",
+        "Aquaculture growth and disease resistance"
+      ],
     usage:
-    ["5-10 Kg/ Acre"],
+      ["5-10 Kg/ Acre"],
     report: " ",
     brochure: " ",
     feedback: " "
