@@ -1,96 +1,6 @@
 const Swine_Data = [
   {
     id: 1,
-    name: "Advanced Cocktail Enzyme Formulation",
-    description:
-      "Aurizyme is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
-    segment: "Swine",
-    type: "Liquid",
-    category: "Enzyme , Other Specialty",
-    packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/AURIZYME.webp",
-    Productname: "/Assets/Product name/Poultry/Aurizyme.webp",
-    composition: [
-      "Each litre contains:",
-      "Alpha amylase 250000 FAU, Pectinase 30000 PGU, Cellulase 10000000 CU, Arabinase 7000 units, Acid protease 400000 HUT, Lipase 6500 IU, Beta glucanase 10000 units, Alpha galactosidase 10000 units, Xylanase 1500000 XU, β-mannanase 10000 U, Phytase 68000 FTU"
-    ],
-    indications:
-      [
-        "Cocktail enzymes to optimize digestion, feed conversion and productivity"
-      ],
-    usage:
-      ["Swine: 1 ml- 2 ml twice daily."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 2,
-    name: "Micro-encapsulated Probiotics",
-    description:
-      "Probicap 3S is a highly concentrated, high performance and most affordable microencapsulated probiotic formulation for pellet feed manufacturers. Probicap 3S provides prevention against bacterial, fungal and protozoal disease as well as strong immunomodulatory effect for swine species.",
-    segment: "Swine",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "1 kg Pack, 25 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Probicap 3S.webp",
-    Productname: "/Assets/Product name/Poultry/Probicap 3S.webp",
-    composition: [
-      "Probicap 3S (Unique blend of 3 Bacillus probiotics)",
-      "Bacillus subtilis",
-      "Bacillus licheniformis",
-      "Bacillus coagulans",
-      "Each gm contains:",
-      "100 Billion CFU"
-    ],
-    indications:
-      [
-        "Suitable for Pellet and Crumble feed manufacturing Thermos table (withstands up to 95 0C)",
-        "Moisture resistant (with stands up to 12% moisture",
-        "Acid tolerant",
-        "High number of viable and metabolically active cells"
-      ],
-    usage:
-      ["Swine: 10 gm to 20 gm per ton as support to disease resistance & reduce the chances of bacterial & protozoal diseases, higher breeding efficiency and growth of poultry, fish and shrimp or as per recommendation by Poultry/Aquaculture Specialist."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 3,
-    name: "Phytogenic Anti-viral Prevention Programme",
-    description:
-      "Aurivir is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
-    segment: "Swine, Poultry",
-    type: "Liquid, Powder",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
-    Productname: "/Assets/Product name/Poultry/Aurivir.webp",
-    composition: [
-      "Each kg contains:",
-      "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin-3-gallate, Grape Skin Nanophosphosome©",
-      "Vitamin C 75 gm",
-      "Selenium 3.96 mg",
-      "Copper (as glycinate complex) 600 mg",
-      "Manganese (as glycinate complex) 300 mg",
-      "Fortified with Carum carvi and Piperine"
-    ],
-    indications:
-      [
-        "To prevent and control RNA viral infections (Infectious Bronchitis, Avian Influenza, New Castle Disease, Infectious Bursal Disease)",
-        "Help to reduce the incidence of bacterial and viral diseases",
-        "Ensures faster recovery during disease outbreaks. Improves the antibody titre when given along with vaccinations Regular use prevents recurrence of infection",
-        "Effective against RNA viral infections in swine (Swine Flu, Swine enteric Corona virus, Bovine respiratory disease complex)"
-      ],
-    usage:
-      ["For Poultry: Powder supplementation- For prevention- 600-700 gm per tonne of feed for 1-2 weeks. As Supportive therapy during acute infections- 2 kg per tonne of feed for 5-7 days. Liquid supplementation: *Preventive supplementation (for 1-2 weeks):- 1 ltr. diluted with 100 ltr. water for 2000 birds of 1.5 kg bwt. 1 ltr. diluted with 100 ltr. water for 4000 birds of 750 gm bwt. 1 ltr. diluted with 200 ltr. water for 12000 birds of 250 gm bwt. 1 ltr. diluted with 200 ltr. water for 30000 birds of 100 gm bwt. *As Supportive therapy during acute infection (for 5-7 days):- 1 ltr. diluted with 50 ltr. water for 700 birds of 1.5 kg bwt. 1 ltr. diluted with 50 ltr. water for 1400 birds of 750 gm bwt. 1 ltr. diluted with 100 ltr. water for 4000 birds of 250 gm bwt. 1 ltr. diluted with 100 ltr. water for 10000 birds of 100 gm bwt. For Swine: 1-2 weeks supplementation period. 1st Month 1.5 gm OD 5 ml BID 2nd Month 3 gm OD 10 ml BID 3rd Month 5 gm OD 18 ml BID 4th Month 7.5 gm OD 27 ml BID 5th Month 10 gm OD 35 ml BID 6th Month 12.5 gm OD 45 ml BID."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 4,
     name: "Potent Antidiarrheal and Intestinal Function Modulator",
     description:
       "Aurida is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins and essential oils for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
@@ -127,42 +37,63 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 5,
-    name: "B-Complex and Vitamin C Liquid",
+    id: 9,
+    name: "Potent Organic Immunomodulator",
     description:
-      "Vitoaqua forte is a combination of Vitamin C and 8 Vitamins of B-Complex group, a dietry vitamin formulation required for fish and shrimps.They perform specific and systemic functions in a variety of fish and shrimps. Vitoaqua forte enhances the immunity and growth of fish and shrimps, reduces the impact of environmental, seasonal & ecological stress conditions in aquaculture.",
-    segment: "Swine",
+      "Aurimune is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
+    segment: "Swine, Poultry",
     type: "Liquid",
-    category: "Performance Enhancer , Other Specialty",
-    packaging: "500 ml Pack 1 L Pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua forte.webp",
-    Productname: "/Assets/Product name/Aqua/Vitoaqua Forte.webp",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "500 ml, 1 Ltr",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune.webp",
+    Productname: "/Assets/Product name/Poultry/Aurimune.webp",
     composition: [
       "Each Litre contains:",
-      "Vitamin B1 7000 mg",
-      "Vitamin B2 14000 mg",
-      "Vitamin B3 35000 mg",
-      "Vitamin B5 35000 mg",
-      "Vitamin B6 17500 mg",
-      "Vitamin C 250000 mg",
-      "Vitamin B7 875000 mcg",
-      "Vitamin B9 17500 mg",
-      "Vitamin B12 44500 mcg"
+      "β- Glucan-MOS complex 25 gm, Vitamin C 6000 mg, Betaine hydrochloride 25000 mg, Vitamin E 9000 mg, Sodium selenite 2250 mg, Pepsin 180 mg, Nucleotides 2000 mg, Protein hydrolysate 40% 37500 mg",
+      "Fortified with phytochemical principles of Ocimum sanctum, Phyllanthus emblica, Allium sativum and Lysozyme"
     ],
     indications:
       [
-        "Poor growth and performance. Poor feed efficiency.",
-        "Low immunity and high mortality rate. During environmental, seasonal or ecological stress conditions.",
-        "Growth of healthy RBCs, DNA reproduction and nerve function."
+        "Improves immunity, reduces mortality, enhances growth and provides better health",
+        "Acts as supportive therapy during disease exposure and helps in faster recovery",
+        "Growth Promoter."
       ],
     usage:
-      ["Fishes/Prawns/Shrimps: 200-250 ml per acre for fish and shrimp, 400-500 ml per acre for shrimp under stress condition Or use as directed by an aquaculture technician. Swine: 2-3 ml/Ltr of drinking water."],
+      ["Supplementation in Poultry: As immunomodulator and growth promoter:- 200-500 ml mixed with 1000 litre water for 5000 birds twice daily for 4 to 8 weeks. For Mortality Prevention Programme during severe stress, immune compromised status or disease exposure:-500-1000 ml mixed with 1000 litre water for 5000 birds twice daily for 2-3 weeks. Swine: 10 ml to 30 ml bid for 1 to 2 weeks."],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
-    id: 6,
+    id: 10,
+    name: "Powerful Silver nanoparticles with unique biopolymer for water treatment only",
+    description:
+      "Aurisil is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
+    segment: "Swine, Poultry",
+    type: "Liquid",
+    category: "Other Specialty",
+    packaging: "500 ml 1 Ltr",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurisil.webp",
+    Productname: "/Assets/Product name/Poultry/Aurisil.webp",
+    composition: [
+      "Each 100 ml contains:",
+      "Silver Nano Particles 2500 ppm."
+    ],
+    indications:
+      [
+        "For protection from water borne bacterial and viral diseases.",
+        "For prolonged and effective disinfestation of water.",
+        "No stress to animals during treatment and no disturbance to beneficial bacteria.",
+        "Remove foul biofilms from animal gut with no side effects."
+      ],
+    usage:
+      ["For water quality improvement – 20 ml for 200 ltr. water tank Supportive against Air borne infections: 20 ml to be diluted in 20 ltr. water for spray."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 12,
     name: "Advanced Mold Inhibitor and Mycotoxin Binder",
     description:
       "Auritox Plus is a new generation mycotoxin binder with advanced action of Beta-glucan and Mannan Oligosaccharide. The Mannan Oligosaccharide converts mycotoxin to non-toxic and harmless metabolites. Mannose sugars influence the immune system by stimulation the secretion of mannose binding protein from liver, which binds to invading bacteria and mycotoxins.",
@@ -195,7 +126,40 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 7,
+    id: 13,
+    name: "Phytogenic Anti-viral Prevention Programme",
+    description:
+      "Aurivir is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
+    segment: "Swine, Poultry",
+    type: "Liquid, Powder",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir.webp",
+    Productname: "/Assets/Product name/Poultry/Aurivir.webp",
+    composition: [
+      "Each kg contains:",
+      "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin-3-gallate, Grape Skin Nanophosphosome©",
+      "Vitamin C 75 gm",
+      "Selenium 3.96 mg",
+      "Copper (as glycinate complex) 600 mg",
+      "Manganese (as glycinate complex) 300 mg",
+      "Fortified with Carum carvi and Piperine"
+    ],
+    indications:
+      [
+        "To prevent and control RNA viral infections (Infectious Bronchitis, Avian Influenza, New Castle Disease, Infectious Bursal Disease)",
+        "Help to reduce the incidence of bacterial and viral diseases",
+        "Ensures faster recovery during disease outbreaks. Improves the antibody titre when given along with vaccinations Regular use prevents recurrence of infection",
+        "Effective against RNA viral infections in swine (Swine Flu, Swine enteric Corona virus, Bovine respiratory disease complex)"
+      ],
+    usage:
+      ["For Poultry: Powder supplementation- For prevention- 600-700 gm per tonne of feed for 1-2 weeks. As Supportive therapy during acute infections- 2 kg per tonne of feed for 5-7 days. Liquid supplementation: *Preventive supplementation (for 1-2 weeks):- 1 ltr. diluted with 100 ltr. water for 2000 birds of 1.5 kg bwt. 1 ltr. diluted with 100 ltr. water for 4000 birds of 750 gm bwt. 1 ltr. diluted with 200 ltr. water for 12000 birds of 250 gm bwt. 1 ltr. diluted with 200 ltr. water for 30000 birds of 100 gm bwt. *As Supportive therapy during acute infection (for 5-7 days):- 1 ltr. diluted with 50 ltr. water for 700 birds of 1.5 kg bwt. 1 ltr. diluted with 50 ltr. water for 1400 birds of 750 gm bwt. 1 ltr. diluted with 100 ltr. water for 4000 birds of 250 gm bwt. 1 ltr. diluted with 100 ltr. water for 10000 birds of 100 gm bwt. For Swine: 1-2 weeks supplementation period. 1st Month 1.5 gm OD 5 ml BID 2nd Month 3 gm OD 10 ml BID 3rd Month 5 gm OD 18 ml BID 4th Month 7.5 gm OD 27 ml BID 5th Month 10 gm OD 35 ml BID 6th Month 12.5 gm OD 45 ml BID."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 18,
     name: "Mucolytic and Bronchodilator",
     description:
       "AuroRD is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
@@ -231,7 +195,32 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 8,
+    id: 20,
+    name: "Advanced Cocktail Enzyme Formulation",
+    description:
+      "Aurizyme is an advanced cocktail enzyme formulation used to optimize digestion, feed conversion & productivity.",
+    segment: "Swine",
+    type: "Liquid",
+    category: "Enzyme , Other Specialty",
+    packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AURIZYME.webp",
+    Productname: "/Assets/Product name/Poultry/Aurizyme.webp",
+    composition: [
+      "Each litre contains:",
+      "Alpha amylase 250000 FAU, Pectinase 30000 PGU, Cellulase 10000000 CU, Arabinase 7000 units, Acid protease 400000 HUT, Lipase 6500 IU, Beta glucanase 10000 units, Alpha galactosidase 10000 units, Xylanase 1500000 XU, β-mannanase 10000 U, Phytase 68000 FTU"
+    ],
+    indications:
+      [
+        "Cocktail enzymes to optimize digestion, feed conversion and productivity"
+      ],
+    usage:
+      ["Swine: 1 ml- 2 ml twice daily."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 21,
     name: "Organic Glycine Chelated Trace Minerals for Superior Performance",
     description:
       "A Premium Chelated Mineral Blend fortified with potentiated probiotics for Broilers, Layers and Breeders. CHELAMIN FORTE contains highly bioavailable glycinate chelates along with nutritive minerals and probiotics for help ameliorating skeletal & muscular growth/ strength, carcass quality, physiological function, egg & shell quality, fertility, immunity, FCR index etc.",
@@ -261,35 +250,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 9,
-    name: "Powerful Silver nanoparticles with unique biopolymer for water treatment only",
-    description:
-      "Aurisil is an innovative silver nanoparticles based water treatment solution enriched with phytobiopolymer.",
-    segment: "Swine, Poultry",
-    type: "Liquid",
-    category: "Other Specialty",
-    packaging: "500 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurisil.webp",
-    Productname: "/Assets/Product name/Poultry/Aurisil.webp",
-    composition: [
-      "Each 100 ml contains:",
-      "Silver Nano Particles 2500 ppm."
-    ],
-    indications:
-      [
-        "For protection from water borne bacterial and viral diseases.",
-        "For prolonged and effective disinfestation of water.",
-        "No stress to animals during treatment and no disturbance to beneficial bacteria.",
-        "Remove foul biofilms from animal gut with no side effects."
-      ],
-    usage:
-      ["For water quality improvement – 20 ml for 200 ltr. water tank Supportive against Air borne infections: 20 ml to be diluted in 20 ltr. water for spray."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 10,
+    id: 25,
     name: "Unique Blend of Essential Oils with Anti-Bacterial and Anti-Coccidial Effects",
     description:
       "Olbac is a unique essential oil blend to prevent and control bacterial and coccidial infections in poultry.",
@@ -316,63 +277,16 @@ const Swine_Data = [
     brochure: " ",
     feedback: " "
   },
-  {
-    id: 12,
-    name: "Potent Organic Immunomodulator",
-    description:
-      "Aurimune is an innovative organic immuno-modulator formulation fortified with Lysozyme, phytochemical principles of Ocimum sanctum, Phyllanthus emblica and Allium sativum for better immunity, health and enhanced growth.",
-    segment: "Swine, Poultry",
-    type: "Liquid",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "500 ml, 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurimune.webp",
-    Productname: "/Assets/Product name/Poultry/Aurimune.webp",
-    composition: [
-      "Each Litre contains:",
-      "β- Glucan-MOS complex 25 gm, Vitamin C 6000 mg, Betaine hydrochloride 25000 mg, Vitamin E 9000 mg, Sodium selenite 2250 mg, Pepsin 180 mg, Nucleotides 2000 mg, Protein hydrolysate 40% 37500 mg",
-      "Fortified with phytochemical principles of Ocimum sanctum, Phyllanthus emblica, Allium sativum and Lysozyme"
-    ],
-    indications:
-      [
-        "Improves immunity, reduces mortality, enhances growth and provides better health",
-        "Acts as supportive therapy during disease exposure and helps in faster recovery",
-        "Growth Promoter."
-      ],
-    usage:
-      ["Supplementation in Poultry: As immunomodulator and growth promoter:- 200-500 ml mixed with 1000 litre water for 5000 birds twice daily for 4 to 8 weeks. For Mortality Prevention Programme during severe stress, immune compromised status or disease exposure:-500-1000 ml mixed with 1000 litre water for 5000 birds twice daily for 2-3 weeks. Swine: 10 ml to 30 ml bid for 1 to 2 weeks."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 13,
-    name: "A multi- purpose enzyme",
-    description:
-      "Unilyz Penta contains Lysozyme, a natural anti-microbial enzyme found in all living organisms having diverse role starting from digestion to immune response. UNILYZ Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal/poultry feed in order to reduce the perceived risk of anti-microbial resistance in human and animal populations.",
-    segment: "Swine, Poultry",
-    type: "Liquid, Powder",
-    category: "Enzyme , Other Specialty",
-    packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Unilyz Penta.webp",
-    Productname: "/Assets/Product name/Poultry/Unilyz Penta.webp",
-    composition: [
-      "Each kg contains:",
-      "Lysozyme HCl 5000 FIP unit/mg, Vitamin A 2500000 IU, Vitamin D3 1000000 IU, Vitamin E 75000 IU, Selenium 200 mg, Vitamin C 80 gm",
-      "Grape Polyphenols eq. to 3,00,000 IU activity of Vitamin E.",
-      "Each litre contains:",
-      "Lysozyme HCl.5000 FIP unit/mg, Vitamin A 2500000 IU, Vitamin D3 1000000 IU, Vitamin E 40000 IU, Selenium 200 mg, Vitamin C 80 gm."
-    ],
-    indications:
-      [
-        "Therapeutic Supplementation- In cases of exposure to bacterial (i.e. necrotic enteritis etc.), viral (i.e. Avian Influenza etc.) or protozoal (i.e. Coccidiosis etc.) diseases",
-        "Prophylactic use to prevent bacterial infections Therapeutic Supplementation- In cases of exposure to bacterial (i.e. necrotic enteritis etc.), viral (i.e. Avian Influenza etc.) or protozoal (i.e. Coccidiosis etc.) diseases"
-      ],
-    usage:
-      ["Prophylactic use- 100 gm per MT of feed Therapeutic use- 500-800 gm per MT of feed Prophylactic use- 10 ml diluted in 50 ltr. water for 1000 Birds Therapeutic use- 50 ml diluted in 50 ltr. water for 1000 Birds. Swine: Prophylactic use- 100 gm per MT of feed Therapeutic use- 500-800 gm per MT of feed."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
+
+
+
+
+
+
+
+
+
+
   {
     id: 14,
     name: "Electrolytes for Heat Stress",
@@ -913,7 +827,75 @@ const Swine_Data = [
     report: " ",
     brochure: " ",
     feedback: " "
-  }
+  },
+
+
+
+  
+  {
+    id: 28,
+    name: "A multi- purpose enzyme",
+    description:
+      "Unilyz Penta contains Lysozyme, a natural anti-microbial enzyme found in all living organisms having diverse role starting from digestion to immune response. UNILYZ Penta provides the most suitable ways to eliminate the routine usage of antibiotics in animal/poultry feed in order to reduce the perceived risk of anti-microbial resistance in human and animal populations.",
+    segment: "Swine, Poultry",
+    type: "Liquid, Powder",
+    category: "Enzyme , Other Specialty",
+    packaging: "500 gm 1 kg 5 kg 500 ml 1 Ltr",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Unilyz Penta.webp",
+    Productname: "/Assets/Product name/Poultry/Unilyz Penta.webp",
+    composition: [
+      "Each kg contains:",
+      "Lysozyme HCl 5000 FIP unit/mg, Vitamin A 2500000 IU, Vitamin D3 1000000 IU, Vitamin E 75000 IU, Selenium 200 mg, Vitamin C 80 gm",
+      "Grape Polyphenols eq. to 3,00,000 IU activity of Vitamin E.",
+      "Each litre contains:",
+      "Lysozyme HCl.5000 FIP unit/mg, Vitamin A 2500000 IU, Vitamin D3 1000000 IU, Vitamin E 40000 IU, Selenium 200 mg, Vitamin C 80 gm."
+    ],
+    indications:
+      [
+        "Therapeutic Supplementation- In cases of exposure to bacterial (i.e. necrotic enteritis etc.), viral (i.e. Avian Influenza etc.) or protozoal (i.e. Coccidiosis etc.) diseases",
+        "Prophylactic use to prevent bacterial infections Therapeutic Supplementation- In cases of exposure to bacterial (i.e. necrotic enteritis etc.), viral (i.e. Avian Influenza etc.) or protozoal (i.e. Coccidiosis etc.) diseases"
+      ],
+    usage:
+      ["Prophylactic use- 100 gm per MT of feed Therapeutic use- 500-800 gm per MT of feed Prophylactic use- 10 ml diluted in 50 ltr. water for 1000 Birds Therapeutic use- 50 ml diluted in 50 ltr. water for 1000 Birds. Swine: Prophylactic use- 100 gm per MT of feed Therapeutic use- 500-800 gm per MT of feed."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 29,
+    name: "B-Complex and Vitamin C Liquid",
+    description:
+      "Vitoaqua forte is a combination of Vitamin C and 8 Vitamins of B-Complex group, a dietry vitamin formulation required for fish and shrimps.They perform specific and systemic functions in a variety of fish and shrimps. Vitoaqua forte enhances the immunity and growth of fish and shrimps, reduces the impact of environmental, seasonal & ecological stress conditions in aquaculture.",
+    segment: "Swine",
+    type: "Liquid",
+    category: "Performance Enhancer , Other Specialty",
+    packaging: "500 ml Pack 1 L Pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Vitoaqua forte.webp",
+    Productname: "/Assets/Product name/Aqua/Vitoaqua Forte.webp",
+    composition: [
+      "Each Litre contains:",
+      "Vitamin B1 7000 mg",
+      "Vitamin B2 14000 mg",
+      "Vitamin B3 35000 mg",
+      "Vitamin B5 35000 mg",
+      "Vitamin B6 17500 mg",
+      "Vitamin C 250000 mg",
+      "Vitamin B7 875000 mcg",
+      "Vitamin B9 17500 mg",
+      "Vitamin B12 44500 mcg"
+    ],
+    indications:
+      [
+        "Poor growth and performance. Poor feed efficiency.",
+        "Low immunity and high mortality rate. During environmental, seasonal or ecological stress conditions.",
+        "Growth of healthy RBCs, DNA reproduction and nerve function."
+      ],
+    usage:
+      ["Fishes/Prawns/Shrimps: 200-250 ml per acre for fish and shrimp, 400-500 ml per acre for shrimp under stress condition Or use as directed by an aquaculture technician. Swine: 2-3 ml/Ltr of drinking water."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
 ];
 
 export default Swine_Data;
