@@ -85,7 +85,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 Kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox Power.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Acitox-Power.webp",
     Productname: "/Assets/Product name/Poultry/Acitox Power.webp",
     composition: [
       " Bentonite-montmorillonite 21.5% ",
@@ -116,7 +116,7 @@ const poultry_data = [
     type: "Liquid",
     category: "Other Specialty",
     packaging: "1 Ltr Bottle, 5 Ltr Jar and 25 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auricid.webp",
     Productname: "/Assets/Product name/Poultry/AURICID.webp",
     composition: [
       "Each ml contains:",
@@ -724,7 +724,7 @@ const poultry_data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox Bio.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox-Bio.webp",
     Productname: "/Assets/Product name/Poultry/Auritox BIO.webp",
     composition: [
       "Each Kg contains:",
@@ -950,7 +950,7 @@ const poultry_data = [
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurobind.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurobind.webp",
     Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
     composition: [
       "Contains : Calcium sulphate,Guar gum"
@@ -1140,11 +1140,11 @@ const poultry_data = [
     id: 41,
     name: " Turmeric Oil",
     description:
-      "Curino vet",
-    segment: "Poultry, Swine",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "50 kg Drum 200 kg Drum",
+      "Curino vet is a novel curcumin-based formulation used as an immunomodulator and pigment for feed.",
+    segment: "Poultry",
+    type: "Oil",
+    category: "Immunomodulator, Other Specialty",
+    packaging: "50 kg Drum and 200 kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Curino vet.webp",
     Productname: "/Assets/Product name/Poultry/Curino vet.webp",
     composition:
@@ -1314,12 +1314,12 @@ const poultry_data = [
     id: 47,
     name: "Postbiotic growth promoter for broilers",
     description:
-      "Metagrow-ws",
+      "Metagrow–WS is a postbiotic blend enriched with enzymes, metabolic activators, antioxidants and immunogens of Saccharomyces and Bacillus probiotics.Metagrow–WS stimulates the growth, weight gain and Food Conversion Ratio (FCR) in poultry, reduces the chance of diseases, improves health and reduces mortality in birds.",
     segment: "Poultry",
     type: "Powder",
-    category: "Other Specialty",
+    category: "Growth Promoter, Immunomodulator, Other Specialty",
     packaging: "1 kg & 25 kg drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-ws.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Metagrow-WS.webp",
     Productname: "/Assets/Product name/Poultry/Metagrow-ws.webp",
     composition: [
       "Each pack contains:",
@@ -1368,11 +1368,11 @@ const poultry_data = [
     id: 49,
     name: "Postbiotic immunomodulator for breeder birds",
     description:
-      "Metamune",
+      "Metamune is a postbiotic blend enriched with antioxidant and immune-boosting metabolites of Lactobacillus, Streptococcus and Bifidobacterium probiotics. Metamune stimulates the immune system in poultry, reduces the chance of diseases, improves health and reduces mortality in birds.",
     segment: "Poultry",
     type: "Powder",
-    category: "Other Specialty",
-    packaging: "1 kg & 25 kg drum",
+    category: "Immunomodulator, Other Specialty ",
+    packaging: "Feed grade: 1 kg and 25 kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Metamune.webp",
     Productname: "/Assets/Product name/Poultry/Metamune.webp",
     composition: [
@@ -1489,11 +1489,11 @@ const poultry_data = [
     id: 53,
     name: "Unique Supplement for Fatty Liver Syndrome ",
     description:
-      "Neuliva",
+      "Neuliva is a phospholipid-based liver stimulant, enriched with grape polyphenols, vitamins, minerals, amino acids, and yeast. Neuliva is specially formulated for overweight flocks experiencing a sudden drop in egg production, pale combs and cases of sudden death.",
     segment: "Poultry",
     type: "Liquid",
-    category: "Other Specialty",
-    packaging: "500 ml Bottle 1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
+    category: "Liver Stimulant, Other Specialty",
+    packaging: "1 Ltr Bottle, 5 Ltr Jar and 25 Ltr Jar",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Neuliva.webp",
     Productname: "/Assets/Product name/Poultry/Neuliva.webp",
     composition: [
@@ -1561,7 +1561,7 @@ const poultry_data = [
     type: "Powder",
     category: "Nutrition Supplement , Performance Enhancer",
     packaging: "2.2 Kg Pet Jar  25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna premium.webp",
     Productname: "/Assets/Product name/Poultry/Neuna Premium.webp",
     composition: [
       "Contains high concentrations of:",

@@ -2,7 +2,7 @@ export const block3Data = [
   {
     id: 1,
     image: "/Assets/Product images/Veterinary/Livestock/Auriplanta.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpeg",
+    hoverImage: "/Assets/banner/Add banner/Auriplanta.webp",
     title: "Auriplanta",
     segment: "LiveStock",
     rating: 4.5,
@@ -10,7 +10,7 @@ export const block3Data = [
   {
     id: 2,
     image: "/Assets/Product images/Veterinary/Livestock/Nomino.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
+    hoverImage: "/Assets/banner/Add banner/Nomino.webp",
     title: "Nomino",
     segment: "LiveStock & Poultry",
     rating: 4.0,
@@ -18,7 +18,7 @@ export const block3Data = [
   {
     id: 3,
     image: "/Assets/Product images/Veterinary/Poultry/Metagrow-WS.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
+    hoverImage: "/Assets/banner/Add banner/Metagrow-WS.webp",
     title: "Metagrow WS",
     segment: "Poultry",
     rating: 4.5,
@@ -26,7 +26,7 @@ export const block3Data = [
   {
     id: 4,
     image: "/Assets/Product images/Veterinary/Poultry/Yeco Nanophosphosome.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.jpg",
+    hoverImage: "/Assets/banner/Add banner/Yeco Nanophosphosome.webp",
     title: "Yeco Nanophosphosome",
     segment: "Poultry",
     rating: 4.0,
@@ -34,7 +34,7 @@ export const block3Data = [
   {
     id: 5,
     image: "/Assets/Product images/Veterinary/Livestock/Turbogil vet.webp",
-    hoverImage: "/Assets/Product ads/Turbogil vet.webp",
+    hoverImage: "/Assets/banner/Add banner/Turbogil vet.webp",
     title: "Turbogil vet",
     segment: "Livestock",
     rating: 4.5,

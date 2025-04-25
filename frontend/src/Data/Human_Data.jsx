@@ -1,67 +1,6 @@
 const human_data = [
   {
     id: 1,
-    name: "Complementary Food Supplement Supports Urinary Tract Health",
-    description:
-      "Auribery® is an advanced formula on of Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like altered pH, inflamma on etc.",
-    segment: "Human OTC",
-    type: "Capsule",
-    category: "Other Specialty",
-    packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/auribery.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery.webp",
-    composition: [
-      "Serving Size : 1 Capsule",
-      "Servings Per Container: 30, 60 and 90 servings",
-      "Vaccinium macrocarpon extract.....500 mg",
-      "Proanthocyanidins.....125 mg",
-      "Daily Value not established",
-      "For fied with Piperine"
-    ],
-    indications:
-      [
-        "Reports suggest that Vaccinium macrocarpon extract supplementa on supports Urinary Tract Health.",
-        "Auribery® is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
-      ],
-    usage:
-      [
-        "1 capsule twice daily during post lunch/dinner. or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."
-      ],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 2,
-    name: "Supports Urinary Tract Health",
-    description:
-      "Auribery Plus is an advanced formulation of gut-acting probiotics enriched with Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like pH, inflammation, etc.",
-    segment: "Human OTC",
-    type: "Capsule",
-    category: "Other Specialty",
-    packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/auribery plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.webp",
-    composition: [
-      "Each 500 mg Capsule contains:",
-      "Lactobacillus acidophilis 0.25 billion",
-      "Lactobacillus Plantarum 0.25 billion",
-      "Cranberry extract",
-      "(Proanthocyanidins will be 25%) 18 mg",
-      "Retinyl acetate (Vitamin A) 160 mcg",
-      "FOS 100 mg"
-    ],
-    indications:
-      ["Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut friendly probiotics and Vitamin A."],
-    usage:
-      ["1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 3,
     name: "Green Tea Nanophosphosome®",
     description:
       "Auricam is a green tea supplement, a nano-emulsified EGCG (Epigallocatechin gallates) Phosphatidyl Choline-Serine-Ethanolamine complex enriched with Bioenhancer and Metabolic Potentiator technology. Auricam (Green tea Nanophosphosome) contains polyphenols i.e EGCG and caffeine, easily crosses the gut barrier resulting in significantly higher blood level. Potentiated phospholipid complex acts as carrier mediated transport system, which directs the EGCG and caffeine to reach the systemic circulation and also increases its absorption and bioavailability. Bioenhancer and Metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve EGCG and caffeine absorption as well as prevents its metabolic reduction through inhibition of P-gp efflux pump, CYP3AG and UGT.",
@@ -88,7 +27,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 4,
+    id: 2,
     name: "Complementary Food Supplement Supports Cardiovascular Health",
     description:
       "Auricord is a synergis c combina on of Crataegus monogyna Nanophosphosome®(Vitexin-2'-rhamnoside-Phospha dylcholine-Ethanolamine Inositol-Serine complex) and Crataegus monogyna with technologically advanced bioenhancer and metabolic poten ator technology. Bioenhancer and metabolic ac vator technology enhances the passive diffusion and ac ve transport mechanism through intes nal microvilli to improve absorp on as well prevents metabolic reduc on through inhibi on of P-gp efflux pump, ATPase ac vity, CYP3A4, CYP3AG and UGT. ",
@@ -121,7 +60,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 5,
+    id: 3,
     name: "Supports Urinary Tract HealthCurcumin Nanophosphosome®",
     description:
       "Auricur is Turmeric supplement, a nano-emulsified Curcumin Phosphatidyl Choline-Serine-Ethanolamine complex enriched with Bioenhancer and Metabolic Potentiator technology. Auricur (Curcumin Nanophosphosome) easily crosses the gut barrier resulting in significantly higher blood levels of Curcumin. Potentiated phospholipid complex acts as carrier mediated transport system, which directs the Curcumin to reach the systemic circulation and also increases it’s absorption and bioavailability. Bioenhancer and Metabolic potentiator technology enhances the permeability of intestinal microvilli and improves Curcumin absorption as well as prevents it’s metabolic reduction through inhibition of P-gp, CYP3AG and UGT.",
@@ -152,7 +91,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 6,
+    id: 4,
     name: "Curcumin Nanophosphosome®  With Tinospora Cordifolia Extract",
     description:
       "Auricur Plus is a synergistic combination of Curcumin Nanophosphosome® (a nano-emulsified Curcumin Phosphatidyl Choline-Serine-Ethanolamine complex) and Tinospora cordifolia with technologically advanced bioenhancer and metabolic potentiator technology. Bioenhancer and metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve Tinospora cordifolia absorption as well prevents its metabolic reduction through inhibition of P-gp efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
@@ -188,32 +127,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 7,
-    name: "Tinospora cordifolia Extract",
-    description:
-      "Aurifolia is Giloy(Tinospora cordifolia) based natural health supplement enriched with bioenhancer, and metabolic potentiator technology.Bioenhancer and metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve Tinospora cordifolia absorption as well prevents its metabolic reduction through inhibition of P- gp efflux pump, ATPase activity and CYP3A4.",
-    segment: "Human OTC",
-    type: "Capsule",
-    category: "Immunomodulator, Other Specialty",
-    packaging: "50 Capsules and 100 Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/Aurifolia.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurifolia.webp",
-    composition: [
-      "1 Capsule",
-      "Tinospora cordifolia extract 250 mg",
-      "Alkaloids and Diterpenoid Bitters 12.5 mg",
-      "Fortified with Piperine and Cuminum cyminum"
-    ],
-    indications:
-      ["Reports suggest that supplementation of Tinospora cordifolia increases the activity of body’s immune system and helps in lowering the blood glucose levels .Aurifoliatm is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
-    usage:
-      ["1 capsule twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 8,
+    id: 5,
     name: "Withania somnifera Extract",
     description:
       "Aurigandha is an Ashwagandha (Withania Somnifera) based natural health supplement enriched with bioenhancer and metabolic potentiator technology. Bioenhancer and Metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve Withanolides, Withaferin A and Withanosides absorption as well prevents it’s metabolic reduction through inhibition of P-gp efflux pump, CYP3AG and UGT.",
@@ -239,7 +153,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 9,
+    id: 6,
     name: "Complementary Food Supplement Cardiovascular Health ",
     description:
       "Aurigreen Is a unique formula on of Camellia sinensis that Helps to reduce blood pressure levels and LDL cholesterol improves blood vessel flexibility and supports cardiovascular health.",
@@ -272,40 +186,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 10,
-    name: " Complementary Food Supplement Improves Lactation",
-    description:
-      "Aurigus is a unique formula on blend of Asparagus racemosus root extract that helps in breast milk produc on, maintains hormonal balance, augments energy levels and be er health.",
-    segment: "Human OTC",
-    type: "Capsule",
-    category: "Other Specialty",
-    packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/aurigus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurigus.webp",
-    composition: [
-      "Serving Size : 1 Capsule",
-      "Servings Per Container :30, 60 and 90 servings",
-      "Asparagus racemosus root extract..............400 mg (1000 mg %Daily value)",
-      "Saponins.............. 80 mg",
-      "Daily Value not established ",
-      "For fied with Piperine"
-    ],
-    indications:
-      [
-        "Reports suggest that Asparagus racemosus supplementa on helps in breast milk produc on.",
-        "Aurigus is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
-      ],
-    usage:
-      [
-        "1 capsule twice daily or as directed by qualified healthcare professional.",
-        "This product is not intended to cure or prevent any disease."
-      ],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 11,
+    id: 7,
     name: " Complementary Food Supplement Gut-acting Probiotic Blend",
     description:
       "Aurigut is a unique bland formula on of 3 gut ac ng probio cs enriched with Fructo-oligosaccharide to promotes healthy diges on and enhances gut immunity.",
@@ -339,7 +220,40 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 12,
+    id: 8,
+    name: " Complementary Food Supplement Improves Lactation",
+    description:
+      "Aurigus is a unique formula on blend of Asparagus racemosus root extract that helps in breast milk produc on, maintains hormonal balance, augments energy levels and be er health.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "30, 60 and 90 Capsules Container",
+    Productimg: "/Assets/Product images/Human/Health Supplements/aurigus.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurigus.webp",
+    composition: [
+      "Serving Size : 1 Capsule",
+      "Servings Per Container :30, 60 and 90 servings",
+      "Asparagus racemosus root extract..............400 mg (1000 mg %Daily value)",
+      "Saponins.............. 80 mg",
+      "Daily Value not established ",
+      "For fied with Piperine"
+    ],
+    indications:
+      [
+        "Reports suggest that Asparagus racemosus supplementa on helps in breast milk produc on.",
+        "Aurigus is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
+    usage:
+      [
+        "1 capsule twice daily or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 9,
     name: "Curcumin Nanophosphosome®  with Boswellia serrata Extract",
     description:
       "Aurijoint is a synergistic combination of Curcumin Nanophosphosome(a nano - emulsified Curcumin Phosphatidyl Choline - Serine - Ethanolamine complex) and Boswellic acid with technologically advanced bioenhancer and metabolic potentiator technology.Bioenhancer and metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve absorption as well prevents metabolic reduction through inhibition of P - gp efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
@@ -370,7 +284,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 13,
+    id: 10,
     name: "Silybum marianum and Andrographis paniculata Nanophosphosome®",
     description:
       "Auriliv is a synergistic combination of Silybum marianum and Andrographis paniculata Nanophosphosome(a nano- emulsified Silymarin - Andrographolide Phosphatidyl Choline - Serine - Ethanolamine complex) with technologically advanced bioenhancer and metabolic potentiator technology.Bioenhancer and metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve actives’ absorption as well prevents their metabolic reduction through inhibition of P - gp efflux pump, ATPase activity, CYP3A4, CYP3AG and UGT.",
@@ -405,7 +319,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 14,
+    id: 11,
     name: "Complementary Food Supplement Reproductive Health Booster",
     description:
       "Aurimaca is an advanced formula on blend of Lepidium meyenii root extract that helps to improve reproduc ve health, enhances vitality & performance.",
@@ -438,7 +352,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 15,
+    id: 12,
     name: "Complementary Food Supplement Blood Sugar Management  ",
     description:
       "Aurimethi Is a unique formula on of Trigonella foenum graecum that helps lower blood glucose by slowing down diges on, absorp on of carbohydrates and increases insulin secer on.",
@@ -471,7 +385,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 16,
+    id: 13,
     name: "Complementary Food Supplement Brain Health Management ",
     description:
       "Aurimind is a unique formula on of Bacopa monnieri that helps to boost brain health, reduces anxiety and improves memory.",
@@ -504,7 +418,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 17,
+    id: 14,
     name: "Complementary Food Supplement Brain Health & Cognition Support",
     description:
       "Aurimind Plus is a synergis c combina on of Withania somnifera, Convolvulus prostrates and Bacopa monnieri Nanophosphosome (Withanolides-Convolvulus Alkaloids Phospha dylcholine- Ethanolamine-Inositol-serine complex) and Withania somnifera, Convolvulus prostrates and Bacopa monnieri with technologically advanced bioenhancer and metabolic poten ator technology. Bioenhancer and metabolic ac vator technology enhances the passive diffusion and ac ve transport mechanism through intes nal microvilli to improve absorp on as well prevents metabolic reduc on through inhibi on of P-gp efflux pump, ATPase ac vity, CYP3A4, CYP3AG and UGT.",
@@ -541,40 +455,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 18,
-    name: "Auringa Extract",
-    description:
-      "Auringa is a powerful blend of Moringa oleifera extract to support immune system. Moringa oleifera extract consists of Vitamin C and an oxidants which are helpful to scavenge harmful free radicals in the body. It contains Magnesium, Potassium, Calcium, Phosphorus, Zinc, Iron, Vitamin A, Thiamine, Riboflavin, Niacin, Vitamin B6, Folate and amino 6 acids which not only fulfils body’s nutri onal requirement but also promotes be er growth and development.",
-    segment: "Human OTC",
-    type: "Capsule",
-    category: "Immunomodulator,Other Specialty",
-    packaging: "30, 60 and 90 Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/auringa.webp",
-    Productname: "/Assets/Product name/Health suppliments/Auringa.webp",
-    composition: [
-      "Serving Size : 1 Capsule",
-      "Servings Per Container : ",
-      "30, 60 and 90 servings",
-      "Moringa oleifera extract......300 mg",
-      "Saponins......60 mg",
-      "Daily Value not established "
-    ],
-    indications:
-      [
-        "Reports suggest that Moringa oleifera is a rich source of Vitamin C and is packed with an oxidants. It helps to strengthen the immune system and supports body systems.",
-        "Auringa is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
-      ],
-    usage:
-      [
-        "1 capsule twice daily. or as directed by qualified healthcare professional. ",
-        "This product is not intended to cure or prevent any disease."
-      ],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 19,
+    id: 15,
     name: " Complementary Food Supplement Vitality and Energy Booster",
     description:
       "Auripower is a unique formula on of Panax ginseng root extract that helps to boost the immune system, improves vitality, energy levels and manage sexual disfunc on.",
@@ -607,7 +488,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 20,
+    id: 16,
     name: "Complementary Food Supplement Prostate Management",
     description:
       "Auriprost is a synergis c combina on of Serena repense Nanophosphosome® (Phytosterol-Phospha dyl Choline- Ethanolamine-inositol-serine complex) and Ur ca dioica Prunus Africana with technologically advanced bioenhancer and metabolic poten ator technology. Bioenhancer and metabolic ac vator technology enhances the passive diffusion and ac ve transport mechanism through intes nal microvilli to improve absorp on as well prevents metabolic reduc on through inhibi on of P-gp efflux pump, ATPase ac vity, CYP3A4, CYP3AG and UGT. ",
@@ -645,34 +526,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 21,
-    name: "Withania somnifera Nanophosphosome®",
-    description:
-      "Aurisom is an Ashwagandha (Withania Somnifera) supplement, a nano-emulsified Withanolides Phosphatidyl Choline-Serine-Ethanolamine complex enriched with Bioenhancer and Metabolic Potentiator technology. Aurisom (Withania Somnifera Nanophosphosome) contains active principles i.e. Withanolides, Withaferin A and Withanosides that easily crosses the gut barrier resulting in significantly higher blood levels. Potentiated phospholipid complex acts as carrier mediated transport system, which directs the Withanolides, Withaferin A and Withanosides to reach the systemic circulation and also increases its absorption and bioavailability. Bioenhancer and Metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve Withanolides, Withaferin A and Withanosides absorption as well prevents it’s metabolic reduction through inhibition of P-gp efflux pump, CYP3AG and UGT.", segment: "Human OTC",
-    type: "Capsule",
-    category: "Other Specialty",
-    packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/Aurisom.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurisom.webp",
-    composition: [
-      "1 Enteric Coated Tablet/Capsule",
-      "Withania Somnifera Nanophosphosome® *(Aurisom®)",
-      "Withanolides Phosphatidylcholine-",
-      "Ethanolamine-Inositol-Serine complex 91 mg",
-      "Withanolides, minimum 12.5 mg",
-      "Daily Value not established * Fortified with Piperine & Carum carvi",
-      "Other ingredients: Calcium carbonate, Permitted class II preservative."
-    ],
-    indications:
-      ["Reports suggest that supplementation of Withania somnifera alkaloids enhance energy metabolism to improve performance and health condition, augments immunity, improves the recovery from pain and inflammation especially during Rheumatoid arthritis condition, helps in reducing stress and anxiety related disorders. Aurisom® is a Nanophosphosome® form of Withania somnifera with technologically advanced bioenhancer and metabolic potentiator technology."],
-    usage:
-      ["1 tablet/capsule twice daily during post lunch/dinner or as directed by qualified healthcare professionals. This product is not intended to cure or prevent any disease."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 22,
+    id: 17,
     name: "Grape skin Nanophosphosome®",
     description:
       "Auritrol is a Grape skin supplement, a nano - emulsified Resveratrol Phosphatidyl Choline - Serine - Ethanolamine complex enriched with Bioenhancer and Metabolic Potentiator technology.AURITROL(Grape skin Nanophosphosome), a potentiated Phospholipid complex supports cognitive and memory function, and helps to improve the visual impairment, as it easily crosses the gut barrier resulting in significantly higher blood levels ultimately improve the cases of over weight patients suffering from Diabetes mellitus type II.The complex acts as carrier mediated transport system, which directs the Resveratrol to reach the systemic circulation and also increase it’s absorption and bioavailability.Bioenhancer and Metabolic potentiator technology enhances the permeability of intestinal microvilli and improves Resveratrol absorption as well prevents it’s metabolic reduction through inhibition of P - gp, CYP3AG and UGT.",
@@ -700,7 +554,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 23,
+    id: 18,
     name: "Complementary Food Supplement Supports Optic Health",
     description:
       "Aurivision is a unique and advanced formula on of Bilberry extract, lutein, Zeaxanthin enriched with essen al vitamins and minerals improves vision, strengthen blood vessels in the back of the eyes and eye health. Reduces the risk of macular degenera on and eye infec ons.",
@@ -740,7 +594,93 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 24,
+    id: 19,
+    name: "Complementary Food Supplement Supports Urinary Tract Health",
+    description:
+      "Auribery® is an advanced formula on of Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like altered pH, inflamma on etc.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "30, 60 and 90 tablet/Capsules Container",
+    Productimg: "/Assets/Product images/Human/Health Supplements/auribery.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auribery.webp",
+    composition: [
+      "Serving Size : 1 Capsule",
+      "Servings Per Container: 30, 60 and 90 servings",
+      "Vaccinium macrocarpon extract.....500 mg",
+      "Proanthocyanidins.....125 mg",
+      "Daily Value not established",
+      "For fied with Piperine"
+    ],
+    indications:
+      [
+        "Reports suggest that Vaccinium macrocarpon extract supplementa on supports Urinary Tract Health.",
+        "Auribery® is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
+    usage:
+      [
+        "1 capsule twice daily during post lunch/dinner. or as directed by qualified healthcare professional.",
+        "This product is not intended to cure or prevent any disease."
+      ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 20,
+    name: "Supports Urinary Tract Health",
+    description:
+      "Auribery Plus is an advanced formulation of gut-acting probiotics enriched with Cranberry extract to support Urinary Tract Health and reduce UTI symptoms like pH, inflammation, etc.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Other Specialty",
+    packaging: "30, 60 and 90 Capsules Container",
+    Productimg: "/Assets/Product images/Human/Health Supplements/auribery plus.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auribery Plus.webp",
+    composition: [
+      "Each 500 mg Capsule contains:",
+      "Lactobacillus acidophilis 0.25 billion",
+      "Lactobacillus Plantarum 0.25 billion",
+      "Cranberry extract",
+      "(Proanthocyanidins will be 25%) 18 mg",
+      "Retinyl acetate (Vitamin A) 160 mcg",
+      "FOS 100 mg"
+    ],
+    indications:
+      ["Reports suggest that Vaccinium macrocarpon extract supplementation supports Urinary Tract Health. Auribery is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology enriched with gut friendly probiotics and Vitamin A."],
+    usage:
+      ["1 capsule twice daily during post-lunch/dinner. Or as directed by a qualified healthcare professional. This product is not intended to cure or prevent any disease."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 21,
+    name: "Tinospora cordifolia Extract",
+    description:
+      "Aurifolia is Giloy(Tinospora cordifolia) based natural health supplement enriched with bioenhancer, and metabolic potentiator technology.Bioenhancer and metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve Tinospora cordifolia absorption as well prevents its metabolic reduction through inhibition of P- gp efflux pump, ATPase activity and CYP3A4.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Immunomodulator, Other Specialty",
+    packaging: "50 Capsules and 100 Capsules Container",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurifolia.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurifolia.webp",
+    composition: [
+      "1 Capsule",
+      "Tinospora cordifolia extract 250 mg",
+      "Alkaloids and Diterpenoid Bitters 12.5 mg",
+      "Fortified with Piperine and Cuminum cyminum"
+    ],
+    indications:
+      ["Reports suggest that supplementation of Tinospora cordifolia increases the activity of body’s immune system and helps in lowering the blood glucose levels .Aurifoliatm is a natural plant active health supplement with technologically advanced bioenhancer and metabolic potentiator technology."],
+    usage:
+      ["1 capsule twice daily. Or as directed by qualified healthcare professional. This product is not intended to cure or prevent any disease."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 22,
     name: "Complementary Food Supplement Supports Healthy Blood Pressure",
     description:
       "Aurojuna is a powerful blend of Terminalia arjuna extract to support heart health. Studies suggest that the bark of Arjuna shows a significant reduc on in chest pain by lowering the level of cor sol i.e., the stress hormone. Arjuna also improves exercise tolerance, improves HDL levels and reduces blood pressure. It supports cardiovascular health and strengthens & tones the heart muscles.",
@@ -772,7 +712,7 @@ const human_data = [
     feedback: " "
   },
   {
-    id: 25,
+    id: 23,
     name: "Complementary Food Supplement A UNIQUE PROBIOTIC BLEND",
     description:
       "Aurolac is a unique blend formula on of 4 gut ac ng probio cs enriched with Fructo-oligosaccharide to improve diges on and gut health.",
@@ -800,6 +740,64 @@ const human_data = [
         "1 sachet in luke warm water once or twice daily. or as directed by qualified healthcare professional.",
         "This product is not intended to cure or prevent any disease."
       ],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 24,
+    name: "A Unique Probiotic Blend",
+    description:
+      "Aurolac Forte is an advanced formulation of 4 gut acting probiotics enriched with Fructo oligosaccharide to improve digestion and gut health.",
+    segment: "Human OTC",
+    type: "Capsule",
+    category: "Digestive, Other Specialty",
+    packaging: "30, 60 and 90 tablet/Capsules Container",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac forte.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac Forte.webp",
+    composition: [
+      "Each 500 mg Capsule contains:",
+      "Lactobacillus crispatus 4 billion",
+      "Lactobacillus rhamnosus 4 billion",
+      "Lactobacillus johnsonii 0.8 billion",
+      "Lactobacillus gasseri 1.2 billion",
+      "FOS 100 mg"
+    ],
+    indications:
+      ["Digestives disturbances i.e.indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome."],
+    usage:
+      ["1-2 capsule daily.Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 25,
+    name: "Orodispersible Gut Acting Probiotic Food Supplement",
+    description:
+      "Aurolac Plus is a delectable blend of 5 Gut Acting Probiotics to maintain intestinal pH, improve gut protection, promote healthy digestion and enhance gut immunity.AUROLAC PLUS improves biosynthesis of Vitamin B, Vitamin K & Folic acid.These gut acting probiotics produce bacteriocins to act against pathogenic microbes & reduces digestive disturbances.",
+    segment: "Human OTC",
+    type: "Powder",
+    category: "Digestive, Other Specialty",
+    packaging: "2 g Sachet X 10 Sachet in one unit carton",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac Plus.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurolac Plus.webp",
+    composition: [
+      "Serving size 1 Packet(2g) Servings Per Container 10",
+      "Calories 6",
+      "Total Carbohydrate 1.75 gm",
+      "Blend of 5 gut acting probiotics 85 mg",
+      "(5 billion live cells)",
+      "Lactobacillus acidophilus, Lactobacillus bulgaricus,",
+      "Lactobacillus rhamnosus, Bifidobacterium bifidum,",
+      "Saccharomyces boulardii",
+      "Organic Inulin(FOS)(Fructooligosaccharides)",
+      "Other ingredients: Silicon dioxide"
+    ],
+    indications:
+      ["Digestive disturbances, i.e.indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome"],
+    usage:
+      ["1 sachet in lukewarm water once or twice daily.Or as directed by qualified healthcare professionals.This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -841,58 +839,60 @@ const human_data = [
   },
   {
     id: 27,
-    name: "Orodispersible Gut Acting Probiotic Food Supplement",
+    name: "Auringa Extract",
     description:
-      "Aurolac Plus is a delectable blend of 5 Gut Acting Probiotics to maintain intestinal pH, improve gut protection, promote healthy digestion and enhance gut immunity.AUROLAC PLUS improves biosynthesis of Vitamin B, Vitamin K & Folic acid.These gut acting probiotics produce bacteriocins to act against pathogenic microbes & reduces digestive disturbances.",
+      "Auringa is a powerful blend of Moringa oleifera extract to support immune system. Moringa oleifera extract consists of Vitamin C and an oxidants which are helpful to scavenge harmful free radicals in the body. It contains Magnesium, Potassium, Calcium, Phosphorus, Zinc, Iron, Vitamin A, Thiamine, Riboflavin, Niacin, Vitamin B6, Folate and amino 6 acids which not only fulfils body’s nutri onal requirement but also promotes be er growth and development.",
     segment: "Human OTC",
-    type: "Powder",
-    category: "Digestive, Other Specialty",
-    packaging: "2 g Sachet X 10 Sachet in one unit carton",
-    Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac Plus.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurolac Plus.webp",
+    type: "Capsule",
+    category: "Immunomodulator,Other Specialty",
+    packaging: "30, 60 and 90 Capsules Container",
+    Productimg: "/Assets/Product images/Human/Health Supplements/auringa.webp",
+    Productname: "/Assets/Product name/Health suppliments/Auringa.webp",
     composition: [
-      "Serving size 1 Packet(2g) Servings Per Container 10",
-      "Calories 6",
-      "Total Carbohydrate 1.75 gm",
-      "Blend of 5 gut acting probiotics 85 mg",
-      "(5 billion live cells)",
-      "Lactobacillus acidophilus, Lactobacillus bulgaricus,",
-      "Lactobacillus rhamnosus, Bifidobacterium bifidum,",
-      "Saccharomyces boulardii",
-      "Organic Inulin(FOS)(Fructooligosaccharides)",
-      "Other ingredients: Silicon dioxide"
+      "Serving Size : 1 Capsule",
+      "Servings Per Container : ",
+      "30, 60 and 90 servings",
+      "Moringa oleifera extract......300 mg",
+      "Saponins......60 mg",
+      "Daily Value not established "
     ],
     indications:
-      ["Digestive disturbances, i.e.indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome"],
+      [
+        "Reports suggest that Moringa oleifera is a rich source of Vitamin C and is packed with an oxidants. It helps to strengthen the immune system and supports body systems.",
+        "Auringa is a natural plant ac ve health supplement with technologically advanced bioenhancer and metabolic poten ator technology."
+      ],
     usage:
-      ["1 sachet in lukewarm water once or twice daily.Or as directed by qualified healthcare professionals.This product is not intended to cure or prevent any disease."],
+      [
+        "1 capsule twice daily. or as directed by qualified healthcare professional. ",
+        "This product is not intended to cure or prevent any disease."
+      ],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
     id: 28,
-    name: "A Unique Probiotic Blend",
+    name: "Withania somnifera Nanophosphosome®",
     description:
-      "Aurolac Forte is an advanced formulation of 4 gut acting probiotics enriched with Fructo oligosaccharide to improve digestion and gut health.",
-    segment: "Human OTC",
+      "Aurisom is an Ashwagandha (Withania Somnifera) supplement, a nano-emulsified Withanolides Phosphatidyl Choline-Serine-Ethanolamine complex enriched with Bioenhancer and Metabolic Potentiator technology. Aurisom (Withania Somnifera Nanophosphosome) contains active principles i.e. Withanolides, Withaferin A and Withanosides that easily crosses the gut barrier resulting in significantly higher blood levels. Potentiated phospholipid complex acts as carrier mediated transport system, which directs the Withanolides, Withaferin A and Withanosides to reach the systemic circulation and also increases its absorption and bioavailability. Bioenhancer and Metabolic activator technology enhances the passive diffusion and active transport mechanism through intestinal microvilli to improve Withanolides, Withaferin A and Withanosides absorption as well prevents it’s metabolic reduction through inhibition of P-gp efflux pump, CYP3AG and UGT.", segment: "Human OTC",
     type: "Capsule",
-    category: "Digestive, Other Specialty",
+    category: "Other Specialty",
     packaging: "30, 60 and 90 tablet/Capsules Container",
-    Productimg: "/Assets/Product images/Human/Health Supplements/Aurolac forte.webp",
-    Productname: "/Assets/Product name/Health suppliments/Aurolac Forte.webp",
+    Productimg: "/Assets/Product images/Human/Health Supplements/Aurisom.webp",
+    Productname: "/Assets/Product name/Health suppliments/Aurisom.webp",
     composition: [
-      "Each 500 mg Capsule contains:",
-      "Lactobacillus crispatus 4 billion",
-      "Lactobacillus rhamnosus 4 billion",
-      "Lactobacillus johnsonii 0.8 billion",
-      "Lactobacillus gasseri 1.2 billion",
-      "FOS 100 mg"
+      "1 Enteric Coated Tablet/Capsule",
+      "Withania Somnifera Nanophosphosome® *(Aurisom®)",
+      "Withanolides Phosphatidylcholine-",
+      "Ethanolamine-Inositol-Serine complex 91 mg",
+      "Withanolides, minimum 12.5 mg",
+      "Daily Value not established * Fortified with Piperine & Carum carvi",
+      "Other ingredients: Calcium carbonate, Permitted class II preservative."
     ],
     indications:
-      ["Digestives disturbances i.e.indigestion, diarrhea, constipation etc. Irritable Bowel Syndrome."],
+      ["Reports suggest that supplementation of Withania somnifera alkaloids enhance energy metabolism to improve performance and health condition, augments immunity, improves the recovery from pain and inflammation especially during Rheumatoid arthritis condition, helps in reducing stress and anxiety related disorders. Aurisom® is a Nanophosphosome® form of Withania somnifera with technologically advanced bioenhancer and metabolic potentiator technology."],
     usage:
-      ["1-2 capsule daily.Or as directed by qualified healthcare professional.This product is not intended to cure or prevent any disease."],
+      ["1 tablet/capsule twice daily during post lunch/dinner or as directed by qualified healthcare professionals. This product is not intended to cure or prevent any disease."],
     report: " ",
     brochure: " ",
     feedback: " "
