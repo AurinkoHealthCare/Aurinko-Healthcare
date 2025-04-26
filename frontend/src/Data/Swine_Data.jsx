@@ -37,6 +37,236 @@ const Swine_Data = [
     feedback: " "
   },
   {
+    id: 2,
+    name: "Potent Antidiarrheal and Intestinal Function Modulator",
+    description:
+      "Aurida Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+    segment: "Swine,Poultry",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "1 kg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
+    Productname: "/Assets/Product name/Poultry/Aurida Power.webp",
+    composition: [
+      "Each pack contains:",
+      "Phytochemical extracts derived from:",
+      "Acacia catechu",
+      "Cissampelos pareira",
+      "Holarrhena antidysenterica",
+      "Euphorbia hirta",
+      "Cinnamomum zeylanicum",
+      "Mangifera indica",
+      "Andrographis paniculata",
+      "Eclipta alba",
+      "Vitamins - B1, B2, Niacin, B6, B12",
+      "Probiotics - Saccharomyces boulardii, Bacillus coagulans, Bacillus clausii, Lactobacillus rhamnosus GG and Mannan oligosaccharide"
+    ],
+    indications:
+      [
+        "Helps to control non-specific diarrhea.",
+        "Improves gut function for better GI immunity, integrity, digestibility and nutrient absorption",
+        "Helps to restore GI mucosa for better productivity",
+        "Supportive therapy for diarrhea of specific origin"
+      ],
+    usage:
+      ["Therapeutic use- 4.5 to 5 kg per tonne of feed. Preventive use- 1.5 kg per tonne of feed. Ensure thorough mixing in feed."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 3,
+    name: "Potent Antidiarrheal and Intestinal Function Modulator",
+    description:
+      "Aurida Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
+    segment: "Swine,Poultry",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "1 kg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
+    Productname: "/Assets/Product name/Poultry/Aurida Pro.webp",
+    composition: [
+      "Each pack contains:",
+      "Phytochemical extracts derived from:",
+      "Andrographis paniculata",
+      "Eclipta alba",
+      "Vitamins - B1, B2, Niacin, B6, B12",
+      "Probiotics - Saccharomyces boulardii, Bacillus coagulans, Bacillus clausii, Lactobacillus rhamnosus GG and Mannan oligosaccharide",
+      "(Total Probiotic count 13.5 billion cfu per kg)"
+    ],
+    indications:
+      [
+        "Helps to control non-specific diarrhea.",
+        "Improves gut function for better GI immunity, integrity, digestibility and nutrient absorption",
+        "Helps to restore GI mucosa for better productivity",
+        "Supportive therapy for diarrhea of specific origin"
+      ],
+    usage:
+      ["Therapeutic use- 600 gm per 1000 litre of drinking water Preventive use- 300 gm per 1000 litre of drinking water"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 4,
+    name: "Maggoticidal Topical Wound Healer 100% Actives No Gas",
+    description:
+      "Auriheal is a topical gasless spray formulation fortified with powerful essential oils for higher maggoticidal, wound healer and fly repellent action.",
+    segment: "Livestock",
+    type: "Spray",
+    category: "Wound Healer Spray",
+    packaging: "75 ml, 100 ml bottle",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriheal.webp",
+    Productname: "/Assets/Product name/Livestock/Auriheal.webp",
+    composition: [
+      "Each 100 ml contains :",
+      "Ocimum sanctum oil 8 gm",
+      "Cinnamomum tamala oil 2 gm",
+      "Eucalyptus oil 8 gm",
+      "Cedrus deodara oil 2 gm",
+      "Azadirachta indica oil 5 gm",
+      "Pongamia pinnata oil 5 gm",
+      "Cymbopongon citratus oil 12gm",
+      "Curcuma longa oil 2 gm"
+    ],
+    indications:
+      ["Wound healer Maggoticide Fly repellent Fungal infections Mange infestations"],
+    usage:
+      ["2 to 3 topical applications daily for 3 to 5 days"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 5,
+    name: "An Innovative Non-Antibiotic Growth Promoter",
+    description:
+      "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
+    segment: "Swine,Livestock",
+    type: "Powder",
+    category: "Growth Promoter , Other Specialty",
+    packaging: "1 kg 25 kg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigain.webp",
+    Productname: "/Assets/Product name/Poultry/Aurigain.webp",
+    composition: [
+      "Each Kg contains:",
+      "Phytochemical extracts of - Leptadenia reticulate",
+      "Asparagus racemosus",
+      "Trigonella foenum",
+      "Ocimum Sanctum",
+      "Phyllanthus Embllica",
+      "Andrographis Paniculata",
+      "Eclipta Alba",
+      "Sacchromyces cerevisiae",
+      "Bacillus coagulans",
+      "Aspergillus oryzae",
+      "DL Methionine, Niacin, Biotin ",
+      "Fortified with Essential oils"
+    ],
+    indications:
+      [
+        "Initiates faster growth in growing pig, goat kid and calf/heifer to achieve higher weight gain."
+      ],
+    usage:
+      ["Beef cattle:-15-20 gm twice daily for 60 days. Buck/Goat/Calf:- 5 gm twice daily for 60 days. Goat kid:- 2 gm twice daily for 60 days. Swine: 2nd month:- 5 gm/day 3rd month :- 7.5 gm/day 4th month :- 10 gm/day 5th month :- 12.5 gm/day 6th month :- 15 gm/day."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 6,
+    name: "All Natural Non-Antibiotic Growth Promoter",
+    description:
+      "Aurigrow is a unique non-antibiotic growth promoter fortified with phytochemicals, nucleotides, vitamins, minerals, FOS and organic acids to ensure potent antibacterial and antifungal action, improve immunity, egg production and aquaculture yield.",
+    segment: "Poultry , Aqua , Swine",
+    type: "Powder",
+    category: "Performance Enhancer , Immunomodulator",
+    packaging: "100 gm and 500 gm HDPE bottle",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigrow.webp",
+    Productname: "/Assets/Product name/Poultry/Aurigrow.webp",
+    composition: [
+      " "
+    ],
+    indications:
+      [
+        "Growth promoter",
+        "Immunity enhancer",
+        "Strong antibacterial and antifungal supplement"
+      ],
+    usage:
+      ["1 gm to 2 gm per kg of feed once a day as growth promoter 2 gm to 4 gm per kg of feed twice a day during bacterial and fungal infections. Poultry and Swine – 750 gms to 1 kg per ton as growth promoter."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 7,
+    name: "Electrolytes for Heat Stress",
+    description:
+      "Aurilyte Plus is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
+    segment: "Livestock , Poultry , Swine",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "1 Kg 25 Kg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
+    Productname: "/Assets/Product name/Poultry/Aurilyte Plus.webp",
+    composition: [
+      "Each 100 gm contains:",
+      "Sodium chloride 0.8 gm",
+      "Potassium chloride 5.0 gm",
+      "Sodium bicarbonate 3.0 gm",
+      "Sodium acid phosphate 0.8 gm",
+      "Sodium citrate 6.5 gm",
+      "Calcium citrate 2 gm",
+      "Betaine 0.3 gm",
+      "Vitamin C 1200 mg",
+      "Magnesium sulphate 1 gm",
+      "Lactobacillus sporogenes viable spore 3000 million",
+      "Bacillus licheniformis viable spores 30000 million",
+      "Dextrose q.s."
+    ],
+    indications:
+      [
+        "Helps in diarrhea, In extreme temperatures (high or low) and all kind of stress maintains electrolyte balance",
+        "Reduces mortality rate during heat stress",
+        "Improves layer and broiler performance to increase processing yield and feed consumption."
+      ],
+    usage:
+      ["Calves/Sheep/ Goat: 10 to 30 gm per day. Cow/Buffalo/Horse/Camel: 50 gm per day. In case of heat induced panting administer 100 gm twice daily for 3 to 5 days or as directed by the veterinarians. Poultry: 10 gm per litre of water for 100 birds. Swine: 10 to 30 gm per day. In case of heat induced panting, administer 100 gm twice daily for 3 to 5 days or as directed by the veterinarians."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 8,
+    name: "Maggoticidal Topical Wound Healer 100% Actives No Gas",
+    description:
+      "AURIVIR is a unique blend of phytogenic extracts and antioxidants to prevent and control RNA viral infections in poultry, swine and cattle. It is highly effective against Infectious Bronchitis, Avain Influenza, New Castle Disease, Infectious Bursal Disease, Swine Flu, Swine enteric Coronavirus disease and Bovine respiratory disease complex.",
+    segment: "Poultry , Swine",
+    type: "Powder , Liquid",
+    category: "Immunomodulator , Other Specialty",
+    packaging: " 1 Ltr 5 Ltr 25 Ltr Jar 1 kg 25 Kg Drum",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/AURIVIR.webp",
+    Productname: "/Assets/Product name/Livestock/AURIVIR.webp",
+    composition:
+      [
+        "Each kg contains:",
+        "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin-3-gallate, Grape Skin Nanophosphosome© Vitamin C 75 gm, Selenium 3.96 mg, Copper (as glycinate complex) 600 mg, Manganese (as glycinate complex) 300 mg, Fortified with Carum carvi and Piperine"
+      ],
+    indications:
+      [
+        "To prevent and control RNA viral infections (Infectious Bronchitis, Avian Influenza, New Castle Disease, Infectious Bursal Disease)",
+        "Help to reduce the incidence of bacterial and viral diseases",
+        "Ensures faster recovery during disease outbreaks. Improves the antibody titre when given along with vaccinations Regular use prevents recurrence of infection",
+        "Effective against RNA viral infections in swine (Swine Flu, Swine enteric Corona virus, Bovine respiratory disease complex)"
+      ],
+    usage:
+      ["For Poultry: Powder supplementation- For prevention- 600-700 gm per tonne of feed for 1-2 weeks. As Supportive therapy during acute infections- 2 kg per tonne of feed for 5-7 days. Liquid supplementation: *Preventive supplementation (for 1-2 weeks):- 1 ltr. diluted with 100 ltr. water for 2000 birds of 1.5 kg bwt. 1 ltr. diluted with 100 ltr. water for 4000 birds of 750 gm bwt. 1 ltr. diluted with 200 ltr. water for 12000 birds of 250 gm bwt. 1 ltr. diluted with 200 ltr. water for 30000 birds of 100 gm bwt. *As Supportive therapy during acute infection (for 5-7 days):- 1 ltr. diluted with 50 ltr. water for 700 birds of 1.5 kg bwt. 1 ltr. diluted with 50 ltr. water for 1400 birds of 750 gm bwt. 1 ltr. diluted with 100 ltr. water for 4000 birds of 250 gm bwt. 1 ltr. diluted with 100 ltr. water for 10000 birds of 100 gm bwt. For Swine: 1-2 weeks supplementation period. 1st Month 1.5 gm OD 5 ml BID 2nd Month 3 gm OD 10 ml BID 3rd Month 5 gm OD 18 ml BID 4th Month 7.5 gm OD 27 ml BID 5th Month 10 gm OD 35 ml BID 6th Month 12.5 gm OD 45 ml BID"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
     id: 9,
     name: "Potent Organic Immunomodulator",
     description:
@@ -88,6 +318,32 @@ const Swine_Data = [
       ],
     usage:
       ["For water quality improvement – 20 ml for 200 ltr. water tank Supportive against Air borne infections: 20 ml to be diluted in 20 ltr. water for spray."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 11,
+    name: "Powerful Toxin Binder",
+    description:
+      "AURITOX-BIO is highly effective toxin binder fortified with Activated Carbon, Calcium Propionate, Sodium Benzoate and MOS to bind Mycotoxins, Reduce liver stress, Improve immunity and performance.",
+    segment: "Swine,Poultry",
+    type: "Powder",
+    category: "Toxin Binder , Other Specialty",
+    packaging: "25 kg Bag",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AURITOX-BIO.webp",
+    Productname: "/Assets/Product name/Poultry/Auritox BIO.webp",
+    composition: [
+      "Each Kg contains:",
+      "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide"
+    ],
+    indications:
+      [
+        "Controls and reduces feed contamination, Bind multiple mycotoxins,",
+        "Inhibits growth of mold and prevents further mycotoxin production, Increases immunity and reduce stress on liver, Improves laying performance and growth in birds."
+      ],
+    usage:
+      ["1 kg per ton of feed for 40 ppm feed mycotoxin concentration, 2 kg per ton of feed for 60 ppm feed mycotoxin concentration, 3 kg per ton of feed for 80 ppm feed mycotoxin concentration, 4 kg per ton of feed for 100 ppm feed mycotoxin concentration"],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -159,7 +415,94 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 18,
+    id: 14,
+    name: "Phytogenic Anti-viral Prevention Programme",
+    description:
+      "Aurivir-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
+    segment: "Swine,Poultry",
+    type: "Powder",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "250 gm 500 gm 1 kg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
+    Productname: "/Assets/Product name/Poultry/Aurivir - S.webp",
+    composition: [
+      "Each kg contains:",
+      "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin - 3 - gallate, Grape Skin Nanophosphosome©",
+      "Vitamin C 75 gm",
+      "Selenium 3.96 mg",
+      "Copper(as glycinate complex) 600 mg",
+      "Manganese(as glycinate complex) 300 mg",
+      "Fortified with Carum carvi and Piperine"
+    ],
+    indications:
+      [
+        "To prevent and control DNA viral infections (Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus)",
+        "Helps to reduce the incidence of bacterial and viral diseases. Ensures faster recovery during disease outbreaks",
+        "Improves the antibody titre when given along with vaccinations, Regular use prevents recurrence of infection.",
+        "Effective against DNA viral infections in swine (Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus)"
+      ],
+    usage:
+      ["For Poultry: Powder supplementation- For prevention- 200 gm per tonne of feed for 2-4 weeks. As Supportive therapy during acute infections- 600 gm per tonne of feed for 7-14 days. For Swine: 1-2 weeks supplementation period. 1st month-400 mg OD, 2nd month-800 mg OD, 3rd month-1.4 gm OD, 4th month-2 gm OD, 5th month-2.7 gm OD, 6th montj- 3.5 gm OD."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 15,
+    name: "Fertility Vitamin Complex",
+    description:
+      "Aurivit AD3E is an advanced fetility complex enriched with vitamin A, Vitamin D3, Vitamin E and Selenium.",
+    segment: "Swine,Livestock",
+    type: "Liquid",
+    category: "Performance Enhancer , Other Specialty",
+    packaging: "100 ml 250 ml 500 ml 1 L",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3.webp",
+    Productname: "/Assets/Product name/Livestock/Aurivit AD3E.webp",
+    composition: [
+      "Each ml contains:",
+      "Vitamin A 1,00,000 IU, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
+    ],
+    indications:
+      [
+        "Maintains overall growth",
+        "Helps in healthy pregnancy and improves fertility in cattle",
+        "Helps to improve immunity and fight stress conditions"
+      ],
+    usage:
+      ["Cow, Buffalo and Horse- 10 ml daily in morning and evening Goat, Sheep, Calves- 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional. Swine: Pig: 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 16,
+    name: "Fertility Vitamin Complex",
+    description:
+      "Aurivit AD3E Plus is an advanced fetility complex enriched with vitamin A, Vitamin C, Vitamin D3, Vitamin E and Selenium.",
+    segment: "Swine,Livestock",
+    type: "Liquid",
+    category: "Performance Enhancer , Other Specialty",
+    packaging: "100 ml 250 ml 500 ml 1 L",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
+    Productname: "/Assets/Product name/Livestock/Aurivit-AD3 Plus.jpg",
+    composition: [
+      "Each ml contains:",
+      "Vitamin A 1,00,000 IU, Vitamin C 20 mg, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
+    ],
+    indications:
+      [
+        "Maintains overall growth",
+        "Helps in healthy pregnancy and improves fertility in cattle",
+        "Helps to improve immunity and fight stress conditions."
+      ],
+    usage:
+      ["Cow, Buffalo and Horse- 10 ml daily in morning and evening Goat, Sheep, Calves- 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional. Swine: Pig: 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 17,
     name: "Mucolytic and Bronchodilator",
     description:
       "AuroRD is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
@@ -190,6 +533,65 @@ const Swine_Data = [
       ],
     usage:
       ["Drinking Water Application: In Birds: For prevention: 100 ml to 200 ml per 1000 litres of drinking water for 5000 birds. For treatment: 300 ml to 500 ml per 1000 litres of drinking water for 5000 birds. Farm Fogging Application: 100 ml per 5 ltr of water per 5000 cubic feet. Swine: (Through drinking water or feed-top dressing or direct oral administration) For prevention: 1 ml to 2 ml per animal per day For treatment: 5 ml to 8 ml per animal per day Farm Fogging Application: 100 ml per 5 ltr of water per 5000 cubic feet."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 18,
+    name: "Powerful Mucolytic and Bronchodilator",
+    description:
+      "AuroRD DS is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
+    segment: "Swine,Poultry",
+    type: "Liquid",
+    category: "Other Specialty",
+    packaging: "500 gm Pack 1 kg Pack",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD-DS.webp",
+    Productname: "/Assets/Product name/Poultry/AuroRD DS.webp",
+    composition: [
+      "Each Kg essential oil contains -",
+      "Vitamin A Palmitate 1,00,00,000 IU, Vitamin D3 40,00,000 IU, Eucalyptus oil(1 - 8 cineole, Limonene)125 gm, Holy basil oil(Eugenol, Linalool) 50 gm, Peppermint oil(Menthol, 1 - 8 cineole) 250 gm, Clove oil(Eugenol) 10 gm",
+      "Thyme oil(Thymol) 10 gm",
+      "Lemon oil(Linalool, Limonene) 2 gm",
+      "Camphor oil(Linalool, 1 - 8 cineole) 20 gm, Ginger oil(Zingiberene) 5 gm"
+    ],
+    indications:
+      [
+        "Mucolytic, Expectorant, Bronchodilator",
+        "Helps oxygen transition in lungs",
+        "Decongestant for healthy respiration Builds immunity & boosts health"
+      ],
+    usage:
+      ["Drinking Water Application: In Birds:- For Prevention: 100-150 ml Per 1000 litres of drinking water for 5000 Birds. As Supportive therapy: 300-400 ml Per 1000 litres of drinking water for 5000 Birds. Swine: (Through drinking water or feed-top dressing or direct oral administration) For Prevention: 0.5 ml to 1.5 ml Per animal per day As supportive therapy: 2 ml to 4 ml per animal per day Farm Fogging Application:- 50-75 ml per 5 litre of water per 5000 Cubic Feet."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 19,
+    name: "Super Anti-oxidant and Immunomodulator",
+    description:
+      "Aurovita is a strong anti-oxidant and immuno-modulator enriched with Vitamin E, Selenium, Vitamin A, D3, Grape polyphenol and Biotin. Aurovita provides powerful stress buster, performance enhancer and immuno-stimulant efficacy to improve health and growth even during periods of stress and disease challenges",
+    segment: "Swine,Poultry",
+    type: "Powder",
+    category: "Immunomodulator , Other Specialty",
+    packaging: "1 Kg Pack 25 Kg Drum",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurovita.webp",
+    Productname: "/Assets/Product name/Poultry/AuroVita.webp",
+    composition: [
+      "Aurovita",
+      "Each 100 gm contains:",
+      "Vitamin E 5,000 IU, Selenium 20 mg Grape polyphenol eq.to 15,000 IU Vitamin E activity",
+      "Vitamin A 10,00,000 IU, Vitamin D 2,00.000 IU, Biotin 60,000 mcg"
+    ],
+    indications:
+      [
+        "Improves immunity and prevents disease occurrence",
+        "Increases egg production, quality and hatchability",
+        "Enhances weight gain, improves coat and health status"
+      ],
+    usage:
+      ["Poultry: For 10000 birds- 240 gm per ton of feed for Layers. 360 gm per ton of feed for Breeders/Broilers Swine-5 to 10 gm in feed or water per 10 pigs daily for 10 pigs daily"],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -250,142 +652,7 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 25,
-    name: "Unique Blend of Essential Oils with Anti-Bacterial and Anti-Coccidial Effects",
-    description:
-      "Olbac is a unique essential oil blend to prevent and control bacterial and coccidial infections in poultry.",
-    segment: "Swine,Poultry",
-    type: "Liquid",
-    category: "Immunomodulator, Antibacterial , Other Specialty",
-    packaging: "250 gm 1 Kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Olbac.webp",
-    Productname: "/Assets/Product name/Poultry/Olbac.webp",
-    composition: [
-      "Each 100 gm of Essential oil contains:",
-      "Thymol 7900 mg, Terpinene-4-ol 5400 mg, 1,8-Cineole 1800 mg, Carvacrol 850 mg, Vitamin A 40,00,000 IU, Vitamin D3 16,00,000 IU."
-    ],
-    indications:
-      [
-        "Prevents and controls Bacterial and Coccidial infections.",
-        "Improves body immunity and reduces mortality.",
-        "Initiates faster recovery from infections (Salmonellosis, Colibacillosis, Infectious Coryza, Coccidiosis etc.) as an adjunct to antibiotics and anti-coccidial therapy.",
-        "Promotes growth and production performance."
-      ],
-    usage:
-      ["For Prevention of bacterial and coccidial infections: 20 gm per 50 ltr. of drinking water for 5000 birds daily for a week or more during immuno-suppression or disease outbreak. As Supportive Therapy during Bacterial and Coccidial infections: 50-80 gm per 50 Ltr. of drinking water for 5000 birds daily for 5 to 7 days, continue if necessary. Newly Hatched Birds- 10 gm per 25 Lt. drinking water for 5000 birds daily for 5-7 days. Swine: 40 gm per 1000 Ltr of drinking water. As supportive therapy: 120-150 gm per 1000 ltr of drinking water."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-
-
-
-
-
-
-
-
-
-
-  {
-    id: 14,
-    name: "Electrolytes for Heat Stress",
-    description:
-      "Aurilyte Plus is unique electrolyte formulation with a powerful combination of essential electrolytes, i.e. sodium, potassium, chloride; essential minerals, i.e. calcium, magnesium, phosphorus; and enriched with bicarbonates, betaine, probiotics and vitamin C to maintain electrolyte balance and mineral need in body especially during the cases of heat stress and dehydration.",
-    segment: "Livestock , Poultry , Swine",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "1 Kg 25 Kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurilyte Plus.webp",
-    Productname: "/Assets/Product name/Poultry/Aurilyte Plus.webp",
-    composition: [
-      "Each 100 gm contains:",
-      "Sodium chloride 0.8 gm",
-      "Potassium chloride 5.0 gm",
-      "Sodium bicarbonate 3.0 gm",
-      "Sodium acid phosphate 0.8 gm",
-      "Sodium citrate 6.5 gm",
-      "Calcium citrate 2 gm",
-      "Betaine 0.3 gm",
-      "Vitamin C 1200 mg",
-      "Magnesium sulphate 1 gm",
-      "Lactobacillus sporogenes viable spore 3000 million",
-      "Bacillus licheniformis viable spores 30000 million",
-      "Dextrose q.s."
-    ],
-    indications:
-      [
-        "Helps in diarrhea, In extreme temperatures (high or low) and all kind of stress maintains electrolyte balance",
-        "Reduces mortality rate during heat stress",
-        "Improves layer and broiler performance to increase processing yield and feed consumption."
-      ],
-    usage:
-      ["Calves/Sheep/ Goat: 10 to 30 gm per day. Cow/Buffalo/Horse/Camel: 50 gm per day. In case of heat induced panting administer 100 gm twice daily for 3 to 5 days or as directed by the veterinarians. Poultry: 10 gm per litre of water for 100 birds. Swine: 10 to 30 gm per day. In case of heat induced panting, administer 100 gm twice daily for 3 to 5 days or as directed by the veterinarians."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 15,
-    name: "Super Anti-oxidant and Immunomodulator",
-    description:
-      "Aurovita is a strong anti-oxidant and immuno-modulator enriched with Vitamin E, Selenium, Vitamin A, D3, Grape polyphenol and Biotin. Aurovita provides powerful stress buster, performance enhancer and immuno-stimulant efficacy to improve health and growth even during periods of stress and disease challenges",
-    segment: "Swine,Poultry",
-    type: "Powder",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "1 Kg Pack 25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurovita.webp",
-    Productname: "/Assets/Product name/Poultry/AuroVita.webp",
-    composition: [
-      "Aurovita",
-      "Each 100 gm contains:",
-      "Vitamin E 5,000 IU, Selenium 20 mg Grape polyphenol eq.to 15,000 IU Vitamin E activity",
-      "Vitamin A 10,00,000 IU, Vitamin D 2,00.000 IU, Biotin 60,000 mcg"
-    ],
-    indications:
-      [
-        "Improves immunity and prevents disease occurrence",
-        "Increases egg production, quality and hatchability",
-        "Enhances weight gain, improves coat and health status"
-      ],
-    usage:
-      ["Poultry: For 10000 birds- 240 gm per ton of feed for Layers. 360 gm per ton of feed for Breeders/Broilers Swine-5 to 10 gm in feed or water per 10 pigs daily for 10 pigs daily"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 16,
-    name: "Powerful Mucolytic and Bronchodilator",
-    description:
-      "AuroRD DS is an unique essential oil blend to prevent Chronic Respiratory disease. It is a powerful mucolytic, expectorant and bronchodilator. Helps oxygen transition in lungs, decongests lungs for healthy respiration and builds immunity & boosts health of the birds and animals.",
-    segment: "Swine,Poultry",
-    type: "Liquid",
-    category: "Other Specialty",
-    packaging: "500 gm Pack 1 kg Pack",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/AuroRD-DS.webp",
-    Productname: "/Assets/Product name/Poultry/AuroRD DS.webp",
-    composition: [
-      "Each Kg essential oil contains -",
-      "Vitamin A Palmitate 1,00,00,000 IU, Vitamin D3 40,00,000 IU, Eucalyptus oil(1 - 8 cineole, Limonene)125 gm, Holy basil oil(Eugenol, Linalool) 50 gm, Peppermint oil(Menthol, 1 - 8 cineole) 250 gm, Clove oil(Eugenol) 10 gm",
-      "Thyme oil(Thymol) 10 gm",
-      "Lemon oil(Linalool, Limonene) 2 gm",
-      "Camphor oil(Linalool, 1 - 8 cineole) 20 gm, Ginger oil(Zingiberene) 5 gm"
-    ],
-    indications:
-      [
-        "Mucolytic, Expectorant, Bronchodilator",
-        "Helps oxygen transition in lungs",
-        "Decongestant for healthy respiration Builds immunity & boosts health"
-      ],
-    usage:
-      ["Drinking Water Application: In Birds:- For Prevention: 100-150 ml Per 1000 litres of drinking water for 5000 Birds. As Supportive therapy: 300-400 ml Per 1000 litres of drinking water for 5000 Birds. Swine: (Through drinking water or feed-top dressing or direct oral administration) For Prevention: 0.5 ml to 1.5 ml Per animal per day As supportive therapy: 2 ml to 4 ml per animal per day Farm Fogging Application:- 50-75 ml per 5 litre of water per 5000 Cubic Feet."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 17,
+    id: 22,
     name: "Premium Herbal Liver Stimulant and Protectant",
     description:
       "LivauroForte is a purely herbal and advanced liver stimulant formulation with high quality phyto-chemical extracts to support liver health and reduce the risk of liver disorders.",
@@ -413,33 +680,119 @@ const Swine_Data = [
     feedback: " "
   },
   {
-    id: 18,
-    name: "All Natural Non-Antibiotic Growth Promoter",
+    id: 23,
+    name: "Premium Nutrient Growth Promoter",
     description:
-      "Aurigrow is a unique non-antibiotic growth promoter fortified with phytochemicals, nucleotides, vitamins, minerals, FOS and organic acids to ensure potent antibacterial and antifungal action, improve immunity, egg production and aquaculture yield.",
-    segment: "Poultry , Aqua , Swine",
+      "Neuna Premium is a Powerful Nutrient growth promoter and performance enhancer for Broilers, Layers and Swine. Neuna Premium enriched with Essential Vitamins, Micro-minerals, Chelated Micro-minerals, Potentiated Probiotics, Powerful Immunomodulators and Phytase enzyme. It is also fortified with research moieties ie. Phytobio-calphos and energy booster complex. Neuna Premium is cost effective formulation because no additional nutrient supplementation is required in the feeding animals.",
+    segment: "Swine,Poultry",
     type: "Powder",
-    category: "Performance Enhancer , Immunomodulator",
-    packaging: "100 gm and 500 gm HDPE bottle",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigrow.webp",
-    Productname: "/Assets/Product name/Poultry/Aurigrow.webp",
+    category: "Performance Enhancer , Other Specialty",
+    packaging: "2.2 Kg Pet jar and 25 Kg Drum",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
+    Productname: "/Assets/Product name/Poultry/Neuna Premium.webp",
     composition: [
-      " "
+      "Contains high concentration of:",
+      "Vitamin A, D3 and E(coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc(MHA), Organic Chromium, Selenium, Magnesium and Iodine",
+      "Esterified Butyrate, Phytase, Beta glucan and Mannon oligosaccharide, Bacillus subtilis, Bacillus licheniformis, Lactobacillus sporogenes, Saccharomyces cerevisiae, Energy booster complex, Pyto - bio CalphosTM and Grape polyphenols ext."
     ],
     indications:
       [
-        "Growth promoter",
-        "Immunity enhancer",
-        "Strong antibacterial and antifungal supplement"
+        "High performance growth promoter",
+        "Strong anti-oxidant and Immunity enhancer",
+        "Powerful Probiotic supplement with antibacterial action"
       ],
     usage:
-      ["1 gm to 2 gm per kg of feed once a day as growth promoter 2 gm to 4 gm per kg of feed twice a day during bacterial and fungal infections. Poultry and Swine – 750 gms to 1 kg per ton as growth promoter."],
+      ["Broilers, Breeders and Swine- 2.2 kg per ton of feed as performance enhancer, growth promoter and immunostimulant, Layers- 1.8 kg per ton of feed as performance enhancer and immunostimulant"],
     report: " ",
     brochure: " ",
     feedback: " "
   },
   {
-    id: 19,
+    id: 24,
+    name: "Performance Enhancer & Growth Stlmulator",
+    description:
+      "Nomino is an advanced combination of organic minerals, essential amino acids, nucleotides, vitamins, electrolytes, fatty acids and grape polyphenols to improve immunity, alleviate stress, improve growth and production in birds and animals.",
+    segment: "Livestock , Poultry , Swine",
+    type: "Liquid",
+    category: "Performance Enhancer , Nutrition Supplement",
+    packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Nomino.webp",
+    Productname: "/Assets/Product name/Livestock/Nomino.webp",
+    composition: [
+      "Each gm contains:",
+      "Vitamin A 500,000 IU, Vitamin D3 75,000 IU, Vitamin E 10,000 mg, Vitamin B1 1, 250 mg, Vitamin B2 500 mg, Vitamin B6 625 mg, Vitamin B12 5, 300 mcg, Vitamin K 350 mg, Vitamin H12, 500 mcg, Vitamin C 1,000 mg, Niacin 1, 400 mg, D Panthenol 625 mg, Folic Acid precursor 625 mg, Lysine 100 mg, DL - Methionine 1, 500 mg, Protein Hydrolysate 1,000 mg, Iodine 500 mg, Selenium 125 mg, Cobalt 500 mg, Organic Copper 2000 mg, Organic Manganese 1,000 mg, Organic Zinc 3,000 mg, Sodium Chloride 9.815 g, Potassium Chloride 82.430 g, Magnesium sulphate Heptahydrate 455 mg, Citric Acid 3, 280 mg, Essential Fatty acids 1,000 mg, Nucleotides 5,000 mg, Grape Polyphenol eq.to 3,000 IU Vitamin E activity"
+    ],
+    indications:
+      [
+        "Improves growth & production Enhances hatchability of eggs and chick quality in layers Increases growth in chicks, kids, piglets, calves & Goats",
+        "Augments immunity in birds during periods, heat stress, vaccination, heat stress, disease challenges and when feed intake is reduced"
+      ],
+    usage:
+      ["Through oral route Animals- Sheep/Goat-3 to 4ml daily Calves/Foal-5 to 10ml daily Cow/Buffalo-20 to 25ml daily Swine: Through oral route:- 1st month: 1 ml/day 2nd month: 2 ml/day 3rd month: 4 ml/day 4th month: 6 ml/day 5th month: 8 ml/day 6th month: 10 ml/day."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 25,
+    name: "Unique Blend of Essential Oils with Anti-Bacterial and Anti-Coccidial Effects",
+    description:
+      "Olbac is a unique essential oil blend to prevent and control bacterial and coccidial infections in poultry.",
+    segment: "Swine,Poultry",
+    type: "Liquid",
+    category: "Immunomodulator, Antibacterial , Other Specialty",
+    packaging: "250 gm 1 Kg",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Olbac.webp",
+    Productname: "/Assets/Product name/Poultry/Olbac.webp",
+    composition: [
+      "Each 100 gm of Essential oil contains:",
+      "Thymol 7900 mg, Terpinene-4-ol 5400 mg, 1,8-Cineole 1800 mg, Carvacrol 850 mg, Vitamin A 40,00,000 IU, Vitamin D3 16,00,000 IU."
+    ],
+    indications:
+      [
+        "Prevents and controls Bacterial and Coccidial infections.",
+        "Improves body immunity and reduces mortality.",
+        "Initiates faster recovery from infections (Salmonellosis, Colibacillosis, Infectious Coryza, Coccidiosis etc.) as an adjunct to antibiotics and anti-coccidial therapy.",
+        "Promotes growth and production performance."
+      ],
+    usage:
+      ["For Prevention of bacterial and coccidial infections: 20 gm per 50 ltr. of drinking water for 5000 birds daily for a week or more during immuno-suppression or disease outbreak. As Supportive Therapy during Bacterial and Coccidial infections: 50-80 gm per 50 Ltr. of drinking water for 5000 birds daily for 5 to 7 days, continue if necessary. Newly Hatched Birds- 10 gm per 25 Lt. drinking water for 5000 birds daily for 5-7 days. Swine: 40 gm per 1000 Ltr of drinking water. As supportive therapy: 120-150 gm per 1000 ltr of drinking water."],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 26,
+    name: "Broad Spectrum, Powerful yet Safe Biocide",
+    description:
+      "Pondcure Plus is broad spectrum, powerful and safe biocide with potent oxidizing action against all major microbes. It may be used for aerial, surface or water system sanitization. Pondcure is suitable for aquaculture, swine and poultry applications",
+    segment: "Poultry , Swine , Aqua",
+    type: "Powder",
+    category: "Other Specialty",
+    packaging: "500 gm pack",
+    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondcure Plus.webp",
+    Productname: "/Assets/Product name/Aqua/Pondcure Plus.webp",
+    composition: [
+      "Contains:",
+      "Potassium monosulphate compound………..49.8 % w / w",
+      "containing triple salt – potassium monopersulphate",
+      "Potassium hydrogen sulphate",
+      "Potassium sulphate",
+      "Sodium dichloroisocyanurate………….5 %"
+    ],
+    indications:
+      [
+        "Ecofriendly biocide",
+        "Effective against virus, bacteria and fungi"
+      ],
+    usage:
+      ["Aquaculture- 500 g- 1 Kg/ Ha; Poultry and Swine- 5 gm/ litre of water, water disinfection-1-2 gm/10 litre of water"],
+    report: " ",
+    brochure: " ",
+    feedback: " "
+  },
+  {
+    id: 27,
     name: "Micro-encapsulated Probiotic Formulation.",
     description:
       "Unique Blend of Microencapsulated Bacillus Probiotics for Mesh, Pallet and Crumble Feed. Probicap 4S is a highly concentrated, high performance and most affordable probiotic formulation for pellet feed manufacturers. Probicap 4S provides prevention against bacterial, fungal and protozoal diseases as well as strong immunomodulatory effect for poultry, swine and aqua species.",
@@ -470,368 +823,6 @@ const Swine_Data = [
     brochure: " ",
     feedback: " "
   },
-  {
-    id: 20,
-    name: "High Quality Pellet Binder",
-    description:
-      "Aurobind is combination of calcium sulphate and guar gum. Guar gum is a natural plant gum that rapidly binds the grist into a flexible matrix to give good flowability, lubricating the die and improving durability. This allows pellets to withstand the abrasions of sieving, cooling, handling and transportation.",
-    segment: "Swine,Poultry",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurobind.webp",
-    Productname: "/Assets/Product name/Poultry/Auro Bind.webp",
-    composition: [
-      "Contains:",
-      "Calcium sulphate",
-      "Guar gum"
-    ],
-    indications:
-      [
-        "Improve the quality and strength of feed pellet",
-        "Reduces dust and fines"
-      ],
-    usage:
-      ["0.1% to 0.3% inclusion rate in feed"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 21,
-    name: "Broad Spectrum, Powerful yet Safe Biocide",
-    description:
-      "Pondcure Plus is broad spectrum, powerful and safe biocide with potent oxidizing action against all major microbes. It may be used for aerial, surface or water system sanitization. Pondcure is suitable for aquaculture, swine and poultry applications",
-    segment: "Poultry , Swine , Aqua",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "500 gm pack",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Pondcure Plus.webp",
-    Productname: "/Assets/Product name/Aqua/Pondcure Plus.webp",
-    composition: [
-      "Contains:",
-      "Potassium monosulphate compound………..49.8 % w / w",
-      "containing triple salt – potassium monopersulphate",
-      "Potassium hydrogen sulphate",
-      "Potassium sulphate",
-      "Sodium dichloroisocyanurate………….5 %"
-    ],
-    indications:
-      [
-        "Ecofriendly biocide",
-        "Effective against virus, bacteria and fungi"
-      ],
-    usage:
-      ["Aquaculture- 500 g- 1 Kg/ Ha; Poultry and Swine- 5 gm/ litre of water, water disinfection-1-2 gm/10 litre of water"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 22,
-    name: "Potent Antidiarrheal and Intestinal Function Modulator",
-    description:
-      "Aurida Power is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
-    segment: "Swine,Poultry",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Power.webp",
-    Productname: "/Assets/Product name/Poultry/Aurida Power.webp",
-    composition: [
-      "Each pack contains:",
-      "Phytochemical extracts derived from:",
-      "Acacia catechu",
-      "Cissampelos pareira",
-      "Holarrhena antidysenterica",
-      "Euphorbia hirta",
-      "Cinnamomum zeylanicum",
-      "Mangifera indica",
-      "Andrographis paniculata",
-      "Eclipta alba",
-      "Vitamins - B1, B2, Niacin, B6, B12",
-      "Probiotics - Saccharomyces boulardii, Bacillus coagulans, Bacillus clausii, Lactobacillus rhamnosus GG and Mannan oligosaccharide"
-    ],
-    indications:
-      [
-        "Helps to control non-specific diarrhea.",
-        "Improves gut function for better GI immunity, integrity, digestibility and nutrient absorption",
-        "Helps to restore GI mucosa for better productivity",
-        "Supportive therapy for diarrhea of specific origin"
-      ],
-    usage:
-      ["Therapeutic use- 4.5 to 5 kg per tonne of feed. Preventive use- 1.5 kg per tonne of feed. Ensure thorough mixing in feed."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 23,
-    name: "Performance Enhancer & Growth Stlmulator",
-    description:
-      "Nomino is an advanced combination of organic minerals, essential amino acids, nucleotides, vitamins, electrolytes, fatty acids and grape polyphenols to improve immunity, alleviate stress, improve growth and production in birds and animals.",
-    segment: "Livestock , Poultry , Swine",
-    type: "Liquid",
-    category: "Performance Enhancer , Nutrition Supplement",
-    packaging: "250 ml Bottle 500 ml Bottle 1 Ltr Bottle 5 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Nomino.webp",
-    Productname: "/Assets/Product name/Livestock/Nomino.webp",
-    composition: [
-      "Each gm contains:",
-      "Vitamin A 500,000 IU, Vitamin D3 75,000 IU, Vitamin E 10,000 mg, Vitamin B1 1, 250 mg, Vitamin B2 500 mg, Vitamin B6 625 mg, Vitamin B12 5, 300 mcg, Vitamin K 350 mg, Vitamin H12, 500 mcg, Vitamin C 1,000 mg, Niacin 1, 400 mg, D Panthenol 625 mg, Folic Acid precursor 625 mg, Lysine 100 mg, DL - Methionine 1, 500 mg, Protein Hydrolysate 1,000 mg, Iodine 500 mg, Selenium 125 mg, Cobalt 500 mg, Organic Copper 2000 mg, Organic Manganese 1,000 mg, Organic Zinc 3,000 mg, Sodium Chloride 9.815 g, Potassium Chloride 82.430 g, Magnesium sulphate Heptahydrate 455 mg, Citric Acid 3, 280 mg, Essential Fatty acids 1,000 mg, Nucleotides 5,000 mg, Grape Polyphenol eq.to 3,000 IU Vitamin E activity"
-    ],
-    indications:
-      [
-        "Improves growth & production Enhances hatchability of eggs and chick quality in layers Increases growth in chicks, kids, piglets, calves & Goats",
-        "Augments immunity in birds during periods, heat stress, vaccination, heat stress, disease challenges and when feed intake is reduced"
-      ],
-    usage:
-      ["Through oral route Animals- Sheep/Goat-3 to 4ml daily Calves/Foal-5 to 10ml daily Cow/Buffalo-20 to 25ml daily Swine: Through oral route:- 1st month: 1 ml/day 2nd month: 2 ml/day 3rd month: 4 ml/day 4th month: 6 ml/day 5th month: 8 ml/day 6th month: 10 ml/day."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 24,
-    name: "Powerful Toxin Binder",
-    description:
-      "AURITOX-BIO is highly effective toxin binder fortified with Activated Carbon, Calcium Propionate, Sodium Benzoate and MOS to bind Mycotoxins, Reduce liver stress, Improve immunity and performance.",
-    segment: "Swine,Poultry",
-    type: "Powder",
-    category: "Toxin Binder , Other Specialty",
-    packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/AURITOX-BIO.webp",
-    Productname: "/Assets/Product name/Poultry/Auritox BIO.webp",
-    composition: [
-      "Each Kg contains:",
-      "Calcium Montmorillonite, Activated carbon, Calcium propionate, Sodium benzoate, Mannan oligosaccharide"
-    ],
-    indications:
-      [
-        "Controls and reduces feed contamination, Bind multiple mycotoxins,",
-        "Inhibits growth of mold and prevents further mycotoxin production, Increases immunity and reduce stress on liver, Improves laying performance and growth in birds."
-      ],
-    usage:
-      ["1 kg per ton of feed for 40 ppm feed mycotoxin concentration, 2 kg per ton of feed for 60 ppm feed mycotoxin concentration, 3 kg per ton of feed for 80 ppm feed mycotoxin concentration, 4 kg per ton of feed for 100 ppm feed mycotoxin concentration"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 26,
-    name: "An Innovative Non-Antibiotic Growth Promoter",
-    description:
-      "Aurigain is unique blend of phytochemical extracts, probiotics, amino acid and essential oils that enhance growth and weight gain in swine, goat and beef cattle.",
-    segment: "Swine,Livestock",
-    type: "Powder",
-    category: "Growth Promoter , Other Specialty",
-    packaging: "1 kg 25 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurigain.webp",
-    Productname: "/Assets/Product name/Poultry/Aurigain.webp",
-    composition: [
-      "Each Kg contains:",
-      "Phytochemical extracts of - Leptadenia reticulate",
-      "Asparagus racemosus",
-      "Trigonella foenum",
-      "Ocimum Sanctum",
-      "Phyllanthus Embllica",
-      "Andrographis Paniculata",
-      "Eclipta Alba",
-      "Sacchromyces cerevisiae",
-      "Bacillus coagulans",
-      "Aspergillus oryzae",
-      "DL Methionine, Niacin, Biotin ",
-      "Fortified with Essential oils"
-    ],
-    indications:
-      [
-        "Initiates faster growth in growing pig, goat kid and calf/heifer to achieve higher weight gain."
-      ],
-    usage:
-      ["Beef cattle:-15-20 gm twice daily for 60 days. Buck/Goat/Calf:- 5 gm twice daily for 60 days. Goat kid:- 2 gm twice daily for 60 days. Swine: 2nd month:- 5 gm/day 3rd month :- 7.5 gm/day 4th month :- 10 gm/day 5th month :- 12.5 gm/day 6th month :- 15 gm/day."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 27,
-    name: "Povidone Iodine 10%",
-    description:
-      "Auridine-10 is a chemical disinfectant which is widely used in aquaculture. It can decrease the occurrence of pathogenic diseases and improve the survival of aquatic animals. Auridine-10 is a buffer of 1% iodine solution which is specifically used for disinfecting fish eggs. It contains 10% povidone iodine complex which provides 1% iodine. It has been reported as a broad-spectrum microbicide with potency to inactivate bacteria, fungi, protozoans, several viruses and some spores. Auridine-10 is not only used as a fish egg disinfectant but also to reduce the transmission of diseases between upcoming generations of fishes. Auridine-10 fish egg disinfectant is an important part of aquaculture.",
-    segment: "Swine,Aqua",
-    type: "Liquid",
-    category: "Antimicrobial , Antibacterial",
-    packaging: "1 L 5 L",
-    Productimg: "/Assets/Product images/Veterinary/Aqua/Auridine 10.webp",
-    Productname: "/Assets/Product name/Aqua/Auridine 10.webp",
-    composition: [
-      "Povidone iodine 10 % with suitable stabilizer and activators."
-    ],
-    indications:
-      [
-        "Pond water disinfectant Maintains water pH and temperature.",
-        "Prevents harmful external parasites. Improves the pond water environment, inhibits algae growth.",
-        "Germicidal for pre-operative and post operative skin washing.",
-        "For bacterial and fungal skin infections. Helps to prevent infections in cuts, wounds, scratches, abrasion and burns."
-      ],
-    usage:
-      ["Aqua: Dilute 500-1000 ml of AURIDINE 10 in 100 litres of water and spray uniformly throughout the culture pond of 1 acre or meter water depth. Swine: For Topical Application."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 28,
-    name: "Fertility Vitamin Complex",
-    description:
-      "Aurivit AD3E Plus is an advanced fetility complex enriched with vitamin A, Vitamin C, Vitamin D3, Vitamin E and Selenium.",
-    segment: "Swine,Livestock",
-    type: "Liquid",
-    category: "Performance Enhancer , Other Specialty",
-    packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
-    Productname: "/Assets/Product name/Livestock/Aurivit-AD3 Plus.jpg",
-    composition: [
-      "Each ml contains:",
-      "Vitamin A 1,00,000 IU, Vitamin C 20 mg, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
-    ],
-    indications:
-      [
-        "Maintains overall growth",
-        "Helps in healthy pregnancy and improves fertility in cattle",
-        "Helps to improve immunity and fight stress conditions."
-      ],
-    usage:
-      ["Cow, Buffalo and Horse- 10 ml daily in morning and evening Goat, Sheep, Calves- 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional. Swine: Pig: 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 29,
-    name: "Fertility Vitamin Complex",
-    description:
-      "Aurivit AD3E is an advanced fetility complex enriched with vitamin A, Vitamin D3, Vitamin E and Selenium.",
-    segment: "Swine,Livestock",
-    type: "Liquid",
-    category: "Performance Enhancer , Other Specialty",
-    packaging: "100 ml 250 ml 500 ml 1 L",
-    Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3.webp",
-    Productname: "/Assets/Product name/Livestock/Aurivit AD3E.webp",
-    composition: [
-      "Each ml contains:",
-      "Vitamin A 1,00,000 IU, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
-    ],
-    indications:
-      [
-        "Maintains overall growth",
-        "Helps in healthy pregnancy and improves fertility in cattle",
-        "Helps to improve immunity and fight stress conditions"
-      ],
-    usage:
-      ["Cow, Buffalo and Horse- 10 ml daily in morning and evening Goat, Sheep, Calves- 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional. Swine: Pig: 5 ml to 7.5 ml daily Should be given daily for 7-10 days every month or as per recommended by qualified veterinary professional."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 30,
-    name: "Phytogenic Anti-viral Prevention Programme",
-    description:
-      "Aurivir-S is a unique blend of phytogenic extracts and antioxidants to prevent and control DNA viral infections in poultry, swine and cattle. It is highly effective against Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus, Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus.",
-    segment: "Swine,Poultry",
-    type: "Powder",
-    category: "Immunomodulator , Other Specialty",
-    packaging: "250 gm 500 gm 1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurivir-S.webp",
-    Productname: "/Assets/Product name/Poultry/Aurivir - S.webp",
-    composition: [
-      "Each kg contains:",
-      "Phytochemical principles of Isoflavons, polyphenols, Epigallocatechin - 3 - gallate, Grape Skin Nanophosphosome©",
-      "Vitamin C 75 gm",
-      "Selenium 3.96 mg",
-      "Copper(as glycinate complex) 600 mg",
-      "Manganese(as glycinate complex) 300 mg",
-      "Fortified with Carum carvi and Piperine"
-    ],
-    indications:
-      [
-        "To prevent and control DNA viral infections (Chicken Anemia Virus, Fowl Pox Virus, Marek’s Disease Virus)",
-        "Helps to reduce the incidence of bacterial and viral diseases. Ensures faster recovery during disease outbreaks",
-        "Improves the antibody titre when given along with vaccinations, Regular use prevents recurrence of infection.",
-        "Effective against DNA viral infections in swine (Swine Fever Virus, Pseudorabies Virus and Infectious Bovine Rhinotracheitis Virus)"
-      ],
-    usage:
-      ["For Poultry: Powder supplementation- For prevention- 200 gm per tonne of feed for 2-4 weeks. As Supportive therapy during acute infections- 600 gm per tonne of feed for 7-14 days. For Swine: 1-2 weeks supplementation period. 1st month-400 mg OD, 2nd month-800 mg OD, 3rd month-1.4 gm OD, 4th month-2 gm OD, 5th month-2.7 gm OD, 6th montj- 3.5 gm OD."],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 31,
-    name: "Premium Nutrient Growth Promoter",
-    description:
-      "Neuna Premium is a Powerful Nutrient growth promoter and performance enhancer for Broilers, Layers and Swine. Neuna Premium enriched with Essential Vitamins, Micro-minerals, Chelated Micro-minerals, Potentiated Probiotics, Powerful Immunomodulators and Phytase enzyme. It is also fortified with research moieties ie. Phytobio-calphos and energy booster complex. Neuna Premium is cost effective formulation because no additional nutrient supplementation is required in the feeding animals.",
-    segment: "Swine,Poultry",
-    type: "Powder",
-    category: "Performance Enhancer , Other Specialty",
-    packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
-    Productname: "/Assets/Product name/Poultry/Neuna Premium.webp",
-    composition: [
-      "Contains high concentration of:",
-      "Vitamin A, D3 and E(coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc(MHA), Organic Chromium, Selenium, Magnesium and Iodine",
-      "Esterified Butyrate, Phytase, Beta glucan and Mannon oligosaccharide, Bacillus subtilis, Bacillus licheniformis, Lactobacillus sporogenes, Saccharomyces cerevisiae, Energy booster complex, Pyto - bio CalphosTM and Grape polyphenols ext."
-    ],
-    indications:
-      [
-        "High performance growth promoter",
-        "Strong anti-oxidant and Immunity enhancer",
-        "Powerful Probiotic supplement with antibacterial action"
-      ],
-    usage:
-      ["Broilers, Breeders and Swine- 2.2 kg per ton of feed as performance enhancer, growth promoter and immunostimulant, Layers- 1.8 kg per ton of feed as performance enhancer and immunostimulant"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-  {
-    id: 32,
-    name: "Potent Antidiarrheal and Intestinal Function Modulator",
-    description:
-      "Aurida Pro is a blend of different natural and potent anti-diarrheal and intestinal function modulators enriched with natural phyto-extracts, vitamins, prebiotic and probiotics for quick and effective management of diarrhea of non-specific origin as well as a supportive therapy for diarrhea of specific origin.",
-    segment: "Swine,Poultry",
-    type: "Powder",
-    category: "Other Specialty",
-    packaging: "1 kg",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurida Pro.webp",
-    Productname: "/Assets/Product name/Poultry/Aurida Pro.webp",
-    composition: [
-      "Each pack contains:",
-      "Phytochemical extracts derived from:",
-      "Andrographis paniculata",
-      "Eclipta alba",
-      "Vitamins - B1, B2, Niacin, B6, B12",
-      "Probiotics - Saccharomyces boulardii, Bacillus coagulans, Bacillus clausii, Lactobacillus rhamnosus GG and Mannan oligosaccharide",
-      "(Total Probiotic count 13.5 billion cfu per kg)"
-    ],
-    indications:
-      [
-        "Helps to control non-specific diarrhea.",
-        "Improves gut function for better GI immunity, integrity, digestibility and nutrient absorption",
-        "Helps to restore GI mucosa for better productivity",
-        "Supportive therapy for diarrhea of specific origin"
-      ],
-    usage:
-      ["Therapeutic use- 600 gm per 1000 litre of drinking water Preventive use- 300 gm per 1000 litre of drinking water"],
-    report: " ",
-    brochure: " ",
-    feedback: " "
-  },
-
-
-
-  
   {
     id: 28,
     name: "A multi- purpose enzyme",
