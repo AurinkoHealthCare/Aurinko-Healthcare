@@ -26,7 +26,7 @@ export const block3Data = [
   {
     id: 4,
     image: "/Assets/Product images/Veterinary/Poultry/Yeco Nanophosphosome.webp",
-    hoverImage: "/Assets/banner/Add banner/Yeco Nanophosphosome.webp",
+    hoverImage: "/Assets/banner/Add banner/Yeco nanophosphome.webp",
     title: "Yeco Nanophosphosome",
     segment: "Poultry",
     rating: 4.0,
@@ -46,7 +46,7 @@ export const block8Data = [
   {
     id: 1,
     image: "/Assets/Product images/Human/Health Supplements/Auritrol.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
+    hoverImage: "/Assets/banner/Add banner/Auritrol.webp",
     title: "Auritrol",
     segment: "Health Supplements",
     rating: 4.5,
@@ -54,7 +54,7 @@ export const block8Data = [
   {
     id: 2,
     image: "/Assets/Product images/Human/Health Supplements/Aurijoint.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
+    hoverImage: "/Assets/banner/Add banner/Aurijoint.webp",
     title: "Aurijoint",
     segment: "Health Supplements",
     rating: 4.0,
@@ -62,7 +62,7 @@ export const block8Data = [
   {
     id: 3,
     image: "/Assets/Product images/Human/Health Supplements/Auricur Plus.webp",
-    hoverImage: "/Assets/Product img/Auribery Plus-hover.png",
+    hoverImage: "/Assets/banner/Add banner/Auricur Plus.webp",
     title: "Auricur Plus",
     segment: "Health Supplements",
     rating: 4.5,
@@ -70,7 +70,7 @@ export const block8Data = [
   {
     id: 4,
     image: "/Assets/Product images/Human/Health Supplements/Aurisom.webp",
-    hoverImage: "/Assets/Product ads/Aurisom.webp",
+    hoverImage: "/Assets/banner/Add banner/Aurisom.webp",
     title: "Aurisom",
     segment: "Health Supplements",
     rating: 4.0,
@@ -78,7 +78,7 @@ export const block8Data = [
   {
     id: 5,
     image: "/Assets/Product images/Human/Health Supplements/Quadrical.webp",
-    hoverImage: "/Assets/Product ads/Quadrical.png",
+    hoverImage: "/Assets/banner/Add banner/Quadrical.webp",
     title: "Quadrical",
     segment: "Health Supplements",
     rating: 4.5,
