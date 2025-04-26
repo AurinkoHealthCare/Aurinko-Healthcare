@@ -3,7 +3,7 @@ const yeppuen_data = [
     id: 1,
     name: "Hyper Facial Toner",
     work: "정나니 하이퍼 페이설 토너 120ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Toner.webp",
     Productname: " ",
     description: [
       "NMPA 수분공급ᆞ 스킨부스팅 미백 추름개선기능성",
@@ -19,7 +19,7 @@ const yeppuen_data = [
     id: 2,
     name: "Hyper Facial Serum",
     work: "정나니 하이퍼 페이셜 세럼 45 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Serum.webp",
     Productname: " ",
     description: [
       "NMPA 피부 자생력 케어ᆞ장벽 강화 미백 . 주름개선기능성",
@@ -35,7 +35,7 @@ const yeppuen_data = [
     id: 3,
     name: "Hyper Facial Emulsion",
     work: "정나니 하이퍼 페이셜 에멀전 120 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Emulsion.webp",
     Productname: " ",
     description: [
       "NMPA 생기충전 .유수분밸런스 미백. 주름개선기능성",
@@ -48,8 +48,8 @@ const yeppuen_data = [
   },
   {
     id: 4,
-    name: "24k Gold Active Energy Serum ",
-    Productimg: " ",
+    name: "24k Gold Active Energy Serum",
+    Productimg: "/Assets/Product images/Human/Yeppun/Active Energy Serum.webp",
     Productname: " ",
     work: " ",
     description: [
@@ -61,7 +61,7 @@ const yeppuen_data = [
   {
     id: 5,
     name: "24k gold volume care night cream",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/volume care night cream.webp",
     Productname: " ",
     work: " ",
     description: [
@@ -74,7 +74,7 @@ const yeppuen_data = [
   {
     id: 6,
     name: "24k gold Expert Wrinkle Eye Cream",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Expert Wrinkle Eye Cream.webp",
     Productname: " ",
     work: " ",
     description: [
@@ -88,7 +88,7 @@ const yeppuen_data = [
   {
     id: 7,
     name: "24K Gold Comfortable Shield Day Cream",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Comfortable Shield Day Cream.webp",
     Productname: " ",
     work: " ",
     description: [
@@ -101,7 +101,7 @@ const yeppuen_data = [
     id: 8,
     name: "Hyper Facial Eye Cream",
     work: "정나니 하이퍼 페이셜 영양 크림 50 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Eye Cream.webp",
     Productname: " ",
     description: [
       "NMPA 영양 공급.보습 장벽 강화 미백.주름개선기능성",
@@ -117,7 +117,7 @@ const yeppuen_data = [
     id: 9,
     name: "Hyper Facial Nutrition Cream",
     work: "정나니 하이퍼 페이셜 아이 크림 30 ml",
-    Productimg: " ",
+    Productimg: "/Assets/Product images/Human/Yeppun/Hyper Facial Nutrition Cream.webp",
     Productname: " ",
     description: [
       "NMPA 탄력 부여.토탈 솔루션 미백.주름개선기능성",
