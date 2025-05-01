@@ -331,7 +331,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Toxin Binder , Other Specialty",
     packaging: "25 kg Bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/AURITOX-BIO.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auritox-Bio.webp",
     Productname: "/Assets/Product name/Poultry/Auritox BIO.webp",
     composition: [
       "Each Kg contains:",
@@ -484,7 +484,7 @@ const Swine_Data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
-    Productname: "/Assets/Product name/Livestock/Aurivit-AD3 Plus.jpg",
+    Productname: "/Assets/Product name/Livestock/Aurivit plus.webp",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU, Vitamin C 20 mg, Vitamin D3 40,000 IU, Vitamin E 40 IU, Sodium selenite 100 mcg"
@@ -605,7 +605,7 @@ const Swine_Data = [
     type: "Liquid",
     category: "Enzyme , Other Specialty",
     packaging: "1 Ltr Bottle 5 Ltr Jar 25 Ltr Jar",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/AURIZYME.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Aurizyme.webp",
     Productname: "/Assets/Product name/Poultry/Aurizyme.webp",
     composition: [
       "Each litre contains:",

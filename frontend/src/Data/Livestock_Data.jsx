@@ -570,7 +570,7 @@ const livestock_data = [
     category: "Performance Enhancer , Other Specialty",
     packaging: "100 ml 250 ml 500 ml 1 L",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurivit-AD3 Plus.webp",
-    Productname: "/Assets/Product name/Livestock/a.webp",
+    Productname: "/Assets/Product name/Livestock/Aurivit plus.webp",
     composition: [
       "Each ml contains:",
       "Vitamin A 1,00,000 IU,",

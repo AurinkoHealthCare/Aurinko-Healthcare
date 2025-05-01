@@ -510,7 +510,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "500 gm , 1 kg & 25 kg bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriphos.webp",
+    Productimg: "/Assets/Product images/Veterinary/Livestock/Auriphos.webp",
     Productname: "/Assets/Product name/Livestock/Auriphos.webp",
     composition: [
       "Phytase enzyme 10000 FYT/ gm"
@@ -527,8 +527,8 @@ const poultry_data = [
     id: 19,
     name: "Enzyme Premix",
     description:
-      "AuriPhytase",
-    segment: "Poultry, Swine",
+      "Auriphytase is an advanced thermotolerant phytase enzyme (Phosphohydrolase) to release the organic phosphorus in feed for better phosphorus absorption.",
+    segment: "Poultry",
     type: "Powder",
     category: "Other Specialty",
     packaging: "25 kg Bag",
@@ -632,7 +632,7 @@ const poultry_data = [
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg and 25 kg bag",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriquinol Power.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Auriquinol.webp",
     Productname: "/Assets/Product name/Poultry/Auriquinol Power.webp",
     composition: [
       "Each 100 gm contains:",
@@ -880,8 +880,8 @@ const poultry_data = [
     id: 32,
     name: "Phytogenic Anti-viral Immuno Modulator",
     description:
-      "Aurivir-R",
-    segment: "Poultry, Swine",
+      "Aurivir-R is a unique blend of phytogenic extracts to prevent and control RNA viral infections in poultry. Aurivir-R is highly effective against Infectious Bronchitis and Avian Influenza.",
+    segment: "Poultry",
     type: "Powder",
     category: "Immunomodulator , Other Specialty",
     packaging: "1 kg 25 kg",
