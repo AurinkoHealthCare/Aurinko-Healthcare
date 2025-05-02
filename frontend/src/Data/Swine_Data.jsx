@@ -688,7 +688,7 @@ const Swine_Data = [
     type: "Powder",
     category: "Performance Enhancer , Other Specialty",
     packaging: "2.2 Kg Pet jar and 25 Kg Drum",
-    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna Premium.webp",
+    Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna premium.webp",
     Productname: "/Assets/Product name/Poultry/Neuna Premium.webp",
     composition: [
       "Contains high concentration of:",

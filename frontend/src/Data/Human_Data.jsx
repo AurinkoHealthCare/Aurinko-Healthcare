@@ -1158,7 +1158,7 @@ const human_data = [
     description:
       "Wellness Honey enriched with Moringa oleifera improves Bone health, cardiac functions, liver functions and immunity.",
     segment: "Human OTC",
-    type: "Capsule",
+    type: "liquid",
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Moringa oleifera.webp",
@@ -1189,7 +1189,7 @@ const human_data = [
     description:
       "Wellness Honey enriched with Withania somnifera, Convolvulus prostrates and Bacopa monnieri ext. improves concentration, cognitive function and brain health.",
     segment: "Human OTC",
-    type: "Capsule",
+    type: "liquid",
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Withania somnifera.webp",
@@ -1220,7 +1220,7 @@ const human_data = [
     description:
       "Wellness Honey enriched with curcumin, optimizes anti-inflammatory properties, provides instant energy and immunity for overall well-being.",
     segment: "Human OTC",
-    type: "Capsule",
+    type: "liquid",
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Cuecumin.webp",
@@ -1252,7 +1252,7 @@ const human_data = [
     description:
       "Wellness Honey enriched with Shilajit improves physical endurance, male fertility, hormonal functions and immune system to keep strong and healthy.",
     segment: "Human OTC",
-    type: "Capsule",
+    type: "liquid",
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Shilajit.webp",
@@ -1280,7 +1280,7 @@ const human_data = [
     description:
       "Wellness Honey enriched with Withania somnifera and Carum carvi, reduces mental stress, insomnia & improves metabolism, body growth and immunity.",
     segment: "Human OTC",
-    type: "Capsule",
+    type: "liquid",
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Carum carvi.webp",
@@ -1312,7 +1312,7 @@ const human_data = [
     description:
       "Wellness Honey enriched with Terminalia arjuna and Cinnamomum zeylanicum, improves cardiac functions, strengthens the heart muscles and immunity ",
     segment: "Human OTC",
-    type: "Capsule",
+    type: "liquid",
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Terminalia arjuna.webp",
@@ -1340,7 +1340,7 @@ const human_data = [
     description:
       "Wellness Honey enriched with Clove and Tulsi improves respiratory system and immunity to fight against allergies, infections and pathogens.",
     segment: "Human OTC",
-    type: "Capsule",
+    type: "liquid",
     category: "Other Specialty",
     packaging: "1 Kg",
     Productimg: "/Assets/Product images/Human/Health Supplements/Clove and tulsi.webp",

@@ -86,13 +86,6 @@ const Footer = () => {
 
           </div>
         </div>
-
-        <div className="text-center mt-8 border-t border-orange-400 pt-4">
-          <p className="text-sm text-gray-300">
-          © 2014 Aurinko Healthcare Pvt. Ltd. | aurinkohealthcare.com
-          </p>
-        </div>
-
       </div>
     </footer>
   );

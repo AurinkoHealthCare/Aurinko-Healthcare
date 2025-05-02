@@ -1556,23 +1556,26 @@ const poultry_data = [
     id: 55,
     name: "Premium Nutrient Growth Promoter",
     description:
-      "Neuna premium",
-    segment: "Poultry, Swine",
+      "Neuna Premium is a Powerful Nutrient growth promoter and performance enhancer for Broilers, Layers and Swine. Neuna Premium enriched with Essential Vitamins, Micro-minerals, Chelated Micro-minerals, Potentiated Probiotics, Powerful Immunomodulators and Phytase enzyme. It is also fortified with research moieties ie. Phytobio-calphos and energy booster complex. Neuna Premium is cost effective formulation because no additional nutrient supplementation is required in the feeding animals.",
+    segment: "Swine,Poultry",
     type: "Powder",
-    category: "Nutrition Supplement , Performance Enhancer",
-    packaging: "2.2 Kg Pet Jar  25 Kg Drum",
+    category: "Performance Enhancer , Other Specialty",
+    packaging: "2.2 Kg Pet jar and 25 Kg Drum",
     Productimg: "/Assets/Product images/Veterinary/Poultry/Neuna premium.webp",
     Productname: "/Assets/Product name/Poultry/Neuna Premium.webp",
     composition: [
-      "Contains high concentrations of:",
-      "Vitamin A, D and E (coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc (MHA), Organic Chromium, Selenium, Magnesium and Iodine, Esterified Butyrate, Phytase, Beta glucan and Mannan oligosaccharide, Bacillus subtilis, Bacillus licheniformis, Lactobacillus sporogenes, Saccharomyces cerevisiae, Microbial Lysozyme Energy booster complex, Phytobio Calphos® and Grape polyphenols extract."
+      "Contains high concentration of:",
+      "Vitamin A, D3 and E(coated), Nicotinamide and Vitamin C, Copper, Manganese, Iron and Zinc(MHA), Organic Chromium, Selenium, Magnesium and Iodine",
+      "Esterified Butyrate, Phytase, Beta glucan and Mannon oligosaccharide, Bacillus subtilis, Bacillus licheniformis, Lactobacillus sporogenes, Saccharomyces cerevisiae, Energy booster complex, Pyto - bio CalphosTM and Grape polyphenols ext."
     ],
     indications:
-      ["High performance growth promoter",
-        "Strong antioxidant and Immunity enhancer",
-        "Powerful Probiotic supplement with anti-bacterial action"],
+      [
+        "High performance growth promoter",
+        "Strong anti-oxidant and Immunity enhancer",
+        "Powerful Probiotic supplement with antibacterial action"
+      ],
     usage:
-      ["Broilers, Breeders- 2.2 kg per ton of feed as performance enhancer, growth promoter and immuno stimulant, Layers- 1.8 kg per ton of feed as performance enhancer and immuno stimulant."],
+      ["Broilers, Breeders and Swine- 2.2 kg per ton of feed as performance enhancer, growth promoter and immunostimulant, Layers- 1.8 kg per ton of feed as performance enhancer and immunostimulant"],
     report: " ",
     brochure: " ",
     feedback: " "
