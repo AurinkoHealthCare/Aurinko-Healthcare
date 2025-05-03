@@ -870,7 +870,7 @@ const poultry_data = [
         "Regular use prevents recurrence of infection."],
     usage:
       [" Liquid supplementation",
-        "Volume of AURIVIR EO liquid: 1 Liter mixed with 50-300 ltr. water",
+        "Volume of Aurivir EO liquid: 1 Liter mixed with 50-300 ltr. water",
         "Average body weight of Birds: 1.5 kg bwt, 750 gm bwt, 250 gm bwt, 100 gm bwt"],
     report: " ",
     brochure: " ",
