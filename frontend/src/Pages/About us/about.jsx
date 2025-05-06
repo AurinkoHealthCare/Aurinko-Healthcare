@@ -21,7 +21,7 @@ const About = () => {
       </div>
       <div className="px-10 py-8 md:px-14 lg:px-20">
         <section className="mt-6">
-          <Paragraph>
+          <Paragraph> 
             Aurinko Healthcare is an innovation-driven pharmaceutical company incorporated on 21st November 2014,
             received Startup recognition and certification from the Department of Industrial Policy and Promotion, Govt. of India.
             Aurinko Healthcare is a WHO-GMP, FSSAI, APEDA, and HACCP-certified company with ISO 9001-2015 and ISO 22000-2018 certifications
