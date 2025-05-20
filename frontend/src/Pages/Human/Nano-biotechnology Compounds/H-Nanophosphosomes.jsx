@@ -1,6 +1,6 @@
 import React from "react";
 import Human_Nano_biotechnology from "../../../Components/Human/Human_Nano-biotechnology";
-import nanophosphosome_data from "../../../Data/Nanophosphosome_data";
+import nanophosphosome_data from "../../../Data/H_Nanophosphosome_data";
 
 const Nanophosphosome = () => {
   return (

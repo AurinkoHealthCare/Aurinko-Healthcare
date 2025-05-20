@@ -153,6 +153,7 @@ const ContactUs = () => {
               <span className="bg-orange-500 h-6 w-1 mr-2"></span>
               HEAD OFFICE
             </h2>
+             <p className="mb-2 font-semibold">Aurinko Healthcare Private Limited</p>
             <p className="mb-2">
               <i className="fas fa-map-marker-alt text-green-700"></i> Plot: 1, Mirzapur, Sec-74, Mirzapur Mor, Ballabhgarh, Faridabad, Haryana-121004
             </p>
@@ -167,8 +168,11 @@ const ContactUs = () => {
             <div className="mb-8">
               <h2 className="text-2xl font-bold mb-4 flex items-center">
                 <span className="bg-orange-500 h-6 w-1 mr-2"></span>
-                Branch Office (Zimbabwe)
+                Subsidiary company (Zimbabwe)
               </h2>
+              <p className="mb-2 font-semibold">
+                Aurinko Healthcare Zimbabwe Private Limited
+              </p>
               <p className="mb-2">
                 <i className="fas fa-map-marker-alt text-green-700"></i> Unit 10, 248 Williams Way, MASA , Harare, Zimbabwe
               </p>
@@ -176,14 +180,17 @@ const ContactUs = () => {
                 <i className="fas fa-envelope text-green-700"></i>  Drabhay@aurinkohealthcare.com
               </p>
               <p>
-                <i className="fas fa-phone text-green-700"></i> +26263772235379
+                <i className="fas fa-phone text-green-700"></i> +263772235379 (Gorge Rundogo)
               </p>
             </div>
             <div className="mb-8">
               <h2 className="text-2xl font-bold mb-4 flex items-center">
                 <span className="bg-orange-500 h-6 w-1 mr-2"></span>
-                Branch Office (Korea)
+                Subsidiary company (Korea)
               </h2>
+              <p className="mb-2 font-semibold">
+                Aurinko Healthcare Korea Private Limited
+              </p>
               <p className="mb-2">
                 <i className="fas fa-map-marker-alt text-green-700"></i> 1622 Suite, U1 center, 385 bungil 25, jomaruro, Buchuncity, Gyunggido, Korea
               </p>
@@ -191,7 +198,7 @@ const ContactUs = () => {
                 <i className="fas fa-envelope text-green-700"></i> info@aurinkohealthcare.com
               </p>
               <p>
-                <i className="fas fa-phone text-green-700"></i> 02-839-8200
+                <i className="fas fa-phone text-green-700"></i> +82 10 5277 8200 (Youngsun Yoo)
               </p>
             </div>
           </div>

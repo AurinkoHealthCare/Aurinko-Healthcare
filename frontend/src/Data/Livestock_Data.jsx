@@ -623,21 +623,22 @@ const livestock_data = [
     segment: "Livestock",
     type: "Liquid",
     category: "Milk Enhancer",
-    packaging: "1 litre bottle; 5 litre and 25 litre Jar",
+    packaging: "1 litre bottle, 5 litre and 25 litre Jar",
     Productimg: "/Assets/Product images/Veterinary/Livestock/Aurocal plus Gold.webp",
     Productname: "/Assets/Product name/Livestock/Aurocal Plus Gold.webp",
     composition: [
       "Each 100 ml contains:",
-      "Calcium 5000 mg, Phosphorus 2500 mg, Magnesium 250 mg, Vitamin D3 50000 IU, Vitamin B12 200 mcg, Lycopene 50 mcg, Biotin 20 mg, Organic Chromium 24 mg, Zinc glycinate 2000 mg, Copper glycinate 700 mg, Cobalt Sulphate 30 mg, Potassium iodide 15 mg,",
-      "Carbohydrate 40000 mg."
+      "Calcium 7000 mg, Phosphorus 3500 mg, Cobalt Sulphate 40 mg, Potassium iodide 20 mg, Carbohydrate 40000 mg, Magnesium 350 mg, Vitamin D 70000 IU, Vitamin B 400 mcg, Biotin 20 mg, Organic Chromium 24 mg, Zinc Glycinate 2000 mg, Copper Glycinate 700 mg"
     ],
     indications:
       ["Improves milk yield in lactating animals",
-        "Reduces incidence of mastitis and ensures faster recovery as follow-up supplementation",
+        "Reduces incidence of mastitis and ensures faster recovery as follow up supplementation",
         "Better health status and growth"
       ],
     usage:
-      ["Cow and Buffalo: 25-50 ml orally B.I.D. during early and peak lactation period. Calves: 10-15 ml daily, Sheep and Goat: 5 ml daily"],
+      [" Cow and Buffalo: 25-50 ml orally B.I.D. during early and peak lactation period",
+        "Calves: 10-15 ml daily,",
+        "Sheep and Goat: 5 ml daily"],
     report: " ",
     brochure: " ",
     feedback: " "

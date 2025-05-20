@@ -298,7 +298,7 @@ const pet_data = [
     type: "Liquid",
     category: "Immunomodulator",
     packaging: "100 ml, 250 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/Aurimune Pet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/Aurimune.webp",
     Productname: "/Assets/Product name/Pet/Auri Mune Pet.webp",
     composition: [
       "Each 100 ml contains:",
@@ -666,30 +666,36 @@ const pet_data = [
     id: 20,
     name: "Herbal Liver Tonic and Appetite Stimulant",
     description:
-      "LivauroForte Pet is potent combination of phytochemicals extract useful to protect liver from toxics, Rejuvenates damages hepatocytes and augment liver functions. LivauroForte Pet protect the liver, correct liver dysfunction and improves appetite in pets.",
+      "LivauroForte Pet is a potent combina on of phytochemical extracts helpful to protect liver from toxins, rejuvenate damaged hepatocytes and augment liver func ons. LivauroForte Pet helps to protect the liver, corrects liver dysfunc on and improves appe te in pets",
     segment: "Pet",
     type: "Liquid",
     category: "Liver Stimulant",
     packaging: "500 ml",
-    Productimg: "/Assets/Product images/Veterinary/Pet/LivauroForte Pet.webp",
+    Productimg: "/Assets/Product images/Veterinary/Pet/LivauroForte.webp",
     Productname: "/Assets/Product name/Pet/Livauro Forte.webp",
     composition: [
       "Each 5 ml Contains:",
-      "Andrographis paniculata 800 mg",
-      "Eclipta alba 600 mg",
-      "Phyllanthus niruri 500 mg",
-      "Boerahavia diffusa 400 mg",
-      "Picrorhiza kurroa 60 mg",
-      "Cichorium intybus 200 mg",
-      "Tephrosia purpurea 1000 mg",
-      "Syrup base q.s."
+      "Andrographis paniculata...800 mg ",
+      "Eclipta alba .......................600 mg ",
+      "Phyllanthus niruri ............500 mg ",
+      "Boerhavia diffusa............ 400 mg ",
+      "Picrorhiza kurroa .............. 60 mg ",
+      "Cichorium intybus ...........200 mg ",
+      "Tephrosia purpurea ......1000 mg",
+      " Syrup base q.s."
     ],
     indications:
-      ["Supportive Therapy during Tick Fever (Canine Ehrlichiosis), Babesiosis, Leishmaniasis, Canine idiopathic thrombocytopenia, Pancreatitis etc.",
+      ["During Non specific anorexia and indigestion.",
+        "Supportive Therapy during Tick Fever (Canine Ehrlichiosis), Babesiosis, Leishmaniasis, Canine idiopathic thrombocytopenia, Pancreatitis etc.",
         "Supplement for hound species during any infection.",
-        "Protects and promotes platelet synthesis therapy."],
+        "Protects and promotes platelet synthesis therapy.",
+        "During the liver distress due to constant exposure to antibiotics, chemicals, pollutants & toxic agents."],
     usage:
-      ["Through oral route Cats: 2 ml twice daily Pups: 2 ml twice daily Or as directed by Veterinarian. Small breeds: 2 ml twice daily Medium breeds: 5 ml twice daily Large breeds: 10 ml twice daily."],
+      [" Through oral route",
+        "Cats, Pups & Small breeds : 2 ml twice daily",
+        "Medium breeds : 5 ml twice daily ",
+        "Large breeds  : 10 ml twice daily ",
+        "To be administered orally or through drinking water on regular basis or as directed by a qualified Veterinary practitioner "],
     report: " ",
     brochure: " ",
     feedback: " "
@@ -978,7 +984,7 @@ const pet_data = [
     id: 29,
     name: "Complementary Food Supplement",
     description:
-      "Supoj is an advanced formula on of chitin hydrolysate enriched with essential amino acids and vitamins to support joint health. Chitin helps to improve cartilage forma on to maintain functional joints.",
+      " Supoj is an advanced formula on of chi n hydrolysate enriched with essen al amino acids and vitamins to support joint health. Chi n helps to improve car lage forma on to maintain func onal joints.",
     segment: "Pet",
     type: "Liquid",
     category: "Other Specialty",
@@ -987,25 +993,24 @@ const pet_data = [
     Productname: "/Assets/Product name/Pet/Supoj.webp",
     composition: [
       "Each 100 ml contains:",
-      "Chi n Hydrolysate........12 g",
-      "Arginine..........................1 g",
-      "Folic acid.................0.66 mg",
-      "L-Cysteine....................0.5 g",
-      "Potassium Sorbate.......0.2 g",
-      "Sodium benzoate.........0.2 g",
-      "Meat Flavor..................0.4 g ",
+      "Chi n Hydrolysate...............................12 gm",
+      "Arginine..................................................1 gm",
+      "Folic acid...........................................0.66 mg",
+      "L-cysteine..............................................0.5 g",
+      "Potassium sorbate................................0.2 g",
+      "Sodium benzoate..................................0.2 g",
+      "Meat flavour.......................................0.4 gm",
       "Water q.s."
     ],
     indications:
       [
         "Improves Joint Health",
-        "Difficulty In Walking",
-        "Abnormal Gait"
+        "Eases Difficulty in Walking",
+        "Improves Abnormal Gait"
       ],
     usage:
       [
-        "Dogs & Cats: 1 ml per 5 kg bwt. twice daily",
-        "Large Animals: 1 ml per 15 kg bwt. twice daily or as recommended by qualified Veterinary practioner"
+        "Dogs & Cats: 1 ml per 5 kg bwt. twice daily Or as recommended by qualified veterinarian"
       ],
     report: " ",
     brochure: " ",

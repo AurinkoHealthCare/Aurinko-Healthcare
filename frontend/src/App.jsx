@@ -41,6 +41,8 @@ import TeamMeetingTraining from './Components/Gallery/Photos/TeamMeetingTraining
 import CrmActivities from './Components/Gallery/Photos/CrmActivities';
 import Footer from "./Layout/Footer/footer";
 import LastLine from './Layout/Footer/lastline';
+import NanoFertilizers from './Pages/Agriculture/NanoFertilizers';
+import SoilMinerals from './Pages/Agriculture/SoilMinerals';
 
 const App = () => {
   return (
@@ -70,6 +72,8 @@ const App = () => {
         <Route path="/v-nanophosphosome" element={<VNanophosphosome />} />
         <Route path="/v-neunamin" element={<VNeunamin />} />
         <Route path="/v-neuna-particles" element={<VNeunaparticles />} />
+        <Route path="/NanoFertilizers" element={<NanoFertilizers />} />
+        <Route path="/SoilMinerals" element={<SoilMinerals />} />
         <Route path="/ingredients" element={<Ingredients />} />
         <Route path="/reports" element={<Reports />} />
         <Route path="/gallery" element={<Gallery />} />

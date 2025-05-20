@@ -51,7 +51,7 @@ const ManufacturingFacility = () => {
               Aurinko is a commercial-scale manufacturer of probiotic, phytochemical, and food-grade supplement formulations in powder, liquid, capsule, and tablet forms.
             </p>
             <p className="text-gray-700 text-lg">
-              Aurinko pharma areas comply with class 10,000 clean air requirement.
+              Aurinko Healthcare manufacturing unit areas comply with class 10,000 clean air requirement.
             </p>
           </div>
         </div>
